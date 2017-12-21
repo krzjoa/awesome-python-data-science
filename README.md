@@ -20,6 +20,7 @@ Curated list of data science software in Python
 
 ## Dataset manipulation
 * [imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn) [Sklearn API] - module to perform under sampling and over sampling with various techniques
+* [imbalanced-algorithms](https://github.com/dialnd/imbalanced-algorithms) 
 
 
 ## Deep Learning
