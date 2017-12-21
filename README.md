@@ -31,9 +31,9 @@ Curated list of data science software in Python
 * [Feature Forge](https://github.com/machinalis/featureforge) ![alt text][skl] - a set of tools for creating and testing machine learning feature
 
 ## Gradient boosting
-* [XGBoost](https://github.com/dmlc/xgboost) ![alt text][skl]] ![alt text][gpu]  - Scalable, Portable and Distributed Gradient Boosting 
+* [XGBoost](https://github.com/dmlc/xgboost) ![alt text][skl] ![alt text][gpu]  - Scalable, Portable and Distributed Gradient Boosting 
 * [LightGBM](https://github.com/Microsoft/LightGBM) ![alt text][skl] ![alt text][gpu] - a fast, distributed, high performance gradient boosting by Microsoft
-* [CatBoost](https://github.com/catboost/catboost) ![alt text][skl] ![alt text][gpu] - an open-source gradient boosting on decision trees library with categorical features support by Yandex
+* [CatBoost](https://github.com/catboost/catboost) ![alt text][skl] ![alt text][gpu] - an open-source gradient boosting on decision trees library by Yandex
 * [TGBoost](https://github.com/wepe/tgboost) ![alt text][skl] - Tiny Gradient Boosting Tree
 
 ## Resampling & augmentations
@@ -45,7 +45,7 @@ Curated list of data science software in Python
 * [alexander](https://github.com/annoys-parrot/alexander) - wrapper that aims to make scikit-learn fully compatible with pandas
 
 ## Experiments tools
-* [Xcessiv](https://github.com/reiinakano/xcessiv) - a web-based application for quick, scalable, and automated hyperparameter tuning and stacked ensembling in Python.
+* [Xcessiv](https://github.com/reiinakano/xcessiv) - a web-based application for quick, scalable, and automated hyperparameter tuning and stacked ensembling
 
 ## Automated machine learning
 
