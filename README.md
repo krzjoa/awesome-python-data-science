@@ -109,6 +109,7 @@ Curated list of data science software in Python
 
 ## Optimization
 * [SMAC3](https://github.com/automl/SMAC3) - Sequential Model-based Algorithm Configuration 
+* [Optunity](https://github.com/claesenm/optunity) - is a library containing various optimizers for hyperparameter tuning. 
 
 ## Probabilistic methods
 * [skggm](https://github.com/skggm/skggm) ![alt text][skl] - estimation of general graphical models 
