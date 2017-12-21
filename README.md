@@ -29,6 +29,7 @@ Curated list of data science software in Python
 * [scikit-feature](https://github.com/jundongl/scikit-feature) -  feature selection repository in python
 * [skl-groups](https://github.com/dougalsutherland/skl-groups) ![alt text][skl] - scikit-learn addon to operate on set/"group"-based features
 * [Feature Forge](https://github.com/machinalis/featureforge) ![alt text][skl] - a set of tools for creating and testing machine learning feature
+* [boruta_py](https://github.com/scikit-learn-contrib/boruta_py) ![alt text][skl] -  implementations of the Boruta all-relevant feature selection method
 
 ## Gradient boosting
 * [XGBoost](https://github.com/dmlc/xgboost) ![alt text][skl] ![alt text][gpu]  - Scalable, Portable and Distributed Gradient Boosting 
@@ -42,7 +43,8 @@ Curated list of data science software in Python
 
 ## Data manipulation
 * [pandas](https://pandas.pydata.org/pandas-docs/stable/) - powerful Python data analysis toolkit
-* [alexander](https://github.com/annoys-parrot/alexander) - wrapper that aims to make scikit-learn fully compatible with pandas
+* [sklearn-pandas](https://github.com/scikit-learn-contrib/sklearn-pandas) ![alt text][skl]  - Pandas integration with sklearn
+* [alexander](https://github.com/annoys-parrot/alexander) ![alt text][skl] - wrapper that aims to make scikit-learn fully compatible with pandas
 
 ## Experiments tools
 * [Xcessiv](https://github.com/reiinakano/xcessiv) - a web-based application for quick, scalable, and automated hyperparameter tuning and stacked ensembling
