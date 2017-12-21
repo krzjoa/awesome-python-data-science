@@ -90,8 +90,8 @@ Curated list of data science software in Python
 ### Chainer
 * [Chainer](https://github.com/chainer/chainer) - a flexible framework for neural networks
 * [ChainerMN](https://github.com/chainer/chainermn) - scalable distributed deep learning with Chainer
-* [scikit-chainer](https://github.com/lucidfrontier45/scikit-chainer)![alt text][skl] - scikit-learn like interface to chainer
-* [chainer_sklearn](https://github.com/corochann/chainer_sklearn)![alt text][skl] - Sklearn (Scikit-learn) like interface for Chainer 
+* [scikit-chainer](https://github.com/lucidfrontier45/scikit-chainer) ![alt text][skl] - scikit-learn like interface to chainer
+* [chainer_sklearn](https://github.com/corochann/chainer_sklearn) ![alt text][skl] - Sklearn (Scikit-learn) like interface for Chainer 
 
 ### Other
 * [Neon](https://github.com/NervanaSystems/neon) - Intel® Nervana™ reference deep learning framework committed to best performance on all hardware
