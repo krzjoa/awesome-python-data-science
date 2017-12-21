@@ -34,13 +34,14 @@ Curated list of data science software in Python
 * [XGBoost](https://github.com/dmlc/xgboost) ![alt text][skl]] ![alt text][gpu]  - Scalable, Portable and Distributed Gradient Boosting 
 * [LightGBM](https://github.com/Microsoft/LightGBM) ![alt text][skl] ![alt text][gpu] - a fast, distributed, high performance gradient boosting by Microsoft
 * [CatBoost](https://github.com/catboost/catboost) ![alt text][skl] ![alt text][gpu] - an open-source gradient boosting on decision trees library with categorical features support by Yandex
-* [TGBoost](https://github.com/wepe/tgboost ![alt text][skl] 
+* [TGBoost](https://github.com/wepe/tgboost) ![alt text][skl] - Tiny Gradient Boosting Tree
 
 ## Resampling & augmentations
 * [imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn) ![alt text][skl]  - module to perform under sampling and over sampling with various techniques
-* [imbalanced-algorithms](https://github.com/dialnd/imbalanced-algorithms) ![alt text][skl] ![alt text][GPU] ![alt text][tf]  Python-based implementations of algorithms for learning on imbalanced data.
+* [imbalanced-algorithms](https://github.com/dialnd/imbalanced-algorithms) ![alt text][skl] ![alt text][GPU] ![alt text][tf]  - Python-based implementations of algorithms for learning on imbalanced data.
 
-## Data manipulatio
+## Data manipulation
+* [pandas](https://pandas.pydata.org/pandas-docs/stable/) - powerful Python data analysis toolkit
 * [alexander](https://github.com/annoys-parrot/alexander) - wrapper that aims to make scikit-learn fully compatible with pandas
 
 ## Experiments tools
