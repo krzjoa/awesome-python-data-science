@@ -98,4 +98,7 @@ Curated list of data science software in Python
 * [NLTK](https://github.com/nltk/nltk) -  modules, data sets, and tutorials supporting research and development in Natural Language Processing
 * [CLTK](https://github.com/cltk/cltk) - The Classical Language Toolkik
 * [gensim](https://radimrehurek.com/gensim/) - Topic Modelling for Humans
-* [PSI-Toolkit](http://psi-toolkit.amu.edu.pl/) - a natural language processing toolkit by Adam Mickiewicz University in Poznań
+* [PSI-Toolkit](http://psi-toolkit.amu.edu.pl/) - a natural language processing toolkit by [Adam Mickiewicz University](https://zpjn.wmi.amu.edu.pl/en/) in Poznań
+
+## Visualization
+* [yellowbrick](https://github.com/DistrictDataLabs/yellowbrick) ![alt text][skl]- visual analysis and diagnostic tools to facilitate machine learning model selection
