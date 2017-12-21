@@ -3,6 +3,12 @@ Curated list of data science software in Python
 
 [skl]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/skl.png "scikit-learn logo"
 
+
+###### Legend:
+![alt text][skl] - scikit-learn compatible API
+
+
+
 ## General purpouse Machine Learning
 * [scikit-learn](http://scikit-learn.org/stable/) ![alt text][skl] - machine learning in Python
 * [Shogun](http://www.shogun-toolbox.org/) - machine learning toolbox
