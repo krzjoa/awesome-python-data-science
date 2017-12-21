@@ -25,20 +25,20 @@ Curated list of data science software in Python
 * [brew](https://github.com/viisar/brew) ![alt text][skl] - Python Ensemble Learning API
 * [Stacking](https://github.com/ikki407/stacking) ![alt text][skl] - Simple and useful stacking library, written in Python.
 ## Feature engineering
-* [Featuretools]() - automated feature engineering
+* [Featuretools](https://github.com/Featuretools/featuretools) - automated feature engineering
 * [scikit-feature](https://github.com/jundongl/scikit-feature) -  feature selection repository in python
-* [skl-groups](https://github.com/dougalsutherland/skl-groups) - scikit-learn addon to operate on set/"group"-based features
-* [Feature Forge](https://github.com/machinalis/featureforge) - a set of tools for creating and testing machine learning feature
+* [skl-groups](https://github.com/dougalsutherland/skl-groups) ![alt text][skl] - scikit-learn addon to operate on set/"group"-based features
+* [Feature Forge](https://github.com/machinalis/featureforge) ![alt text][skl] - a set of tools for creating and testing machine learning feature
 
 ## Gradient boosting
 * [XGBoost](https://github.com/dmlc/xgboost) ![alt text][skl]] ![alt text][gpu]  - Scalable, Portable and Distributed Gradient Boosting 
-* [LightGBM](https://github.com/Microsoft/LightGBM) ![alt text][skl]
-* [CatBoost](https://github.com/catboost/catboost) ![alt text][skl]
-* [TGBoost](https://github.com/wepe/tgboost)
+* [LightGBM](https://github.com/Microsoft/LightGBM) ![alt text][skl] ![alt text][gpu] - a fast, distributed, high performance gradient boosting by Microsoft
+* [CatBoost](https://github.com/catboost/catboost) ![alt text][skl] ![alt text][gpu] - an open-source gradient boosting on decision trees library with categorical features support by Yandex
+* [TGBoost](https://github.com/wepe/tgboost ![alt text][skl] 
 
 ## Resampling & augmentations
-* [imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn) [Sklearn API] - module to perform under sampling and over sampling with various techniques
-* [imbalanced-algorithms](https://github.com/dialnd/imbalanced-algorithms) 
+* [imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn) ![alt text][skl]  - module to perform under sampling and over sampling with various techniques
+* [imbalanced-algorithms](https://github.com/dialnd/imbalanced-algorithms) ![alt text][skl] ![alt text][GPU] ![alt text][tf]  Python-based implementations of algorithms for learning on imbalanced data.
 
 ## Data manipulatio
 * [alexander](https://github.com/annoys-parrot/alexander) - wrapper that aims to make scikit-learn fully compatible with pandas
