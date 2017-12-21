@@ -17,6 +17,7 @@ Curated list of data science software in Python
 ## Feature engineering
 * [scikit-feature](https://github.com/jundongl/scikit-feature) -  feature selection repository in python
 * [skl-groups](https://github.com/dougalsutherland/skl-groups) - scikit-learn addon to operate on set/"group"-based features
+* [Feature Forge](https://github.com/machinalis/featureforge) - a set of tools for creating and testing machine learning feature
 
 ## Gradient boosting
 * [XGBoost](https://github.com/dmlc/xgboost) [Sklearn API] [GPU]
