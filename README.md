@@ -10,7 +10,7 @@ Curated list of data science software in Python
 ![alt text][skl] - [scikit-learn](http://scikit-learn.org/stable/) compatible API <br/>
 ![alt text][th] - [Theano](http://scikit-learn.org/stable/) based project <br/>
 ![alt text][tf] - [TensorFlow](http://scikit-learn.org/stable/) based project <br/>
-![alt text][gpu] - GPU-accelerated software
+![alt text][gpu] - GPU-accelerated computations
 
 
 ## General purpouse Machine Learning
@@ -21,9 +21,9 @@ Curated list of data science software in Python
 * [tslearn](https://github.com/rtavenar/tslearn) ![alt text][skl] - machine learning toolkit dedicated to time-series data
 
 ## Ensemble methods
-* [ML-Ensemble](http://ml-ensemble.com/) ![alt text][skl]
-* [brew](https://github.com/viisar/brew) ![alt text][skl]
-* [Stacking](https://github.com/ikki407/stacking) ![alt text][skl]
+* [ML-Ensemble](http://ml-ensemble.com/) ![alt text][skl] -  high performance ensemble learning 
+* [brew](https://github.com/viisar/brew) ![alt text][skl] - Python Ensemble Learning API
+* [Stacking](https://github.com/ikki407/stacking) ![alt text][skl] - Simple and useful stacking library, written in Python.
 ## Feature engineering
 * [Featuretools]() - automated feature engineering
 * [scikit-feature](https://github.com/jundongl/scikit-feature) -  feature selection repository in python
@@ -42,6 +42,9 @@ Curated list of data science software in Python
 
 ## Data manipulatio
 * [alexander](https://github.com/annoys-parrot/alexander) - wrapper that aims to make scikit-learn fully compatible with pandas
+
+## Experiments tools
+* [Xcessiv](https://github.com/reiinakano/xcessiv) - a web-based application for quick, scalable, and automated hyperparameter tuning and stacked ensembling in Python.
 
 ## Automated machine learning
 
