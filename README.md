@@ -54,7 +54,20 @@ Curated list of data science software in Python
 
 ## Deep Learning
 
-## Tensorflow
+### Tensorflow
+* [TensorFlow](https://github.com/tensorflow/tensorflow) ![alt text][gpu] ![alt text][tf] - omputation using data flow graphs for scalable machine learning by Google
+* [TensorLayer](https://github.com/zsdonghao/tensorlayer) ![alt text][tf] - Deep Learning and Reinforcement Learning Library for Researcher and Engineer.
+* [TFLearn](https://github.com/tflearn/tflearn) ![alt text][tf] - Deep learning library featuring a higher-level API for TensorFlow
+
+### Theano
+**WARNING: Theano development has been stopped**
+* [Theano](https://github.com/Theano/Theano) ![alt text][gpu] ![alt text][th] - is a Python library that allows you to define, optimize, and evaluate mathematical expressions
+* [Lasagne](https://github.com/Lasagne/Lasagne) ![alt text][th] - Lightweight library to build and train neural networks in Theano
+* [nolearn](https://github.com/dnouri/nolearn) ![alt text][th] ![alt text][skl] - scikit-learn compatible neural network library (mainly for Lasagne)
+
+### PyTorch
+* [PyTorch](https://github.com/pytorch/pytorch) ![alt text][gpu] - Tensors and Dynamic neural networks in Python with strong GPU acceleration 
+* [skorch](https://github.com/dnouri/skorch) ![alt text][skl] - a scikit-learn compatible neural network library that wraps pytorch
 
 ## Probabilistic methods
 * [skggm](https://github.com/skggm/skggm) ![alt text][skl] - estimation of general graphical models 
