@@ -10,6 +10,7 @@ Curated list of data science software in Python
 ## Ensemble methods
 * [ML-Ensemble](http://ml-ensemble.com/)
 * [brew](https://github.com/viisar/brew)
+* [Stacking](https://github.com/ikki407/stacking)
 
 ## Gradient boosting
 * [XGBoost](https://github.com/dmlc/xgboost)
