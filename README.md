@@ -43,3 +43,6 @@ Curated list of data science software in Python
 
 ## Probabilistic methods
 * [bayesloop](https://github.com/christophmark/bayesloop)
+
+## Natural Language Processing
+* [PSI-Toolkit](https://github.com/filipg/psi-toolkit) - a natural language processing toolkit by Adam Mickiewicz University in Poznań
