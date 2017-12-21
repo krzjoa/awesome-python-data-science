@@ -76,6 +76,13 @@ Curated list of data science software in Python
 * [skggm](https://github.com/skggm/skggm) ![alt text][skl] - estimation of general graphical models 
 * [bayesloop](https://github.com/christophmark/bayesloop) - Probabilistic programming framework that facilitates objective model selection for time-varying parameter models
 * [pyro](https://github.com/uber/pyro) ![alt text][pt] - Pyro is a flexible, scalable deep probabilistic programming library built on PyTorch.
+* [ZhuSuan](http://zhusuan.readthedocs.io/en/latest/) ![alt text][tf] - Bayesian Deep Learning
+* [pomegranate](https://github.com/jmschrei/pomegranate) ![alt text][gpu] - probabilistic and graphical models for Python]
+* [pyMC3](http://docs.pymc.io/) ![alt text][th] - Python package for Bayesian statistical modeling and Probabilistic Machine Learning
+* [Edward](http://edwardlib.org/) ![alt text][tf] - A library for probabilistic modeling, inference, and criticism.
+* [GPflow - Gaussian processes in TensorFlow](http://gpflow.readthedocs.io/en/latest/?badge=latest)
+* [Stan](https://github.com/stan-dev/stan)
+* [gelato](https://github.com/ferrine/gelato) ![alt text][th] - Bayesian dessert for Lasagne
 
 ## Natural Language Processing
 * [NLTK](https://github.com/nltk/nltk) -  modules, data sets, and tutorials supporting research and development in Natural Language Processing
