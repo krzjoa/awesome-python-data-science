@@ -40,4 +40,5 @@ Curated list of data science software in Python
 
 
 
-## Bayesian/probabilistic modelling
+## Probabilistic methods
+* [bayesloop](https://github.com/christophmark/bayesloop)
