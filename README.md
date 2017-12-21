@@ -2,10 +2,11 @@
 Curated list of data science software in Python
 
 [skl]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/skl.png "scikit-learn logo"
-
+[th]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/theano.png "theano logo"
 
 ###### Legend:
-![alt text][skl] - scikit-learn compatible API
+![alt text][skl] - [scikit-learn](http://scikit-learn.org/stable/) compatible API
+![alt text][th] - [Theano](http://scikit-learn.org/stable/) based project
 
 
 
