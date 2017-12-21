@@ -79,6 +79,10 @@ Curated list of data science software in Python
 * [TPOT](https://github.com/rhiever/tpot) ![alt text][skl] -  Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming
 * [auto-sklearn](https://github.com/automl/auto-sklearn) ![alt text][skl] - is an automated machine learning toolkit and a drop-in replacement for a scikit-learn estimator
 
+## Genetic Programming
+* [gplearn](https://github.com/trevorstephens/gplearn) ![alt text][skl] - Genetic Programming in Python
+* [karoo_gp](https://github.com/kstaats/karoo_gp) ![alt text][tf] - A Genetic Programming platform for Python with GPU support
+
 ## Optimization
 * [SMAC3](https://github.com/automl/SMAC3) - Sequential Model-based Algorithm Configuration 
 
