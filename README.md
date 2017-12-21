@@ -1,6 +1,9 @@
 # Awesome Python Data Science
 Curated list of data science software in Python
 
+![alt text][logo]
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 
 ## General purpouse Machine Learning
 * [scikit-learn](http://scikit-learn.org/stable/) [Sklearn API] - machine learning in Python
