@@ -4,12 +4,13 @@ Curated list of data science software in Python
 [skl]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/skl.png "scikit-learn logo" 
 [th]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/th.png "Theano logo" 
 [tf]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/tf.png "TensorFlow logo" 
+[gpu] https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/gpu.png "GPU badge"
 
 ###### Legend:
 ![alt text][skl] - [scikit-learn](http://scikit-learn.org/stable/) compatible API <br/>
 ![alt text][th] - [Theano](http://scikit-learn.org/stable/) based project <br/>
 ![alt text][tf] - [TensorFlow](http://scikit-learn.org/stable/) based project <br/>
-![alt text][gpu] <span style="color:blue">some *GPU*</span>.
+![alt text][gpu] - GPU-accelerated software
 
 
 ## General purpouse Machine Learning
@@ -22,8 +23,7 @@ Curated list of data science software in Python
 ## Ensemble methods
 * [ML-Ensemble](http://ml-ensemble.com/) ![alt text][skl]
 * [brew](https://github.com/viisar/brew) ![alt text][skl]
-* [Stacking](https://github.com/ikki407/stacking) ![alt text][skl]] 
-![alt text][skl]
+* [Stacking](https://github.com/ikki407/stacking) ![alt text][skl]
 ## Feature engineering
 * [Featuretools]() - automated feature engineering
 * [scikit-feature](https://github.com/jundongl/scikit-feature) -  feature selection repository in python
