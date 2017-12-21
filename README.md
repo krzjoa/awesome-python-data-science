@@ -3,9 +3,9 @@ Curated list of data science software in Python
 
 
 ## General purpouse Machine Learning
-* [Scikit-learn](http://scikit-learn.org/stable/) [Sklearn API]
-* [Shogun](http://www.shogun-toolbox.org/) 
-* [MLxtend](https://github.com/rasbt/mlxtend)
+* [Scikit-learn](http://scikit-learn.org/stable/) [Sklearn API] - machine learning in Python
+* [Shogun](http://www.shogun-toolbox.org/) - machine learning toolbox
+* [MLxtend](https://github.com/rasbt/mlxtend) - extension and helper modules for Python's data analysis and machine learning libraries
 
 ## Ensemble methods
 * [ML-Ensemble](http://ml-ensemble.com/)
