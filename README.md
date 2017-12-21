@@ -6,7 +6,7 @@ Curated list of data science software in Python
 * [scikit-learn](http://scikit-learn.org/stable/) [Sklearn API] - machine learning in Python
 * [Shogun](http://www.shogun-toolbox.org/) - machine learning toolbox
 * [MLxtend](https://github.com/rasbt/mlxtend) [Sklearn API]  - extension and helper modules for Python's data analysis and machine learning libraries
-* [scikit-multilearn](https://github.com/scikit-multilearn/scikit-multilearn)
+* [scikit-multilearn](https://github.com/scikit-multilearn/scikit-multilearn) - multi-label classification for python
 * [tslearn](https://github.com/rtavenar/tslearn) - machine learning toolkit dedicated to time-series data
 
 ## Ensemble methods
