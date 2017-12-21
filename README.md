@@ -74,6 +74,9 @@ Curated list of data science software in Python
 * [TPOT](https://github.com/rhiever/tpot) ![alt text][skl] -  Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming
 * [auto-sklearn](https://github.com/automl/auto-sklearn) ![alt text][skl] - is an automated machine learning toolkit and a drop-in replacement for a scikit-learn estimator
 
+## Optimazation
+* [https://github.com/automl/SMAC3](https://github.com/automl/SMAC3) - Sequential Model-based Algorithm Configuration 
+
 ## Probabilistic methods
 * [skggm](https://github.com/skggm/skggm) ![alt text][skl] - estimation of general graphical models 
 * [bayesloop](https://github.com/christophmark/bayesloop) - Probabilistic programming framework that facilitates objective model selection for time-varying parameter models
