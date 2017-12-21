@@ -68,10 +68,12 @@ Curated list of data science software in Python
 ### PyTorch
 * [PyTorch](https://github.com/pytorch/pytorch) ![alt text][gpu] - Tensors and Dynamic neural networks in Python with strong GPU acceleration 
 * [skorch](https://github.com/dnouri/skorch) ![alt text][skl] - a scikit-learn compatible neural network library that wraps pytorch
+* [PyTorchNet](https://github.com/pytorch/tnt) - an abstraction to train neural networks
 
 ## Probabilistic methods
 * [skggm](https://github.com/skggm/skggm) ![alt text][skl] - estimation of general graphical models 
 * [bayesloop](https://github.com/christophmark/bayesloop)
+* [pyro](https://github.com/uber/pyro) - Pyro is a flexible, scalable deep probabilistic programming library built on PyTorch.
 
 ## Natural Language Processing
 * [PSI-Toolkit](https://github.com/filipg/psi-toolkit) - a natural language processing toolkit by Adam Mickiewicz University in Poznań
