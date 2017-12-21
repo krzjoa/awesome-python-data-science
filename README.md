@@ -14,6 +14,7 @@ Curated list of data science software in Python
 * [XGBoost](https://github.com/dmlc/xgboost)
 * [LightGBM](https://github.com/Microsoft/LightGBM)
 * [CatBoost](https://github.com/catboost/catboost)
+* [TGBoost](https://github.com/wepe/tgboost)
 
 
 ### Bayesian/probabilistic modelling
