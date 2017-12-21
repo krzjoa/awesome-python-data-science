@@ -1,12 +1,12 @@
 # Awesome Python Data Science
 Curated list of data science software in Python
 
-[logo]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/skl.png "scikit-learn logo"
+[skl]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/skl.png "scikit-learn logo"
 
 ## General purpouse Machine Learning
-* [scikit-learn](http://scikit-learn.org/stable/) ![alt text][logo] - machine learning in Python
+* [scikit-learn](http://scikit-learn.org/stable/) ![alt text][skl] - machine learning in Python
 * [Shogun](http://www.shogun-toolbox.org/) - machine learning toolbox
-* [MLxtend](https://github.com/rasbt/mlxtend) [Sklearn API]  - extension and helper modules for Python's data analysis and machine learning libraries
+* [MLxtend](https://github.com/rasbt/mlxtend) ![alt text][skl] - extension and helper modules for Python's data analysis and machine learning libraries
 * [scikit-multilearn](https://github.com/scikit-multilearn/scikit-multilearn) - multi-label classification for python
 * [tslearn](https://github.com/rtavenar/tslearn) - machine learning toolkit dedicated to time-series data
 
