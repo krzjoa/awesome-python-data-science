@@ -52,13 +52,8 @@ Curated list of data science software in Python
 
 ## Tensorflow
 
-
-
-
-
-
-
 ## Probabilistic methods
+* [skggm](https://github.com/skggm/skggm) ![alt text][skl] - estimation of general graphical models 
 * [bayesloop](https://github.com/christophmark/bayesloop)
 
 ## Natural Language Processing
