@@ -78,4 +78,5 @@ Curated list of data science software in Python
 * [pyro](https://github.com/uber/pyro) ![alt text][pt] - Pyro is a flexible, scalable deep probabilistic programming library built on PyTorch.
 
 ## Natural Language Processing
-* [PSI-Toolkit](https://github.com/filipg/psi-toolkit) - a natural language processing toolkit by Adam Mickiewicz University in Poznań
+* [NLTK](https://github.com/nltk/nltk) -  modules, data sets, and tutorials supporting research and development in Natural Language Processing
+* [PSI-Toolkit](http://psi-toolkit.amu.edu.pl/) - a natural language processing toolkit by Adam Mickiewicz University in Poznań
