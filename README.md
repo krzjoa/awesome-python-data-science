@@ -4,12 +4,14 @@ Curated list of data science software in Python
 [skl]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/skl.png "scikit-learn logo" 
 [th]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/th.png "Theano logo" 
 [tf]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/tf.png "TensorFlow logo" 
+[pt]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/pytorch.png "PyTorch logo" 
 [gpu]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/gpu.png "GPU badge"
 
 ###### Legend:
 ![alt text][skl] - [scikit-learn](http://scikit-learn.org/stable/) compatible API <br/>
 ![alt text][th] - [Theano](http://scikit-learn.org/stable/) based project <br/>
 ![alt text][tf] - [TensorFlow](http://scikit-learn.org/stable/) based project <br/>
+![alt text][pt] - [PyTorch](http://scikit-learn.org/stable/) based project <br/>
 ![alt text][gpu] - GPU-accelerated computations
 
 
@@ -55,25 +57,25 @@ Curated list of data science software in Python
 ## Deep Learning
 
 ### Tensorflow
-* [TensorFlow](https://github.com/tensorflow/tensorflow) ![alt text][gpu] ![alt text][tf] - omputation using data flow graphs for scalable machine learning by Google
+* [TensorFlow](https://github.com/tensorflow/tensorflow) ![alt text][tf] - omputation using data flow graphs for scalable machine learning by Google
 * [TensorLayer](https://github.com/zsdonghao/tensorlayer) ![alt text][tf] - Deep Learning and Reinforcement Learning Library for Researcher and Engineer.
 * [TFLearn](https://github.com/tflearn/tflearn) ![alt text][tf] - Deep learning library featuring a higher-level API for TensorFlow
 
 ### Theano
 **WARNING: Theano development has been stopped**
-* [Theano](https://github.com/Theano/Theano) ![alt text][gpu] ![alt text][th] - is a Python library that allows you to define, optimize, and evaluate mathematical expressions
+* [Theano](https://github.com/Theano/Theano)![alt text][th] - is a Python library that allows you to define, optimize, and evaluate mathematical expressions
 * [Lasagne](https://github.com/Lasagne/Lasagne) ![alt text][th] - Lightweight library to build and train neural networks in Theano
 * [nolearn](https://github.com/dnouri/nolearn) ![alt text][th] ![alt text][skl] - scikit-learn compatible neural network library (mainly for Lasagne)
 
 ### PyTorch
-* [PyTorch](https://github.com/pytorch/pytorch) ![alt text][gpu] - Tensors and Dynamic neural networks in Python with strong GPU acceleration 
-* [skorch](https://github.com/dnouri/skorch) ![alt text][skl] - a scikit-learn compatible neural network library that wraps pytorch
-* [PyTorchNet](https://github.com/pytorch/tnt) - an abstraction to train neural networks
+* [PyTorch](https://github.com/pytorch/pytorch) ![alt text][pt]  - Tensors and Dynamic neural networks in Python with strong GPU acceleration 
+* [skorch](https://github.com/dnouri/skorch) ![alt text][skl] ![alt text][pt]  - a scikit-learn compatible neural network library that wraps pytorch
+* [PyTorchNet](https://github.com/pytorch/tnt) ![alt text][pt]  - an abstraction to train neural networks
 
 ## Probabilistic methods
 * [skggm](https://github.com/skggm/skggm) ![alt text][skl] - estimation of general graphical models 
 * [bayesloop](https://github.com/christophmark/bayesloop)
-* [pyro](https://github.com/uber/pyro) - Pyro is a flexible, scalable deep probabilistic programming library built on PyTorch.
+* [pyro](https://github.com/uber/pyro) ![alt text][pt] - Pyro is a flexible, scalable deep probabilistic programming library built on PyTorch.
 
 ## Natural Language Processing
 * [PSI-Toolkit](https://github.com/filipg/psi-toolkit) - a natural language processing toolkit by Adam Mickiewicz University in Poznań
