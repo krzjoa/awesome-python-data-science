@@ -71,6 +71,8 @@ Curated list of data science software in Python
 * [Xcessiv](https://github.com/reiinakano/xcessiv) - a web-based application for quick, scalable, and automated hyperparameter tuning and stacked ensembling
 
 ## Automated machine learning
+* [TPOT](https://github.com/rhiever/tpot) ![alt text][skl] -  Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming
+* [auto-sklearn](https://github.com/automl/auto-sklearn) ![alt text][skl] - is an automated machine learning toolkit and a drop-in replacement for a scikit-learn estimator
 
 ## Probabilistic methods
 * [skggm](https://github.com/skggm/skggm) ![alt text][skl] - estimation of general graphical models 
