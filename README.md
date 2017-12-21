@@ -14,6 +14,9 @@ Curated list of data science software in Python
 * [brew](https://github.com/viisar/brew) [Sklearn API] 
 * [Stacking](https://github.com/ikki407/stacking) [Sklearn API] 
 
+## Feature engineering
+* [scikit-feature](https://github.com/jundongl/scikit-feature) -  feature selection repository in python
+
 ## Gradient boosting
 * [XGBoost](https://github.com/dmlc/xgboost) [Sklearn API] [GPU]
 * [LightGBM](https://github.com/Microsoft/LightGBM)
