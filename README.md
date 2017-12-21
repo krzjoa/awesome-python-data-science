@@ -9,20 +9,21 @@ Curated list of data science software in Python
 ![alt text][skl] - [scikit-learn](http://scikit-learn.org/stable/) compatible API <br/>
 ![alt text][th] - [Theano](http://scikit-learn.org/stable/) based project <br/>
 ![alt text][tf] - [TensorFlow](http://scikit-learn.org/stable/) based project <br/>
+![alt text][gpu] <span style="color:blue">some *GPU*</span>.
 
 
 ## General purpouse Machine Learning
 * [scikit-learn](http://scikit-learn.org/stable/) ![alt text][skl] - machine learning in Python
 * [Shogun](http://www.shogun-toolbox.org/) - machine learning toolbox
 * [MLxtend](https://github.com/rasbt/mlxtend) ![alt text][skl] - extension and helper modules for Python's data analysis and machine learning libraries
-* [scikit-multilearn](https://github.com/scikit-multilearn/scikit-multilearn) - multi-label classification for python
-* [tslearn](https://github.com/rtavenar/tslearn) - machine learning toolkit dedicated to time-series data
+* [scikit-multilearn](https://github.com/scikit-multilearn/scikit-multilearn) ![alt text][skl] - multi-label classification for python
+* [tslearn](https://github.com/rtavenar/tslearn) ![alt text][skl] - machine learning toolkit dedicated to time-series data
 
 ## Ensemble methods
-* [ML-Ensemble](http://ml-ensemble.com/) [Sklearn API] 
-* [brew](https://github.com/viisar/brew) [Sklearn API] 
-* [Stacking](https://github.com/ikki407/stacking) [Sklearn API] 
-
+* [ML-Ensemble](http://ml-ensemble.com/) ![alt text][skl]
+* [brew](https://github.com/viisar/brew) ![alt text][skl]
+* [Stacking](https://github.com/ikki407/stacking) ![alt text][skl]] 
+![alt text][skl]
 ## Feature engineering
 * [Featuretools]() - automated feature engineering
 * [scikit-feature](https://github.com/jundongl/scikit-feature) -  feature selection repository in python
@@ -30,9 +31,9 @@ Curated list of data science software in Python
 * [Feature Forge](https://github.com/machinalis/featureforge) - a set of tools for creating and testing machine learning feature
 
 ## Gradient boosting
-* [XGBoost](https://github.com/dmlc/xgboost) [Sklearn API] [GPU]
-* [LightGBM](https://github.com/Microsoft/LightGBM)
-* [CatBoost](https://github.com/catboost/catboost) [Sklearn API] 
+* [XGBoost](https://github.com/dmlc/xgboost) ![alt text][skl]] ![alt text][gpu]  - Scalable, Portable and Distributed Gradient Boosting 
+* [LightGBM](https://github.com/Microsoft/LightGBM) ![alt text][skl]
+* [CatBoost](https://github.com/catboost/catboost) ![alt text][skl]
 * [TGBoost](https://github.com/wepe/tgboost)
 
 ## Resampling & augmentations
