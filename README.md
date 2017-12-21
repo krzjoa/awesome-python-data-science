@@ -42,17 +42,12 @@ Curated list of data science software in Python
 
 ## Resampling & augmentations
 * [imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn) ![alt text][skl]  - module to perform under sampling and over sampling with various techniques
-* [imbalanced-algorithms](https://github.com/dialnd/imbalanced-algorithms) ![alt text][skl] ![alt text][GPU] ![alt text][tf]  - Python-based implementations of algorithms for learning on imbalanced data.
+* [imbalanced-algorithms](https://github.com/dialnd/imbalanced-algorithms) ![alt text][skl] ![alt text][tf]  - Python-based implementations of algorithms for learning on imbalanced data.
 
 ## Data manipulation
 * [pandas](https://pandas.pydata.org/pandas-docs/stable/) - powerful Python data analysis toolkit
 * [sklearn-pandas](https://github.com/scikit-learn-contrib/sklearn-pandas) ![alt text][skl]  - Pandas integration with sklearn
 * [alexander](https://github.com/annoys-parrot/alexander) ![alt text][skl] - wrapper that aims to make scikit-learn fully compatible with pandas
-
-## Experiments tools
-* [Xcessiv](https://github.com/reiinakano/xcessiv) - a web-based application for quick, scalable, and automated hyperparameter tuning and stacked ensembling
-
-## Automated machine learning
 
 ## Deep Learning
 
@@ -72,11 +67,17 @@ Curated list of data science software in Python
 * [skorch](https://github.com/dnouri/skorch) ![alt text][skl] ![alt text][pt]  - a scikit-learn compatible neural network library that wraps pytorch
 * [PyTorchNet](https://github.com/pytorch/tnt) ![alt text][pt]  - an abstraction to train neural networks
 
+## Experiments tools
+* [Xcessiv](https://github.com/reiinakano/xcessiv) - a web-based application for quick, scalable, and automated hyperparameter tuning and stacked ensembling
+
+## Automated machine learning
+
 ## Probabilistic methods
 * [skggm](https://github.com/skggm/skggm) ![alt text][skl] - estimation of general graphical models 
-* [bayesloop](https://github.com/christophmark/bayesloop)
+* [bayesloop](https://github.com/christophmark/bayesloop) - Probabilistic programming framework that facilitates objective model selection for time-varying parameter models
 * [pyro](https://github.com/uber/pyro) ![alt text][pt] - Pyro is a flexible, scalable deep probabilistic programming library built on PyTorch.
 
 ## Natural Language Processing
 * [NLTK](https://github.com/nltk/nltk) -  modules, data sets, and tutorials supporting research and development in Natural Language Processing
+* [CLTK](https://github.com/cltk/cltk) - The Classical Language Toolkik
 * [PSI-Toolkit](http://psi-toolkit.amu.edu.pl/) - a natural language processing toolkit by Adam Mickiewicz University in Poznań
