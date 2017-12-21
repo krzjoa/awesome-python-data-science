@@ -4,7 +4,7 @@ Curated list of data science software in Python
 [skl]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/skl.png "scikit-learn logo" 
 [th]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/th.png "Theano logo" 
 [tf]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/tf.png "TensorFlow logo" 
-[gpu] https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/gpu.png "GPU badge"
+[gpu]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/gpu.png "GPU badge"
 
 ###### Legend:
 ![alt text][skl] - [scikit-learn](http://scikit-learn.org/stable/) compatible API <br/>
