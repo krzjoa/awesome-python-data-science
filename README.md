@@ -6,9 +6,9 @@ Curated list of data science software in Python
 [tf]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/tf.png "TensorFlow logo" 
 
 ###### Legend:
-![alt text][skl] - [scikit-learn](http://scikit-learn.org/stable/) compatible API <br />
-![alt text][th] - [Theano](http://scikit-learn.org/stable/) based project <br />
-
+![alt text][skl] - [scikit-learn](http://scikit-learn.org/stable/) compatible API <br/>
+![alt text][th] - [Theano](http://scikit-learn.org/stable/) based project <br/>
+![alt text][tf] - [TensorFlow](http://scikit-learn.org/stable/) based project <br/>
 
 
 ## General purpouse Machine Learning
