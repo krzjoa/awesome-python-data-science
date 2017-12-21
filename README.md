@@ -30,6 +30,8 @@ Curated list of data science software in Python
 * [ML-Ensemble](http://ml-ensemble.com/) ![alt text][skl] -  high performance ensemble learning 
 * [brew](https://github.com/viisar/brew) ![alt text][skl] - Python Ensemble Learning API
 * [Stacking](https://github.com/ikki407/stacking) ![alt text][skl] - Simple and useful stacking library, written in Python.
+* [stacked_generalization](https://github.com/fukatani/stacked_generalization) ![alt text][skl] - library for machine learning stacking generalization.
+
 ## Feature engineering
 * [Featuretools](https://github.com/Featuretools/featuretools) - automated feature engineering
 * [scikit-feature](https://github.com/jundongl/scikit-feature) -  feature selection repository in python
@@ -120,6 +122,7 @@ Curated list of data science software in Python
 * [Stan](https://github.com/stan-dev/pystan) - Bayesian inference using the No-U-Turn sampler (Python interface)
 * [gelato](https://github.com/ferrine/gelato) ![alt text][th] - Bayesian dessert for Lasagne
 * [sklearn-bayes](https://github.com/AmazaspShumik/sklearn-bayes) ![alt text][skl]  - Python package for Bayesian Machine Learning with scikit-learn API
+* [pgmpy](https://github.com/pgmpy/pgmpy) - a python library for working with Probabilistic Graphical Models.
 
 ## Natural Language Processing
 * [NLTK](https://github.com/nltk/nltk) -  modules, data sets, and tutorials supporting research and development in Natural Language Processing
