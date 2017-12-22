@@ -55,7 +55,7 @@ Curated list of data science software in Python
 * [imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn) ![alt text][skl]  - module to perform under sampling and over sampling with various techniques
 * [imbalanced-algorithms](https://github.com/dialnd/imbalanced-algorithms) ![alt text][skl] ![alt text][tf]  - Python-based implementations of algorithms for learning on imbalanced data.
 
-## Data manipulation
+## Data manipulation & pipelines
 * [pandas](https://pandas.pydata.org/pandas-docs/stable/) - powerful Python data analysis toolkit
 * [sklearn-pandas](https://github.com/scikit-learn-contrib/sklearn-pandas) ![alt text][skl]  - Pandas integration with sklearn
 * [alexander](https://github.com/annoys-parrot/alexander) ![alt text][skl] - wrapper that aims to make scikit-learn fully compatible with pandas
@@ -63,6 +63,7 @@ Curated list of data science software in Python
 * [pandasql](https://github.com/yhat/pandasql) -  allows you to query pandas DataFrames using SQL syntax
 * [pandas-gbq](https://github.com/pydata/pandas-gbq) - Pandas Google Big Query
 * [xpandas](https://github.com/alan-turing-institute/xpandas) - universal 1d/2d data containers with Transformers functionality for data analysis by [The Alan Turing Institute](https://www.turing.ac.uk/)
+* [Fuel](https://github.com/mila-udem/fuel) - data pipeline framework for machine learning
 
 ## Deep Learning
 
@@ -82,6 +83,8 @@ Curated list of data science software in Python
 * [Theano](https://github.com/Theano/Theano)![alt text][th] - is a Python library that allows you to define, optimize, and evaluate mathematical expressions
 * [Lasagne](https://github.com/Lasagne/Lasagne) ![alt text][th] - Lightweight library to build and train neural networks in Theano
 * [nolearn](https://github.com/dnouri/nolearn) ![alt text][th] ![alt text][skl] - scikit-learn compatible neural network library (mainly for Lasagne)
+* [Blocks](https://github.com/mila-udem/blocks) ![alt text][th] - a Theano framework for building and training neural networks
+* platoon](https://github.com/mila-udem/platoon) - Multi-GPU mini-framework for Theano
 * [NeuPy](https://github.com/itdxer/neupy) ![alt text][th] - NeuPy is a Python library for Artificial Neural Networks and Deep Learning
 
 ### PyTorch
@@ -126,7 +129,7 @@ Curated list of data science software in Python
 * [Optunity](https://github.com/claesenm/optunity) - is a library containing various optimizers for hyperparameter tuning. 
 * [htperopt](https://github.com/hyperopt/hyperopt) - Distributed Asynchronous Hyperparameter Optimization in Python
 * [hyperopt-sklearn](https://github.com/hyperopt/hyperopt-sklearn) ![alt text][skl]  - hyper-parameter optimization for sklearn 
-* [sklearn-deap](https://github.com/rsteca/sklearn-deap) - use evolutionary algorithms instead of gridsearch in scikit-learn
+* [sklearn-deap](https://github.com/rsteca/sklearn-deap) ![alt text][th] - use evolutionary algorithms instead of gridsearch in scikit-learn
 * [sigopt_sklearn](https://github.com/sigopt/sigopt_sklearn) ![alt text][skl] - SigOpt wrappers for scikit-learn methods
 * [Bayesian Optimization](https://github.com/fmfn/BayesianOptimization) - A Python implementation of global optimization with gaussian processes.
 * [SafeOpt](https://github.com/befelix/SafeOpt) - Safe Bayesian Optimization
