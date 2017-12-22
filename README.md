@@ -96,6 +96,7 @@ Curated list of data science software in Python
 ### MXNet
 * [MXNet](https://github.com/apache/incubator-mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler
 * [Gluon](https://github.com/gluon-api/gluon-api) - a clear, concise, simple yet powerful and efficient API for deep learning (now included in MXNet)
+* [MXbox](https://github.com/Lyken17/mxbox) - simple, efficient and flexible vision toolbox for mxnet framework.
 
 ### CNTK
 * [CNTK](https://github.com/Microsoft/CNTK) - Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit 
