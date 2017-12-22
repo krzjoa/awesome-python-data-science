@@ -59,6 +59,10 @@ Curated list of data science software in Python
 * [pandas](https://pandas.pydata.org/pandas-docs/stable/) - powerful Python data analysis toolkit
 * [sklearn-pandas](https://github.com/scikit-learn-contrib/sklearn-pandas) ![alt text][skl]  - Pandas integration with sklearn
 * [alexander](https://github.com/annoys-parrot/alexander) ![alt text][skl] - wrapper that aims to make scikit-learn fully compatible with pandas
+* [blaze](https://github.com/blaze/blaze) - NumPy and Pandas interface to Big Data
+* [pandasql](https://github.com/yhat/pandasql) -  allows you to query pandas DataFrames using SQL syntax
+* [pandas-gbq](https://github.com/pydata/pandas-gbq) - Pandas Google Big Query
+* [xpandas](https://github.com/alan-turing-institute/xpandas) - universal 1d/2d data containers with Transformers functionality for data analysis by [The Alan Turing Institute](https://www.turing.ac.uk/)
 
 ## Deep Learning
 
@@ -137,6 +141,7 @@ Curated list of data science software in Python
 * [gelato](https://github.com/ferrine/gelato) ![alt text][th] - Bayesian dessert for Lasagne
 * [sklearn-bayes](https://github.com/AmazaspShumik/sklearn-bayes) ![alt text][skl]  - Python package for Bayesian Machine Learning with scikit-learn API
 * [pgmpy](https://github.com/pgmpy/pgmpy) - a python library for working with Probabilistic Graphical Models.
+* [skpro](https://github.com/alan-turing-institute/skpro) ![alt text][skl] - supervised domain-agnostic prediction framework for probabilistic modelling by [The Alan Turing Institute](https://www.turing.ac.uk/)
 
 ## Natural Language Processing
 * [NLTK](https://github.com/nltk/nltk) -  modules, data sets, and tutorials supporting research and development in Natural Language Processing
