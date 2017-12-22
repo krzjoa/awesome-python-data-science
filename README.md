@@ -157,4 +157,8 @@ Curated list of data science software in Python
 * [stockstats](https://github.com/jealous/stockstats) - Supply a wrapper ``StockDataFrame`` based on the ``pandas.DataFrame`` with inline stock statistics/indicators support.
 
 ## Visualization
+* [Matplotlib](https://github.com/matplotlib/matplotlib) - plotting with Python
+* [seaborn](https://github.com/mwaskom/seaborn) - statistical data visualization using matplotlib
+* [Bokeh](https://github.com/bokeh/bokeh) - Interactive Web Plotting for Python
+* [Alphalens](https://github.com/quantopian/alphalens) - performance analysis of predictive (alpha) stock factors by [Quantopian](https://www.quantopian.com/)
 * [yellowbrick](https://github.com/DistrictDataLabs/yellowbrick) ![alt text][skl]- visual analysis and diagnostic tools to facilitate machine learning model selection
