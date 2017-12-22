@@ -8,7 +8,7 @@ Curated list of data science software in Python
 [gpu]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/gpu.png "GPU badge"
 
 ###### Legend:
-![alt text][skl] - [scikit-learn](http://scikit-learn.org/stable/) compatible API <br/>
+![alt text][skl] - [scikit-learn](http://scikit-learn.org/stable/) compatible (or inspired) API <br/>
 ![alt text][th] - [Theano](http://scikit-learn.org/stable/) based project <br/>
 ![alt text][tf] - [TensorFlow](http://scikit-learn.org/stable/) based project <br/>
 ![alt text][pt] - [PyTorch](http://scikit-learn.org/stable/) based project <br/>
@@ -25,6 +25,9 @@ Curated list of data science software in Python
 * [tslearn](https://github.com/rtavenar/tslearn) ![alt text][skl] - machine learning toolkit dedicated to time-series data
 * [seqlearn](https://github.com/larsmans/seqlearn) ![alt text][skl] - seqlearn is a sequence classification toolkit for Python
 * [pystruct](https://github.com/pystruct/pystruct) ![alt text][skl] - Simple structured learning framework for python
+* [sklearn-expertsys](https://github.com/tmadl/sklearn-expertsys) ![alt text][skl] - Highly interpretable classifiers for scikit learn, producing easily understood decision rules instead of black box models
+* [skutil](https://github.com/tgsmith61591/skutil) ![alt text][skl] - A set of scikit-learn and h2o extension classes (as well as caret classes for python)
+* [sklearn-crfsuite](https://github.com/TeamHG-Memex/sklearn-crfsuite) ![alt text][skl] - scikit-learn inspired API for CRFsuite
 
 ## Ensemble methods
 * [ML-Ensemble](http://ml-ensemble.com/) ![alt text][skl] -  high performance ensemble learning 
@@ -100,6 +103,7 @@ Curated list of data science software in Python
 ## Experiments tools
 * [Sacred](https://github.com/IDSIA/sacred) - a tool to help you configure, organize, log and reproduce experiments by [IDSIA](http://www.idsia.ch/)
 * [Xcessiv](https://github.com/reiinakano/xcessiv) - a web-based application for quick, scalable, and automated hyperparameter tuning and stacked ensembling
+* [Persimmon](https://github.com/AlvarBer/Persimmon)  ![alt text][skl] - A visual dataflow programming language for sklearn
 
 ## Automated machine learning
 * [TPOT](https://github.com/rhiever/tpot) ![alt text][skl] -  Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming
@@ -112,6 +116,10 @@ Curated list of data science software in Python
 ## Optimization
 * [SMAC3](https://github.com/automl/SMAC3) - Sequential Model-based Algorithm Configuration 
 * [Optunity](https://github.com/claesenm/optunity) - is a library containing various optimizers for hyperparameter tuning. 
+* [htperopt](https://github.com/hyperopt/hyperopt) - Distributed Asynchronous Hyperparameter Optimization in Python
+* [hyperopt-sklearn](https://github.com/hyperopt/hyperopt-sklearn) ![alt text][skl]  - hyper-parameter optimization for sklearn 
+* [sklearn-deap](https://github.com/rsteca/sklearn-deap) - use evolutionary algorithms instead of gridsearch in scikit-learn
+* [sigopt_sklearn](https://github.com/sigopt/sigopt_sklearn) ![alt text][skl] - SigOpt wrappers for scikit-learn methods
 
 ## Probabilistic methods
 * [skggm](https://github.com/skggm/skggm) ![alt text][skl] - estimation of general graphical models 
