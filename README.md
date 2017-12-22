@@ -29,7 +29,7 @@ Curated list of data science software in Python
 * [skutil](https://github.com/tgsmith61591/skutil) ![alt text][skl] - A set of scikit-learn and h2o extension classes (as well as caret classes for python)
 * [sklearn-crfsuite](https://github.com/TeamHG-Memex/sklearn-crfsuite) ![alt text][skl] - scikit-learn inspired API for CRFsuite
 * [scikit-rvm](https://github.com/JamesRitchie/scikit-rvm) ![alt text][skl] - Relevance Vector Machine implementation using the scikit-learn API
-* [RuleFit](https://github.com/christophM/rulefit) ![alt text][skl] - https://github.com/christophM/rulefit
+* [RuleFit](https://github.com/christophM/rulefit) ![alt text][skl] - implementation of the rulefit algorithm
 
 
 ## Ensemble methods
