@@ -144,6 +144,7 @@ Curated list of data science software in Python
 * [PSI-Toolkit](http://psi-toolkit.amu.edu.pl/) - a natural language processing toolkit by [Adam Mickiewicz University](https://zpjn.wmi.amu.edu.pl/en/) in Poznań
 
 ## Statistics
+* [statsmodels](https://github.com/statsmodels/statsmodels) - statistical modeling and econometrics in Python
 * [stockstats](https://github.com/jealous/stockstats) - Supply a wrapper ``StockDataFrame`` based on the ``pandas.DataFrame`` with inline stock statistics/indicators support.
 
 ## Visualization
