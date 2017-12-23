@@ -167,3 +167,7 @@ Curated list of data science software in Python
 * [Bokeh](https://github.com/bokeh/bokeh) - Interactive Web Plotting for Python
 * [Alphalens](https://github.com/quantopian/alphalens) - performance analysis of predictive (alpha) stock factors by [Quantopian](https://www.quantopian.com/)
 * [yellowbrick](https://github.com/DistrictDataLabs/yellowbrick) ![alt text][skl]- visual analysis and diagnostic tools to facilitate machine learning model selection
+
+## Evaluation
+* [kaggle-metrics](https://github.com/krzjoa/kaggle-metrics) - Metrics for Kaggle competitions
+* [Metrics](https://github.com/benhamner/Metrics) - machine learning evaluation metric
