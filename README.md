@@ -9,9 +9,9 @@ Curated list of data science software in Python
 
 ###### Legend:
 ![alt text][skl] - [scikit-learn](http://scikit-learn.org/stable/) compatible (or inspired) API <br/>
-![alt text][th] - [Theano](http://scikit-learn.org/stable/) based project <br/>
-![alt text][tf] - [TensorFlow](http://scikit-learn.org/stable/) based project <br/>
-![alt text][pt] - [PyTorch](http://scikit-learn.org/stable/) based project <br/>
+![alt text][th] - [Theano](http://deeplearning.net/software/theano/) based project <br/>
+![alt text][tf] - [https://www.tensorflow.org/](http://scikit-learn.org/stable/) based project <br/>
+![alt text][pt] - [http://pytorch.org/](http://scikit-learn.org/stable/) based project <br/>
 ![alt text][gpu] - GPU-accelerated computations
 
 
@@ -29,7 +29,10 @@ Curated list of data science software in Python
 * [skutil](https://github.com/tgsmith61591/skutil) ![alt text][skl] - A set of scikit-learn and h2o extension classes (as well as caret classes for python)
 * [sklearn-crfsuite](https://github.com/TeamHG-Memex/sklearn-crfsuite) ![alt text][skl] - scikit-learn inspired API for CRFsuite
 * [scikit-rvm](https://github.com/JamesRitchie/scikit-rvm) ![alt text][skl] - Relevance Vector Machine implementation using the scikit-learn API
-* [RuleFit](https://github.com/christophM/rulefit) ![alt text][skl] - implementation of the rulefit algorithm
+* [RuleFit](https://github.com/christophM/rulefit) ![alt text][skl] - implementation of the rulefit 
+* [Python-ELM](https://github.com/dclambert/Python-ELM) ![alt text][skl]  - Extreme Learning Machine implementation in Python
+* [Python Extreme Learning Machine (ELM)](https://github.com/acba/elm) - a machine learning technique used for classification/regression tasks
+* [hpelm](https://github.com/akusok/hpelm) ![alt text][gpu]  - High performance implementation of Extreme Learning Machines (fast randomized neural networks).
 
 
 ## Ensemble methods
@@ -171,3 +174,9 @@ Curated list of data science software in Python
 ## Evaluation
 * [kaggle-metrics](https://github.com/krzjoa/kaggle-metrics) - Metrics for Kaggle competitions
 * [Metrics](https://github.com/benhamner/Metrics) - machine learning evaluation metric
+
+## Computations
+* [numpy](http://www.numpy.org/) - the fundamental package needed for scientific computing with Python.
+* [bottleneck](https://github.com/kwgoodman/bottleneck) - Fast NumPy array functions written in C
+* [minpy](https://github.com/dmlc/minpy) - NumPy interface with mixed backend execution
+* [cupy](https://github.com/cupy/cupy) - NumPy-like API accelerated with CUDA 
