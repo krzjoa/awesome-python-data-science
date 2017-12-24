@@ -33,6 +33,9 @@ Curated list of data science software in Python
 * [Python-ELM](https://github.com/dclambert/Python-ELM) ![alt text][skl]  - Extreme Learning Machine implementation in Python
 * [Python Extreme Learning Machine (ELM)](https://github.com/acba/elm) - a machine learning technique used for classification/regression tasks
 * [hpelm](https://github.com/akusok/hpelm) ![alt text][gpu]  - High performance implementation of Extreme Learning Machines (fast randomized neural networks).
+* [pyFM](https://github.com/coreylynch/pyFM) ![alt text][skl] - Factorization machines in python
+* [fastFM](https://github.com/ibayer/fastFM) ![alt text][skl] - a library for Factorization Machines
+* [tffm](https://github.com/geffy/tffm) ![alt text][skl] ![alt text][tf] - TensorFlow implementation of an arbitrary order Factorization Machine
 
 
 ## Ensemble methods
