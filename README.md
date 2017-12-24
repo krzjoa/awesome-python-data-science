@@ -10,8 +10,8 @@ Curated list of data science software in Python
 ###### Legend:
 ![alt text][skl] - [scikit-learn](http://scikit-learn.org/stable/) compatible (or inspired) API <br/>
 ![alt text][th] - [Theano](http://deeplearning.net/software/theano/) based project <br/>
-![alt text][tf] - [https://www.tensorflow.org/](http://scikit-learn.org/stable/) based project <br/>
-![alt text][pt] - [http://pytorch.org/](http://scikit-learn.org/stable/) based project <br/>
+![alt text][tf] - [TensorFlow](https://www.tensorflow.org/) based project <br/>
+![alt text][pt] - [PyTorch](http://pytorch.org/) based project <br/>
 ![alt text][gpu] - GPU-accelerated computations
 
 
