@@ -5,6 +5,7 @@ Curated list of data science software in Python
 [th]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/th.png "Theano logo" 
 [tf]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/tf.png "TensorFlow logo" 
 [pt]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/pytorch.png "PyTorch logo" 
+[gpu]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/cupy.png "CuPy badge"
 [gpu]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/gpu.png "GPU badge"
 
 ###### Legend:
