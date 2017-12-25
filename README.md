@@ -12,7 +12,8 @@ Curated list of data science software in Python
 ![alt text][th] - [Theano](http://deeplearning.net/software/theano/) based project <br/>
 ![alt text][tf] - [TensorFlow](https://www.tensorflow.org/) based project <br/>
 ![alt text][pt] - [PyTorch](http://pytorch.org/) based project <br/>
-![alt text][gpu] - GPU-accelerated computations
+![alt text][cp] - [CuPy](https://github.com/cupy/cupy/) based project <br/>
+![alt text][gpu] - GPU-accelerated computations (if not based on Theano, Tensorflow, PyTorch or CuPy)
 
 
 ## General purpouse Machine Learning
@@ -147,7 +148,7 @@ Curated list of data science software in Python
 * [bayesloop](https://github.com/christophmark/bayesloop) - Probabilistic programming framework that facilitates objective model selection for time-varying parameter models
 * [pyro](https://github.com/uber/pyro) ![alt text][pt] - Pyro is a flexible, scalable deep probabilistic programming library built on PyTorch.
 * [ZhuSuan](http://zhusuan.readthedocs.io/en/latest/) ![alt text][tf] - Bayesian Deep Learning
-* [pomegranate](https://github.com/jmschrei/pomegranate) ![alt text][gpu] - probabilistic and graphical models for Python
+* [pomegranate](https://github.com/jmschrei/pomegranate) ![alt text][cp] - probabilistic and graphical models for Python
 * [pyMC3](http://docs.pymc.io/) ![alt text][th] - Python package for Bayesian statistical modeling and Probabilistic Machine Learning
 * [Edward](http://edwardlib.org/) ![alt text][tf] - A library for probabilistic modeling, inference, and criticism.
 * [GPflow](http://gpflow.readthedocs.io/en/latest/?badge=latest) ![alt text][tf]  - Gaussian processes in TensorFlow
@@ -182,4 +183,4 @@ Curated list of data science software in Python
 * [numpy](http://www.numpy.org/) - the fundamental package needed for scientific computing with Python.
 * [bottleneck](https://github.com/kwgoodman/bottleneck) - Fast NumPy array functions written in C
 * [minpy](https://github.com/dmlc/minpy) - NumPy interface with mixed backend execution
-* [cupy](https://github.com/cupy/cupy) - NumPy-like API accelerated with CUDA 
+* [CuPy](https://github.com/cupy/cupy) - NumPy-like API accelerated with CUDA 
