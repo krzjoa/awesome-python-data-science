@@ -20,6 +20,7 @@ Curated list of data science software in Python
 ## General purpouse Machine Learning
 * [scikit-learn](http://scikit-learn.org/stable/) ![alt text][skl] - machine learning in Python
 * [Shogun](http://www.shogun-toolbox.org/) - machine learning toolbox
+* [xLearn](https://github.com/aksnzhy/xlearn) - High Performance, Easy-to-use, and Scalable Machine Learning Package
 * [MLxtend](https://github.com/rasbt/mlxtend) ![alt text][skl] - extension and helper modules for Python's data analysis and machine learning libraries
 * [sklearn-extensions](https://github.com/wdm0006/sklearn-extensions) ![alt text][skl] - a consolidated package of small extensions to scikit-learn 
 * [civisml-extensions](https://github.com/civisanalytics/civisml-extensions) ![alt text][skl]  - scikit-learn-compatible estimators from Civis Analytics
@@ -86,6 +87,8 @@ Curated list of data science software in Python
 * [TensorFlow](https://github.com/tensorflow/tensorflow) ![alt text][tf] - omputation using data flow graphs for scalable machine learning by Google
 * [TensorLayer](https://github.com/zsdonghao/tensorlayer) ![alt text][tf] - Deep Learning and Reinforcement Learning Library for Researcher and Engineer.
 * [TFLearn](https://github.com/tflearn/tflearn) ![alt text][tf] - Deep learning library featuring a higher-level API for TensorFlow
+* [tensorpack](https://github.com/ppwwyyxx/tensorpack) - a Neural Net Training Interface on TensorFlow
+* [Polyaxon](https://github.com/polyaxon/polyaxon) ![alt text][tf] - a platform that helps you build, manage and monitor deep learning models
 
 ### Theano
 **WARNING: Theano development has been stopped**
