@@ -191,3 +191,6 @@ Curated list of data science software in Python
 * [minpy](https://github.com/dmlc/minpy) - NumPy interface with mixed backend execution
 * [CuPy](https://github.com/cupy/cupy) - NumPy-like API accelerated with CUDA 
 * [scikit-tensor](https://github.com/mnick/scikit-tensor) - Python library for multilinear algebra and tensor factorizations
+
+## Conversion
+* [sklearn-porter](https://github.com/nok/sklearn-porter) - transpile trained scikit-learn estimators to C, Java, JavaScript and others
