@@ -184,6 +184,8 @@ Curated list of data science software in Python
 ## Evaluation
 * [kaggle-metrics](https://github.com/krzjoa/kaggle-metrics) - Metrics for Kaggle competitions
 * [Metrics](https://github.com/benhamner/Metrics) - machine learning evaluation metric
+* [sklearn-evaluation](https://github.com/edublancas/sklearn-evaluation) - scikit-learn model evaluation made easy: plots, tables and markdown reports
+
 
 ## Computations
 * [numpy](http://www.numpy.org/) - the fundamental package needed for scientific computing with Python.
