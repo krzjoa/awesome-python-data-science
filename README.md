@@ -166,6 +166,7 @@ Curated list of data science software in Python
 * [sklearn-bayes](https://github.com/AmazaspShumik/sklearn-bayes) ![alt text][skl]  - Python package for Bayesian Machine Learning with scikit-learn API
 * [pgmpy](https://github.com/pgmpy/pgmpy) - a python library for working with Probabilistic Graphical Models.
 * [skpro](https://github.com/alan-turing-institute/skpro) ![alt text][skl] - supervised domain-agnostic prediction framework for probabilistic modelling by [The Alan Turing Institute](https://www.turing.ac.uk/)
+* [Aboleth](https://github.com/data61/aboleth) - a bare-bones TensorFlow framework for Bayesian deep learning and Gaussian process approximation
 
 ## Natural Language Processing
 * [NLTK](https://github.com/nltk/nltk) -  modules, data sets, and tutorials supporting research and development in Natural Language Processing
