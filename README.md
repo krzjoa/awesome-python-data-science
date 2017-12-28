@@ -39,6 +39,7 @@ Curated list of data science software in Python
 * [pyFM](https://github.com/coreylynch/pyFM) ![alt text][skl] - Factorization machines in python
 * [fastFM](https://github.com/ibayer/fastFM) ![alt text][skl] - a library for Factorization Machines
 * [tffm](https://github.com/geffy/tffm) ![alt text][skl] ![alt text][tf] - TensorFlow implementation of an arbitrary order Factorization Machine
+* [metric-learn](https://github.com/all-umass/metric-learn) ![alt text][skl]  - metric learning algorithms in Python
 
 
 ## Ensemble methods
@@ -74,6 +75,9 @@ Curated list of data science software in Python
 * [pandas-gbq](https://github.com/pydata/pandas-gbq) - Pandas Google Big Query
 * [xpandas](https://github.com/alan-turing-institute/xpandas) - universal 1d/2d data containers with Transformers functionality for data analysis by [The Alan Turing Institute](https://www.turing.ac.uk/)
 * [Fuel](https://github.com/mila-udem/fuel) - data pipeline framework for machine learning
+* [Arctic](https://github.com/manahl/arctic) - high performance datastore for time series and tick data
+* [pdpipe](https://github.com/shaypal5/pdpipe) - sasy pipelines for pandas DataFrames.
+* [meza](https://github.com/reubano/meza) - a Python toolkit for processing tabular data
 
 ## Deep Learning
 
@@ -177,6 +181,7 @@ Curated list of data science software in Python
 * [Matplotlib](https://github.com/matplotlib/matplotlib) - plotting with Python
 * [seaborn](https://github.com/mwaskom/seaborn) - statistical data visualization using matplotlib
 * [Bokeh](https://github.com/bokeh/bokeh) - Interactive Web Plotting for Python
+* [HoloViews](https://github.com/ioam/holoviews) - stop plotting your data - annotate your data and let it visualize itself
 * [Alphalens](https://github.com/quantopian/alphalens) - performance analysis of predictive (alpha) stock factors by [Quantopian](https://www.quantopian.com/)
 * [yellowbrick](https://github.com/DistrictDataLabs/yellowbrick) ![alt text][skl]- visual analysis and diagnostic tools to facilitate machine learning model selection
 * [scikit-plot](https://github.com/reiinakano/scikit-plot) ![alt text][skl] - an intuitive library to add plotting functionality to scikit-learn objects
