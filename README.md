@@ -78,6 +78,8 @@ Curated list of data science software in Python
 * [Arctic](https://github.com/manahl/arctic) - high performance datastore for time series and tick data
 * [pdpipe](https://github.com/shaypal5/pdpipe) - sasy pipelines for pandas DataFrames.
 * [meza](https://github.com/reubano/meza) - a Python toolkit for processing tabular data
+* [pandas-ply](https://github.com/coursera/pandas-ply) - functional data manipulation for pandas
+* [Dplython](https://github.com/dodger487/dplython) - Dplyr for Python
 
 ## Deep Learning
 
