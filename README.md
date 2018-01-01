@@ -138,7 +138,9 @@ Curated list of data science software in Python
 
 ## Genetic Programming
 * [gplearn](https://github.com/trevorstephens/gplearn) ![alt text][skl] - Genetic Programming in Python
+* [DEAP](https://github.com/DEAP/deap) - Distributed Evolutionary Algorithms in Python 
 * [karoo_gp](https://github.com/kstaats/karoo_gp) ![alt text][tf] - A Genetic Programming platform for Python with GPU support
+* [monkeys](https://github.com/hchasestevens/monkeys) - A strongly-typed genetic programming framework for Python
 
 ## Optimization
 * [Spearmint](https://github.com/HIPS/Spearmint) - Bayesian optimization 
@@ -150,7 +152,10 @@ Curated list of data science software in Python
 * [sigopt_sklearn](https://github.com/sigopt/sigopt_sklearn) ![alt text][skl] - SigOpt wrappers for scikit-learn methods
 * [Bayesian Optimization](https://github.com/fmfn/BayesianOptimization) - A Python implementation of global optimization with gaussian processes.
 * [SafeOpt](https://github.com/befelix/SafeOpt) - Safe Bayesian Optimization
-* [scikit-optimize]() - 
+* [scikit-optimize](https://github.com/scikit-optimize/scikit-optimize) - Sequential model-based optimization with a `scipy.optimize` interface 
+* [Solid](https://github.com/100/Solid) - A comprehensive gradient-free optimization framework written in Python
+* [PySwarms](https://github.com/ljvmiranda921/pyswarms) - A research toolkit for particle swarm optimization in Python
+* [Platypus](https://github.com/Project-Platypus/Platypus) - A Free and Open Source Python Library for Multiobjective Optimization
 
 ## Probabilistic methods
 * [skggm](https://github.com/skggm/skggm) ![alt text][skl] - estimation of general graphical models 
