@@ -24,7 +24,10 @@ Curated list of data science software in Python
 * [Resampling & augmentations](#imb)
 * [Data manipulation & pipelines](#pipe)
 * [Deep Learning](#dl)
+  * [Keras](#dl-keras)
+  * [TensorFlow](#dl-tf)
 * [Experiments tools](#tools)
+* [Automated Machine Learning](#auto-ml)
 
 <a name="gen-ml"></a>
 ## General purpouse Machine Learning
