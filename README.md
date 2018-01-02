@@ -71,6 +71,13 @@ Curated list of data science software in Python
 * [metric-learn](https://github.com/all-umass/metric-learn) ![alt text][skl]  - metric learning algorithms in Python
 
 <a name="ml-elm"></a>
+### Random Forests
+* [rpforest](https://github.com/lyst/rpforest) ![alt text][skl]  - a forest of random projection trees
+* [randomsurvivalforest](https://github.com/howarth/randomsurvivalforest) ![alt text][skl] - Random Survival Forest (Ishwaran et al 2008) in python
+* [Random Forest Clustering](https://github.com/joshloyal/RandomForestClustering)![alt text][skl] - Unsupervised Clustering using Random Forests
+[sklearn-random-bits-forest](https://github.com/tmadl/sklearn-random-bits-forest)![alt text][skl] - wrapper of the Random Bits Forest program written by (Wang et al., 2016)
+
+<a name="ml-elm"></a>
 ### Extreme Learning Machine
 * [Python-ELM](https://github.com/dclambert/Python-ELM) ![alt text][skl]  - Extreme Learning Machine implementation in Python
 * [Python Extreme Learning Machine (ELM)](https://github.com/acba/elm) - a machine learning technique used for classification/regression tasks
