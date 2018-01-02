@@ -50,7 +50,7 @@ Curated list of data science software in Python
 <a name="ml"></a>
 ## Machine Learning
 
-<a name="gml-gen"></a>
+<a name="ml-gen"></a>
 ### General purpouse Machine Learning
 * [scikit-learn](http://scikit-learn.org/stable/) ![alt text][skl] - machine learning in Python
 * [Shogun](http://www.shogun-toolbox.org/) - machine learning toolbox
@@ -68,7 +68,6 @@ Curated list of data science software in Python
 * [sklearn-crfsuite](https://github.com/TeamHG-Memex/sklearn-crfsuite) ![alt text][skl] - scikit-learn inspired API for CRFsuite
 * [scikit-rvm](https://github.com/JamesRitchie/scikit-rvm) ![alt text][skl] - Relevance Vector Machine implementation using the scikit-learn API
 * [RuleFit](https://github.com/christophM/rulefit) ![alt text][skl] - implementation of the rulefit 
-
 * [metric-learn](https://github.com/all-umass/metric-learn) ![alt text][skl]  - metric learning algorithms in Python
 
 <a name="ml-elm"></a>
