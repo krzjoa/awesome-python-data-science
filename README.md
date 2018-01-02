@@ -20,6 +20,8 @@ Curated list of data science software in Python
 * [Machine Learning](#ml)
   * [General Purpouse ML](#ml-gen)
   * [Ensemble methods](#ml-ens)
+  * [Extreme Learning Machine](#ml-elm)
+  * [Factorization Machine](#ml-fm)
   * [Gradient boosting](#ml-gbt)
   * [Automated Machine Learning](#ml-automl)
 * [Feature engineering](#feat-eng)
@@ -48,7 +50,7 @@ Curated list of data science software in Python
 <a name="ml"></a>
 ## Machine Learning
 
-<a name="gen-ml"></a>
+<a name="gml-gen"></a>
 ### General purpouse Machine Learning
 * [scikit-learn](http://scikit-learn.org/stable/) ![alt text][skl] - machine learning in Python
 * [Shogun](http://www.shogun-toolbox.org/) - machine learning toolbox
@@ -66,13 +68,20 @@ Curated list of data science software in Python
 * [sklearn-crfsuite](https://github.com/TeamHG-Memex/sklearn-crfsuite) ![alt text][skl] - scikit-learn inspired API for CRFsuite
 * [scikit-rvm](https://github.com/JamesRitchie/scikit-rvm) ![alt text][skl] - Relevance Vector Machine implementation using the scikit-learn API
 * [RuleFit](https://github.com/christophM/rulefit) ![alt text][skl] - implementation of the rulefit 
+
+* [metric-learn](https://github.com/all-umass/metric-learn) ![alt text][skl]  - metric learning algorithms in Python
+
+<a name="ml-elm"></a>
+### Extreme Learning Machine
 * [Python-ELM](https://github.com/dclambert/Python-ELM) ![alt text][skl]  - Extreme Learning Machine implementation in Python
 * [Python Extreme Learning Machine (ELM)](https://github.com/acba/elm) - a machine learning technique used for classification/regression tasks
 * [hpelm](https://github.com/akusok/hpelm) ![alt text][gpu]  - High performance implementation of Extreme Learning Machines (fast randomized neural networks).
+
+<a name="ml-fm"></a>
+### Factorization Machine
 * [pyFM](https://github.com/coreylynch/pyFM) ![alt text][skl] - Factorization machines in python
 * [fastFM](https://github.com/ibayer/fastFM) ![alt text][skl] - a library for Factorization Machines
 * [tffm](https://github.com/geffy/tffm) ![alt text][skl] ![alt text][tf] - TensorFlow implementation of an arbitrary order Factorization Machine
-* [metric-learn](https://github.com/all-umass/metric-learn) ![alt text][skl]  - metric learning algorithms in Python
 
 <a name="ml-gbt"></a>
 ### Gradient boosting
