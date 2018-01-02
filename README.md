@@ -17,10 +17,12 @@ Curated list of data science software in Python
 ![alt text][gpu] - GPU-accelerated computations (if not based on Theano, Tensorflow, PyTorch or CuPy)
 
 #### Table of contents: 
-* [General purpouse Machine Learning](#gen-ml)
-* [Ensemble methods](#ens)
+* [Machine Learning](#ml)
+  * [General Purpouse ML](#ml-gen)
+  * [Ensemble methods](#ml-ens)
+  * [Gradient boosting](#ml-gbt)
+  * [Automated Machine Learning](#ml-automl)
 * [Feature engineering](#feat-eng)
-* [Gradient boosting](#gbt)
 * [Resampling & augmentations](#imb)
 * [Data manipulation & pipelines](#pipe)
 * [Deep Learning](#dl)
@@ -33,7 +35,6 @@ Curated list of data science software in Python
   * [Chainer](#dl-chainer)
   * [Others](#dl-others)
 * [Experiments tools](#tools)
-* [Automated Machine Learning](#auto-ml)
 * [Genetic Programming](#gp)
 * [Optimization](#opt)
 * [Probabilistic methods](#bayes)
@@ -44,8 +45,11 @@ Curated list of data science software in Python
 * [Computations](#compt)
 * [Conversion](#conv)
 
+<a name="ml"></a>
+## Machine Learning
+
 <a name="gen-ml"></a>
-## General purpouse Machine Learning
+### General purpouse Machine Learning
 * [scikit-learn](http://scikit-learn.org/stable/) ![alt text][skl] - machine learning in Python
 * [Shogun](http://www.shogun-toolbox.org/) - machine learning toolbox
 * [xLearn](https://github.com/aksnzhy/xlearn) - High Performance, Easy-to-use, and Scalable Machine Learning Package
@@ -70,8 +74,21 @@ Curated list of data science software in Python
 * [tffm](https://github.com/geffy/tffm) ![alt text][skl] ![alt text][tf] - TensorFlow implementation of an arbitrary order Factorization Machine
 * [metric-learn](https://github.com/all-umass/metric-learn) ![alt text][skl]  - metric learning algorithms in Python
 
-<a name="ens"></a>
-## Ensemble methods
+<a name="ml-gbt"></a>
+### Gradient boosting
+* [XGBoost](https://github.com/dmlc/xgboost) ![alt text][skl] ![alt text][gpu]  - Scalable, Portable and Distributed Gradient Boosting 
+* [LightGBM](https://github.com/Microsoft/LightGBM) ![alt text][skl] ![alt text][gpu] - a fast, distributed, high performance gradient boosting by [Microsoft](https://www.microsoft.com)
+* [CatBoost](https://github.com/catboost/catboost) ![alt text][skl] ![alt text][gpu] - an open-source gradient boosting on decision trees library by [Yandex](https://www.yandex.com/)
+* [TGBoost](https://github.com/wepe/tgboost) ![alt text][skl] - Tiny Gradient Boosting Tree
+
+<a name="auto-ml"></a>
+### Automated machine learning
+* [TPOT](https://github.com/rhiever/tpot) ![alt text][skl] -  Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming
+* [auto-sklearn](https://github.com/automl/auto-sklearn) ![alt text][skl] - is an automated machine learning toolkit and a drop-in replacement for a scikit-learn estimator
+* [MLBox](https://github.com/AxeldeRomblay/MLBox) - a powerful Automated Machine Learning python library.
+
+<a name="ml-ens"></a>
+### Ensemble methods
 * [ML-Ensemble](http://ml-ensemble.com/) ![alt text][skl] -  high performance ensemble learning 
 * [brew](https://github.com/viisar/brew) ![alt text][skl] - Python Ensemble Learning API
 * [Stacking](https://github.com/ikki407/stacking) ![alt text][skl] - Simple and useful stacking library, written in Python.
@@ -85,13 +102,6 @@ Curated list of data science software in Python
 * [Feature Forge](https://github.com/machinalis/featureforge) ![alt text][skl] - a set of tools for creating and testing machine learning feature
 * [boruta_py](https://github.com/scikit-learn-contrib/boruta_py) ![alt text][skl] -  implementations of the Boruta all-relevant feature selection method
 * [BoostARoota](https://github.com/chasedehan/BoostARoota) ![alt text][skl] - a fast xgboost feature selection algorithm
-
-<a name="gbt"></a>
-## Gradient boosting
-* [XGBoost](https://github.com/dmlc/xgboost) ![alt text][skl] ![alt text][gpu]  - Scalable, Portable and Distributed Gradient Boosting 
-* [LightGBM](https://github.com/Microsoft/LightGBM) ![alt text][skl] ![alt text][gpu] - a fast, distributed, high performance gradient boosting by [Microsoft](https://www.microsoft.com)
-* [CatBoost](https://github.com/catboost/catboost) ![alt text][skl] ![alt text][gpu] - an open-source gradient boosting on decision trees library by [Yandex](https://www.yandex.com/)
-* [TGBoost](https://github.com/wepe/tgboost) ![alt text][skl] - Tiny Gradient Boosting Tree
 
 <a name="imb"></a>
 ## Resampling & augmentations
@@ -175,12 +185,6 @@ Curated list of data science software in Python
 * [Sacred](https://github.com/IDSIA/sacred) - a tool to help you configure, organize, log and reproduce experiments by [IDSIA](http://www.idsia.ch/)
 * [Xcessiv](https://github.com/reiinakano/xcessiv) - a web-based application for quick, scalable, and automated hyperparameter tuning and stacked ensembling
 * [Persimmon](https://github.com/AlvarBer/Persimmon)  ![alt text][skl] - A visual dataflow programming language for sklearn
-
-<a name="auto-ml"></a>
-## Automated machine learning
-* [TPOT](https://github.com/rhiever/tpot) ![alt text][skl] -  Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming
-* [auto-sklearn](https://github.com/automl/auto-sklearn) ![alt text][skl] - is an automated machine learning toolkit and a drop-in replacement for a scikit-learn estimator
-* [MLBox](https://github.com/AxeldeRomblay/MLBox) - a powerful Automated Machine Learning python library.
 
 <a name="gp"></a>
 ## Genetic Programming
