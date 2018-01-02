@@ -26,8 +26,23 @@ Curated list of data science software in Python
 * [Deep Learning](#dl)
   * [Keras](#dl-keras)
   * [TensorFlow](#dl-tf)
+  * [Theano](#dl-theano)
+  * [MXnet](#dl-mxnet)
+  * [CNTK](#dl-cntk)
+  * [PyTorch](#dl-pytorch)
+  * [Chainer](#dl-chainer)
+  * [Others](#dl-others)
 * [Experiments tools](#tools)
 * [Automated Machine Learning](#auto-ml)
+* [Genetic Programming](#gp)
+* [Optimization](#opt)
+* [Probabilistic methods](#bayes)
+* [Natural Language Processing](#nlp)
+* [Statistics](#stat)
+* [Visualization](#vis)
+* [Evaluation](#eval)
+* [Computations](#compt)
+* [Conversion](#conv)
 
 <a name="gen-ml"></a>
 ## General purpouse Machine Learning
