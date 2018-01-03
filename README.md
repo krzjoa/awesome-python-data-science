@@ -26,7 +26,7 @@ Curated list of data science software in Python
   * [Gradient boosting](#ml-gbt)
   * [Automated Machine Learning](#ml-automl)
   * [Imbalanced datasets](#imb)
- * [Deep Learning](#dl)
+* [Deep Learning](#dl)
   * [Keras](#dl-keras)
   * [TensorFlow](#dl-tf)
   * [Theano](#dl-theano)
@@ -110,7 +110,7 @@ Curated list of data science software in Python
 * [stacked_generalization](https://github.com/fukatani/stacked_generalization) ![alt text][skl] - library for machine learning stacking generalization.
 
 <a name="imb"></a>
-## Imbalanced datasets
+### Imbalanced datasets
 * [imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn) ![alt text][skl]  - module to perform under sampling and over sampling with various techniques
 * [imbalanced-algorithms](https://github.com/dialnd/imbalanced-algorithms) ![alt text][skl] ![alt text][tf]  - Python-based implementations of algorithms for learning on imbalanced data.
 
