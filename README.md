@@ -25,10 +25,8 @@ Curated list of data science software in Python
   * [Factorization Machine](#ml-fm)
   * [Gradient boosting](#ml-gbt)
   * [Automated Machine Learning](#ml-automl)
-* [Feature engineering](#feat-eng)
-* [Resampling & augmentations](#imb)
-* [Data manipulation & pipelines](#pipe)
-* [Deep Learning](#dl)
+  * [Imbalanced datasets](#imb)
+ * [Deep Learning](#dl)
   * [Keras](#dl-keras)
   * [TensorFlow](#dl-tf)
   * [Theano](#dl-theano)
@@ -37,6 +35,8 @@ Curated list of data science software in Python
   * [PyTorch](#dl-pytorch)
   * [Chainer](#dl-chainer)
   * [Others](#dl-others)
+* [Feature engineering](#feat-eng)
+* [Data manipulation & pipelines](#pipe)
 * [Experiments tools](#tools)
 * [Genetic Programming](#gp)
 * [Optimization](#opt)
@@ -109,6 +109,11 @@ Curated list of data science software in Python
 * [Stacking](https://github.com/ikki407/stacking) ![alt text][skl] - Simple and useful stacking library, written in Python.
 * [stacked_generalization](https://github.com/fukatani/stacked_generalization) ![alt text][skl] - library for machine learning stacking generalization.
 
+<a name="imb"></a>
+## Imbalanced datasets
+* [imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn) ![alt text][skl]  - module to perform under sampling and over sampling with various techniques
+* [imbalanced-algorithms](https://github.com/dialnd/imbalanced-algorithms) ![alt text][skl] ![alt text][tf]  - Python-based implementations of algorithms for learning on imbalanced data.
+
 <a name="feat-eng"></a>
 ## Feature engineering
 * [Featuretools](https://github.com/Featuretools/featuretools) - automated feature engineering
@@ -117,11 +122,6 @@ Curated list of data science software in Python
 * [Feature Forge](https://github.com/machinalis/featureforge) ![alt text][skl] - a set of tools for creating and testing machine learning feature
 * [boruta_py](https://github.com/scikit-learn-contrib/boruta_py) ![alt text][skl] -  implementations of the Boruta all-relevant feature selection method
 * [BoostARoota](https://github.com/chasedehan/BoostARoota) ![alt text][skl] - a fast xgboost feature selection algorithm
-
-<a name="imb"></a>
-## Resampling & augmentations
-* [imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn) ![alt text][skl]  - module to perform under sampling and over sampling with various techniques
-* [imbalanced-algorithms](https://github.com/dialnd/imbalanced-algorithms) ![alt text][skl] ![alt text][tf]  - Python-based implementations of algorithms for learning on imbalanced data.
 
 <a name="pipe"></a>
 ## Data manipulation & pipelines
