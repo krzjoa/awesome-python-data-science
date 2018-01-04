@@ -39,6 +39,7 @@ Curated list of data science software in Python
 * [Genetic Programming](#gp)
 * [Optimization](#opt)
 * [Natural Language Processing](#nlp)
+* [Computer audition](#ca)
 * [Feature engineering](#feat-eng)
 * [Data manipulation & pipelines](#pipe)
 * [Statistics](#stat)
@@ -216,6 +217,12 @@ Curated list of data science software in Python
 * [gensim](https://radimrehurek.com/gensim/) - Topic Modelling for Humans
 * [PSI-Toolkit](http://psi-toolkit.amu.edu.pl/) - a natural language processing toolkit by [Adam Mickiewicz University](https://zpjn.wmi.amu.edu.pl/en/) in Poznań
 * [pyMorfologik](https://github.com/dmirecki/pyMorfologik) - Python binding for [Morfologik](https://github.com/morfologik/morfologik-stemming) (Polish morphological analyzer)
+
+<a name="ca"></a>
+## Computer audition
+* [librosa](https://github.com/librosa/librosa) - Python library for audio and music analysis
+* [Yaafe](https://github.com/Yaafe/Yaafe) - Audio features extraction
+* [muda](https://github.com/bmcfee/muda) - a library for augmenting annotated audio data
 
 <a name="feat-eng"></a>
 ## Feature engineering
