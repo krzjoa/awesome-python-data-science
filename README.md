@@ -35,14 +35,14 @@ Curated list of data science software in Python
   * [PyTorch](#dl-pytorch)
   * [Chainer](#dl-chainer)
   * [Others](#dl-others)
-* [Feature engineering](#feat-eng)
-* [Data manipulation & pipelines](#pipe)
-* [Experiments tools](#tools)
+* [Probabilistic methods](#bayes)
 * [Genetic Programming](#gp)
 * [Optimization](#opt)
-* [Probabilistic methods](#bayes)
 * [Natural Language Processing](#nlp)
+* [Feature engineering](#feat-eng)
+* [Data manipulation & pipelines](#pipe)
 * [Statistics](#stat)
+* [Experiments tools](#tools)
 * [Visualization](#vis)
 * [Evaluation](#eval)
 * [Computations](#compt)
@@ -113,31 +113,6 @@ Curated list of data science software in Python
 ### Imbalanced datasets
 * [imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn) ![alt text][skl]  - module to perform under sampling and over sampling with various techniques
 * [imbalanced-algorithms](https://github.com/dialnd/imbalanced-algorithms) ![alt text][skl] ![alt text][tf]  - Python-based implementations of algorithms for learning on imbalanced data.
-
-<a name="feat-eng"></a>
-## Feature engineering
-* [Featuretools](https://github.com/Featuretools/featuretools) - automated feature engineering
-* [scikit-feature](https://github.com/jundongl/scikit-feature) -  feature selection repository in python
-* [skl-groups](https://github.com/dougalsutherland/skl-groups) ![alt text][skl] - scikit-learn addon to operate on set/"group"-based features
-* [Feature Forge](https://github.com/machinalis/featureforge) ![alt text][skl] - a set of tools for creating and testing machine learning feature
-* [boruta_py](https://github.com/scikit-learn-contrib/boruta_py) ![alt text][skl] -  implementations of the Boruta all-relevant feature selection method
-* [BoostARoota](https://github.com/chasedehan/BoostARoota) ![alt text][skl] - a fast xgboost feature selection algorithm
-
-<a name="pipe"></a>
-## Data manipulation & pipelines
-* [pandas](https://pandas.pydata.org/pandas-docs/stable/) - powerful Python data analysis toolkit
-* [sklearn-pandas](https://github.com/scikit-learn-contrib/sklearn-pandas) ![alt text][skl]  - Pandas integration with sklearn
-* [alexander](https://github.com/annoys-parrot/alexander) ![alt text][skl] - wrapper that aims to make scikit-learn fully compatible with pandas
-* [blaze](https://github.com/blaze/blaze) - NumPy and Pandas interface to Big Data
-* [pandasql](https://github.com/yhat/pandasql) -  allows you to query pandas DataFrames using SQL syntax
-* [pandas-gbq](https://github.com/pydata/pandas-gbq) - Pandas Google Big Query
-* [xpandas](https://github.com/alan-turing-institute/xpandas) - universal 1d/2d data containers with Transformers functionality for data analysis by [The Alan Turing Institute](https://www.turing.ac.uk/)
-* [Fuel](https://github.com/mila-udem/fuel) - data pipeline framework for machine learning
-* [Arctic](https://github.com/manahl/arctic) - high performance datastore for time series and tick data
-* [pdpipe](https://github.com/shaypal5/pdpipe) - sasy pipelines for pandas DataFrames.
-* [meza](https://github.com/reubano/meza) - a Python toolkit for processing tabular data
-* [pandas-ply](https://github.com/coursera/pandas-ply) - functional data manipulation for pandas
-* [Dplython](https://github.com/dodger487/dplython) - Dplyr for Python
 
 <a name="dl"></a>
 ## Deep Learning
@@ -240,6 +215,31 @@ Curated list of data science software in Python
 * [CLTK](https://github.com/cltk/cltk) - The Classical Language Toolkik
 * [gensim](https://radimrehurek.com/gensim/) - Topic Modelling for Humans
 * [PSI-Toolkit](http://psi-toolkit.amu.edu.pl/) - a natural language processing toolkit by [Adam Mickiewicz University](https://zpjn.wmi.amu.edu.pl/en/) in Poznań
+
+<a name="feat-eng"></a>
+## Feature engineering
+* [Featuretools](https://github.com/Featuretools/featuretools) - automated feature engineering
+* [scikit-feature](https://github.com/jundongl/scikit-feature) -  feature selection repository in python
+* [skl-groups](https://github.com/dougalsutherland/skl-groups) ![alt text][skl] - scikit-learn addon to operate on set/"group"-based features
+* [Feature Forge](https://github.com/machinalis/featureforge) ![alt text][skl] - a set of tools for creating and testing machine learning feature
+* [boruta_py](https://github.com/scikit-learn-contrib/boruta_py) ![alt text][skl] -  implementations of the Boruta all-relevant feature selection method
+* [BoostARoota](https://github.com/chasedehan/BoostARoota) ![alt text][skl] - a fast xgboost feature selection algorithm
+
+<a name="pipe"></a>
+## Data manipulation & pipelines
+* [pandas](https://pandas.pydata.org/pandas-docs/stable/) - powerful Python data analysis toolkit
+* [sklearn-pandas](https://github.com/scikit-learn-contrib/sklearn-pandas) ![alt text][skl]  - Pandas integration with sklearn
+* [alexander](https://github.com/annoys-parrot/alexander) ![alt text][skl] - wrapper that aims to make scikit-learn fully compatible with pandas
+* [blaze](https://github.com/blaze/blaze) - NumPy and Pandas interface to Big Data
+* [pandasql](https://github.com/yhat/pandasql) -  allows you to query pandas DataFrames using SQL syntax
+* [pandas-gbq](https://github.com/pydata/pandas-gbq) - Pandas Google Big Query
+* [xpandas](https://github.com/alan-turing-institute/xpandas) - universal 1d/2d data containers with Transformers functionality for data analysis by [The Alan Turing Institute](https://www.turing.ac.uk/)
+* [Fuel](https://github.com/mila-udem/fuel) - data pipeline framework for machine learning
+* [Arctic](https://github.com/manahl/arctic) - high performance datastore for time series and tick data
+* [pdpipe](https://github.com/shaypal5/pdpipe) - sasy pipelines for pandas DataFrames.
+* [meza](https://github.com/reubano/meza) - a Python toolkit for processing tabular data
+* [pandas-ply](https://github.com/coursera/pandas-ply) - functional data manipulation for pandas
+* [Dplython](https://github.com/dodger487/dplython) - Dplyr for Python
 
 <a name="stat"></a>
 ## Statistics
