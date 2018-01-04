@@ -215,6 +215,7 @@ Curated list of data science software in Python
 * [CLTK](https://github.com/cltk/cltk) - The Classical Language Toolkik
 * [gensim](https://radimrehurek.com/gensim/) - Topic Modelling for Humans
 * [PSI-Toolkit](http://psi-toolkit.amu.edu.pl/) - a natural language processing toolkit by [Adam Mickiewicz University](https://zpjn.wmi.amu.edu.pl/en/) in Poznań
+* [pyMorfologik](https://github.com/dmirecki/pyMorfologik) - Python binding for [Morfologik](https://github.com/morfologik/morfologik-stemming) (Polish morphological analyzer)
 
 <a name="feat-eng"></a>
 ## Feature engineering
