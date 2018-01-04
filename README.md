@@ -223,6 +223,7 @@ Curated list of data science software in Python
 * [librosa](https://github.com/librosa/librosa) - Python library for audio and music analysis
 * [Yaafe](https://github.com/Yaafe/Yaafe) - Audio features extraction
 * [muda](https://github.com/bmcfee/muda) - a library for augmenting annotated audio data
+* [madmom](https://github.com/CPJKU/madmom) - Python audio and music signal processing library 
 
 <a name="feat-eng"></a>
 ## Feature engineering
