@@ -81,6 +81,7 @@ Curated list of data science software in Python
 * [rpforest](https://github.com/lyst/rpforest) ![alt text][skl]  - a forest of random projection trees
 * [Random Forest Clustering](https://github.com/joshloyal/RandomForestClustering)![alt text][skl] - Unsupervised Clustering using Random Forests
 * [sklearn-random-bits-forest](https://github.com/tmadl/sklearn-random-bits-forest)![alt text][skl] - wrapper of the Random Bits Forest program written by (Wang et al., 2016)
+* [rgf_python](https://github.com/fukatani/rgf_python) ![alt text][skl] - Python Wrapper of Regularized Greedy Forest
 
 <a name="ml-elm"></a>
 ### Extreme Learning Machine
