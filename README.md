@@ -7,6 +7,7 @@ Curated list of data science software in Python
 [pt]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/pytorch.png "PyTorch logo" 
 [cp]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/cupy.png "CuPy badge"
 [gpu]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/gpu.png "GPU badge"
+[sp]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/spark.png "Apache Spark badge"
 
 ###### Legend:
 ![alt text][skl] - [scikit-learn](http://scikit-learn.org/stable/) compatible (or inspired) API <br/>
@@ -14,6 +15,7 @@ Curated list of data science software in Python
 ![alt text][tf] - [TensorFlow](https://www.tensorflow.org/) based project <br/>
 ![alt text][pt] - [PyTorch](http://pytorch.org/) based project <br/>
 ![alt text][cp] - [CuPy](https://github.com/cupy/cupy/) based project <br/>
+![alt text][sp] - [Apache Spark](https://spark.apache.org/) based project <br/>
 ![alt text][gpu] - GPU-accelerated computations (if not based on Theano, Tensorflow, PyTorch or CuPy)
 
 #### Table of contents: 
@@ -175,6 +177,7 @@ Curated list of data science software in Python
 ## Probabilistic methods
 * [pomegranate](https://github.com/jmschrei/pomegranate) ![alt text][cp] - probabilistic and graphical models for Python
 * [bayesloop](https://github.com/christophmark/bayesloop) - Probabilistic programming framework that facilitates objective model selection for time-varying parameter models
+* [PyFlux](https://github.com/RJT1990/pyflux) - Open source time series library for Python
 * [pyro](https://github.com/uber/pyro) ![alt text][pt] - a flexible, scalable deep probabilistic programming library built on PyTorch.
 * [ZhuSuan](http://zhusuan.readthedocs.io/en/latest/) ![alt text][tf] - Bayesian Deep Learning
 * [pyMC3](http://docs.pymc.io/) ![alt text][th] - Python package for Bayesian statistical modeling and Probabilistic Machine Learning
@@ -187,6 +190,7 @@ Curated list of data science software in Python
 * [pgmpy](https://github.com/pgmpy/pgmpy) - a python library for working with Probabilistic Graphical Models.
 * [skpro](https://github.com/alan-turing-institute/skpro) ![alt text][skl] - supervised domain-agnostic prediction framework for probabilistic modelling by [The Alan Turing Institute](https://www.turing.ac.uk/)
 * [Aboleth](https://github.com/data61/aboleth) ![alt text][tf]  - a bare-bones TensorFlow framework for Bayesian deep learning and Gaussian process approximation
+
 <a name="gp"></a>
 ## Genetic Programming
 * [gplearn](https://github.com/trevorstephens/gplearn) ![alt text][skl] - Genetic Programming in Python
