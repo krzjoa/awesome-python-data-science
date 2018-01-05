@@ -59,6 +59,7 @@ Curated list of data science software in Python
 * [scikit-learn](http://scikit-learn.org/stable/) ![alt text][skl] - machine learning in Python
 * [Shogun](http://www.shogun-toolbox.org/) - machine learning toolbox
 * [xLearn](https://github.com/aksnzhy/xlearn) - High Performance, Easy-to-use, and Scalable Machine Learning Package
+* [Sparkit-learn](https://github.com/lensacom/sparkit-learn) ![alt text][skl] ![alt text][sp] - PySpark + Scikit-learn = Sparkit-learn
 * [MLxtend](https://github.com/rasbt/mlxtend) ![alt text][skl] - extension and helper modules for Python's data analysis and machine learning libraries
 * [tick](https://github.com/X-DataInitiative/tick) ![alt text][skl] - module for statistical learning, with a particular emphasis on time-dependent modelling  
 * [sklearn-extensions](https://github.com/wdm0006/sklearn-extensions) ![alt text][skl] - a consolidated package of small extensions to scikit-learn 
@@ -73,6 +74,7 @@ Curated list of data science software in Python
 * [scikit-rvm](https://github.com/JamesRitchie/scikit-rvm) ![alt text][skl] - Relevance Vector Machine implementation using the scikit-learn API
 * [RuleFit](https://github.com/christophM/rulefit) ![alt text][skl] - implementation of the rulefit 
 * [metric-learn](https://github.com/all-umass/metric-learn) ![alt text][skl]  - metric learning algorithms in Python
+* [liquidSVM](https://github.com/liquidSVM/liquidSVM) - an implementation of SVMs
 
 <a name="ml-rf"></a>
 ### Random Forests
@@ -126,6 +128,7 @@ Curated list of data science software in Python
 * [Hyperas](https://github.com/maxpumperla/hyperas) - Keras + Hyperopt: A very simple wrapper for convenient hyperparameter 
 * [Elephas](https://github.com/maxpumperla/elephas) - Distributed Deep learning with Keras & Spark 
 * [Hera](https://github.com/keplr-io/hera) - Train/evaluate a Keras model, get metrics streamed to a dashboard in your browser.
+* [dist-keras](https://github.com/cerndb/dist-keras) ![alt text][sp] - Distributed Deep Learning, with a focus on distributed training
 
 <a name="dl-tf"></a>
 ### Tensorflow
@@ -253,6 +256,7 @@ Curated list of data science software in Python
 * [meza](https://github.com/reubano/meza) - a Python toolkit for processing tabular data
 * [pandas-ply](https://github.com/coursera/pandas-ply) - functional data manipulation for pandas
 * [Dplython](https://github.com/dodger487/dplython) - Dplyr for Python
+* [pysparkling](https://github.com/svenkreiss/pysparkling) ![alt text][sp] - a pure Python implementation of Apache Spark's RDD and DStream interfaces
 
 <a name="stat"></a>
 ## Statistics
