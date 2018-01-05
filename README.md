@@ -257,7 +257,7 @@ Curated list of data science software in Python
 * [pandas-ply](https://github.com/coursera/pandas-ply) - functional data manipulation for pandas
 * [Dplython](https://github.com/dodger487/dplython) - Dplyr for Python
 * [pysparkling](https://github.com/svenkreiss/pysparkling) ![alt text][sp] - a pure Python implementation of Apache Spark's RDD and DStream interfaces
-
+* [quinn](https://github.com/MrPowers/quinn) ![alt text][sp]  - pyspark methods to enhance developer productivity
 <a name="stat"></a>
 ## Statistics
 * [statsmodels](https://github.com/statsmodels/statsmodels) - statistical modeling and econometrics in Python
