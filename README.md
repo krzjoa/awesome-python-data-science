@@ -20,14 +20,14 @@ Curated list of data science software in Python
 
 #### Table of contents: 
 * [Machine Learning](#ml)
+  * [Automated Machine Learning](#ml-automl)
+  * [Ensemble methods](#ml-ens)
+  * [Imbalanced datasets](#imb)
   * [General Purpouse ML](#ml-gen)
   * [Random Forests](#ml-rf)
-  * [Ensemble methods](#ml-ens)
   * [Extreme Learning Machine](#ml-elm)
-  * [Factorization Machine](#ml-fm)
+  * [Kernel methods](#ml-fm)
   * [Gradient boosting](#ml-gbt)
-  * [Automated Machine Learning](#ml-automl)
-  * [Imbalanced datasets](#imb)
 * [Deep Learning](#dl)
   * [Keras](#dl-keras)
   * [TensorFlow](#dl-tf)
@@ -143,7 +143,7 @@ Curated list of data science software in Python
 * [tensorpack](https://github.com/ppwwyyxx/tensorpack) ![alt text][tf] - a Neural Net Training Interface on TensorFlow
 * [Polyaxon](https://github.com/polyaxon/polyaxon) ![alt text][tf] - a platform that helps you build, manage and monitor deep learning models
 * [Horovod](https://github.com/uber/horovod) ![alt text][tf] - Distributed training framework for TensorFlow
-* [tfdeploy](https://github.com/riga/tfdeploy) - Deploy tensorflow graphs for fast evaluation and export to tensorflow-less environments running numpy
+* [tfdeploy](https://github.com/riga/tfdeploy) ![alt text][tf] - Deploy tensorflow graphs for fast evaluation and export to tensorflow-less environments running numpy
 
 <a name="dl-theano"></a>
 ### Theano
