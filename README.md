@@ -87,6 +87,7 @@ Curated list of data science software in Python
 * [brew](https://github.com/viisar/brew) ![alt text][skl] - Python Ensemble Learning API
 * [Stacking](https://github.com/ikki407/stacking) ![alt text][skl] - Simple and useful stacking library, written in Python.
 * [stacked_generalization](https://github.com/fukatani/stacked_generalization) ![alt text][skl] - library for machine learning stacking generalization.
+* [vecstack](https://github.com/vecxoz/vecstack) ![alt text][skl]  - Python package for stacking (machine learning technique)
 
 <a name="imb"></a>
 ### Imbalanced datasets
