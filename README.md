@@ -155,6 +155,7 @@ Curated list of data science software in Python
 * [Blocks](https://github.com/mila-udem/blocks) ![alt text][th] - a Theano framework for building and training neural networks
 * [platoon](https://github.com/mila-udem/platoon) ![alt text][th] - Multi-GPU mini-framework for Theano
 * [NeuPy](https://github.com/itdxer/neupy) ![alt text][th] - NeuPy is a Python library for Artificial Neural Networks and Deep Learning
+* [scikit-neuralnetwork](https://github.com/aigamedev/scikit-neuralnetwork) ![alt text][skl]  ![alt text][th] - Deep neural networks without the learning cliff
 
 <a name="dl-pytorch"></a>
 ### PyTorch
@@ -175,6 +176,8 @@ Curated list of data science software in Python
 <a name="dl-chainer"></a>
 ### Chainer
 * [Chainer](https://github.com/chainer/chainer) - a flexible framework for neural networks
+* [ChainerRL](https://github.com/chainer/chainerrl) - a deep reinforcement learning library built on top of Chainer.
+* [ChainerCV](https://github.com/chainer/chainercv) - a Library for Deep Learning in Computer Vision
 * [ChainerMN](https://github.com/chainer/chainermn) - scalable distributed deep learning with Chainer
 * [scikit-chainer](https://github.com/lucidfrontier45/scikit-chainer) ![alt text][skl] - scikit-learn like interface to chainer
 * [chainer_sklearn](https://github.com/corochann/chainer_sklearn) ![alt text][skl] - Sklearn (Scikit-learn) like interface for Chainer 
@@ -182,7 +185,7 @@ Curated list of data science software in Python
 <a name="dl-other"></a>
 ### Other
 * [Neon](https://github.com/NervanaSystems/neon) - Intel® Nervana™ reference deep learning framework committed to best performance on all hardware
-* [scikit-neuralnetwork](https://github.com/aigamedev/scikit-neuralnetwork) ![alt text][skl]  ![alt text][th] - Deep neural networks without the learning cliff
+
 
 <a name="bayes"></a>
 ## Probabilistic methods
@@ -237,6 +240,10 @@ Curated list of data science software in Python
 ## Computer audition
 * [librosa](https://github.com/librosa/librosa) - Python library for audio and music analysis
 * [Yaafe](https://github.com/Yaafe/Yaafe) - Audio features extraction
+* [aubio](https://github.com/aubio/aubio) - a library for audio and music analysis 
+* [Essentia](https://github.com/MTG/essentia) - library for audio and music analysis, description and synthesis
+* [LibXtract](https://github.com/jamiebullock/LibXtract) -  is a simple, portable, lightweight library of audio feature extraction functions
+* [Marsyas](https://github.com/marsyas/marsyas) - Music Analysis, Retrieval and Synthesis for Audio Signals
 * [muda](https://github.com/bmcfee/muda) - a library for augmenting annotated audio data
 * [madmom](https://github.com/CPJKU/madmom) - Python audio and music signal processing library 
 
