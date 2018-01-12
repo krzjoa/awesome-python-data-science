@@ -60,6 +60,8 @@ Curated list of data science software in Python
 * [Shogun](http://www.shogun-toolbox.org/) - machine learning toolbox
 * [xLearn](https://github.com/aksnzhy/xlearn) - High Performance, Easy-to-use, and Scalable Machine Learning Package
 * [Sparkit-learn](https://github.com/lensacom/sparkit-learn) ![alt text][skl] ![alt text][sp] - PySpark + Scikit-learn = Sparkit-learn
+* [mlpack](https://github.com/mlpack/mlpack) - a scalable C++ machine learning library (Python bindings)
+* [dlib](https://github.com/davisking/dlib) - A toolkit for making real world machine learning and data analysis applications in C++ (Python bidings)
 * [MLxtend](https://github.com/rasbt/mlxtend) ![alt text][skl] - extension and helper modules for Python's data analysis and machine learning libraries
 * [tick](https://github.com/X-DataInitiative/tick) ![alt text][skl] - module for statistical learning, with a particular emphasis on time-dependent modelling  
 * [sklearn-extensions](https://github.com/wdm0006/sklearn-extensions) ![alt text][skl] - a consolidated package of small extensions to scikit-learn 
