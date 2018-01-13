@@ -185,8 +185,8 @@ Curated list of data science software in Python
 * [scikit-chainer](https://github.com/lucidfrontier45/scikit-chainer) ![alt text][skl] - scikit-learn like interface to chainer
 * [chainer_sklearn](https://github.com/corochann/chainer_sklearn) ![alt text][skl] - Sklearn (Scikit-learn) like interface for Chainer 
 
-<a name="dl-other"></a>
-### Other
+<a name="dl-others"></a>
+### Others
 * [Caffe](https://github.com/BVLC/caffe) - a fast open framework for deep learning
 * [Caffe2](https://github.com/caffe2/caffe2) -  a lightweight, modular, and scalable deep learning framework
 * [Neon](https://github.com/NervanaSystems/neon) - Intel® Nervana™ reference deep learning framework committed to best performance on all hardware
