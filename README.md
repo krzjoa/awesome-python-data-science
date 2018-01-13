@@ -50,6 +50,7 @@ Curated list of data science software in Python
 * [Visualization](#vis)
 * [Evaluation](#eval)
 * [Computations](#compt)
+* [Quantum computing](#quant)
 * [Conversion](#conv)
 
 <a name="ml"></a>
@@ -285,6 +286,7 @@ Curated list of data science software in Python
 * [Dplython](https://github.com/dodger487/dplython) - Dplyr for Python
 * [pysparkling](https://github.com/svenkreiss/pysparkling) ![alt text][sp] - a pure Python implementation of Apache Spark's RDD and DStream interfaces
 * [quinn](https://github.com/MrPowers/quinn) ![alt text][sp]  - pyspark methods to enhance developer productivity
+
 <a name="stat"></a>
 ## Statistics
 * [statsmodels](https://github.com/statsmodels/statsmodels) - statistical modeling and econometrics in Python
@@ -319,6 +321,10 @@ Curated list of data science software in Python
 * [minpy](https://github.com/dmlc/minpy) - NumPy interface with mixed backend execution
 * [CuPy](https://github.com/cupy/cupy) - NumPy-like API accelerated with CUDA 
 * [scikit-tensor](https://github.com/mnick/scikit-tensor) - Python library for multilinear algebra and tensor factorizations
+
+<a name="quant"></a>
+## Quantum Computing
+* [QML](https://github.com/qmlcode/qml) - a Python Toolkit for Quantum Machine Learning
 
 <a name="conv"></a>
 ## Conversion
