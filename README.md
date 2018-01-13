@@ -187,6 +187,8 @@ Curated list of data science software in Python
 
 <a name="dl-other"></a>
 ### Other
+* [Caffe](https://github.com/BVLC/caffe) - a fast open framework for deep learning
+* [Caffe2](https://github.com/caffe2/caffe2) -  a lightweight, modular, and scalable deep learning framework
 * [Neon](https://github.com/NervanaSystems/neon) - Intel® Nervana™ reference deep learning framework committed to best performance on all hardware
 
 <a name="dist"></a>
@@ -195,6 +197,7 @@ Curated list of data science software in Python
 * [Veles](https://github.com/Samsung/veles) - Distributed machine learning platform by [Samsung](https://github.com/Samsung)
 * [Jubatus](https://github.com/jubatus/jubatus) - Framework and Library for Distributed Online Machine Learning
 * [DMTK](https://github.com/Microsoft/DMTK) - Microsoft Distributed Machine Learning Toolkit 
+* [PaddlePaddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning by [Baidu](https://www.baidu.com/)
 
 <a name="bayes"></a>
 ## Probabilistic methods
