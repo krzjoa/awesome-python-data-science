@@ -32,11 +32,12 @@ Curated list of data science software in Python
   * [Keras](#dl-keras)
   * [TensorFlow](#dl-tf)
   * [Theano](#dl-theano)
+  * [PyTorch](#dl-pytorch)
   * [MXnet](#dl-mxnet)
   * [CNTK](#dl-cntk)
-  * [PyTorch](#dl-pytorch)
   * [Chainer](#dl-chainer)
   * [Others](#dl-others)
+* [Distributed computing systems](#dist)
 * [Probabilistic methods](#bayes)
 * [Genetic Programming](#gp)
 * [Optimization](#opt)
@@ -188,6 +189,12 @@ Curated list of data science software in Python
 ### Other
 * [Neon](https://github.com/NervanaSystems/neon) - Intel® Nervana™ reference deep learning framework committed to best performance on all hardware
 
+<a name="dist"></a>
+### Distributed computing systems
+* [PySpark](https://spark.apache.org/docs/0.9.0/python-programming-guide.html) ![alt text][sp] - exposes the Spark programming model to Python
+* [Veles](https://github.com/Samsung/veles) - Distributed machine learning platform by [Samsung](https://github.com/Samsung)
+* [Jubatus](https://github.com/jubatus/jubatus) - Framework and Library for Distributed Online Machine Learning
+* [DMTK](https://github.com/Microsoft/DMTK) - Microsoft Distributed Machine Learning Toolkit 
 
 <a name="bayes"></a>
 ## Probabilistic methods
