@@ -1,13 +1,14 @@
 # Awesome Python Data Science ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 Curated list of data science software in Python
 
-[skl]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/skl.png "scikit-learn logo" 
-[th]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/th.png "Theano logo" 
-[tf]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/tf.png "TensorFlow logo" 
-[pt]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/pytorch.png "PyTorch logo" 
-[cp]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/cupy.png "CuPy badge"
-[gpu]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/gpu.png "GPU badge"
-[sp]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/spark.png "Apache Spark badge"
+[skl]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/skl.png "scikit-learn compatible" 
+[th]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/th.png "Theano based" 
+[tf]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/tf.png "TensorFlow based" 
+[pt]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/pytorch.png "PyTorch based" 
+[cp]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/cupy.png "CuPy based"
+[gpu]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/gpu.png "GPU accelerated"
+[sp]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/spark.png "Apache Spark based"
+[amd]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/amd.png "AMD based"
 
 ###### Legend:
 ![alt text][skl] - [scikit-learn](http://scikit-learn.org/stable/) compatible (or inspired) API <br/>
@@ -16,7 +17,8 @@ Curated list of data science software in Python
 ![alt text][pt] - [PyTorch](http://pytorch.org/) based project <br/>
 ![alt text][cp] - [CuPy](https://github.com/cupy/cupy/) based project <br/>
 ![alt text][sp] - [Apache Spark](https://spark.apache.org/) based project <br/>
-![alt text][gpu] - GPU-accelerated computations (if not based on Theano, Tensorflow, PyTorch or CuPy)
+![alt text][gpu] - GPU-accelerated computations (if not based on Theano, Tensorflow, PyTorch or CuPy)  <br/>
+![alt text][amd] - possible to run on [AMD](http://www.amd.com/en/home) GPU
 
 #### Table of contents: 
 * [Machine Learning](#ml)
@@ -34,6 +36,7 @@ Curated list of data science software in Python
   * [Theano](#dl-theano)
   * [PyTorch](#dl-pytorch)
   * [MXnet](#dl-mxnet)
+  * [Caffe](#dl-caffe)
   * [CNTK](#dl-cntk)
   * [Chainer](#dl-chainer)
   * [Others](#dl-others)
@@ -149,6 +152,7 @@ Curated list of data science software in Python
 * [Polyaxon](https://github.com/polyaxon/polyaxon) ![alt text][tf] - a platform that helps you build, manage and monitor deep learning models
 * [Horovod](https://github.com/uber/horovod) ![alt text][tf] - Distributed training framework for TensorFlow
 * [tfdeploy](https://github.com/riga/tfdeploy) ![alt text][tf] - Deploy tensorflow graphs for fast evaluation and export to tensorflow-less environments running numpy
+* [hiptensorflow](https://github.com/ROCmSoftwarePlatform/hiptensorflow) ![alt text][tf] ![alt text][amd] - ROCm/HIP enabled Tensorflow
 
 <a name="dl-theano"></a>
 ### Theano
@@ -173,6 +177,12 @@ Curated list of data science software in Python
 * [Gluon](https://github.com/gluon-api/gluon-api) - a clear, concise, simple yet powerful and efficient API for deep learning (now included in MXNet)
 * [MXbox](https://github.com/Lyken17/mxbox) - simple, efficient and flexible vision toolbox for mxnet framework.
 
+<a name="dl-caffe"></a>
+### Caffe
+* [Caffe](https://github.com/BVLC/caffe) - a fast open framework for deep learning
+* [Caffe2](https://github.com/caffe2/caffe2) -  a lightweight, modular, and scalable deep learning framework
+* [hipCaffe](https://github.com/ROCmSoftwarePlatform/hipCaffe) ![alt text][amd] - the HIP port of Caffe
+
 <a name="dl-cntk"></a>
 ### CNTK
 * [CNTK](https://github.com/Microsoft/CNTK) - Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit 
@@ -188,8 +198,6 @@ Curated list of data science software in Python
 
 <a name="dl-others"></a>
 ### Others
-* [Caffe](https://github.com/BVLC/caffe) - a fast open framework for deep learning
-* [Caffe2](https://github.com/caffe2/caffe2) -  a lightweight, modular, and scalable deep learning framework
 * [Neon](https://github.com/NervanaSystems/neon) - Intel® Nervana™ reference deep learning framework committed to best performance on all hardware
 
 <a name="dist"></a>
