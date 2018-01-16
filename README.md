@@ -176,6 +176,7 @@ Curated list of data science software in Python
 * [MXNet](https://github.com/apache/incubator-mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler
 * [Gluon](https://github.com/gluon-api/gluon-api) - a clear, concise, simple yet powerful and efficient API for deep learning (now included in MXNet)
 * [MXbox](https://github.com/Lyken17/mxbox) - simple, efficient and flexible vision toolbox for mxnet framework.
+* [MXNet](https://github.com/ROCmSoftwarePlatform/mxnet) ![alt text][amd]  - HIP Port of MXNet
 
 <a name="dl-caffe"></a>
 ### Caffe
@@ -199,6 +200,9 @@ Curated list of data science software in Python
 <a name="dl-others"></a>
 ### Others
 * [Neon](https://github.com/NervanaSystems/neon) - Intel® Nervana™ reference deep learning framework committed to best performance on all hardware
+* [Tangent](https://github.com/google/tangent) - Source-to-Source Debuggable Derivatives in Pure Python
+* [autograd](https://github.com/HIPS/autograd) - Efficiently computes derivatives of numpy code
+* [Myia](https://github.com/mila-udem/myia) - deep learning framework (pre-alpha)
 
 <a name="dist"></a>
 ## Distributed computing systems
