@@ -153,6 +153,7 @@ Curated list of data science software in Python
 * [Horovod](https://github.com/uber/horovod) ![alt text][tf] - Distributed training framework for TensorFlow
 * [tfdeploy](https://github.com/riga/tfdeploy) ![alt text][tf] - Deploy tensorflow graphs for fast evaluation and export to tensorflow-less environments running numpy
 * [hiptensorflow](https://github.com/ROCmSoftwarePlatform/hiptensorflow) ![alt text][tf] ![alt text][amd] - ROCm/HIP enabled Tensorflow
+* [TensorFlow Fold](https://github.com/tensorflow/fold) ![alt text][tf] - Deep learning with dynamic computation graphs in TensorFlow
 
 <a name="dl-theano"></a>
 ### Theano
