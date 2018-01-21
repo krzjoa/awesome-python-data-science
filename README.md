@@ -45,7 +45,8 @@ Curated list of data science software in Python
 * [Genetic Programming](#gp)
 * [Optimization](#opt)
 * [Natural Language Processing](#nlp)
-* [Computer audition](#ca)
+* [Computer Audition](#ca)
+* [Computer Vision](#cv)
 * [Feature engineering](#feat-eng)
 * [Data manipulation & pipelines](#pipe)
 * [Statistics](#stat)
@@ -263,7 +264,7 @@ Curated list of data science software in Python
 * [pyMorfologik](https://github.com/dmirecki/pyMorfologik) - Python binding for [Morfologik](https://github.com/morfologik/morfologik-stemming) (Polish morphological analyzer)
 
 <a name="ca"></a>
-## Computer audition
+## Computer Audition
 * [librosa](https://github.com/librosa/librosa) - Python library for audio and music analysis
 * [Yaafe](https://github.com/Yaafe/Yaafe) - Audio features extraction
 * [aubio](https://github.com/aubio/aubio) - a library for audio and music analysis 
@@ -272,6 +273,11 @@ Curated list of data science software in Python
 * [Marsyas](https://github.com/marsyas/marsyas) - Music Analysis, Retrieval and Synthesis for Audio Signals
 * [muda](https://github.com/bmcfee/muda) - a library for augmenting annotated audio data
 * [madmom](https://github.com/CPJKU/madmom) - Python audio and music signal processing library 
+
+<a name="cv"></a>
+## Computer Vision
+* [OpenCV](https://github.com/opencv/opencv) - Open Source Computer Vision Library
+* [scikit-image](https://github.com/scikit-image/scikit-image) - Image Processing SciKit (Toolbox for SciPy)
 
 <a name="feat-eng"></a>
 ## Feature engineering
@@ -320,6 +326,7 @@ Curated list of data science software in Python
 * [Alphalens](https://github.com/quantopian/alphalens) - performance analysis of predictive (alpha) stock factors by [Quantopian](https://www.quantopian.com/)
 * [yellowbrick](https://github.com/DistrictDataLabs/yellowbrick) ![alt text][skl]- visual analysis and diagnostic tools to facilitate machine learning model selection
 * [scikit-plot](https://github.com/reiinakano/scikit-plot) ![alt text][skl] - an intuitive library to add plotting functionality to scikit-learn objects
+* [Lime](https://github.com/marcotcr/lime) ![alt text][skl] - Explaining the predictions of any machine learning classifier
 
 <a name="eval"></a>
 ## Evaluation
