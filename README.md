@@ -231,6 +231,7 @@ Curated list of data science software in Python
 * [pgmpy](https://github.com/pgmpy/pgmpy) - a python library for working with Probabilistic Graphical Models.
 * [skpro](https://github.com/alan-turing-institute/skpro) ![alt text][skl] - supervised domain-agnostic prediction framework for probabilistic modelling by [The Alan Turing Institute](https://www.turing.ac.uk/)
 * [Aboleth](https://github.com/data61/aboleth) ![alt text][tf]  - a bare-bones TensorFlow framework for Bayesian deep learning and Gaussian process approximation
+* [PtStat](https://github.com/stepelu/ptstat) ![alt text][pt] - Probabilistic Programming and Statistical Inference in PyTorch
 
 <a name="gp"></a>
 ## Genetic Programming
@@ -310,6 +311,7 @@ Curated list of data science software in Python
 ## Statistics
 * [statsmodels](https://github.com/statsmodels/statsmodels) - statistical modeling and econometrics in Python
 * [stockstats](https://github.com/jealous/stockstats) - Supply a wrapper ``StockDataFrame`` based on the ``pandas.DataFrame`` with inline stock statistics/indicators support.
+* [simplestatistics](https://github.com/sheriferson/simplestatistics) - simple statistical functions implemented in readable Python.
 
 <a name="tools"></a>
 ## Experiments tools
