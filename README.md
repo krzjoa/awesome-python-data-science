@@ -40,6 +40,7 @@ Curated list of data science software in Python
   * [CNTK](#dl-cntk)
   * [Chainer](#dl-chainer)
   * [Others](#dl-others)
+* [Reinforcement Learning](#rl)
 * [Distributed computing systems](#dist)
 * [Probabilistic methods](#bayes)
 * [Genetic Programming](#gp)
@@ -205,6 +206,10 @@ Curated list of data science software in Python
 * [Tangent](https://github.com/google/tangent) - Source-to-Source Debuggable Derivatives in Pure Python
 * [autograd](https://github.com/HIPS/autograd) - Efficiently computes derivatives of numpy code
 * [Myia](https://github.com/mila-udem/myia) - deep learning framework (pre-alpha)
+
+<a name="rl"></a>
+## Reinforcement Learning
+* [OpenAI Gym](https://github.com/openai/gym) - a toolkit for developing and comparing reinforcement learning algorithms.
 
 <a name="dist"></a>
 ## Distributed computing systems
