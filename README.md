@@ -221,7 +221,8 @@ Curated list of data science software in Python
 * [PyFlux](https://github.com/RJT1990/pyflux) - Open source time series library for Python
 * [pyro](https://github.com/uber/pyro) ![alt text][pt] - a flexible, scalable deep probabilistic programming library built on PyTorch.
 * [ZhuSuan](http://zhusuan.readthedocs.io/en/latest/) ![alt text][tf] - Bayesian Deep Learning
-* [pyMC3](http://docs.pymc.io/) ![alt text][th] - Python package for Bayesian statistical modeling and Probabilistic Machine Learning
+* [PyMC](https://github.com/pymc-devs/pymc) - Bayesian Stochastic Modelling in Python
+* [PyMC3](http://docs.pymc.io/) ![alt text][th] - Python package for Bayesian statistical modeling and Probabilistic Machine Learning
 * [Edward](http://edwardlib.org/) ![alt text][tf] - A library for probabilistic modeling, inference, and criticism.
 * [GPflow](http://gpflow.readthedocs.io/en/latest/?badge=latest) ![alt text][tf]  - Gaussian processes in TensorFlow
 * [PyStan](https://github.com/stan-dev/pystan) - Bayesian inference using the No-U-Turn sampler (Python interface)
@@ -232,6 +233,7 @@ Curated list of data science software in Python
 * [skpro](https://github.com/alan-turing-institute/skpro) ![alt text][skl] - supervised domain-agnostic prediction framework for probabilistic modelling by [The Alan Turing Institute](https://www.turing.ac.uk/)
 * [Aboleth](https://github.com/data61/aboleth) ![alt text][tf]  - a bare-bones TensorFlow framework for Bayesian deep learning and Gaussian process approximation
 * [PtStat](https://github.com/stepelu/ptstat) ![alt text][pt] - Probabilistic Programming and Statistical Inference in PyTorch
+* [emcee](https://github.com/dfm/emcee) - The Python ensemble sampling toolkit for affine-invariant MCMC
 
 <a name="gp"></a>
 ## Genetic Programming
