@@ -167,6 +167,7 @@ Curated list of data science software in Python
 * [platoon](https://github.com/mila-udem/platoon) ![alt text][th] - Multi-GPU mini-framework for Theano
 * [NeuPy](https://github.com/itdxer/neupy) ![alt text][th] - NeuPy is a Python library for Artificial Neural Networks and Deep Learning
 * [scikit-neuralnetwork](https://github.com/aigamedev/scikit-neuralnetwork) ![alt text][skl]  ![alt text][th] - Deep neural networks without the learning cliff
+* [Theano-MPI](https://github.com/uoguelph-mlrg/Theano-MPI) ![alt text][th] - MPI Parallel framework for training deep learning models built in Theano
 
 <a name="dl-pytorch"></a>
 ### PyTorch
@@ -218,6 +219,8 @@ Curated list of data science software in Python
 * [Jubatus](https://github.com/jubatus/jubatus) - Framework and Library for Distributed Online Machine Learning
 * [DMTK](https://github.com/Microsoft/DMTK) - Microsoft Distributed Machine Learning Toolkit 
 * [PaddlePaddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning by [Baidu](https://www.baidu.com/)
+* [dask-ml](https://github.com/dask/dask-ml) ![alt text][skl] - Distributed and parallel machine learning
+* [Distributed](https://github.com/dask/distributed) - Distributed computation in Python
 
 <a name="bayes"></a>
 ## Probabilistic methods
@@ -319,6 +322,7 @@ Curated list of data science software in Python
 * [statsmodels](https://github.com/statsmodels/statsmodels) - statistical modeling and econometrics in Python
 * [stockstats](https://github.com/jealous/stockstats) - Supply a wrapper ``StockDataFrame`` based on the ``pandas.DataFrame`` with inline stock statistics/indicators support.
 * [simplestatistics](https://github.com/sheriferson/simplestatistics) - simple statistical functions implemented in readable Python.
+* [weightedcalcs](https://github.com/jsvine/weightedcalcs) - pandas-based utility to calculate weighted means, medians, distributions, standard deviations, and more
 
 <a name="tools"></a>
 ## Experiments tools
@@ -346,6 +350,7 @@ Curated list of data science software in Python
 <a name="compt"></a>
 ## Computations
 * [numpy](http://www.numpy.org/) - the fundamental package needed for scientific computing with Python.
+* [Dask](https://github.com/dask/dask) - parallel computing with task scheduling 
 * [bottleneck](https://github.com/kwgoodman/bottleneck) - Fast NumPy array functions written in C
 * [minpy](https://github.com/dmlc/minpy) - NumPy interface with mixed backend execution
 * [CuPy](https://github.com/cupy/cupy) - NumPy-like API accelerated with CUDA 
