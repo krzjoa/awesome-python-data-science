@@ -40,6 +40,7 @@ Curated list of data science software in Python
   * [CNTK](#dl-cntk)
   * [Chainer](#dl-chainer)
   * [Others](#dl-others)
+  * [Visualization](#dl-visualization)
 * [Reinforcement Learning](#rl)
 * [Distributed computing systems](#dist)
 * [Probabilistic methods](#bayes)
@@ -209,6 +210,10 @@ Curated list of data science software in Python
 * [autograd](https://github.com/HIPS/autograd) - Efficiently computes derivatives of numpy code
 * [Myia](https://github.com/mila-udem/myia) - deep learning framework (pre-alpha)
 
+<a name="dl-visualization"></a>
+### Network exlanation
+* [Auralisation](https://github.com/keunwoochoi/Auralisation) - auralisation of learned features in CNN (for audio)
+
 <a name="rl"></a>
 ## Reinforcement Learning
 * [OpenAI Gym](https://github.com/openai/gym) - a toolkit for developing and comparing reinforcement learning algorithms.
@@ -276,6 +281,7 @@ Curated list of data science software in Python
 * [gensim](https://radimrehurek.com/gensim/) - Topic Modelling for Humans
 * [PSI-Toolkit](http://psi-toolkit.amu.edu.pl/) - a natural language processing toolkit by [Adam Mickiewicz University](https://zpjn.wmi.amu.edu.pl/en/) in Poznań
 * [pyMorfologik](https://github.com/dmirecki/pyMorfologik) - Python binding for [Morfologik](https://github.com/morfologik/morfologik-stemming) (Polish morphological analyzer)
+* [skift](https://github.com/shaypal5/skift) ![alt text][skl] - scikit-learn wrappers for Python fastText.
 
 <a name="ca"></a>
 ## Computer Audition
