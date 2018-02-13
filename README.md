@@ -40,7 +40,7 @@ Curated list of data science software in Python
   * [CNTK](#dl-cntk)
   * [Chainer](#dl-chainer)
   * [Others](#dl-others)
-  * [Visualization](#dl-visualization)
+  * [Model explanation](#dl-visualization)
 * [Reinforcement Learning](#rl)
 * [Distributed computing systems](#dist)
 * [Probabilistic methods](#bayes)
@@ -211,7 +211,7 @@ Curated list of data science software in Python
 * [Myia](https://github.com/mila-udem/myia) - deep learning framework (pre-alpha)
 
 <a name="dl-visualization"></a>
-### Network exlanation
+### Model explanation
 * [Auralisation](https://github.com/keunwoochoi/Auralisation) - auralisation of learned features in CNN (for audio)
 
 <a name="rl"></a>
@@ -250,6 +250,7 @@ Curated list of data science software in Python
 * [emcee](https://github.com/dfm/emcee) - The Python ensemble sampling toolkit for affine-invariant MCMC
 * [hsmmlearn](https://github.com/jvkersch/hsmmlearn) - a library for hidden semi-Markov models with explicit durations
 * [pyhsmm](https://github.com/mattjj/pyhsmm) - bayesian inference in HSMMs and HMMs
+* [Bayes](https://github.com/krzjoa/Bayes) ![alt text][skl] - Python implementations of Naive Bayes algorithm variants
 
 <a name="gp"></a>
 ## Genetic Programming
