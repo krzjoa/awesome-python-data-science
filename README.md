@@ -213,6 +213,7 @@ Curated list of data science software in Python
 <a name="dl-visualization"></a>
 ### Model explanation
 * [Auralisation](https://github.com/keunwoochoi/Auralisation) - auralisation of learned features in CNN (for audio)
+* [CapsNet-Visualization](https://github.com/bourdakos1/CapsNet-Visualization) - a visualization of the CapsNet layers to better understand how it works
 
 <a name="rl"></a>
 ## Reinforcement Learning
