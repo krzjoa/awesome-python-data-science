@@ -176,6 +176,7 @@ Curated list of data science software in Python
 * [PyTorch](https://github.com/pytorch/pytorch) ![alt text][pt]  - Tensors and Dynamic neural networks in Python with strong GPU acceleration 
 * [skorch](https://github.com/dnouri/skorch) ![alt text][skl] ![alt text][pt]  - a scikit-learn compatible neural network library that wraps pytorch
 * [PyTorchNet](https://github.com/pytorch/tnt) ![alt text][pt]  - an abstraction to train neural networks
+* [Aorun](https://github.com/ramon-oliveira/aorun) - intend to implement an API similar to Keras with PyTorch as backend.
 
 <a name="dl-mxnet"></a>
 ### MXNet
@@ -248,6 +249,7 @@ Curated list of data science software in Python
 * [skpro](https://github.com/alan-turing-institute/skpro) ![alt text][skl] - supervised domain-agnostic prediction framework for probabilistic modelling by [The Alan Turing Institute](https://www.turing.ac.uk/)
 * [Aboleth](https://github.com/data61/aboleth) ![alt text][tf]  - a bare-bones TensorFlow framework for Bayesian deep learning and Gaussian process approximation
 * [PtStat](https://github.com/stepelu/ptstat) ![alt text][pt] - Probabilistic Programming and Statistical Inference in PyTorch
+* [PyVarInf](https://github.com/ctallec/pyvarinf) ![alt text][pt] - Bayesian Deep Learning methods with Variational Inference for PyTorch
 * [emcee](https://github.com/dfm/emcee) - The Python ensemble sampling toolkit for affine-invariant MCMC
 * [hsmmlearn](https://github.com/jvkersch/hsmmlearn) - a library for hidden semi-Markov models with explicit durations
 * [pyhsmm](https://github.com/mattjj/pyhsmm) - bayesian inference in HSMMs and HMMs
@@ -374,3 +376,4 @@ Curated list of data science software in Python
 <a name="conv"></a>
 ## Conversion
 * [sklearn-porter](https://github.com/nok/sklearn-porter) - transpile trained scikit-learn estimators to C, Java, JavaScript and others
+* [ONNX](https://github.com/onnx/onnx) - Open Neural Network Exchange
