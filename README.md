@@ -139,6 +139,7 @@ Curated list of data science software in Python
 <a name="dl-keras"></a>
 ### Keras
 * [Keras](https://keras.io) - a high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano
+* [keras-contrib](https://github.com/keras-team/keras-contrib) - Keras community contributions
 * [Hyperas](https://github.com/maxpumperla/hyperas) - Keras + Hyperopt: A very simple wrapper for convenient hyperparameter 
 * [Elephas](https://github.com/maxpumperla/elephas) - Distributed Deep learning with Keras & Spark 
 * [Hera](https://github.com/keplr-io/hera) - Train/evaluate a Keras model, get metrics streamed to a dashboard in your browser.
@@ -215,6 +216,7 @@ Curated list of data science software in Python
 ### Model explanation
 * [Auralisation](https://github.com/keunwoochoi/Auralisation) - auralisation of learned features in CNN (for audio)
 * [CapsNet-Visualization](https://github.com/bourdakos1/CapsNet-Visualization) - a visualization of the CapsNet layers to better understand how it works
+* [lucid](https://github.com/tensorflow/lucid) - a collection of infrastructure and tools for research in neural network interpretability.
 
 <a name="rl"></a>
 ## Reinforcement Learning
@@ -329,6 +331,7 @@ Curated list of data science software in Python
 * [Dplython](https://github.com/dodger487/dplython) - Dplyr for Python
 * [pysparkling](https://github.com/svenkreiss/pysparkling) ![alt text][sp] - a pure Python implementation of Apache Spark's RDD and DStream interfaces
 * [quinn](https://github.com/MrPowers/quinn) ![alt text][sp]  - pyspark methods to enhance developer productivity
+* [Dataset](https://github.com/analysiscenter/dataset) - helps you conveniently work with random or sequential batches of your data and define data processing
 
 <a name="stat"></a>
 ## Statistics
@@ -336,6 +339,7 @@ Curated list of data science software in Python
 * [stockstats](https://github.com/jealous/stockstats) - Supply a wrapper ``StockDataFrame`` based on the ``pandas.DataFrame`` with inline stock statistics/indicators support.
 * [simplestatistics](https://github.com/sheriferson/simplestatistics) - simple statistical functions implemented in readable Python.
 * [weightedcalcs](https://github.com/jsvine/weightedcalcs) - pandas-based utility to calculate weighted means, medians, distributions, standard deviations, and more
+* [scikit-posthocs](https://github.com/maximtrp/scikit-posthocs) - Pairwise Multiple Comparisons Post-hoc Tests
 
 <a name="tools"></a>
 ## Experiments tools
@@ -377,3 +381,4 @@ Curated list of data science software in Python
 ## Conversion
 * [sklearn-porter](https://github.com/nok/sklearn-porter) - transpile trained scikit-learn estimators to C, Java, JavaScript and others
 * [ONNX](https://github.com/onnx/onnx) - Open Neural Network Exchange
+* [MMdnn](https://github.com/Microsoft/MMdnn) -  a set of tools to help users inter-operate among different deep learning frameworks.
