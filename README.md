@@ -340,6 +340,7 @@ Curated list of data science software in Python
 * [simplestatistics](https://github.com/sheriferson/simplestatistics) - simple statistical functions implemented in readable Python.
 * [weightedcalcs](https://github.com/jsvine/weightedcalcs) - pandas-based utility to calculate weighted means, medians, distributions, standard deviations, and more
 * [scikit-posthocs](https://github.com/maximtrp/scikit-posthocs) - Pairwise Multiple Comparisons Post-hoc Tests
+* [pysie](https://github.com/chen0040/pysie) - provides python implementation of statistical inference engine
 
 <a name="tools"></a>
 ## Experiments tools
