@@ -289,6 +289,7 @@ Curated list of data science software in Python
 * [Solid](https://github.com/100/Solid) - A comprehensive gradient-free optimization framework written in Python
 * [PySwarms](https://github.com/ljvmiranda921/pyswarms) - A research toolkit for particle swarm optimization in Python
 * [Platypus](https://github.com/Project-Platypus/Platypus) - A Free and Open Source Python Library for Multiobjective Optimization
+* [GPflowOpt](https://github.com/GPflow/GPflowOpt) - Bayesian Optimization using GPflow
 
 <a name="nlp"></a>
 ## Natural Language Processing
