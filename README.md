@@ -67,6 +67,7 @@ Curated list of data science software in Python
 * [scikit-learn](http://scikit-learn.org/stable/) ![alt text][skl] - machine learning in Python
 * [Shogun](http://www.shogun-toolbox.org/) - machine learning toolbox
 * [xLearn](https://github.com/aksnzhy/xlearn) - High Performance, Easy-to-use, and Scalable Machine Learning Package
+* [Reproducible Experiment Platform (REP)]() ![alt text][skl] - Machine Learning toolbox for Humans 
 * [Sparkit-learn](https://github.com/lensacom/sparkit-learn) ![alt text][skl] ![alt text][sp] - PySpark + Scikit-learn = Sparkit-learn
 * [mlpack](https://github.com/mlpack/mlpack) - a scalable C++ machine learning library (Python bindings)
 * [dlib](https://github.com/davisking/dlib) - A toolkit for making real world machine learning and data analysis applications in C++ (Python bindings)
@@ -144,6 +145,7 @@ Curated list of data science software in Python
 * [Elephas](https://github.com/maxpumperla/elephas) - Distributed Deep learning with Keras & Spark 
 * [Hera](https://github.com/keplr-io/hera) - Train/evaluate a Keras model, get metrics streamed to a dashboard in your browser.
 * [dist-keras](https://github.com/cerndb/dist-keras) ![alt text][sp] - Distributed Deep Learning, with a focus on distributed training
+* [Conx](https://github.com/Calysto/conx) - The On-Ramp to Deep Learning
 * [Keras add-ons...](https://github.com/krzjoa/awesome-python-datascience/blob/master/keras_addons.md)
 
 <a name="dl-tf"></a>
@@ -159,6 +161,8 @@ Curated list of data science software in Python
 * [tfdeploy](https://github.com/riga/tfdeploy) ![alt text][tf] - Deploy tensorflow graphs for fast evaluation and export to tensorflow-less environments running numpy
 * [hiptensorflow](https://github.com/ROCmSoftwarePlatform/hiptensorflow) ![alt text][tf] ![alt text][amd] - ROCm/HIP enabled Tensorflow
 * [TensorFlow Fold](https://github.com/tensorflow/fold) ![alt text][tf] - Deep learning with dynamic computation graphs in TensorFlow
+* [tensorlm](https://github.com/batzner/tensorlm) ![alt text][tf] - wrapper library for text generation / language models at char and word level with RNN
+* [TensorLight](https://github.com/bsautermeister/tensorlight) ![alt text][tf]  - a high-level framework for TensorFlow
 
 <a name="dl-theano"></a>
 ### Theano
@@ -175,9 +179,12 @@ Curated list of data science software in Python
 <a name="dl-pytorch"></a>
 ### PyTorch
 * [PyTorch](https://github.com/pytorch/pytorch) ![alt text][pt]  - Tensors and Dynamic neural networks in Python with strong GPU acceleration 
+* [torchvision](https://github.com/pytorch/vision)  ![alt text][pt] - Datasets, Transforms and Models specific to Computer Vision
+* [torchtext](https://github.com/pytorch/text) ![alt text][pt] - Data loaders and abstractions for text and NLP
+* [torchaudio](https://github.com/pytorch/audio) ![alt text][pt] - an audio library for PyTorch
 * [skorch](https://github.com/dnouri/skorch) ![alt text][skl] ![alt text][pt]  - a scikit-learn compatible neural network library that wraps pytorch
 * [PyTorchNet](https://github.com/pytorch/tnt) ![alt text][pt]  - an abstraction to train neural networks
-* [Aorun](https://github.com/ramon-oliveira/aorun) - intend to implement an API similar to Keras with PyTorch as backend.
+* [Aorun](https://github.com/ramon-oliveira/aorun) ![alt text][pt] - intend to implement an API similar to Keras with PyTorch as backend.
 
 <a name="dl-mxnet"></a>
 ### MXNet
@@ -217,6 +224,8 @@ Curated list of data science software in Python
 * [Auralisation](https://github.com/keunwoochoi/Auralisation) - auralisation of learned features in CNN (for audio)
 * [CapsNet-Visualization](https://github.com/bourdakos1/CapsNet-Visualization) - a visualization of the CapsNet layers to better understand how it works
 * [lucid](https://github.com/tensorflow/lucid) - a collection of infrastructure and tools for research in neural network interpretability.
+* [Netron](https://github.com/lutzroeder/Netron) - visualizer for deep learning and machine learning models (no Python code, but visualizes models from most Python Deep Learning frameworks)
+* [FlashLight](https://github.com/dlguys/flashlight) - visualization Tool for your NeuralNetwork
 
 <a name="rl"></a>
 ## Reinforcement Learning
@@ -255,6 +264,7 @@ Curated list of data science software in Python
 * [emcee](https://github.com/dfm/emcee) - The Python ensemble sampling toolkit for affine-invariant MCMC
 * [hsmmlearn](https://github.com/jvkersch/hsmmlearn) - a library for hidden semi-Markov models with explicit durations
 * [pyhsmm](https://github.com/mattjj/pyhsmm) - bayesian inference in HSMMs and HMMs
+* [GPyTorch](https://github.com/cornellius-gp/gpytorch) ![alt text][pt] - a highly efficient and modular implementation of Gaussian Processes in PyTorch 
 * [Bayes](https://github.com/krzjoa/Bayes) ![alt text][skl] - Python implementations of Naive Bayes algorithm variants
 
 <a name="gp"></a>
@@ -373,6 +383,7 @@ Curated list of data science software in Python
 * [minpy](https://github.com/dmlc/minpy) - NumPy interface with mixed backend execution
 * [CuPy](https://github.com/cupy/cupy) - NumPy-like API accelerated with CUDA 
 * [scikit-tensor](https://github.com/mnick/scikit-tensor) - Python library for multilinear algebra and tensor factorizations
+* [numdifftools](https://github.com/pbrod/numdifftools) - solve automatic numerical differentiation problems in one or more variables
 
 <a name="quant"></a>
 ## Quantum Computing
