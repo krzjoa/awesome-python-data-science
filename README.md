@@ -248,8 +248,9 @@ Curated list of data science software in Python
 * [ZhuSuan](http://zhusuan.readthedocs.io/en/latest/) ![alt text][tf] - Bayesian Deep Learning
 * [PyMC](https://github.com/pymc-devs/pymc) - Bayesian Stochastic Modelling in Python
 * [PyMC3](http://docs.pymc.io/) ![alt text][th] - Python package for Bayesian statistical modeling and Probabilistic Machine Learning
+* [sampled](https://github.com/ColCarroll/sampled) - Decorator for reusable models in PyMC3
 * [Edward](http://edwardlib.org/) ![alt text][tf] - A library for probabilistic modeling, inference, and criticism.
-* [InferPy](https://github.com/PGM-Lab/InferPy) - Deep Probabilistic Modelling Made Easy
+* [InferPy](https://github.com/PGM-Lab/InferPy)  ![alt text][tf]  - Deep Probabilistic Modelling Made Easy
 * [GPflow](http://gpflow.readthedocs.io/en/latest/?badge=latest) ![alt text][tf]  - Gaussian processes in TensorFlow
 * [PyStan](https://github.com/stan-dev/pystan) - Bayesian inference using the No-U-Turn sampler (Python interface)
 * [gelato](https://github.com/ferrine/gelato) ![alt text][th] - Bayesian dessert for Lasagne
