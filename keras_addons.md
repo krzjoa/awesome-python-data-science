@@ -3,3 +3,6 @@
 * [Neural Turing Machine](https://github.com/SigmaQuan/NTM-Keras)
 * [Multiplexer](https://github.com/danielegrattarola/keras-multiplexer)
 * [Graph Attention Network](https://github.com/danielegrattarola/keras-gat)
+
+### Optimizers
+* [L4](https://github.com/danielegrattarola/keras-l4)
