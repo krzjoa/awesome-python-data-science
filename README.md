@@ -370,6 +370,7 @@ Curated list of data science software in Python
 * [Alphalens](https://github.com/quantopian/alphalens) - performance analysis of predictive (alpha) stock factors by [Quantopian](https://www.quantopian.com/)
 * [yellowbrick](https://github.com/DistrictDataLabs/yellowbrick) ![alt text][skl]- visual analysis and diagnostic tools to facilitate machine learning model selection
 * [scikit-plot](https://github.com/reiinakano/scikit-plot) ![alt text][skl] - an intuitive library to add plotting functionality to scikit-learn objects
+* [python-ternary](https://github.com/marcharper/python-ternary) - ternary plotting library for python with matplotlib
 * [Lime](https://github.com/marcotcr/lime) ![alt text][skl] - Explaining the predictions of any machine learning classifier
 
 <a name="eval"></a>
