@@ -318,6 +318,8 @@ Curated list of data science software in Python
 ## Computer Vision
 * [OpenCV](https://github.com/opencv/opencv) - Open Source Computer Vision Library
 * [scikit-image](https://github.com/scikit-image/scikit-image) - Image Processing SciKit (Toolbox for SciPy)
+* [imgaug](https://github.com/aleju/imgaug) - image augmentation for machine learning experiments
+* [imgaug_extension](https://github.com/cadenai/imgaug_extension) - additional augmentations for imgaug
 
 <a name="feat-eng"></a>
 ## Feature engineering
