@@ -375,6 +375,7 @@ Curated list of data science software in Python
 * [scikit-plot](https://github.com/reiinakano/scikit-plot) ![alt text][skl] - an intuitive library to add plotting functionality to scikit-learn objects
 * [python-ternary](https://github.com/marcharper/python-ternary) - ternary plotting library for python with matplotlib
 * [Lime](https://github.com/marcotcr/lime) ![alt text][skl] - Explaining the predictions of any machine learning classifier
+* [shap](https://github.com/slundberg/shap) ![alt text][skl] - a unified approach to explain the output of any machine learning model
 
 <a name="eval"></a>
 ## Evaluation
@@ -391,6 +392,11 @@ Curated list of data science software in Python
 * [CuPy](https://github.com/cupy/cupy) - NumPy-like API accelerated with CUDA 
 * [scikit-tensor](https://github.com/mnick/scikit-tensor) - Python library for multilinear algebra and tensor factorizations
 * [numdifftools](https://github.com/pbrod/numdifftools) - solve automatic numerical differentiation problems in one or more variables
+
+<a name="spatial"></a>
+## Spatial analysis
+* [GeoPandas](https://github.com/geopandas/geopandas) - Python tools for geographic data
+* [PySal](https://github.com/pysal/pysal) - Python Spatial Analysis Library 
 
 <a name="quant"></a>
 ## Quantum Computing
