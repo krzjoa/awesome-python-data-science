@@ -134,6 +134,7 @@ Curated list of data science software in Python
 * [XGBoost](https://github.com/dmlc/xgboost) ![alt text][skl] ![alt text][gpu]  - Scalable, Portable and Distributed Gradient Boosting 
 * [LightGBM](https://github.com/Microsoft/LightGBM) ![alt text][skl] ![alt text][gpu] - a fast, distributed, high performance gradient boosting by [Microsoft](https://www.microsoft.com)
 * [CatBoost](https://github.com/catboost/catboost) ![alt text][skl] ![alt text][gpu] - an open-source gradient boosting on decision trees library by [Yandex](https://www.yandex.com/)
+* [InfiniteBoost](https://github.com/arogozhnikov/infiniteboost) - building infinite ensembles with gradient descent
 * [TGBoost](https://github.com/wepe/tgboost) ![alt text][skl] - Tiny Gradient Boosting Tree
 
 <a name="dl"></a>
@@ -393,6 +394,7 @@ Curated list of data science software in Python
 * [CuPy](https://github.com/cupy/cupy) - NumPy-like API accelerated with CUDA 
 * [scikit-tensor](https://github.com/mnick/scikit-tensor) - Python library for multilinear algebra and tensor factorizations
 * [numdifftools](https://github.com/pbrod/numdifftools) - solve automatic numerical differentiation problems in one or more variables
+* [quaternion](https://github.com/moble/quaternion) - Add built-in support for quaternions to numpy
 
 <a name="spatial"></a>
 ## Spatial analysis
