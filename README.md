@@ -56,6 +56,7 @@ Curated list of data science software in Python
 * [Visualization](#vis)
 * [Evaluation](#eval)
 * [Computations](#compt)
+* [Spatial analysis](#spatial)
 * [Quantum computing](#quant)
 * [Conversion](#conv)
 
