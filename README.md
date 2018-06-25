@@ -86,7 +86,8 @@ Curated list of data science software in Python
 * [sklearn-crfsuite](https://github.com/TeamHG-Memex/sklearn-crfsuite) ![alt text][skl] - scikit-learn inspired API for CRFsuite
 * [RuleFit](https://github.com/christophM/rulefit) ![alt text][skl] - implementation of the rulefit 
 * [metric-learn](https://github.com/all-umass/metric-learn) ![alt text][skl]  - metric learning algorithms in Python
-
+* [pyGAM](https://github.com/dswah/pyGAM) - Generalized Additive Models in Python
+* [luminol](https://github.com/linkedin/luminol) - Anomaly Detection and Correlation library
 
 <a name="ml-automl"></a>
 ### Automated machine learning
@@ -188,6 +189,7 @@ Curated list of data science software in Python
 * [skorch](https://github.com/dnouri/skorch) ![alt text][skl] ![alt text][pt]  - a scikit-learn compatible neural network library that wraps pytorch
 * [PyTorchNet](https://github.com/pytorch/tnt) ![alt text][pt]  - an abstraction to train neural networks
 * [Aorun](https://github.com/ramon-oliveira/aorun) ![alt text][pt] - intend to implement an API similar to Keras with PyTorch as backend.
+* [pytorch_geometric](https://github.com/rusty1s/pytorch_geometric) - Geometric Deep Learning Extension Library for PyTorch
 
 <a name="dl-mxnet"></a>
 ### MXNet
@@ -229,6 +231,7 @@ Curated list of data science software in Python
 * [lucid](https://github.com/tensorflow/lucid) - a collection of infrastructure and tools for research in neural network interpretability.
 * [Netron](https://github.com/lutzroeder/Netron) - visualizer for deep learning and machine learning models (no Python code, but visualizes models from most Python Deep Learning frameworks)
 * [FlashLight](https://github.com/dlguys/flashlight) - visualization Tool for your NeuralNetwork
+* [tensorboard-pytorch](https://github.com/lanpa/tensorboard-pytorch) - tensorboard for pytorch (and chainer, mxnet, numpy, ...) 
 
 <a name="rl"></a>
 ## Reinforcement Learning
@@ -295,6 +298,7 @@ Curated list of data science software in Python
 * [PySwarms](https://github.com/ljvmiranda921/pyswarms) - A research toolkit for particle swarm optimization in Python
 * [Platypus](https://github.com/Project-Platypus/Platypus) - A Free and Open Source Python Library for Multiobjective Optimization
 * [GPflowOpt](https://github.com/GPflow/GPflowOpt) ![alt text][tf] - Bayesian Optimization using GPflow
+* [POT](https://github.com/rflamary/POT) - Python Optimal Transport library
 
 <a name="nlp"></a>
 ## Natural Language Processing
@@ -322,6 +326,7 @@ Curated list of data science software in Python
 * [scikit-image](https://github.com/scikit-image/scikit-image) - Image Processing SciKit (Toolbox for SciPy)
 * [imgaug](https://github.com/aleju/imgaug) - image augmentation for machine learning experiments
 * [imgaug_extension](https://github.com/cadenai/imgaug_extension) - additional augmentations for imgaug
+* [Augmentor](https://github.com/mdbloice/Augmentor) - Image augmentation library in Python for machine learning
 
 <a name="feat-eng"></a>
 ## Feature engineering
@@ -378,6 +383,7 @@ Curated list of data science software in Python
 * [python-ternary](https://github.com/marcharper/python-ternary) - ternary plotting library for python with matplotlib
 * [Lime](https://github.com/marcotcr/lime) ![alt text][skl] - Explaining the predictions of any machine learning classifier
 * [shap](https://github.com/slundberg/shap) ![alt text][skl] - a unified approach to explain the output of any machine learning model
+* [Naarad](https://github.com/linkedin/naarad) - framework for performance analysis & rating of sharded & stateful services.
 
 <a name="eval"></a>
 ## Evaluation
@@ -395,6 +401,7 @@ Curated list of data science software in Python
 * [scikit-tensor](https://github.com/mnick/scikit-tensor) - Python library for multilinear algebra and tensor factorizations
 * [numdifftools](https://github.com/pbrod/numdifftools) - solve automatic numerical differentiation problems in one or more variables
 * [quaternion](https://github.com/moble/quaternion) - Add built-in support for quaternions to numpy
+* [adaptive](https://github.com/python-adaptive/adaptive) - Tools for adaptive and parallel samping of mathematical functions
 
 <a name="spatial"></a>
 ## Spatial analysis
