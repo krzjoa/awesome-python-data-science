@@ -186,10 +186,11 @@ Curated list of data science software in Python
 * [torchvision](https://github.com/pytorch/vision)  ![alt text][pt] - Datasets, Transforms and Models specific to Computer Vision
 * [torchtext](https://github.com/pytorch/text) ![alt text][pt] - Data loaders and abstractions for text and NLP
 * [torchaudio](https://github.com/pytorch/audio) ![alt text][pt] - an audio library for PyTorch
+* [PyToune](https://github.com/GRAAL-Research/pytoune) - a Keras-like framework and utilities for PyTorch
 * [skorch](https://github.com/dnouri/skorch) ![alt text][skl] ![alt text][pt]  - a scikit-learn compatible neural network library that wraps pytorch
 * [PyTorchNet](https://github.com/pytorch/tnt) ![alt text][pt]  - an abstraction to train neural networks
 * [Aorun](https://github.com/ramon-oliveira/aorun) ![alt text][pt] - intend to implement an API similar to Keras with PyTorch as backend.
-* [pytorch_geometric](https://github.com/rusty1s/pytorch_geometric) - Geometric Deep Learning Extension Library for PyTorch
+* [pytorch_geometric](https://github.com/rusty1s/pytorch_geometric) ![alt text][pt] - Geometric Deep Learning Extension Library for PyTorch
 
 <a name="dl-mxnet"></a>
 ### MXNet
@@ -223,6 +224,7 @@ Curated list of data science software in Python
 * [Tangent](https://github.com/google/tangent) - Source-to-Source Debuggable Derivatives in Pure Python
 * [autograd](https://github.com/HIPS/autograd) - Efficiently computes derivatives of numpy code
 * [Myia](https://github.com/mila-udem/myia) - deep learning framework (pre-alpha)
+* [nnabla](https://github.com/sony/nnabla) - Neural Network Libraries by Sony
 
 <a name="dl-visualization"></a>
 ### Model explanation
@@ -336,6 +338,9 @@ Curated list of data science software in Python
 * [Feature Forge](https://github.com/machinalis/featureforge) ![alt text][skl] - a set of tools for creating and testing machine learning feature
 * [boruta_py](https://github.com/scikit-learn-contrib/boruta_py) ![alt text][skl] -  implementations of the Boruta all-relevant feature selection method
 * [BoostARoota](https://github.com/chasedehan/BoostARoota) ![alt text][skl] - a fast xgboost feature selection algorithm
+* [few](https://github.com/lacava/few) ![alt text][skl] - a feature engineering wrapper for sklearn
+* [scikit-rebate](https://github.com/EpistasisLab/scikit-rebate) ![alt text][skl] - a scikit-learn-compatible Python implementation of ReBATE, a suite of Relief-based feature selection algorithms for Machine Learning
+* [scikit-mdr](https://github.com/EpistasisLab/scikit-mdr) ![alt text][skl] - a sklearn-compatible Python implementation of Multifactor Dimensionality Reduction (MDR) for feature construction.
 
 <a name="pipe"></a>
 ## Data manipulation & pipelines
