@@ -186,6 +186,7 @@ Curated list of data science software in Python
 * [torchvision](https://github.com/pytorch/vision)  ![alt text][pt] - Datasets, Transforms and Models specific to Computer Vision
 * [torchtext](https://github.com/pytorch/text) ![alt text][pt] - Data loaders and abstractions for text and NLP
 * [torchaudio](https://github.com/pytorch/audio) ![alt text][pt] - an audio library for PyTorch
+* [ignite](https://github.com/pytorch/ignite) ![alt text][pt]  - high-level library to help with training neural networks in PyTorch 
 * [PyToune](https://github.com/GRAAL-Research/pytoune) - a Keras-like framework and utilities for PyTorch
 * [skorch](https://github.com/dnouri/skorch) ![alt text][skl] ![alt text][pt]  - a scikit-learn compatible neural network library that wraps pytorch
 * [PyTorchNet](https://github.com/pytorch/tnt) ![alt text][pt]  - an abstraction to train neural networks
@@ -283,6 +284,7 @@ Curated list of data science software in Python
 * [DEAP](https://github.com/DEAP/deap) - Distributed Evolutionary Algorithms in Python 
 * [karoo_gp](https://github.com/kstaats/karoo_gp) ![alt text][tf] - A Genetic Programming platform for Python with GPU support
 * [monkeys](https://github.com/hchasestevens/monkeys) - A strongly-typed genetic programming framework for Python
+* [sklearn-genetic](https://github.com/manuel-calzolari/sklearn-genetic) ![alt text][skl] - Genetic feature selection module for scikit-learn
 
 <a name="opt"></a>
 ## Optimization
@@ -360,6 +362,7 @@ Curated list of data science software in Python
 * [pysparkling](https://github.com/svenkreiss/pysparkling) ![alt text][sp] - a pure Python implementation of Apache Spark's RDD and DStream interfaces
 * [quinn](https://github.com/MrPowers/quinn) ![alt text][sp]  - pyspark methods to enhance developer productivity
 * [Dataset](https://github.com/analysiscenter/dataset) - helps you conveniently work with random or sequential batches of your data and define data processing
+* [swifter](https://github.com/jmcarpenter2/swifter) - a package which efficiently applies any function to a pandas dataframe or series in the fastest available manner
 
 <a name="stat"></a>
 ## Statistics
