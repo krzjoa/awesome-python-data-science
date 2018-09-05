@@ -198,6 +198,8 @@ Curated list of data science software in Python
 * [MXNet](https://github.com/apache/incubator-mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler
 * [Gluon](https://github.com/gluon-api/gluon-api) - a clear, concise, simple yet powerful and efficient API for deep learning (now included in MXNet)
 * [MXbox](https://github.com/Lyken17/mxbox) - simple, efficient and flexible vision toolbox for mxnet framework.
+* [gluon-cv](https://github.com/dmlc/gluon-cv) - provides implementations of the state-of-the-art  deep learning models in computer vision.
+* [gluon-nlp](https://github.com/dmlc/gluon-nlp) - NLP made easy 
 * [MXNet](https://github.com/ROCmSoftwarePlatform/mxnet) ![alt text][amd]  - HIP Port of MXNet
 
 <a name="dl-caffe"></a>
