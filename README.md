@@ -322,6 +322,7 @@ Curated list of data science software in Python
 * [Platypus](https://github.com/Project-Platypus/Platypus) - A Free and Open Source Python Library for Multiobjective Optimization
 * [GPflowOpt](https://github.com/GPflow/GPflowOpt) ![alt text][tf] - Bayesian Optimization using GPflow
 * [POT](https://github.com/rflamary/POT) - Python Optimal Transport library
+* [Talos](https://github.com/autonomio/talos) - Hyperparameter Optimization for Keras Models
 
 <a name="nlp"></a>
 ## Natural Language Processing
@@ -350,6 +351,7 @@ Curated list of data science software in Python
 * [imgaug](https://github.com/aleju/imgaug) - image augmentation for machine learning experiments
 * [imgaug_extension](https://github.com/cadenai/imgaug_extension) - additional augmentations for imgaug
 * [Augmentor](https://github.com/mdbloice/Augmentor) - Image augmentation library in Python for machine learning
+* [albumentations](https://github.com/albu/albumentations) - fast image augmentation library and easy to use wrapper around other libraries 
 
 <a name="feat-eng"></a>
 ## Feature engineering
@@ -362,6 +364,7 @@ Curated list of data science software in Python
 * [few](https://github.com/lacava/few) ![alt text][skl] - a feature engineering wrapper for sklearn
 * [scikit-rebate](https://github.com/EpistasisLab/scikit-rebate) ![alt text][skl] - a scikit-learn-compatible Python implementation of ReBATE, a suite of Relief-based feature selection algorithms for Machine Learning
 * [scikit-mdr](https://github.com/EpistasisLab/scikit-mdr) ![alt text][skl] - a sklearn-compatible Python implementation of Multifactor Dimensionality Reduction (MDR) for feature construction.
+* [tsfresh](https://github.com/blue-yonder/tsfresh) ![alt text][skl] - Automatic extraction of relevant features from time series
 
 <a name="pipe"></a>
 ## Data manipulation & pipelines
