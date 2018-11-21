@@ -167,6 +167,7 @@ Curated list of data science software in Python
 * [TensorFlow Fold](https://github.com/tensorflow/fold) ![alt text][tf] - Deep learning with dynamic computation graphs in TensorFlow
 * [tensorlm](https://github.com/batzner/tensorlm) ![alt text][tf] - wrapper library for text generation / language models at char and word level with RNN
 * [TensorLight](https://github.com/bsautermeister/tensorlight) ![alt text][tf]  - a high-level framework for TensorFlow
+* [Mesh TensorFlow](https://github.com/tensorflow/mesh) ![alt text][tf] - Model Parallelism Made Easier
 
 <a name="dl-theano"></a>
 ### Theano
@@ -251,7 +252,7 @@ Curated list of data science software in Python
 * [pyBreakDown](https://github.com/MI2DataLab/pyBreakDown) ![alt text][skl] - Python implementation of R package breakDown
 * [PyCEbox](https://github.com/AustinRochford/PyCEbox) - Python Individual Conditional Expectation Plot Toolbox
 * [Skater](https://github.com/datascienceinc/Skater) - Python Library for Model Interpretation
-* [tensorflow/model-analysis](https://github.com/tensorflow/model-analysis) - Model analysis tools for TensorFlow
+* [tensorflow/model-analysis](https://github.com/tensorflow/model-analysis) ![alt text][tf] - Model analysis tools for TensorFlow
 * [themis-ml](https://github.com/cosmicBboy/themis-ml) ![alt text][skl] - a library that implements fairness-aware machine learning algorithms
 * [treeinterpreter](https://github.com/andosa/treeinterpreter) [alt text][skl] -interpreting scikit-learn's decision tree and random forest predictions
 
@@ -332,6 +333,7 @@ Curated list of data science software in Python
 * [PSI-Toolkit](http://psi-toolkit.amu.edu.pl/) - a natural language processing toolkit by [Adam Mickiewicz University](https://zpjn.wmi.amu.edu.pl/en/) in Poznań
 * [pyMorfologik](https://github.com/dmirecki/pyMorfologik) - Python binding for [Morfologik](https://github.com/morfologik/morfologik-stemming) (Polish morphological analyzer)
 * [skift](https://github.com/shaypal5/skift) ![alt text][skl] - scikit-learn wrappers for Python fastText.
+* [Phonemizer](https://github.com/bootphon/phonemizer) - Simple text to phonemes converter for multiple languages
 
 <a name="ca"></a>
 ## Computer Audition
