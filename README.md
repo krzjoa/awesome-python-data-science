@@ -311,7 +311,7 @@ Curated list of data science software in Python
 * [Spearmint](https://github.com/HIPS/Spearmint) - Bayesian optimization 
 * [SMAC3](https://github.com/automl/SMAC3) - Sequential Model-based Algorithm Configuration 
 * [Optunity](https://github.com/claesenm/optunity) - is a library containing various optimizers for hyperparameter tuning. 
-* [htperopt](https://github.com/hyperopt/hyperopt) - Distributed Asynchronous Hyperparameter Optimization in Python
+* [hyperopt](https://github.com/hyperopt/hyperopt) - Distributed Asynchronous Hyperparameter Optimization in Python
 * [hyperopt-sklearn](https://github.com/hyperopt/hyperopt-sklearn) ![alt text][skl]  - hyper-parameter optimization for sklearn 
 * [sklearn-deap](https://github.com/rsteca/sklearn-deap) ![alt text][skl] - use evolutionary algorithms instead of gridsearch in scikit-learn
 * [sigopt_sklearn](https://github.com/sigopt/sigopt_sklearn) ![alt text][skl] - SigOpt wrappers for scikit-learn methods
