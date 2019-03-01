@@ -129,12 +129,14 @@ Curated list of data science software in Python
 * [tffm](https://github.com/geffy/tffm) ![alt text][skl] ![alt text][tf] - TensorFlow implementation of an arbitrary order Factorization Machine
 * [liquidSVM](https://github.com/liquidSVM/liquidSVM) - an implementation of SVMs
 * [scikit-rvm](https://github.com/JamesRitchie/scikit-rvm) ![alt text][skl] - Relevance Vector Machine implementation using the scikit-learn API
+* [TThunderSVM](https://github.com/Xtra-Computing/thundersvm) ![alt text][skl] ![alt text][gpu] - a fast SVM Library on GPUs and CPUs
 
 <a name="ml-gbt"></a>
 ### Gradient boosting
 * [XGBoost](https://github.com/dmlc/xgboost) ![alt text][skl] ![alt text][gpu]  - Scalable, Portable and Distributed Gradient Boosting 
 * [LightGBM](https://github.com/Microsoft/LightGBM) ![alt text][skl] ![alt text][gpu] - a fast, distributed, high performance gradient boosting by [Microsoft](https://www.microsoft.com)
 * [CatBoost](https://github.com/catboost/catboost) ![alt text][skl] ![alt text][gpu] - an open-source gradient boosting on decision trees library by [Yandex](https://www.yandex.com/)
+* [ThunderGBM](https://github.com/Xtra-Computing/thundergbm) ![alt text][skl] ![alt text][gpu] - Fast GBDTs and Random Forests on GPUs
 * [InfiniteBoost](https://github.com/arogozhnikov/infiniteboost) - building infinite ensembles with gradient descent
 * [TGBoost](https://github.com/wepe/tgboost) ![alt text][skl] - Tiny Gradient Boosting Tree
 
@@ -150,10 +152,11 @@ Curated list of data science software in Python
 * [Hera](https://github.com/keplr-io/hera) - Train/evaluate a Keras model, get metrics streamed to a dashboard in your browser.
 * [dist-keras](https://github.com/cerndb/dist-keras) ![alt text][sp] - Distributed Deep Learning, with a focus on distributed training
 * [Conx](https://github.com/Calysto/conx) - The On-Ramp to Deep Learning
+* [Spektral](https://github.com/danielegrattarola/spektral) - deep learning on graphs
 * [Keras add-ons...](https://github.com/krzjoa/awesome-python-datascience/blob/master/keras_addons.md)
 
 <a name="dl-tf"></a>
-### Tensorflow
+### TensorFlow
 * [TensorFlow](https://github.com/tensorflow/tensorflow) ![alt text][tf] - omputation using data flow graphs for scalable machine learning by Google
 * [TensorLayer](https://github.com/zsdonghao/tensorlayer) ![alt text][tf] - Deep Learning and Reinforcement Learning Library for Researcher and Engineer.
 * [TFLearn](https://github.com/tflearn/tflearn) ![alt text][tf] - Deep learning library featuring a higher-level API for TensorFlow
@@ -168,6 +171,7 @@ Curated list of data science software in Python
 * [tensorlm](https://github.com/batzner/tensorlm) ![alt text][tf] - wrapper library for text generation / language models at char and word level with RNN
 * [TensorLight](https://github.com/bsautermeister/tensorlight) ![alt text][tf]  - a high-level framework for TensorFlow
 * [Mesh TensorFlow](https://github.com/tensorflow/mesh) ![alt text][tf] - Model Parallelism Made Easier
+* [Ludwig](https://github.com/uber/ludwig) ![alt text][tf] - a toolbox, that allows to train and test deep learning models without the need to write code.
 
 <a name="dl-theano"></a>
 ### Theano
