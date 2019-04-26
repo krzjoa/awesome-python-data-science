@@ -88,6 +88,7 @@ Curated list of data science software in Python
 * [metric-learn](https://github.com/all-umass/metric-learn) ![alt text][skl]  - metric learning algorithms in Python
 * [pyGAM](https://github.com/dswah/pyGAM) - Generalized Additive Models in Python
 * [luminol](https://github.com/linkedin/luminol) - Anomaly Detection and Correlation library
+* [fklearn](https://github.com/nubank/fklearn) - 
 
 <a name="ml-automl"></a>
 ### Automated machine learning
@@ -328,6 +329,7 @@ Curated list of data science software in Python
 * [GPflowOpt](https://github.com/GPflow/GPflowOpt) ![alt text][tf] - Bayesian Optimization using GPflow
 * [POT](https://github.com/rflamary/POT) - Python Optimal Transport library
 * [Talos](https://github.com/autonomio/talos) - Hyperparameter Optimization for Keras Models
+* [nlopt](https://github.com/stevengj/nlopt) - library for nonlinear optimization (global and local, constrained or unconstrained)
 
 <a name="nlp"></a>
 ## Natural Language Processing
@@ -338,6 +340,7 @@ Curated list of data science software in Python
 * [pyMorfologik](https://github.com/dmirecki/pyMorfologik) - Python binding for [Morfologik](https://github.com/morfologik/morfologik-stemming) (Polish morphological analyzer)
 * [skift](https://github.com/shaypal5/skift) ![alt text][skl] - scikit-learn wrappers for Python fastText.
 * [Phonemizer](https://github.com/bootphon/phonemizer) - Simple text to phonemes converter for multiple languages
+* [flair](https://github.com/zalandoresearch/flair) - very simple framework for state-of-the-art NLP by [Zalando Research](https://research.zalando.com/)
 
 <a name="ca"></a>
 ## Computer Audition
@@ -420,6 +423,7 @@ Curated list of data science software in Python
 
 <a name="eval"></a>
 ## Evaluation
+* [recmetrics](https://github.com/statisticianinstilettos/recmetrics) - library of useful metrics and plots for evaluating recommender systems
 * [kaggle-metrics](https://github.com/krzjoa/kaggle-metrics) - Metrics for Kaggle competitions
 * [Metrics](https://github.com/benhamner/Metrics) - machine learning evaluation metric
 * [sklearn-evaluation](https://github.com/edublancas/sklearn-evaluation) - scikit-learn model evaluation made easy: plots, tables and markdown reports
