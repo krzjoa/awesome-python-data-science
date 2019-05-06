@@ -237,6 +237,7 @@ Curated list of data science software in Python
 
 <a name="expl"></a>
 ## Model explanation
+* [Alibi](https://github.com/SeldonIO/alibi) - 
 * [Auralisation](https://github.com/keunwoochoi/Auralisation) - auralisation of learned features in CNN (for audio)
 * [CapsNet-Visualization](https://github.com/bourdakos1/CapsNet-Visualization) - a visualization of the CapsNet layers to better understand how it works
 * [lucid](https://github.com/tensorflow/lucid) - a collection of infrastructure and tools for research in neural network interpretability.
