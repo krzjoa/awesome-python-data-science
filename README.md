@@ -206,6 +206,7 @@ Curated list of data science software in Python
 * [MXbox](https://github.com/Lyken17/mxbox) - simple, efficient and flexible vision toolbox for mxnet framework.
 * [gluon-cv](https://github.com/dmlc/gluon-cv) - provides implementations of the state-of-the-art  deep learning models in computer vision.
 * [gluon-nlp](https://github.com/dmlc/gluon-nlp) - NLP made easy 
+* [Xfer](https://github.com/amzn/xfer) - Transfer Learning library for Deep Neural Networks
 * [MXNet](https://github.com/ROCmSoftwarePlatform/mxnet) ![alt text][amd]  - HIP Port of MXNet
 
 <a name="dl-caffe"></a>
@@ -261,6 +262,7 @@ Curated list of data science software in Python
 * [tensorflow/model-analysis](https://github.com/tensorflow/model-analysis) ![alt text][tf] - Model analysis tools for TensorFlow
 * [themis-ml](https://github.com/cosmicBboy/themis-ml) ![alt text][skl] - a library that implements fairness-aware machine learning algorithms
 * [treeinterpreter](https://github.com/andosa/treeinterpreter) [alt text][skl] -interpreting scikit-learn's decision tree and random forest predictions
+* [mxboard](https://github.com/awslabs/mxboard) - Logging MXNet data for visualization in TensorBoard
 
 <a name="rl"></a>
 ## Reinforcement Learning
@@ -302,6 +304,7 @@ Curated list of data science software in Python
 * [hsmmlearn](https://github.com/jvkersch/hsmmlearn) - a library for hidden semi-Markov models with explicit durations
 * [pyhsmm](https://github.com/mattjj/pyhsmm) - bayesian inference in HSMMs and HMMs
 * [GPyTorch](https://github.com/cornellius-gp/gpytorch) ![alt text][pt] - a highly efficient and modular implementation of Gaussian Processes in PyTorch 
+* [MXFusion](https://github.com/amzn/MXFusion) - Modular Probabilistic Programming on MXNet
 * [Bayes](https://github.com/krzjoa/Bayes) ![alt text][skl] - Python implementations of Naive Bayes algorithm variants
 
 <a name="gp"></a>
@@ -396,6 +399,7 @@ Curated list of data science software in Python
 * [quinn](https://github.com/MrPowers/quinn) ![alt text][sp]  - pyspark methods to enhance developer productivity
 * [Dataset](https://github.com/analysiscenter/dataset) - helps you conveniently work with random or sequential batches of your data and define data processing
 * [swifter](https://github.com/jmcarpenter2/swifter) - a package which efficiently applies any function to a pandas dataframe or series in the fastest available manner
+* [datatable](https://github.com/h2oai/datatable) - data.table for Python
 
 <a name="stat"></a>
 ## Statistics
@@ -411,6 +415,7 @@ Curated list of data science software in Python
 * [Sacred](https://github.com/IDSIA/sacred) - a tool to help you configure, organize, log and reproduce experiments by [IDSIA](http://www.idsia.ch/)
 * [Xcessiv](https://github.com/reiinakano/xcessiv) - a web-based application for quick, scalable, and automated hyperparameter tuning and stacked ensembling
 * [Persimmon](https://github.com/AlvarBer/Persimmon)  ![alt text][skl] - A visual dataflow programming language for sklearn
+* [Ax](https://github.com/facebook/Ax) - Adaptive Experimentation Platform  
 
 <a name="vis"></a>
 ## Visualization
