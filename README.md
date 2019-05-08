@@ -19,7 +19,7 @@ Curated list of data science software in Python
 ![alt text][pt] - [PyTorch](http://pytorch.org/) based project <br/>
 ![alt text][cp] - [CuPy](https://github.com/cupy/cupy/) based project <br/>
 ![alt text][R] - [R](https://www.r-project.org/about.html) inspired/ported lib<br/>
-![alt text][mx] - [MXNet](https://mxnet.apache.org/ based project <br/>
+![alt text][mx] - [MXNet](https://mxnet.apache.org/) based project <br/>
 ![alt text][sp] - [Apache Spark](https://spark.apache.org/) based project <br/>
 ![alt text][gpu] - GPU-accelerated computations (if not based on Theano, Tensorflow, PyTorch or CuPy)  <br/>
 ![alt text][amd] - possible to run on [AMD](http://www.amd.com/en/home) GPU
@@ -263,9 +263,9 @@ Curated list of data science software in Python
 * [pyBreakDown](https://github.com/MI2DataLab/pyBreakDown) ![alt text][skl] - Python implementation of R package breakDown
 * [PyCEbox](https://github.com/AustinRochford/PyCEbox) - Python Individual Conditional Expectation Plot Toolbox
 * [Skater](https://github.com/datascienceinc/Skater) - Python Library for Model Interpretation
-* [tensorflow/model-analysis](https://github.com/tensorflow/model-analysis) ![alt text][tf] - Model analysis tools for TensorFlow
+* [model-analysis](https://github.com/tensorflow/model-analysis) ![alt text][tf] - Model analysis tools for TensorFlow
 * [themis-ml](https://github.com/cosmicBboy/themis-ml) ![alt text][skl] - a library that implements fairness-aware machine learning algorithms
-* [treeinterpreter](https://github.com/andosa/treeinterpreter) [alt text][skl] -interpreting scikit-learn's decision tree and random forest predictions
+* [treeinterpreter](https://github.com/andosa/treeinterpreter) ![alt text][skl] -interpreting scikit-learn's decision tree and random forest predictions
 * [mxboard](https://github.com/awslabs/mxboard) - Logging MXNet data for visualization in TensorBoard
 
 <a name="rl"></a>
