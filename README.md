@@ -6,6 +6,8 @@ Curated list of data science software in Python
 [tf]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/tf.png "TensorFlow based" 
 [pt]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/pytorch.png "PyTorch based" 
 [cp]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/cupy.png "CuPy based"
+[mx]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/mxnet.png "MXNet based"
+[R]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/R.png "R inspired/ported lib"
 [gpu]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/gpu.png "GPU accelerated"
 [sp]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/spark.png "Apache Spark based"
 [amd]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/amd.png "AMD based"
@@ -16,6 +18,8 @@ Curated list of data science software in Python
 ![alt text][tf] - [TensorFlow](https://www.tensorflow.org/) based project <br/>
 ![alt text][pt] - [PyTorch](http://pytorch.org/) based project <br/>
 ![alt text][cp] - [CuPy](https://github.com/cupy/cupy/) based project <br/>
+![alt text][R] - [R](https://www.r-project.org/about.html) inspired/ported lib<br/>
+![alt text][mx] - [MXNet](https://mxnet.apache.org/ based project <br/>
 ![alt text][sp] - [Apache Spark](https://spark.apache.org/) based project <br/>
 ![alt text][gpu] - GPU-accelerated computations (if not based on Theano, Tensorflow, PyTorch or CuPy)  <br/>
 ![alt text][amd] - possible to run on [AMD](http://www.amd.com/en/home) GPU
@@ -201,13 +205,13 @@ Curated list of data science software in Python
 
 <a name="dl-mxnet"></a>
 ### MXNet
-* [MXNet](https://github.com/apache/incubator-mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler
-* [Gluon](https://github.com/gluon-api/gluon-api) - a clear, concise, simple yet powerful and efficient API for deep learning (now included in MXNet)
-* [MXbox](https://github.com/Lyken17/mxbox) - simple, efficient and flexible vision toolbox for mxnet framework.
-* [gluon-cv](https://github.com/dmlc/gluon-cv) - provides implementations of the state-of-the-art  deep learning models in computer vision.
-* [gluon-nlp](https://github.com/dmlc/gluon-nlp) - NLP made easy 
-* [Xfer](https://github.com/amzn/xfer) - Transfer Learning library for Deep Neural Networks
-* [MXNet](https://github.com/ROCmSoftwarePlatform/mxnet) ![alt text][amd]  - HIP Port of MXNet
+* [MXNet](https://github.com/apache/incubator-mxnet) ![alt text][mx] - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler
+* [Gluon](https://github.com/gluon-api/gluon-api) ![alt text][mx] - a clear, concise, simple yet powerful and efficient API for deep learning (now included in MXNet)
+* [MXbox](https://github.com/Lyken17/mxbox) ![alt text][mx] - simple, efficient and flexible vision toolbox for mxnet framework.
+* [gluon-cv](https://github.com/dmlc/gluon-cv) ![alt text][mx] - provides implementations of the state-of-the-art  deep learning models in computer vision.
+* [gluon-nlp](https://github.com/dmlc/gluon-nlp) ![alt text][mx] - NLP made easy 
+* [Xfer](https://github.com/amzn/xfer) ![alt text][mx] - Transfer Learning library for Deep Neural Networks
+* [MXNet](https://github.com/ROCmSoftwarePlatform/mxnet) ![alt text][mx] ![alt text][amd]  - HIP Port of MXNet
 
 <a name="dl-caffe"></a>
 ### Caffe
@@ -304,7 +308,7 @@ Curated list of data science software in Python
 * [hsmmlearn](https://github.com/jvkersch/hsmmlearn) - a library for hidden semi-Markov models with explicit durations
 * [pyhsmm](https://github.com/mattjj/pyhsmm) - bayesian inference in HSMMs and HMMs
 * [GPyTorch](https://github.com/cornellius-gp/gpytorch) ![alt text][pt] - a highly efficient and modular implementation of Gaussian Processes in PyTorch 
-* [MXFusion](https://github.com/amzn/MXFusion) - Modular Probabilistic Programming on MXNet
+* [MXFusion](https://github.com/amzn/MXFusion) ![alt text][mx] - Modular Probabilistic Programming on MXNet
 * [Bayes](https://github.com/krzjoa/Bayes) ![alt text][skl] - Python implementations of Naive Bayes algorithm variants
 
 <a name="gp"></a>
@@ -318,6 +322,7 @@ Curated list of data science software in Python
 <a name="opt"></a>
 ## Optimization
 * [Spearmint](https://github.com/HIPS/Spearmint) - Bayesian optimization 
+* [BoTorch](https://github.com/pytorch/botorch) ![alt text][pt] - Bayesian optimization in PyTorch 
 * [SMAC3](https://github.com/automl/SMAC3) - Sequential Model-based Algorithm Configuration 
 * [Optunity](https://github.com/claesenm/optunity) - is a library containing various optimizers for hyperparameter tuning. 
 * [hyperopt](https://github.com/hyperopt/hyperopt) - Distributed Asynchronous Hyperparameter Optimization in Python
@@ -394,12 +399,12 @@ Curated list of data science software in Python
 * [SSPipe](https://sspipe.github.io/) - Python pipe (|) operator with support for DataFrames and Numpy and Pytorch
 * [meza](https://github.com/reubano/meza) - a Python toolkit for processing tabular data
 * [pandas-ply](https://github.com/coursera/pandas-ply) - functional data manipulation for pandas
-* [Dplython](https://github.com/dodger487/dplython) - Dplyr for Python
+* [Dplython](https://github.com/dodger487/dplython) ![alt text][R] - Dplyr for Python
 * [pysparkling](https://github.com/svenkreiss/pysparkling) ![alt text][sp] - a pure Python implementation of Apache Spark's RDD and DStream interfaces
 * [quinn](https://github.com/MrPowers/quinn) ![alt text][sp]  - pyspark methods to enhance developer productivity
 * [Dataset](https://github.com/analysiscenter/dataset) - helps you conveniently work with random or sequential batches of your data and define data processing
 * [swifter](https://github.com/jmcarpenter2/swifter) - a package which efficiently applies any function to a pandas dataframe or series in the fastest available manner
-* [datatable](https://github.com/h2oai/datatable) - data.table for Python
+* [datatable](https://github.com/h2oai/datatable) ![alt text][R] - data.table for Python
 
 <a name="stat"></a>
 ## Statistics
