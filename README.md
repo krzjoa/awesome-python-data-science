@@ -11,9 +11,11 @@ Curated list of data science software in Python
 [gpu]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/gpu.png "GPU accelerated"
 [sp]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/spark.png "Apache Spark based"
 [amd]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/amd.png "AMD based"
+[pd]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/amd.png "pandas based"
 
 ###### Legend:
 ![alt text][skl] - [scikit-learn](http://scikit-learn.org/stable/) compatible (or inspired) API <br/>
+![alt text][pd] - [pandas](https://github.com/pandas-dev/pandas) compatible or based on <br/>
 ![alt text][th] - [Theano](http://deeplearning.net/software/theano/) based project <br/>
 ![alt text][tf] - [TensorFlow](https://www.tensorflow.org/) based project <br/>
 ![alt text][pt] - [PyTorch](http://pytorch.org/) based project <br/>
@@ -21,7 +23,7 @@ Curated list of data science software in Python
 ![alt text][R] - [R](https://www.r-project.org/about.html) inspired/ported lib<br/>
 ![alt text][mx] - [MXNet](https://mxnet.apache.org/) based project <br/>
 ![alt text][sp] - [Apache Spark](https://spark.apache.org/) based project <br/>
-![alt text][gpu] - GPU-accelerated computations (if not based on Theano, Tensorflow, PyTorch or CuPy)  <br/>
+![alt text][gpu] - GPU-accelerated computations (if not based on Theano, Tensorflow, PyTorch, CuPy etc.)  <br/>
 ![alt text][amd] - possible to run on [AMD](http://www.amd.com/en/home) GPU
 
 #### Table of contents: 
@@ -387,18 +389,18 @@ Curated list of data science software in Python
 <a name="pipe"></a>
 ## Data manipulation & pipelines
 * [pandas](https://pandas.pydata.org/pandas-docs/stable/) - powerful Python data analysis toolkit
-* [sklearn-pandas](https://github.com/scikit-learn-contrib/sklearn-pandas) ![alt text][skl]  - Pandas integration with sklearn
-* [alexander](https://github.com/annoys-parrot/alexander) ![alt text][skl] - wrapper that aims to make scikit-learn fully compatible with pandas
-* [blaze](https://github.com/blaze/blaze) - NumPy and Pandas interface to Big Data
-* [pandasql](https://github.com/yhat/pandasql) -  allows you to query pandas DataFrames using SQL syntax
-* [pandas-gbq](https://github.com/pydata/pandas-gbq) - Pandas Google Big Query
+* [sklearn-pandas](https://github.com/scikit-learn-contrib/sklearn-pandas) ![alt text][skl] ![alt text][pd]  - Pandas integration with sklearn
+* [alexander](https://github.com/annoys-parrot/alexander) ![alt text][skl] ![alt text][pd] - wrapper that aims to make scikit-learn fully compatible with pandas
+* [blaze](https://github.com/blaze/blaze) ![alt text][pd] - NumPy and Pandas interface to Big Data
+* [pandasql](https://github.com/yhat/pandasql) ![alt text][pd] -  allows you to query pandas DataFrames using SQL syntax
+* [pandas-gbq](https://github.com/pydata/pandas-gbq) ![alt text][pd] - Pandas Google Big Query
 * [xpandas](https://github.com/alan-turing-institute/xpandas) - universal 1d/2d data containers with Transformers functionality for data analysis by [The Alan Turing Institute](https://www.turing.ac.uk/)
 * [Fuel](https://github.com/mila-udem/fuel) - data pipeline framework for machine learning
 * [Arctic](https://github.com/manahl/arctic) - high performance datastore for time series and tick data
 * [pdpipe](https://github.com/shaypal5/pdpipe) - sasy pipelines for pandas DataFrames.
 * [SSPipe](https://sspipe.github.io/) - Python pipe (|) operator with support for DataFrames and Numpy and Pytorch
 * [meza](https://github.com/reubano/meza) - a Python toolkit for processing tabular data
-* [pandas-ply](https://github.com/coursera/pandas-ply) - functional data manipulation for pandas
+* [pandas-ply](https://github.com/coursera/pandas-ply) ![alt text][pd] - functional data manipulation for pandas
 * [Dplython](https://github.com/dodger487/dplython) ![alt text][R] - Dplyr for Python
 * [pysparkling](https://github.com/svenkreiss/pysparkling) ![alt text][sp] - a pure Python implementation of Apache Spark's RDD and DStream interfaces
 * [quinn](https://github.com/MrPowers/quinn) ![alt text][sp]  - pyspark methods to enhance developer productivity
@@ -442,7 +444,7 @@ Curated list of data science software in Python
 <a name="compt"></a>
 ## Computations
 * [numpy](http://www.numpy.org/) - the fundamental package needed for scientific computing with Python.
-* [Dask](https://github.com/dask/dask) - parallel computing with task scheduling 
+* [Dask](https://github.com/dask/dask) ![alt text][pd]  - parallel computing with task scheduling 
 * [bottleneck](https://github.com/kwgoodman/bottleneck) - Fast NumPy array functions written in C
 * [minpy](https://github.com/dmlc/minpy) - NumPy interface with mixed backend execution
 * [CuPy](https://github.com/cupy/cupy) - NumPy-like API accelerated with CUDA 
@@ -453,7 +455,7 @@ Curated list of data science software in Python
 
 <a name="spatial"></a>
 ## Spatial analysis
-* [GeoPandas](https://github.com/geopandas/geopandas) - Python tools for geographic data
+* [GeoPandas](https://github.com/geopandas/geopandas) ![alt text][pd] - Python tools for geographic data
 * [PySal](https://github.com/pysal/pysal) - Python Spatial Analysis Library 
 
 <a name="quant"></a>
