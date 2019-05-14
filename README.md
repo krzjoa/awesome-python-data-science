@@ -11,7 +11,7 @@ Curated list of data science software in Python
 [gpu]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/gpu.png "GPU accelerated"
 [sp]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/spark.png "Apache Spark based"
 [amd]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/amd.png "AMD based"
-[pd]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/pd.png "pandas based"
+[pd]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/pandas.png "pandas based"
 
 ###### Legend:
 ![alt text][skl] - [scikit-learn](http://scikit-learn.org/stable/) compatible (or inspired) API <br/>
