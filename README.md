@@ -29,6 +29,7 @@ Curated list of data science software in Python
 #### Table of contents: 
 * [Machine Learning](#ml)
   * [General Purpouse ML](#ml-gen)
+  * [Ensemble methods](#ml-ts)
   * [Automated Machine Learning](#ml-automl)
   * [Ensemble methods](#ml-ens)
   * [Imbalanced datasets](#imb)
@@ -80,11 +81,9 @@ Curated list of data science software in Python
 * [mlpack](https://github.com/mlpack/mlpack) - a scalable C++ machine learning library (Python bindings)
 * [dlib](https://github.com/davisking/dlib) - A toolkit for making real world machine learning and data analysis applications in C++ (Python bindings)
 * [MLxtend](https://github.com/rasbt/mlxtend) ![alt text][skl] - extension and helper modules for Python's data analysis and machine learning libraries
-* [tick](https://github.com/X-DataInitiative/tick) ![alt text][skl] - module for statistical learning, with a particular emphasis on time-dependent modelling  
 * [sklearn-extensions](https://github.com/wdm0006/sklearn-extensions) ![alt text][skl] - a consolidated package of small extensions to scikit-learn 
 * [civisml-extensions](https://github.com/civisanalytics/civisml-extensions) ![alt text][skl]  - scikit-learn-compatible estimators from Civis Analytics
 * [scikit-multilearn](https://github.com/scikit-multilearn/scikit-multilearn) ![alt text][skl] - multi-label classification for python
-* [tslearn](https://github.com/rtavenar/tslearn) ![alt text][skl] - machine learning toolkit dedicated to time-series data
 * [seqlearn](https://github.com/larsmans/seqlearn) ![alt text][skl] - seqlearn is a sequence classification toolkit for Python
 * [pystruct](https://github.com/pystruct/pystruct) ![alt text][skl] - Simple structured learning framework for python
 * [sklearn-expertsys](https://github.com/tmadl/sklearn-expertsys) ![alt text][skl] - Highly interpretable classifiers for scikit learn, producing easily understood decision rules instead of black box models
@@ -94,7 +93,13 @@ Curated list of data science software in Python
 * [metric-learn](https://github.com/all-umass/metric-learn) ![alt text][skl]  - metric learning algorithms in Python
 * [pyGAM](https://github.com/dswah/pyGAM) - Generalized Additive Models in Python
 * [luminol](https://github.com/linkedin/luminol) - Anomaly Detection and Correlation library
-* [fklearn](https://github.com/nubank/fklearn) - 
+* [fklearn](https://github.com/nubank/fklearn) ![alt text][skl] - Functional Machine Learning
+
+<a name="ml-ts"></a>
+### Time series
+* [tslearn](https://github.com/rtavenar/tslearn) ![alt text][skl] - machine learning toolkit dedicated to time-series data
+* [tick](https://github.com/X-DataInitiative/tick) ![alt text][skl] - module for statistical learning, with a particular emphasis on time-dependent modelling  
+* [PyFlux](https://github.com/RJT1990/pyflux) - Open source time series library for Python
 
 <a name="ml-automl"></a>
 ### Automated machine learning
@@ -114,7 +119,6 @@ Curated list of data science software in Python
 ### Imbalanced datasets
 * [imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn) ![alt text][skl]  - module to perform under sampling and over sampling with various techniques
 * [imbalanced-algorithms](https://github.com/dialnd/imbalanced-algorithms) ![alt text][skl] ![alt text][tf]  - Python-based implementations of algorithms for learning on imbalanced data.
-
 
 <a name="ml-rf"></a>
 ### Random Forests
@@ -171,6 +175,7 @@ Curated list of data science software in Python
 * [TensorForce](https://github.com/reinforceio/tensorforce) ![alt text][tf] - a TensorFlow library for applied reinforcement learning
 * [tensorpack](https://github.com/ppwwyyxx/tensorpack) ![alt text][tf] - a Neural Net Training Interface on TensorFlow
 * [Polyaxon](https://github.com/polyaxon/polyaxon) ![alt text][tf] - a platform that helps you build, manage and monitor deep learning models
+* [NeuPy](https://github.com/itdxer/neupy) ![alt text][tf] - NeuPy is a Python library for Artificial Neural Networks and Deep Learning (previously based on ![alt text][th])
 * [Horovod](https://github.com/uber/horovod) ![alt text][tf] - Distributed training framework for TensorFlow
 * [tfdeploy](https://github.com/riga/tfdeploy) ![alt text][tf] - Deploy tensorflow graphs for fast evaluation and export to tensorflow-less environments running numpy
 * [hiptensorflow](https://github.com/ROCmSoftwarePlatform/hiptensorflow) ![alt text][tf] ![alt text][amd] - ROCm/HIP enabled Tensorflow
@@ -188,7 +193,6 @@ Curated list of data science software in Python
 * [nolearn](https://github.com/dnouri/nolearn) ![alt text][th] ![alt text][skl] - scikit-learn compatible neural network library (mainly for Lasagne)
 * [Blocks](https://github.com/mila-udem/blocks) ![alt text][th] - a Theano framework for building and training neural networks
 * [platoon](https://github.com/mila-udem/platoon) ![alt text][th] - Multi-GPU mini-framework for Theano
-* [NeuPy](https://github.com/itdxer/neupy) ![alt text][th] - NeuPy is a Python library for Artificial Neural Networks and Deep Learning
 * [scikit-neuralnetwork](https://github.com/aigamedev/scikit-neuralnetwork) ![alt text][skl]  ![alt text][th] - Deep neural networks without the learning cliff
 * [Theano-MPI](https://github.com/uoguelph-mlrg/Theano-MPI) ![alt text][th] - MPI Parallel framework for training deep learning models built in Theano
 
@@ -299,7 +303,6 @@ Curated list of data science software in Python
 * [gelato](https://github.com/ferrine/gelato) ![alt text][th] - Bayesian dessert for Lasagne
 * [sklearn-bayes](https://github.com/AmazaspShumik/sklearn-bayes) ![alt text][skl]  - Python package for Bayesian Machine Learning with scikit-learn API
 * [bayesloop](https://github.com/christophmark/bayesloop) - Probabilistic programming framework that facilitates objective model selection for time-varying parameter models
-* [PyFlux](https://github.com/RJT1990/pyflux) - Open source time series library for Python
 * [skggm](https://github.com/skggm/skggm) ![alt text][skl] - estimation of general graphical models 
 * [pgmpy](https://github.com/pgmpy/pgmpy) - a python library for working with Probabilistic Graphical Models.
 * [skpro](https://github.com/alan-turing-institute/skpro) ![alt text][skl] - supervised domain-agnostic prediction framework for probabilistic modelling by [The Alan Turing Institute](https://www.turing.ac.uk/)
