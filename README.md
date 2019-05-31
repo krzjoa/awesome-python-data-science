@@ -29,7 +29,7 @@ Curated list of data science software in Python
 #### Table of contents: 
 * [Machine Learning](#ml)
   * [General Purpouse ML](#ml-gen)
-  * [Ensemble methods](#ml-ts)
+  * [Time series](#ml-ts)
   * [Automated Machine Learning](#ml-automl)
   * [Ensemble methods](#ml-ens)
   * [Imbalanced datasets](#imb)
