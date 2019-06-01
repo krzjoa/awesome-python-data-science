@@ -81,8 +81,6 @@ Curated list of data science software in Python
 * [mlpack](https://github.com/mlpack/mlpack) - a scalable C++ machine learning library (Python bindings)
 * [dlib](https://github.com/davisking/dlib) - A toolkit for making real world machine learning and data analysis applications in C++ (Python bindings)
 * [MLxtend](https://github.com/rasbt/mlxtend) ![alt text][skl] - extension and helper modules for Python's data analysis and machine learning libraries
-* [sklearn-extensions](https://github.com/wdm0006/sklearn-extensions) ![alt text][skl] - a consolidated package of small extensions to scikit-learn
-* [civisml-extensions](https://github.com/civisanalytics/civisml-extensions) ![alt text][skl]  - scikit-learn-compatible estimators from Civis Analytics
 * [scikit-multilearn](https://github.com/scikit-multilearn/scikit-multilearn) ![alt text][skl] - multi-label classification for python
 * [seqlearn](https://github.com/larsmans/seqlearn) ![alt text][skl] - seqlearn is a sequence classification toolkit for Python
 * [pystruct](https://github.com/pystruct/pystruct) ![alt text][skl] - Simple structured learning framework for python
@@ -92,14 +90,15 @@ Curated list of data science software in Python
 * [RuleFit](https://github.com/christophM/rulefit) ![alt text][skl] - implementation of the rulefit
 * [metric-learn](https://github.com/all-umass/metric-learn) ![alt text][skl]  - metric learning algorithms in Python
 * [pyGAM](https://github.com/dswah/pyGAM) - Generalized Additive Models in Python
-* [luminol](https://github.com/linkedin/luminol) - Anomaly Detection and Correlation library
-* [fklearn](https://github.com/nubank/fklearn) ![alt text][skl] - Functional Machine Learning
+* [Other...](https://github.com/krzjoa/awesome-python-datascience/blob/master/other/general-ml.md)
 
 <a name="ml-ts"></a>
 ### Time series
 * [tslearn](https://github.com/rtavenar/tslearn) ![alt text][skl] - machine learning toolkit dedicated to time-series data
 * [tick](https://github.com/X-DataInitiative/tick) ![alt text][skl] - module for statistical learning, with a particular emphasis on time-dependent modelling  
+* [Prophet](https://github.com/facebook/prophet) - Automatic Forecasting Procedure
 * [PyFlux](https://github.com/RJT1990/pyflux) - Open source time series library for Python
+* [luminol](https://github.com/linkedin/luminol) - Anomaly Detection and Correlation library
 
 <a name="ml-automl"></a>
 ### Automated machine learning
