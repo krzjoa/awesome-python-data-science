@@ -1,7 +1,7 @@
 # Awesome Python Data Science ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 Curated list of data science software in Python
 
-[skl]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/img/skl.png "scikit-learn compatible" 
+[skl]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/img/skl.png "scikit-learn compatible"
 [th]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/th.png "Theano based"
 [tf]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/tf.png "TensorFlow based"
 [pt]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/pytorch.png "PyTorch based"
@@ -148,8 +148,7 @@ Curated list of data science software in Python
 * [LightGBM](https://github.com/Microsoft/LightGBM) ![alt text][skl] ![alt text][gpu] - a fast, distributed, high performance gradient boosting by [Microsoft](https://www.microsoft.com)
 * [CatBoost](https://github.com/catboost/catboost) ![alt text][skl] ![alt text][gpu] - an open-source gradient boosting on decision trees library by [Yandex](https://www.yandex.com/)
 * [ThunderGBM](https://github.com/Xtra-Computing/thundergbm) ![alt text][skl] ![alt text][gpu] - Fast GBDTs and Random Forests on GPUs
-* [InfiniteBoost](https://github.com/arogozhnikov/infiniteboost) - building infinite ensembles with gradient descent
-* [TGBoost](https://github.com/wepe/tgboost) ![alt text][skl] - Tiny Gradient Boosting Tree
+* [Other...](https://github.com/krzjoa/awesome-python-datascience/blob/master/other/gbm.md)
 
 <a name="dl"></a>
 ## Deep Learning
@@ -164,7 +163,7 @@ Curated list of data science software in Python
 * [dist-keras](https://github.com/cerndb/dist-keras) ![alt text][sp] - Distributed Deep Learning, with a focus on distributed training
 * [Conx](https://github.com/Calysto/conx) - The On-Ramp to Deep Learning
 * [Spektral](https://github.com/danielegrattarola/spektral) - deep learning on graphs
-* [Keras add-ons...](https://github.com/krzjoa/awesome-python-datascience/blob/master/keras_addons.md)
+* [Keras add-ons...](https://github.com/krzjoa/awesome-python-datascience/blob/master/addons/keras_addons.md)
 
 <a name="dl-tf"></a>
 ### TensorFlow
@@ -189,7 +188,7 @@ Curated list of data science software in Python
 ### Theano
 **WARNING: Theano development has been stopped**
 * [Theano](https://github.com/Theano/Theano)![alt text][th] - is a Python library that allows you to define, optimize, and evaluate mathematical expressions
-* [Lasagne](https://github.com/Lasagne/Lasagne) ![alt text][th] - Lightweight library to build and train neural networks in Theano [Lasagne add-ons...](https://github.com/krzjoa/awesome-python-datascience/blob/master/lasagne_addons.md)
+* [Lasagne](https://github.com/Lasagne/Lasagne) ![alt text][th] - Lightweight library to build and train neural networks in Theano [Lasagne add-ons...](https://github.com/krzjoa/awesome-python-datascience/blob/master/addons/lasagne_addons.md)
 * [nolearn](https://github.com/dnouri/nolearn) ![alt text][th] ![alt text][skl] - scikit-learn compatible neural network library (mainly for Lasagne)
 * [Blocks](https://github.com/mila-udem/blocks) ![alt text][th] - a Theano framework for building and training neural networks
 * [platoon](https://github.com/mila-udem/platoon) ![alt text][th] - Multi-GPU mini-framework for Theano
