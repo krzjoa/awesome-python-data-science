@@ -109,7 +109,6 @@ Curated list of data science software in Python
 <a name="ml-ens"></a>
 ### Ensemble methods
 * [ML-Ensemble](http://ml-ensemble.com/) ![alt text][skl] -  high performance ensemble learning
-* [brew](https://github.com/viisar/brew) ![alt text][skl] - Python Ensemble Learning API
 * [Stacking](https://github.com/ikki407/stacking) ![alt text][skl] - Simple and useful stacking library, written in Python.
 * [stacked_generalization](https://github.com/fukatani/stacked_generalization) ![alt text][skl] - library for machine learning stacking generalization.
 * [vecstack](https://github.com/vecxoz/vecstack) ![alt text][skl]  - Python package for stacking (machine learning technique)
@@ -173,7 +172,7 @@ Curated list of data science software in Python
 * [TensorForce](https://github.com/reinforceio/tensorforce) ![alt text][tf] - a TensorFlow library for applied reinforcement learning
 * [tensorpack](https://github.com/ppwwyyxx/tensorpack) ![alt text][tf] - a Neural Net Training Interface on TensorFlow
 * [Polyaxon](https://github.com/polyaxon/polyaxon) ![alt text][tf] - a platform that helps you build, manage and monitor deep learning models
-* [NeuPy](https://github.com/itdxer/neupy) ![alt text][tf] - NeuPy is a Python library for Artificial Neural Networks and Deep Learning (previously based on ![alt text][th])
+* [NeuPy](https://github.com/itdxer/neupy) ![alt text][tf] - NeuPy is a Python library for Artificial Neural Networks and Deep Learning (previously: ![alt text][th])
 * [Horovod](https://github.com/uber/horovod) ![alt text][tf] - Distributed training framework for TensorFlow
 * [tfdeploy](https://github.com/riga/tfdeploy) ![alt text][tf] - Deploy tensorflow graphs for fast evaluation and export to tensorflow-less environments running numpy
 * [hiptensorflow](https://github.com/ROCmSoftwarePlatform/hiptensorflow) ![alt text][tf] ![alt text][amd] - ROCm/HIP enabled Tensorflow
