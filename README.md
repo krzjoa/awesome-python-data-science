@@ -44,7 +44,6 @@ Curated list of data science software in Python
   * [PyTorch](#dl-pytorch)
   * [MXnet](#dl-mxnet)
   * [Caffe](#dl-caffe)
-  * [CNTK](#dl-cntk)
   * [Chainer](#dl-chainer)
   * [Others](#dl-others)
 * [Model explanation](#expl)
@@ -85,8 +84,6 @@ Curated list of data science software in Python
 * [seqlearn](https://github.com/larsmans/seqlearn) ![alt text][skl] - seqlearn is a sequence classification toolkit for Python
 * [pystruct](https://github.com/pystruct/pystruct) ![alt text][skl] - Simple structured learning framework for python
 * [sklearn-expertsys](https://github.com/tmadl/sklearn-expertsys) ![alt text][skl] - Highly interpretable classifiers for scikit learn, producing easily understood decision rules instead of black box models
-* [skutil](https://github.com/tgsmith61591/skutil) ![alt text][skl] - A set of scikit-learn and h2o extension classes (as well as caret classes for python)
-* [sklearn-crfsuite](https://github.com/TeamHG-Memex/sklearn-crfsuite) ![alt text][skl] - scikit-learn inspired API for CRFsuite
 * [RuleFit](https://github.com/christophM/rulefit) ![alt text][skl] - implementation of the rulefit
 * [metric-learn](https://github.com/all-umass/metric-learn) ![alt text][skl]  - metric learning algorithms in Python
 * [pyGAM](https://github.com/dswah/pyGAM) - Generalized Additive Models in Python
@@ -138,7 +135,7 @@ Curated list of data science software in Python
 * [tffm](https://github.com/geffy/tffm) ![alt text][skl] ![alt text][tf] - TensorFlow implementation of an arbitrary order Factorization Machine
 * [liquidSVM](https://github.com/liquidSVM/liquidSVM) - an implementation of SVMs
 * [scikit-rvm](https://github.com/JamesRitchie/scikit-rvm) ![alt text][skl] - Relevance Vector Machine implementation using the scikit-learn API
-* [TThunderSVM](https://github.com/Xtra-Computing/thundersvm) ![alt text][skl] ![alt text][gpu] - a fast SVM Library on GPUs and CPUs
+* [ThunderSVM](https://github.com/Xtra-Computing/thundersvm) ![alt text][skl] ![alt text][gpu] - a fast SVM Library on GPUs and CPUs
 
 <a name="ml-gbt"></a>
 ### Gradient boosting
@@ -221,11 +218,7 @@ Curated list of data science software in Python
 * [Caffe](https://github.com/BVLC/caffe) - a fast open framework for deep learning
 * [Caffe2](https://github.com/caffe2/caffe2) -  a lightweight, modular, and scalable deep learning framework
 * [hipCaffe](https://github.com/ROCmSoftwarePlatform/hipCaffe) ![alt text][amd] - the HIP port of Caffe
-
-<a name="dl-cntk"></a>
-### CNTK
-* [CNTK](https://github.com/Microsoft/CNTK) - Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit
-
+<!--a name="dl-cntk"></a-->
 <a name="dl-chainer"></a>
 ### Chainer
 * [Chainer](https://github.com/chainer/chainer) - a flexible framework for neural networks
@@ -237,6 +230,7 @@ Curated list of data science software in Python
 
 <a name="dl-others"></a>
 ### Others
+* [CNTK](https://github.com/Microsoft/CNTK) - Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit
 * [Neon](https://github.com/NervanaSystems/neon) - Intel® Nervana™ reference deep learning framework committed to best performance on all hardware
 * [Tangent](https://github.com/google/tangent) - Source-to-Source Debuggable Derivatives in Pure Python
 * [autograd](https://github.com/HIPS/autograd) - Efficiently computes derivatives of numpy code
@@ -311,7 +305,7 @@ Curated list of data science software in Python
 * [pyhsmm](https://github.com/mattjj/pyhsmm) - bayesian inference in HSMMs and HMMs
 * [GPyTorch](https://github.com/cornellius-gp/gpytorch) ![alt text][pt] - a highly efficient and modular implementation of Gaussian Processes in PyTorch
 * [MXFusion](https://github.com/amzn/MXFusion) ![alt text][mx] - Modular Probabilistic Programming on MXNet
-* [Bayes](https://github.com/krzjoa/Bayes) ![alt text][skl] - Python implementations of Naive Bayes algorithm variants
+* [sklearn-crfsuite](https://github.com/TeamHG-Memex/sklearn-crfsuite) ![alt text][skl] - scikit-learn inspired API for CRFsuite
 
 <a name="gp"></a>
 ## Genetic Programming
@@ -467,3 +461,5 @@ Curated list of data science software in Python
 * [sklearn-porter](https://github.com/nok/sklearn-porter) - transpile trained scikit-learn estimators to C, Java, JavaScript and others
 * [ONNX](https://github.com/onnx/onnx) - Open Neural Network Exchange
 * [MMdnn](https://github.com/Microsoft/MMdnn) -  a set of tools to help users inter-operate among different deep learning frameworks.
+
+[Deprecated libs]()
