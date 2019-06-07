@@ -46,6 +46,10 @@ Curated list of data science software in Python
   * [Caffe](#dl-caffe)
   * [Chainer](#dl-chainer)
   * [Others](#dl-others)
+* [Data manipulation](#data-man)
+  * [Data Containers](#dm-cont)
+  * [Pipelines](#dm-pipe)
+* [Visualization](#vis)
 * [Model explanation](#expl)
 * [Reinforcement Learning](#rl)
 * [Distributed computing systems](#dist)
@@ -56,12 +60,8 @@ Curated list of data science software in Python
 * [Computer Audition](#ca)
 * [Computer Vision](#cv)
 * [Feature engineering](#feat-eng)
-* [Data manipulation](#data-man)
-  * [Data Containers](#dm-cont)
-  * [Pipelines](#dm-pipe)
 * [Statistics](#stat)
 * [Experiments tools](#tools)
-* [Visualization](#vis)
 * [Evaluation](#eval)
 * [Computations](#compt)
 * [Spatial analysis](#spatial)
@@ -239,6 +239,35 @@ Curated list of data science software in Python
 * [Myia](https://github.com/mila-udem/myia) - deep learning framework (pre-alpha)
 * [nnabla](https://github.com/sony/nnabla) - Neural Network Libraries by Sony
 
+<a name="data-man"></a>
+## Data manipulation 
+
+<a name="dm-cont"></a>
+### Data Containers
+* [pandas](https://pandas.pydata.org/pandas-docs/stable/) - powerful Python data analysis toolkit
+* [alexander](https://github.com/annoys-parrot/alexander) ![alt text][skl] ![alt text][pd] - wrapper that aims to make scikit-learn fully compatible with pandas
+* [blaze](https://github.com/blaze/blaze) ![alt text][pd] - NumPy and Pandas interface to Big Data
+* [pandasql](https://github.com/yhat/pandasql) ![alt text][pd] -  allows you to query pandas DataFrames using SQL syntax
+* [pandas-gbq](https://github.com/pydata/pandas-gbq) ![alt text][pd] - Pandas Google Big Query
+* [xpandas](https://github.com/alan-turing-institute/xpandas) - universal 1d/2d data containers with Transformers functionality for data analysis by [The Alan Turing Institute](https://www.turing.ac.uk/)
+* [pysparkling](https://github.com/svenkreiss/pysparkling) ![alt text][sp] - a pure Python implementation of Apache Spark's RDD and DStream interfaces
+
+<a name="dm-pipe"></a>
+### Pipelines
+* [Fuel](https://github.com/mila-udem/fuel) - data pipeline framework for machine learning
+* [Arctic](https://github.com/manahl/arctic) - high performance datastore for time series and tick data
+* [pdpipe](https://github.com/shaypal5/pdpipe) - sasy pipelines for pandas DataFrames.
+* [SSPipe](https://sspipe.github.io/) - Python pipe (|) operator with support for DataFrames and Numpy and Pytorch
+* [meza](https://github.com/reubano/meza) - a Python toolkit for processing tabular data
+* [pandas-ply](https://github.com/coursera/pandas-ply) ![alt text][pd] - functional data manipulation for pandas
+* [Dplython](https://github.com/dodger487/dplython) ![alt text][R] - Dplyr for Python
+* [sklearn-pandas](https://github.com/scikit-learn-contrib/sklearn-pandas) ![alt text][skl] ![alt text][pd]  - Pandas integration with sklearn
+* [quinn](https://github.com/MrPowers/quinn) ![alt text][sp]  - pyspark methods to enhance developer productivity
+* [Dataset](https://github.com/analysiscenter/dataset) - helps you conveniently work with random or sequential batches of your data and define data processing
+* [swifter](https://github.com/jmcarpenter2/swifter) - a package which efficiently applies any function to a pandas dataframe or series in the fastest available manner
+* [datatable](https://github.com/h2oai/datatable) ![alt text][R] - data.table for Python
+* [pyjanitor](https://github.com/ericmjl/pyjanitor) ![alt text][pd] - Clean APIs for data cleaning
+
 <a name="expl"></a>
 ## Model explanation
 * [Alibi](https://github.com/SeldonIO/alibi) - Algorithms for monitoring and explaining machine learning models
@@ -381,37 +410,8 @@ Curated list of data science software in Python
 * [scikit-rebate](https://github.com/EpistasisLab/scikit-rebate) ![alt text][skl] - a scikit-learn-compatible Python implementation of ReBATE, a suite of Relief-based feature selection algorithms for Machine Learning
 * [scikit-mdr](https://github.com/EpistasisLab/scikit-mdr) ![alt text][skl] - a sklearn-compatible Python implementation of Multifactor Dimensionality Reduction (MDR) for feature construction.
 * [tsfresh](https://github.com/blue-yonder/tsfresh) ![alt text][skl] - Automatic extraction of relevant features from time series
-
-<a name="data-man"></a>
-## Data manipulation 
-
-<a name="dm-cont"></a>
-### Data Containers
-* [pandas](https://pandas.pydata.org/pandas-docs/stable/) - powerful Python data analysis toolkit
-* [alexander](https://github.com/annoys-parrot/alexander) ![alt text][skl] ![alt text][pd] - wrapper that aims to make scikit-learn fully compatible with pandas
-* [blaze](https://github.com/blaze/blaze) ![alt text][pd] - NumPy and Pandas interface to Big Data
-* [pandasql](https://github.com/yhat/pandasql) ![alt text][pd] -  allows you to query pandas DataFrames using SQL syntax
-* [pandas-gbq](https://github.com/pydata/pandas-gbq) ![alt text][pd] - Pandas Google Big Query
-* [xpandas](https://github.com/alan-turing-institute/xpandas) - universal 1d/2d data containers with Transformers functionality for data analysis by [The Alan Turing Institute](https://www.turing.ac.uk/)
-* [pysparkling](https://github.com/svenkreiss/pysparkling) ![alt text][sp] - a pure Python implementation of Apache Spark's RDD and DStream interfaces
-
-<a name="dm-pipe"></a>
-### Pipelines
-* [Fuel](https://github.com/mila-udem/fuel) - data pipeline framework for machine learning
-* [Arctic](https://github.com/manahl/arctic) - high performance datastore for time series and tick data
-* [pdpipe](https://github.com/shaypal5/pdpipe) - sasy pipelines for pandas DataFrames.
-* [SSPipe](https://sspipe.github.io/) - Python pipe (|) operator with support for DataFrames and Numpy and Pytorch
-* [meza](https://github.com/reubano/meza) - a Python toolkit for processing tabular data
-* [pandas-ply](https://github.com/coursera/pandas-ply) ![alt text][pd] - functional data manipulation for pandas
-* [Dplython](https://github.com/dodger487/dplython) ![alt text][R] - Dplyr for Python
-* [sklearn-pandas](https://github.com/scikit-learn-contrib/sklearn-pandas) ![alt text][skl] ![alt text][pd]  - Pandas integration with sklearn
-* [quinn](https://github.com/MrPowers/quinn) ![alt text][sp]  - pyspark methods to enhance developer productivity
-* [Dataset](https://github.com/analysiscenter/dataset) - helps you conveniently work with random or sequential batches of your data and define data processing
-* [swifter](https://github.com/jmcarpenter2/swifter) - a package which efficiently applies any function to a pandas dataframe or series in the fastest available manner
-* [datatable](https://github.com/h2oai/datatable) ![alt text][R] - data.table for Python
-* [pyjanitor](https://github.com/ericmjl/pyjanitor) ![alt text][pd] - Clean APIs for data cleaning
-
 <a name="stat"></a>
+
 ## Statistics
 * [pandas_summary](https://github.com/mouradmourafiq/pandas-summary) ![alt text][pd] - extension to pandas dataframes describe function
 * [pandas-profiling](https://github.com/pandas-profiling/pandas-profiling) ![alt text][pd] - Create HTML profiling reports from pandas DataFrame objects
