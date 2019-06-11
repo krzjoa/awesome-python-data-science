@@ -60,6 +60,8 @@ Curated list of data science software in Python
 * [Computer Audition](#ca)
 * [Computer Vision](#cv)
 * [Feature engineering](#feat-eng)
+  * [General](#fe-general)
+  * [Feature selection](#fe-selection)
 * [Statistics](#stat)
 * [Experiments tools](#tools)
 * [Evaluation](#eval)
@@ -97,6 +99,7 @@ Curated list of data science software in Python
 * [tick](https://github.com/X-DataInitiative/tick) ![alt text][skl] - module for statistical learning, with a particular emphasis on time-dependent modelling  
 * [Prophet](https://github.com/facebook/prophet) - Automatic Forecasting Procedure
 * [PyFlux](https://github.com/RJT1990/pyflux) - Open source time series library for Python
+* [bayesloop](https://github.com/christophmark/bayesloop) - Probabilistic programming framework that facilitates objective model selection for time-varying parameter models
 * [luminol](https://github.com/linkedin/luminol) - Anomaly Detection and Correlation library
 
 <a name="ml-automl"></a>
@@ -245,17 +248,16 @@ Curated list of data science software in Python
 <a name="dm-cont"></a>
 ### Data Containers
 * [pandas](https://pandas.pydata.org/pandas-docs/stable/) - powerful Python data analysis toolkit
-* [alexander](https://github.com/annoys-parrot/alexander) ![alt text][skl] ![alt text][pd] - wrapper that aims to make scikit-learn fully compatible with pandas
 * [blaze](https://github.com/blaze/blaze) ![alt text][pd] - NumPy and Pandas interface to Big Data
 * [pandasql](https://github.com/yhat/pandasql) ![alt text][pd] -  allows you to query pandas DataFrames using SQL syntax
 * [pandas-gbq](https://github.com/pydata/pandas-gbq) ![alt text][pd] - Pandas Google Big Query
 * [xpandas](https://github.com/alan-turing-institute/xpandas) - universal 1d/2d data containers with Transformers functionality for data analysis by [The Alan Turing Institute](https://www.turing.ac.uk/)
 * [pysparkling](https://github.com/svenkreiss/pysparkling) ![alt text][sp] - a pure Python implementation of Apache Spark's RDD and DStream interfaces
+* [Arctic](https://github.com/manahl/arctic) - high performance datastore for time series and tick data
 
 <a name="dm-pipe"></a>
 ### Pipelines
 * [Fuel](https://github.com/mila-udem/fuel) - data pipeline framework for machine learning
-* [Arctic](https://github.com/manahl/arctic) - high performance datastore for time series and tick data
 * [pdpipe](https://github.com/shaypal5/pdpipe) - sasy pipelines for pandas DataFrames.
 * [SSPipe](https://sspipe.github.io/) - Python pipe (|) operator with support for DataFrames and Numpy and Pytorch
 * [meza](https://github.com/reubano/meza) - a Python toolkit for processing tabular data
@@ -267,6 +269,7 @@ Curated list of data science software in Python
 * [swifter](https://github.com/jmcarpenter2/swifter) - a package which efficiently applies any function to a pandas dataframe or series in the fastest available manner
 * [datatable](https://github.com/h2oai/datatable) ![alt text][R] - data.table for Python
 * [pyjanitor](https://github.com/ericmjl/pyjanitor) ![alt text][pd] - Clean APIs for data cleaning
+* [alexander](https://github.com/annoys-parrot/alexander) ![alt text][skl] ![alt text][pd] - wrapper that aims to make scikit-learn fully compatible with pandas
 
 <a name="expl"></a>
 ## Model explanation
@@ -324,7 +327,6 @@ Curated list of data science software in Python
 * [PyStan](https://github.com/stan-dev/pystan) - Bayesian inference using the No-U-Turn sampler (Python interface)
 * [gelato](https://github.com/ferrine/gelato) ![alt text][th] - Bayesian dessert for Lasagne
 * [sklearn-bayes](https://github.com/AmazaspShumik/sklearn-bayes) ![alt text][skl]  - Python package for Bayesian Machine Learning with scikit-learn API
-* [bayesloop](https://github.com/christophmark/bayesloop) - Probabilistic programming framework that facilitates objective model selection for time-varying parameter models
 * [skggm](https://github.com/skggm/skggm) ![alt text][skl] - estimation of general graphical models
 * [pgmpy](https://github.com/pgmpy/pgmpy) - a python library for working with Probabilistic Graphical Models.
 * [skpro](https://github.com/alan-turing-institute/skpro) ![alt text][skl] - supervised domain-agnostic prediction framework for probabilistic modelling by [The Alan Turing Institute](https://www.turing.ac.uk/)
@@ -400,16 +402,23 @@ Curated list of data science software in Python
 
 <a name="feat-eng"></a>
 ## Feature engineering
+
+<a name="fe-general"></a>
+### General
 * [Featuretools](https://github.com/Featuretools/featuretools) - automated feature engineering
-* [scikit-feature](https://github.com/jundongl/scikit-feature) -  feature selection repository in python
 * [skl-groups](https://github.com/dougalsutherland/skl-groups) ![alt text][skl] - scikit-learn addon to operate on set/"group"-based features
 * [Feature Forge](https://github.com/machinalis/featureforge) ![alt text][skl] - a set of tools for creating and testing machine learning feature
-* [boruta_py](https://github.com/scikit-learn-contrib/boruta_py) ![alt text][skl] -  implementations of the Boruta all-relevant feature selection method
-* [BoostARoota](https://github.com/chasedehan/BoostARoota) ![alt text][skl] - a fast xgboost feature selection algorithm
 * [few](https://github.com/lacava/few) ![alt text][skl] - a feature engineering wrapper for sklearn
-* [scikit-rebate](https://github.com/EpistasisLab/scikit-rebate) ![alt text][skl] - a scikit-learn-compatible Python implementation of ReBATE, a suite of Relief-based feature selection algorithms for Machine Learning
 * [scikit-mdr](https://github.com/EpistasisLab/scikit-mdr) ![alt text][skl] - a sklearn-compatible Python implementation of Multifactor Dimensionality Reduction (MDR) for feature construction.
 * [tsfresh](https://github.com/blue-yonder/tsfresh) ![alt text][skl] - Automatic extraction of relevant features from time series
+
+<a name="fe-selection"></a>
+### Feature selection
+* [scikit-feature](https://github.com/jundongl/scikit-feature) -  feature selection repository in python
+* [boruta_py](https://github.com/scikit-learn-contrib/boruta_py) ![alt text][skl] -  implementations of the Boruta all-relevant feature selection method
+* [BoostARoota](https://github.com/chasedehan/BoostARoota) ![alt text][skl] - a fast xgboost feature selection algorithm
+* [scikit-rebate](https://github.com/EpistasisLab/scikit-rebate) ![alt text][skl] - a scikit-learn-compatible Python implementation of ReBATE, a suite of Relief-based feature selection algorithms for Machine Learning
+
 <a name="stat"></a>
 
 ## Statistics
