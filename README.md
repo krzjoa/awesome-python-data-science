@@ -270,6 +270,7 @@ Curated list of data science software in Python
 * [datatable](https://github.com/h2oai/datatable) ![alt text][R] - data.table for Python
 * [pyjanitor](https://github.com/ericmjl/pyjanitor) ![alt text][pd] - Clean APIs for data cleaning
 * [alexander](https://github.com/annoys-parrot/alexander) ![alt text][skl] ![alt text][pd] - wrapper that aims to make scikit-learn fully compatible with pandas
+* [Prodmodel](https://github.com/prodmodel/prodmodel) - build system for data science pipelines
 
 <a name="expl"></a>
 ## Model explanation
