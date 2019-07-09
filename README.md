@@ -270,6 +270,7 @@ Curated list of data science software in Python
 * [datatable](https://github.com/h2oai/datatable) ![alt text][R] - data.table for Python
 * [pyjanitor](https://github.com/ericmjl/pyjanitor) ![alt text][pd] - Clean APIs for data cleaning
 * [alexander](https://github.com/annoys-parrot/alexander) ![alt text][skl] ![alt text][pd] - wrapper that aims to make scikit-learn fully compatible with pandas
+* [modin](https://github.com/modin-project/modin) ![alt text][pd] - speed up your Pandas workflows by changing a single line of code
 * [Prodmodel](https://github.com/prodmodel/prodmodel) - build system for data science pipelines
 
 <a name="expl"></a>
@@ -424,7 +425,7 @@ Curated list of data science software in Python
 
 ## Statistics
 * [pandas_summary](https://github.com/mouradmourafiq/pandas-summary) ![alt text][pd] - extension to pandas dataframes describe function
-* [pandas-profiling](https://github.com/pandas-profiling/pandas-profiling) ![alt text][pd] - Create HTML profiling reports from pandas DataFrame objects
+* [Pandas Profiling](https://github.com/pandas-profiling/pandas-profiling) ![alt text][pd] - Create HTML profiling reports from pandas DataFrame objects
 * [statsmodels](https://github.com/statsmodels/statsmodels) - statistical modeling and econometrics in Python
 * [stockstats](https://github.com/jealous/stockstats) - Supply a wrapper ``StockDataFrame`` based on the ``pandas.DataFrame`` with inline stock statistics/indicators support.
 * [simplestatistics](https://github.com/sheriferson/simplestatistics) - simple statistical functions implemented in readable Python.
@@ -447,7 +448,7 @@ Curated list of data science software in Python
 * [HoloViews](https://github.com/ioam/holoviews) - stop plotting your data - annotate your data and let it visualize itself
 * [Alphalens](https://github.com/quantopian/alphalens) - performance analysis of predictive (alpha) stock factors by [Quantopian](https://www.quantopian.com/)
 * [python-ternary](https://github.com/marcharper/python-ternary) - ternary plotting library for python with matplotlib
-* [Naarad](https://github.com/linkedin/naarad) - framework for performance analysis & rating of sharded & stateful services.
+* [missingno](https://github.com/ResidentMario/missingno) - Missing data visualization module for Python
 
 <a name="eval"></a>
 ## Evaluation
