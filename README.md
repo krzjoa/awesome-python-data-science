@@ -62,7 +62,6 @@ Curated list of data science software in Python
 * [Natural Language Processing](#nlp)
 * [Computer Audition](#ca)
 * [Computer Vision](#cv)
-
 * [Statistics](#stat)
 * [Experiments tools](#tools)
 * [Evaluation](#eval)
