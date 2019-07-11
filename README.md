@@ -49,6 +49,9 @@ Curated list of data science software in Python
 * [Data manipulation](#data-man)
   * [Data Containers](#dm-cont)
   * [Pipelines](#dm-pipe)
+* [Feature engineering](#feat-eng)
+  * [General](#fe-general)
+  * [Feature selection](#fe-selection)
 * [Visualization](#vis)
 * [Model explanation](#expl)
 * [Reinforcement Learning](#rl)
@@ -59,9 +62,7 @@ Curated list of data science software in Python
 * [Natural Language Processing](#nlp)
 * [Computer Audition](#ca)
 * [Computer Vision](#cv)
-* [Feature engineering](#feat-eng)
-  * [General](#fe-general)
-  * [Feature selection](#fe-selection)
+
 * [Statistics](#stat)
 * [Experiments tools](#tools)
 * [Evaluation](#eval)
@@ -273,6 +274,25 @@ Curated list of data science software in Python
 * [modin](https://github.com/modin-project/modin) ![alt text][pd] - speed up your Pandas workflows by changing a single line of code
 * [Prodmodel](https://github.com/prodmodel/prodmodel) - build system for data science pipelines
 
+<a name="feat-eng"></a>
+## Feature engineering
+
+<a name="fe-general"></a>
+### General
+* [Featuretools](https://github.com/Featuretools/featuretools) - automated feature engineering
+* [skl-groups](https://github.com/dougalsutherland/skl-groups) ![alt text][skl] - scikit-learn addon to operate on set/"group"-based features
+* [Feature Forge](https://github.com/machinalis/featureforge) ![alt text][skl] - a set of tools for creating and testing machine learning feature
+* [few](https://github.com/lacava/few) ![alt text][skl] - a feature engineering wrapper for sklearn
+* [scikit-mdr](https://github.com/EpistasisLab/scikit-mdr) ![alt text][skl] - a sklearn-compatible Python implementation of Multifactor Dimensionality Reduction (MDR) for feature construction.
+* [tsfresh](https://github.com/blue-yonder/tsfresh) ![alt text][skl] - Automatic extraction of relevant features from time series
+
+<a name="fe-selection"></a>
+### Feature selection
+* [scikit-feature](https://github.com/jundongl/scikit-feature) -  feature selection repository in python
+* [boruta_py](https://github.com/scikit-learn-contrib/boruta_py) ![alt text][skl] -  implementations of the Boruta all-relevant feature selection method
+* [BoostARoota](https://github.com/chasedehan/BoostARoota) ![alt text][skl] - a fast xgboost feature selection algorithm
+* [scikit-rebate](https://github.com/EpistasisLab/scikit-rebate) ![alt text][skl] - a scikit-learn-compatible Python implementation of ReBATE, a suite of Relief-based feature selection algorithms for Machine Learning
+
 <a name="expl"></a>
 ## Model explanation
 * [Alibi](https://github.com/SeldonIO/alibi) - Algorithms for monitoring and explaining machine learning models
@@ -401,25 +421,6 @@ Curated list of data science software in Python
 * [imgaug_extension](https://github.com/cadenai/imgaug_extension) - additional augmentations for imgaug
 * [Augmentor](https://github.com/mdbloice/Augmentor) - Image augmentation library in Python for machine learning
 * [albumentations](https://github.com/albu/albumentations) - fast image augmentation library and easy to use wrapper around other libraries
-
-<a name="feat-eng"></a>
-## Feature engineering
-
-<a name="fe-general"></a>
-### General
-* [Featuretools](https://github.com/Featuretools/featuretools) - automated feature engineering
-* [skl-groups](https://github.com/dougalsutherland/skl-groups) ![alt text][skl] - scikit-learn addon to operate on set/"group"-based features
-* [Feature Forge](https://github.com/machinalis/featureforge) ![alt text][skl] - a set of tools for creating and testing machine learning feature
-* [few](https://github.com/lacava/few) ![alt text][skl] - a feature engineering wrapper for sklearn
-* [scikit-mdr](https://github.com/EpistasisLab/scikit-mdr) ![alt text][skl] - a sklearn-compatible Python implementation of Multifactor Dimensionality Reduction (MDR) for feature construction.
-* [tsfresh](https://github.com/blue-yonder/tsfresh) ![alt text][skl] - Automatic extraction of relevant features from time series
-
-<a name="fe-selection"></a>
-### Feature selection
-* [scikit-feature](https://github.com/jundongl/scikit-feature) -  feature selection repository in python
-* [boruta_py](https://github.com/scikit-learn-contrib/boruta_py) ![alt text][skl] -  implementations of the Boruta all-relevant feature selection method
-* [BoostARoota](https://github.com/chasedehan/BoostARoota) ![alt text][skl] - a fast xgboost feature selection algorithm
-* [scikit-rebate](https://github.com/EpistasisLab/scikit-rebate) ![alt text][skl] - a scikit-learn-compatible Python implementation of ReBATE, a suite of Relief-based feature selection algorithms for Machine Learning
 
 <a name="stat"></a>
 
