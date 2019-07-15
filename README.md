@@ -254,6 +254,8 @@ Curated list of data science software in Python
 * [xpandas](https://github.com/alan-turing-institute/xpandas) - universal 1d/2d data containers with Transformers functionality for data analysis by [The Alan Turing Institute](https://www.turing.ac.uk/)
 * [pysparkling](https://github.com/svenkreiss/pysparkling) ![alt text][sp] - a pure Python implementation of Apache Spark's RDD and DStream interfaces
 * [Arctic](https://github.com/manahl/arctic) - high performance datastore for time series and tick data
+* [datatable](https://github.com/h2oai/datatable) ![alt text][R] - data.table for Python
+* [koalas](https://github.com/databricks/koalas) ![alt text][pd] - pandas API on Apache Spark
 
 <a name="dm-pipe"></a>
 ### Pipelines
@@ -267,11 +269,12 @@ Curated list of data science software in Python
 * [quinn](https://github.com/MrPowers/quinn) ![alt text][sp]  - pyspark methods to enhance developer productivity
 * [Dataset](https://github.com/analysiscenter/dataset) - helps you conveniently work with random or sequential batches of your data and define data processing
 * [swifter](https://github.com/jmcarpenter2/swifter) - a package which efficiently applies any function to a pandas dataframe or series in the fastest available manner
-* [datatable](https://github.com/h2oai/datatable) ![alt text][R] - data.table for Python
+
 * [pyjanitor](https://github.com/ericmjl/pyjanitor) ![alt text][pd] - Clean APIs for data cleaning
 * [alexander](https://github.com/annoys-parrot/alexander) ![alt text][skl] ![alt text][pd] - wrapper that aims to make scikit-learn fully compatible with pandas
 * [modin](https://github.com/modin-project/modin) ![alt text][pd] - speed up your Pandas workflows by changing a single line of code
 * [Prodmodel](https://github.com/prodmodel/prodmodel) - build system for data science pipelines
+
 
 <a name="feat-eng"></a>
 ## Feature engineering
@@ -484,4 +487,5 @@ Curated list of data science software in Python
 * [ONNX](https://github.com/onnx/onnx) - Open Neural Network Exchange
 * [MMdnn](https://github.com/Microsoft/MMdnn) -  a set of tools to help users inter-operate among different deep learning frameworks.
 
-[Deprecated libs]()
+[Deprecated libs](https://github.com/krzjoa/awesome-python-datascience/blob/master/other/deprecated.md)
+[Waiting room](https://github.com/krzjoa/awesome-python-datascience/blob/master/other/waiting-room.md)
