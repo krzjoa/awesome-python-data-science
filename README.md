@@ -269,9 +269,7 @@ Curated list of data science software in Python
 * [quinn](https://github.com/MrPowers/quinn) ![alt text][sp]  - pyspark methods to enhance developer productivity
 * [Dataset](https://github.com/analysiscenter/dataset) - helps you conveniently work with random or sequential batches of your data and define data processing
 * [swifter](https://github.com/jmcarpenter2/swifter) - a package which efficiently applies any function to a pandas dataframe or series in the fastest available manner
-
 * [pyjanitor](https://github.com/ericmjl/pyjanitor) ![alt text][pd] - Clean APIs for data cleaning
-* [alexander](https://github.com/annoys-parrot/alexander) ![alt text][skl] ![alt text][pd] - wrapper that aims to make scikit-learn fully compatible with pandas
 * [modin](https://github.com/modin-project/modin) ![alt text][pd] - speed up your Pandas workflows by changing a single line of code
 * [Prodmodel](https://github.com/prodmodel/prodmodel) - build system for data science pipelines
 
