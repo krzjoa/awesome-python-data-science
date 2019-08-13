@@ -320,6 +320,7 @@ Curated list of data science software in Python
 * [themis-ml](https://github.com/cosmicBboy/themis-ml) ![alt text][skl] - a library that implements fairness-aware machine learning algorithms
 * [treeinterpreter](https://github.com/andosa/treeinterpreter) ![alt text][skl] -interpreting scikit-learn's decision tree and random forest predictions
 * [mxboard](https://github.com/awslabs/mxboard) - Logging MXNet data for visualization in TensorBoard
+* [AI Explainability 360](https://github.com/IBM/AIX360) - Interpretability and explainability of data and machine learning models
 
 <a name="rl"></a>
 ## Reinforcement Learning
@@ -457,6 +458,7 @@ Curated list of data science software in Python
 * [kaggle-metrics](https://github.com/krzjoa/kaggle-metrics) - Metrics for Kaggle competitions
 * [Metrics](https://github.com/benhamner/Metrics) - machine learning evaluation metric
 * [sklearn-evaluation](https://github.com/edublancas/sklearn-evaluation) - scikit-learn model evaluation made easy: plots, tables and markdown reports
+* [AI Fairness 360](https://github.com/IBM/AIF360) - fairness metrics for datasets and ML models, explanations and algorithms to mitigate bias in datasets and models
 
 <a name="compt"></a>
 ## Computations
