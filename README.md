@@ -75,10 +75,10 @@ Probably the best curated list of data science software in Python
 
 <a name="ml-gen"></a>
 ### General purpouse Machine Learning
-* [scikit-learn](http://scikit-learn.org/stable/) ![alt text][skl] ![alt text][gpu] - machine learning in Python
+* [scikit-learn](http://scikit-learn.org/stable/) ![alt text][skl] - machine learning in Python
 * [Shogun](http://www.shogun-toolbox.org/) - machine learning toolbox
 * [xLearn](https://github.com/aksnzhy/xlearn) - High Performance, Easy-to-use, and Scalable Machine Learning Package
-* [cuML](https://github.com/rapidsai/cuml) ![alt text][skl]  - RAPIDS Machine Learning Library
+* [cuML](https://github.com/rapidsai/cuml) ![alt text][skl] ![alt text][gpu]  - RAPIDS Machine Learning Library
 * [Reproducible Experiment Platform (REP)](https://github.com/yandex/rep) ![alt text][skl] - Machine Learning toolbox for Humans
 * [modAL](https://github.com/cosmic-cortex/modAL) ![alt text][skl] -  a modular active learning framework for Python3
 * [Sparkit-learn](https://github.com/lensacom/sparkit-learn) ![alt text][skl] ![alt text][sp] - PySpark + Scikit-learn = Sparkit-learn
