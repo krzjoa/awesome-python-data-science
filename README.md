@@ -1,5 +1,5 @@
 # Awesome Python Data Science ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
-Curated list of data science software in Python
+Probably the best curated list of data science software in Python
 
 [skl]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/img/skl.png "scikit-learn compatible"
 [th]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/img/th.png "Theano based"
@@ -75,9 +75,10 @@ Curated list of data science software in Python
 
 <a name="ml-gen"></a>
 ### General purpouse Machine Learning
-* [scikit-learn](http://scikit-learn.org/stable/) ![alt text][skl] - machine learning in Python
+* [scikit-learn](http://scikit-learn.org/stable/) ![alt text][skl] ![alt text][gpu] - machine learning in Python
 * [Shogun](http://www.shogun-toolbox.org/) - machine learning toolbox
 * [xLearn](https://github.com/aksnzhy/xlearn) - High Performance, Easy-to-use, and Scalable Machine Learning Package
+* [cuML](https://github.com/rapidsai/cuml) ![alt text][skl]  - RAPIDS Machine Learning Library
 * [Reproducible Experiment Platform (REP)](https://github.com/yandex/rep) ![alt text][skl] - Machine Learning toolbox for Humans
 * [modAL](https://github.com/cosmic-cortex/modAL) ![alt text][skl] -  a modular active learning framework for Python3
 * [Sparkit-learn](https://github.com/lensacom/sparkit-learn) ![alt text][skl] ![alt text][sp] - PySpark + Scikit-learn = Sparkit-learn
@@ -248,6 +249,7 @@ Curated list of data science software in Python
 <a name="dm-cont"></a>
 ### Data Containers
 * [pandas](https://pandas.pydata.org/pandas-docs/stable/) - powerful Python data analysis toolkit
+* [cuDF](https://github.com/rapidsai/cudf) ![alt text][pd] ![alt text][gpu] - GPU DataFrame Library 
 * [blaze](https://github.com/blaze/blaze) ![alt text][pd] - NumPy and Pandas interface to Big Data
 * [pandasql](https://github.com/yhat/pandasql) ![alt text][pd] -  allows you to query pandas DataFrames using SQL syntax
 * [pandas-gbq](https://github.com/pydata/pandas-gbq) ![alt text][pd] - Pandas Google Big Query
