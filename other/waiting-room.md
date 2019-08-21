@@ -11,3 +11,4 @@
 [pd]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/img/pandas.png "pandas based"
 
 * [alexander](https://github.com/annoys-parrot/alexander) ![alt text][skl] ![alt text][pd] - wrapper that aims to make scikit-learn fully compatible with pandas
+* [HungaBunga](https://github.com/ypeleg/HungaBunga) - Brute-Force all sklearn models with all parameters using .fit .predict!
