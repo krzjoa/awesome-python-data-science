@@ -164,6 +164,7 @@ Probably the best curated list of data science software in Python
 * [dist-keras](https://github.com/cerndb/dist-keras) ![alt text][sp] - Distributed Deep Learning, with a focus on distributed training
 * [Conx](https://github.com/Calysto/conx) - The On-Ramp to Deep Learning
 * [Spektral](https://github.com/danielegrattarola/spektral) - deep learning on graphs
+* [qkeras](https://github.com/google/qkeras) - a quantization deep learning library
 * [Keras add-ons...](https://github.com/krzjoa/awesome-python-datascience/blob/master/addons/keras_addons.md)
 
 <a name="dl-tf"></a>
@@ -176,7 +177,6 @@ Probably the best curated list of data science software in Python
 * [tensorpack](https://github.com/ppwwyyxx/tensorpack) ![alt text][tf] - a Neural Net Training Interface on TensorFlow
 * [Polyaxon](https://github.com/polyaxon/polyaxon) ![alt text][tf] - a platform that helps you build, manage and monitor deep learning models
 * [NeuPy](https://github.com/itdxer/neupy) ![alt text][tf] - NeuPy is a Python library for Artificial Neural Networks and Deep Learning (previously: ![alt text][th])
-* [Horovod](https://github.com/uber/horovod) ![alt text][tf] - Distributed training framework for TensorFlow
 * [tfdeploy](https://github.com/riga/tfdeploy) ![alt text][tf] - Deploy tensorflow graphs for fast evaluation and export to tensorflow-less environments running numpy
 * [hiptensorflow](https://github.com/ROCmSoftwarePlatform/hiptensorflow) ![alt text][tf] ![alt text][amd] - ROCm/HIP enabled Tensorflow
 * [TensorFlow Fold](https://github.com/tensorflow/fold) ![alt text][tf] - Deep learning with dynamic computation graphs in TensorFlow
@@ -227,8 +227,8 @@ Probably the best curated list of data science software in Python
 <!--a name="dl-cntk"></a-->
 <a name="dl-chainer"></a>
 ### Chainer
-* [Chainer](https://github.com/chainer/chainer) - a flexible framework for neural networks
 * [ChainerRL](https://github.com/chainer/chainerrl) - a deep reinforcement learning library built on top of Chainer.
+* [Chainer](https://github.com/chainer/chainer) - a flexible framework for neural networks
 * [ChainerCV](https://github.com/chainer/chainercv) - a Library for Deep Learning in Computer Vision
 * [ChainerMN](https://github.com/chainer/chainermn) - scalable distributed deep learning with Chainer
 * [scikit-chainer](https://github.com/lucidfrontier45/scikit-chainer) ![alt text][skl] - scikit-learn like interface to chainer
@@ -330,6 +330,7 @@ Probably the best curated list of data science software in Python
 
 <a name="dist"></a>
 ## Distributed computing systems
+* [Horovod](https://github.com/uber/horovod) ![alt text][tf] - Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet
 * [PySpark](https://spark.apache.org/docs/0.9.0/python-programming-guide.html) ![alt text][sp] - exposes the Spark programming model to Python
 * [Veles](https://github.com/Samsung/veles) - Distributed machine learning platform by [Samsung](https://github.com/Samsung)
 * [Jubatus](https://github.com/jubatus/jubatus) - Framework and Library for Distributed Online Machine Learning
