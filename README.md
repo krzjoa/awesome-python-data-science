@@ -452,6 +452,7 @@ Probably the best curated list of data science software in Python
 * [Bokeh](https://github.com/bokeh/bokeh) - Interactive Web Plotting for Python
 * [HoloViews](https://github.com/ioam/holoviews) - stop plotting your data - annotate your data and let it visualize itself
 * [Alphalens](https://github.com/quantopian/alphalens) - performance analysis of predictive (alpha) stock factors by [Quantopian](https://www.quantopian.com/)
+* [prettyplotlib](https://github.com/olgabot/prettyplotlib) - painlessly create beautiful matplotlib plots
 * [python-ternary](https://github.com/marcharper/python-ternary) - ternary plotting library for python with matplotlib
 * [missingno](https://github.com/ResidentMario/missingno) - Missing data visualization module for Python
 
