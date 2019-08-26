@@ -5,9 +5,9 @@
 	<br>
 </div>
 
-<p align="center" style="text-align:center;font-size:100">
-	<a>Awesome Python Data Science</a>
-</p>
+<h1 align="center">
+	Awesome Python Data Science
+</h1>
 
 <br>
 
