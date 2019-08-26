@@ -416,6 +416,7 @@ Probably the best curated list of data science software in Python
 * [Marsyas](https://github.com/marsyas/marsyas) - Music Analysis, Retrieval and Synthesis for Audio Signals
 * [muda](https://github.com/bmcfee/muda) - a library for augmenting annotated audio data
 * [madmom](https://github.com/CPJKU/madmom) - Python audio and music signal processing library
+* [more: Python for Scientific Audio](https://github.com/CPJKU/madmom) 
 
 <a name="cv"></a>
 ## Computer Vision
