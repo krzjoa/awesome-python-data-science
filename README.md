@@ -3,8 +3,8 @@ Probably the best curated list of data science software in Python
 
 [skl]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/img/skl.png "scikit-learn compatible"
 [th]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/img/th.png "Theano based"
-[tf]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/img/tf.png "TensorFlow based"
-[pt]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/img/pytorch.png "PyTorch based"
+[tf]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/img/tf2.png "TensorFlow based"
+[pt]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/img/pt2.png "PyTorch based"
 [cp]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/img/cupy.png "CuPy based"
 [mx]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/img/mxnet.png "MXNet based"
 [R]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/img/R.png "R inspired/ported lib"
@@ -244,12 +244,12 @@ Probably the best curated list of data science software in Python
 * [nnabla](https://github.com/sony/nnabla) - Neural Network Libraries by Sony
 
 <a name="data-man"></a>
-## Data manipulation 
+## Data manipulation
 
 <a name="dm-cont"></a>
 ### Data Containers
 * [pandas](https://pandas.pydata.org/pandas-docs/stable/) - powerful Python data analysis toolkit
-* [cuDF](https://github.com/rapidsai/cudf) ![alt text][pd] ![alt text][gpu] - GPU DataFrame Library 
+* [cuDF](https://github.com/rapidsai/cudf) ![alt text][pd] ![alt text][gpu] - GPU DataFrame Library
 * [blaze](https://github.com/blaze/blaze) ![alt text][pd] - NumPy and Pandas interface to Big Data
 * [pandasql](https://github.com/yhat/pandasql) ![alt text][pd] -  allows you to query pandas DataFrames using SQL syntax
 * [pandas-gbq](https://github.com/pydata/pandas-gbq) ![alt text][pd] - Pandas Google Big Query
@@ -416,7 +416,7 @@ Probably the best curated list of data science software in Python
 * [Marsyas](https://github.com/marsyas/marsyas) - Music Analysis, Retrieval and Synthesis for Audio Signals
 * [muda](https://github.com/bmcfee/muda) - a library for augmenting annotated audio data
 * [madmom](https://github.com/CPJKU/madmom) - Python audio and music signal processing library
-* [more: Python for Scientific Audio](https://github.com/faroit/awesome-python-scientific-audio) 
+* [more: Python for Scientific Audio](https://github.com/faroit/awesome-python-scientific-audio)
 
 <a name="cv"></a>
 ## Computer Vision
