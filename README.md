@@ -1,6 +1,15 @@
-# Awesome Python Data Science ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
-Probably the best curated list of data science software in Python
+<div align="center">
+	<img width="500" height="350" src="img/py-datascience.png" alt="pyds">
+	<br>
+	<br>
+	<br>
+</div>
 
+<p align="center">
+	<a>Awesome Python Data Science</a>
+</p>
+
+<br>
 [skl]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/img/skl.png "scikit-learn compatible"
 [th]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/img/th.png "Theano based"
 [tf]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/img/tf2.png "TensorFlow based"
