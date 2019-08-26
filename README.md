@@ -1,5 +1,5 @@
 <div align="center">
-	<img width="500" height="350" src="img/py-datascience.png" alt="pyds">
+	<img width="350" height="350" src="img/py-datascience.png" alt="pyds">
 	<br>
 	<br>
 	<br>
@@ -10,6 +10,7 @@
 </p>
 
 <br>
+
 [skl]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/img/skl.png "scikit-learn compatible"
 [th]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/img/th.png "Theano based"
 [tf]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/img/tf2.png "TensorFlow based"
