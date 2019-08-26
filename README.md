@@ -1,11 +1,11 @@
 <div align="center">
-	<img width="350" height="350" src="img/py-datascience.png" alt="pyds">
+	<img width="250" height="250" src="img/py-datascience.png" alt="pyds">
 	<br>
 	<br>
 	<br>
 </div>
 
-<p align="center">
+<p align="center" style="text-align:center;font-size:100">
 	<a>Awesome Python Data Science</a>
 </p>
 
