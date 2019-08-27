@@ -9,7 +9,7 @@
 	Awesome Python Data Science
 </h1>
 
-<br>
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [skl]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/img/skl.png "scikit-learn compatible"
 [th]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/img/th.png "Theano based"
@@ -84,7 +84,7 @@
 ## Machine Learning
 
 <a name="ml-gen"></a>
-### General purpouse Machine Learning
+### General Purpouse Machine Learning
 * [scikit-learn](http://scikit-learn.org/stable/) ![alt text][skl] - Machine learning in Python
 * [Shogun](http://www.shogun-toolbox.org/) - Machine learning toolbox
 * [xLearn](https://github.com/aksnzhy/xlearn) - High Performance, Easy-to-use, and Scalable Machine Learning Package
@@ -253,7 +253,7 @@
 * [nnabla](https://github.com/sony/nnabla) - Neural Network Libraries by Sony
 
 <a name="data-man"></a>
-## Data manipulation
+## Data Manipulation
 
 <a name="dm-cont"></a>
 ### Data Containers
@@ -265,8 +265,8 @@
 * [xpandas](https://github.com/alan-turing-institute/xpandas) - Universal 1d/2d data containers with Transformers functionality for data analysis by [The Alan Turing Institute](https://www.turing.ac.uk/)
 * [pysparkling](https://github.com/svenkreiss/pysparkling) ![alt text][sp] - A pure Python implementation of Apache Spark's RDD and DStream interfaces
 * [Arctic](https://github.com/manahl/arctic) - High performance datastore for time series and tick data
-* [datatable](https://github.com/h2oai/datatable) ![alt text][R] - data.table for Python
-* [koalas](https://github.com/databricks/koalas) ![alt text][pd] - pandas API on Apache Spark
+* [datatable](https://github.com/h2oai/datatable) ![alt text][R] - Data.table for Python
+* [koalas](https://github.com/databricks/koalas) ![alt text][pd] - Pandas API on Apache Spark
 
 <a name="dm-pipe"></a>
 ### Pipelines
