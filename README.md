@@ -389,11 +389,11 @@
 
 <a name="gp"></a>
 ## Genetic Programming
-* [gplearn](https://github.com/trevorstephens/gplearn) ![alt text][skl] - Genetic Programming in Python.
+* [gplearn](https://github.com/trevorstephens/gplearn) - Genetic Programming in Python. ![alt text][skl] 
 * [DEAP](https://github.com/DEAP/deap) - Distributed Evolutionary Algorithms in Python.
-* [karoo_gp](https://github.com/kstaats/karoo_gp) ![alt text][tf] - A Genetic Programming platform for Python with GPU support.
+* [karoo_gp](https://github.com/kstaats/karoo_gp)  - A Genetic Programming platform for Python with GPU support. ![alt text][tf]
 * [monkeys](https://github.com/hchasestevens/monkeys) - A strongly-typed genetic programming framework for Python.
-* [sklearn-genetic](https://github.com/manuel-calzolari/sklearn-genetic) ![alt text][skl] - Genetic feature selection module for scikit-learn.
+* [sklearn-genetic](https://github.com/manuel-calzolari/sklearn-genetic)  - Genetic feature selection module for scikit-learn. ![alt text][skl]
 
 <a name="opt"></a>
 ## Optimization
