@@ -323,15 +323,15 @@
 * [CapsNet-Visualization](https://github.com/bourdakos1/CapsNet-Visualization) - A visualization of the CapsNet layers to better understand how it works
 * [lucid](https://github.com/tensorflow/lucid) - A collection of infrastructure and tools for research in neural network interpretability.
 * [Netron](https://github.com/lutzroeder/Netron) - Visualizer for deep learning and machine learning models (no Python code, but visualizes models from most Python Deep Learning frameworks)
-* [FlashLight](https://github.com/dlguys/flashlight) - visualization Tool for your NeuralNetwork
-* [tensorboard-pytorch](https://github.com/lanpa/tensorboard-pytorch) - tensorboard for pytorch (and chainer, mxnet, numpy, ...)
-* [anchor](https://github.com/marcotcr/anchor) - code for "High-Precision Model-Agnostic Explanations" paper
+* [FlashLight](https://github.com/dlguys/flashlight) - Visualization Tool for your NeuralNetwork
+* [tensorboard-pytorch](https://github.com/lanpa/tensorboard-pytorch) - Tensorboard for pytorch (and chainer, mxnet, numpy, ...)
+* [anchor](https://github.com/marcotcr/anchor) - Code for "High-Precision Model-Agnostic Explanations" paper
 * [aequitas](https://github.com/dssg/aequitas) - Bias and Fairness Audit Toolkit
 * [Contrastive Explanation](https://github.com/MarcelRobeer/ContrastiveExplanation) ![alt text][skl] - Contrastive Explanation (Foil Trees)
-* [yellowbrick](https://github.com/DistrictDataLabs/yellowbrick) ![alt text][skl]- visual analysis and diagnostic tools to facilitate machine learning model selection
-* [scikit-plot](https://github.com/reiinakano/scikit-plot) ![alt text][skl] - an intuitive library to add plotting functionality to scikit-learn objects
-* [shap](https://github.com/slundberg/shap) ![alt text][skl] - a unified approach to explain the output of any machine learning model
-* [ELI5](https://github.com/TeamHG-Memex/eli5) - a library for debugging/inspecting machine learning classifiers and explaining their predictions
+* [yellowbrick](https://github.com/DistrictDataLabs/yellowbrick) ![alt text][skl]- Visual analysis and diagnostic tools to facilitate machine learning model selection
+* [scikit-plot](https://github.com/reiinakano/scikit-plot) ![alt text][skl] - An intuitive library to add plotting functionality to scikit-learn objects
+* [shap](https://github.com/slundberg/shap) ![alt text][skl] - A unified approach to explain the output of any machine learning model
+* [ELI5](https://github.com/TeamHG-Memex/eli5) - A library for debugging/inspecting machine learning classifiers and explaining their predictions
 * [Lime](https://github.com/marcotcr/lime) ![alt text][skl] - Explaining the predictions of any machine learning classifier
 * [FairML](https://github.com/adebayoj/fairml) ![alt text][skl] - FairML is a python toolbox auditing the machine learning models for bias
 * [L2X](https://github.com/Jianbo-Lab/L2X) - Code for replicating the experiments in the paper *Learning to Explain: An Information-Theoretic Perspective on Model Interpretation*
