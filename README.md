@@ -36,7 +36,7 @@
 ![alt text][gpu] - GPU-accelerated computations (if not based on Theano, Tensorflow, PyTorch, CuPy etc.)  <br/>
 ![alt text][amd] - possible to run on [AMD](http://www.amd.com/en/home) GPU
 
-#### Table of contents:
+#### Contents:
 * [Machine Learning](#ml)
   * [General Purpouse ML](#ml-gen)
   * [Time Series](#ml-ts)
