@@ -23,19 +23,6 @@
 [amd]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/img/amd.png "AMD based"
 [pd]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/img/pandas.png "pandas based"
 
-###### Legend:
-![alt text][skl] - [scikit-learn](http://scikit-learn.org/stable/) compatible (or inspired) API <br/>
-![alt text][pd] - [pandas](https://github.com/pandas-dev/pandas) compatible or based on <br/>
-![alt text][th] - [Theano](http://deeplearning.net/software/theano/) based project <br/>
-![alt text][tf] - [TensorFlow](https://www.tensorflow.org/) based project <br/>
-![alt text][pt] - [PyTorch](http://pytorch.org/) based project <br/>
-![alt text][cp] - [CuPy](https://github.com/cupy/cupy/) based project <br/>
-![alt text][R] - [R](https://www.r-project.org/about.html) inspired/ported lib<br/>
-![alt text][mx] - [MXNet](https://mxnet.apache.org/) based project <br/>
-![alt text][sp] - [Apache Spark](https://spark.apache.org/) based project <br/>
-![alt text][gpu] - GPU-accelerated computations (if not based on Theano, Tensorflow, PyTorch, CuPy etc.)  <br/>
-![alt text][amd] - possible to run on [AMD](http://www.amd.com/en/home) GPU
-
 #### Contents:
 * [Machine Learning](#ml)
   * [General Purpouse ML](#ml-gen)
@@ -79,6 +66,19 @@
 * [Spatial Analysis](#spatial)
 * [Quantum Computing](#quant)
 * [Conversion](#conv)
+
+###### Legend:
+![alt text][skl] - [scikit-learn](http://scikit-learn.org/stable/) compatible (or inspired) API <br/>
+![alt text][pd] - [pandas](https://github.com/pandas-dev/pandas) compatible or based on <br/>
+![alt text][th] - [Theano](http://deeplearning.net/software/theano/) based project <br/>
+![alt text][tf] - [TensorFlow](https://www.tensorflow.org/) based project <br/>
+![alt text][pt] - [PyTorch](http://pytorch.org/) based project <br/>
+![alt text][cp] - [CuPy](https://github.com/cupy/cupy/) based project <br/>
+![alt text][R] - [R](https://www.r-project.org/about.html) inspired/ported lib<br/>
+![alt text][mx] - [MXNet](https://mxnet.apache.org/) based project <br/>
+![alt text][sp] - [Apache Spark](https://spark.apache.org/) based project <br/>
+![alt text][gpu] - GPU-accelerated computations (if not based on Theano, Tensorflow, PyTorch, CuPy etc.)  <br/>
+![alt text][amd] - possible to run on [AMD](http://www.amd.com/en/home) GPU
 
 <a name="ml"></a>
 ## Machine Learning
