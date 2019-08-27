@@ -29,7 +29,7 @@
   * [Time Series](#ml-ts)
   * [Automated Machine Learning](#ml-automl)
   * [Ensemble Methods](#ml-ens)
-  * [Imbalanced datasets](#imb)
+  * [Imbalanced Datasets](#imb)
   * [Random Forests](#ml-rf)
   * [Extreme Learning Machine](#ml-elm)
   * [Kernel Methods](#ml-fm)
@@ -60,7 +60,7 @@
 * [Computer Audition](#ca)
 * [Computer Vision](#cv)
 * [Statistics](#stat)
-* [Experiments tools](#tools)
+* [Experimentation](#tools)
 * [Evaluation](#eval)
 * [Computations](#compt)
 * [Spatial Analysis](#spatial)
@@ -461,7 +461,7 @@
 * [pysie](https://github.com/chen0040/pysie) - Provides python implementation of statistical inference engine
 
 <a name="tools"></a>
-## Experiments tools
+## Experimentation
 * [Sacred](https://github.com/IDSIA/sacred) - A tool to help you configure, organize, log and reproduce experiments by [IDSIA](http://www.idsia.ch/)
 * [Xcessiv](https://github.com/reiinakano/xcessiv) - A web-based application for quick, scalable, and automated hyperparameter tuning and stacked ensembling
 * [Persimmon](https://github.com/AlvarBer/Persimmon)  ![alt text][skl] - A visual dataflow programming language for sklearn
