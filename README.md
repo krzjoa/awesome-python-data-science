@@ -398,20 +398,20 @@
 <a name="opt"></a>
 ## Optimization
 * [Spearmint](https://github.com/HIPS/Spearmint) - Bayesian optimization.
-* [BoTorch](https://github.com/pytorch/botorch) ![alt text][pt] - Bayesian optimization in PyTorch.
+* [BoTorch](https://github.com/pytorch/botorch)  - Bayesian optimization in PyTorch. ![alt text][pt]
 * [SMAC3](https://github.com/automl/SMAC3) - Sequential Model-based Algorithm Configuration.
 * [Optunity](https://github.com/claesenm/optunity) - Is a library containing various optimizers for hyperparameter tuning.
 * [hyperopt](https://github.com/hyperopt/hyperopt) - Distributed Asynchronous Hyperparameter Optimization in Python.
-* [hyperopt-sklearn](https://github.com/hyperopt/hyperopt-sklearn) ![alt text][skl]  - Hyper-parameter optimization for sklearn.
-* [sklearn-deap](https://github.com/rsteca/sklearn-deap) ![alt text][skl] - Use evolutionary algorithms instead of gridsearch in scikit-learn.
-* [sigopt_sklearn](https://github.com/sigopt/sigopt_sklearn) ![alt text][skl] - SigOpt wrappers for scikit-learn methods.
+* [hyperopt-sklearn](https://github.com/hyperopt/hyperopt-sklearn)   - Hyper-parameter optimization for sklearn. ![alt text][skl]
+* [sklearn-deap](https://github.com/rsteca/sklearn-deap) - Use evolutionary algorithms instead of gridsearch in scikit-learn. ![alt text][skl] 
+* [sigopt_sklearn](https://github.com/sigopt/sigopt_sklearn)  - SigOpt wrappers for scikit-learn methods. ![alt text][skl]
 * [Bayesian Optimization](https://github.com/fmfn/BayesianOptimization) - A Python implementation of global optimization with gaussian processes.
 * [SafeOpt](https://github.com/befelix/SafeOpt) - Safe Bayesian Optimization.
 * [scikit-optimize](https://github.com/scikit-optimize/scikit-optimize) - Sequential model-based optimization with a `scipy.optimize` interface.
 * [Solid](https://github.com/100/Solid) - A comprehensive gradient-free optimization framework written in Python.
 * [PySwarms](https://github.com/ljvmiranda921/pyswarms) - A research toolkit for particle swarm optimization in Python.
 * [Platypus](https://github.com/Project-Platypus/Platypus) - A Free and Open Source Python Library for Multiobjective Optimization.
-* [GPflowOpt](https://github.com/GPflow/GPflowOpt) ![alt text][tf] - Bayesian Optimization using GPflow.
+* [GPflowOpt](https://github.com/GPflow/GPflowOpt) - Bayesian Optimization using GPflow. ![alt text][tf] 
 * [POT](https://github.com/rflamary/POT) - Python Optimal Transport library.
 * [Talos](https://github.com/autonomio/talos) - Hyperparameter Optimization for Keras Models.
 * [nlopt](https://github.com/stevengj/nlopt) - Library for nonlinear optimization (global and local, constrained or unconstrained).
@@ -421,9 +421,9 @@
 * [NLTK](https://github.com/nltk/nltk) -  Modules, data sets, and tutorials supporting research and development in Natural Language Processing.
 * [CLTK](https://github.com/cltk/cltk) - The Classical Language Toolkik.
 * [gensim](https://radimrehurek.com/gensim/) - Topic Modelling for Humans.
-* [PSI-Toolkit](http://psi-toolkit.amu.edu.pl/) - A natural language processing toolkit by [Adam Mickiewicz University](https://zpjn.wmi.amu.edu.pl/en/) in Poznań.
+* [PSI-Toolkit](http://psi-toolkit.amu.edu.pl/) - A natural language processing toolkit by [Adam Mickiewicz University](https://zpjn.wmi.amu.edu.pl) in Poznań.
 * [pyMorfologik](https://github.com/dmirecki/pyMorfologik) - Python binding for [Morfologik](https://github.com/morfologik/morfologik-stemming) (Polish morphological analyzer).
-* [skift](https://github.com/shaypal5/skift) ![alt text][skl] - Scikit-learn wrappers for Python fastText.
+* [skift](https://github.com/shaypal5/skift)- Scikit-learn wrappers for Python fastText. ![alt text][skl] 
 * [Phonemizer](https://github.com/bootphon/phonemizer) - Simple text to phonemes converter for multiple languages.
 * [flair](https://github.com/zalandoresearch/flair) - Very simple framework for state-of-the-art NLP by [Zalando Research](https://research.zalando.com/).
 
@@ -451,8 +451,8 @@
 <a name="stat"></a>
 
 ## Statistics
-* [pandas_summary](https://github.com/mouradmourafiq/pandas-summary) ![alt text][pd] - Extension to pandas dataframes describe function.
-* [Pandas Profiling](https://github.com/pandas-profiling/pandas-profiling) ![alt text][pd] - Create HTML profiling reports from pandas DataFrame objects.
+* [pandas_summary](https://github.com/mouradmourafiq/pandas-summary) - Extension to pandas dataframes describe function. ![alt text][pd] 
+* [Pandas Profiling](https://github.com/pandas-profiling/pandas-profiling) - Create HTML profiling reports from pandas DataFrame objects. ![alt text][pd] 
 * [statsmodels](https://github.com/statsmodels/statsmodels) - Statistical modeling and econometrics in Python
 * [stockstats](https://github.com/jealous/stockstats) - Supply a wrapper ``StockDataFrame`` based on the ``pandas.DataFrame`` with inline stock statistics/indicators support.
 * [simplestatistics](https://github.com/sheriferson/simplestatistics) - Simple statistical functions implemented in readable Python.
@@ -464,8 +464,8 @@
 ## Experimentation
 * [Sacred](https://github.com/IDSIA/sacred) - A tool to help you configure, organize, log and reproduce experiments by [IDSIA](http://www.idsia.ch/).
 * [Xcessiv](https://github.com/reiinakano/xcessiv) - A web-based application for quick, scalable, and automated hyperparameter tuning and stacked ensembling.
-* [Persimmon](https://github.com/AlvarBer/Persimmon)  ![alt text][skl] - A visual dataflow programming language for sklearn.
-* [Ax](https://github.com/facebook/Ax) - Adaptive Experimentation Platform  .
+* [Persimmon](https://github.com/AlvarBer/Persimmon) - A visual dataflow programming language for sklearn.
+* [Ax](https://github.com/facebook/Ax) - Adaptive Experimentation Platform. ![alt text][skl]
 
 <a name="eval"></a>
 ## Evaluation
