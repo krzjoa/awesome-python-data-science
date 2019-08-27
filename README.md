@@ -478,7 +478,7 @@
 <a name="compt"></a>
 ## Computations
 * [numpy](http://www.numpy.org/) - The fundamental package needed for scientific computing with Python.
-* [Dask](https://github.com/dask/dask) ![alt text][pd]  - Parallel computing with task scheduling.
+* [Dask](https://github.com/dask/dask) - Parallel computing with task scheduling. ![alt text][pd]
 * [bottleneck](https://github.com/kwgoodman/bottleneck) - Fast NumPy array functions written in C.
 * [minpy](https://github.com/dmlc/minpy) - NumPy interface with mixed backend execution.
 * [CuPy](https://github.com/cupy/cupy) - NumPy-like API accelerated with CUDA.
@@ -489,7 +489,7 @@
 
 <a name="spatial"></a>
 ## Spatial Analysis
-* [GeoPandas](https://github.com/geopandas/geopandas) ![alt text][pd] - Python tools for geographic data.
+* [GeoPandas](https://github.com/geopandas/geopandas) - Python tools for geographic data. ![alt text][pd]
 * [PySal](https://github.com/pysal/pysal) - Python Spatial Analysis Library.
 
 <a name="quant"></a>
