@@ -85,80 +85,80 @@
 
 <a name="ml-gen"></a>
 ### General Purpouse Machine Learning
-* [scikit-learn](http://scikit-learn.org/stable/) ![alt text][skl] - Machine learning in Python
-* [Shogun](http://www.shogun-toolbox.org/) - Machine learning toolbox
-* [xLearn](https://github.com/aksnzhy/xlearn) - High Performance, Easy-to-use, and Scalable Machine Learning Package
-* [cuML](https://github.com/rapidsai/cuml) ![alt text][skl] ![alt text][gpu]  - RAPIDS Machine Learning Library
-* [Reproducible Experiment Platform (REP)](https://github.com/yandex/rep) ![alt text][skl] - Machine Learning toolbox for Humans
-* [modAL](https://github.com/cosmic-cortex/modAL) ![alt text][skl] -  Modular active learning framework for Python3
-* [Sparkit-learn](https://github.com/lensacom/sparkit-learn) ![alt text][skl] ![alt text][sp] - PySpark + Scikit-learn = Sparkit-learn
-* [mlpack](https://github.com/mlpack/mlpack) - A scalable C++ machine learning library (Python bindings)
-* [dlib](https://github.com/davisking/dlib) - Toolkit for making real world machine learning and data analysis applications in C++ (Python bindings)
-* [MLxtend](https://github.com/rasbt/mlxtend) ![alt text][skl] - Extension and helper modules for Python's data analysis and machine learning libraries
-* [scikit-multilearn](https://github.com/scikit-multilearn/scikit-multilearn) ![alt text][skl] - Multi-label classification for python
-* [seqlearn](https://github.com/larsmans/seqlearn) ![alt text][skl] - Sequence classification toolkit for Python
-* [pystruct](https://github.com/pystruct/pystruct) ![alt text][skl] - Simple structured learning framework for python
-* [sklearn-expertsys](https://github.com/tmadl/sklearn-expertsys) ![alt text][skl] - Highly interpretable classifiers for scikit learn, producing easily understood decision rules instead of black box models
-* [RuleFit](https://github.com/christophM/rulefit) ![alt text][skl] - Implementation of the rulefit
-* [metric-learn](https://github.com/all-umass/metric-learn) ![alt text][skl]  - Metric learning algorithms in Python
-* [pyGAM](https://github.com/dswah/pyGAM) - Generalized Additive Models in Python
+* [scikit-learn](http://scikit-learn.org/stable/) ![alt text][skl] - Machine learning in Python.
+* [Shogun](http://www.shogun-toolbox.org/) - Machine learning toolbox.
+* [xLearn](https://github.com/aksnzhy/xlearn) - High Performance, Easy-to-use, and Scalable Machine Learning Package.
+* [cuML](https://github.com/rapidsai/cuml) ![alt text][skl] ![alt text][gpu]  - RAPIDS Machine Learning Library.
+* [Reproducible Experiment Platform (REP)](https://github.com/yandex/rep) ![alt text][skl] - Machine Learning toolbox for Humans.
+* [modAL](https://github.com/cosmic-cortex/modAL) ![alt text][skl] -  Modular active learning framework for Python3.
+* [Sparkit-learn](https://github.com/lensacom/sparkit-learn) ![alt text][skl] ![alt text][sp] - PySpark + Scikit-learn = Sparkit-learn.
+* [mlpack](https://github.com/mlpack/mlpack) - A scalable C++ machine learning library (Python bindings).
+* [dlib](https://github.com/davisking/dlib) - Toolkit for making real world machine learning and data analysis applications in C++ (Python bindings).
+* [MLxtend](https://github.com/rasbt/mlxtend) ![alt text][skl] - Extension and helper modules for Python's data analysis and machine learning libraries.
+* [scikit-multilearn](https://github.com/scikit-multilearn/scikit-multilearn) ![alt text][skl] - Multi-label classification for python.
+* [seqlearn](https://github.com/larsmans/seqlearn) ![alt text][skl] - Sequence classification toolkit for Python.
+* [pystruct](https://github.com/pystruct/pystruct) ![alt text][skl] - Simple structured learning framework for python.
+* [sklearn-expertsys](https://github.com/tmadl/sklearn-expertsys) ![alt text][skl] - Highly interpretable classifiers for scikit learn, producing easily understood decision rules instead of black box models.
+* [RuleFit](https://github.com/christophM/rulefit) ![alt text][skl] - Implementation of the rulefit.
+* [metric-learn](https://github.com/all-umass/metric-learn) ![alt text][skl]  - Metric learning algorithms in Python.
+* [pyGAM](https://github.com/dswah/pyGAM) - Generalized Additive Models in Python.
 * [Other...](https://github.com/krzjoa/awesome-python-datascience/blob/master/other/general-ml.md)
 
 <a name="ml-ts"></a>
 ### Time Series
-* [tslearn](https://github.com/rtavenar/tslearn) ![alt text][skl] - Machine learning toolkit dedicated to time-series data
-* [tick](https://github.com/X-DataInitiative/tick) ![alt text][skl] - Module for statistical learning, with a particular emphasis on time-dependent modelling  
-* [Prophet](https://github.com/facebook/prophet) - Automatic Forecasting Procedure
-* [PyFlux](https://github.com/RJT1990/pyflux) - Open source time series library for Python
-* [bayesloop](https://github.com/christophmark/bayesloop) - Probabilistic programming framework that facilitates objective model selection for time-varying parameter models
-* [luminol](https://github.com/linkedin/luminol) - Anomaly Detection and Correlation library
+* [tslearn](https://github.com/rtavenar/tslearn) ![alt text][skl] - Machine learning toolkit dedicated to time-series data.
+* [tick](https://github.com/X-DataInitiative/tick) ![alt text][skl] - Module for statistical learning, with a particular emphasis on time-dependent modelling.  
+* [Prophet](https://github.com/facebook/prophet) - Automatic Forecasting Procedure.
+* [PyFlux](https://github.com/RJT1990/pyflux) - Open source time series library for Python.
+* [bayesloop](https://github.com/christophmark/bayesloop) - Probabilistic programming framework that facilitates objective model selection for time-varying parameter models.
+* [luminol](https://github.com/linkedin/luminol) - Anomaly Detection and Correlation library.
 
 <a name="ml-automl"></a>
 ### Automated Machine Learning
-* [TPOT](https://github.com/rhiever/tpot) ![alt text][skl] -  Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming
-* [auto-sklearn](https://github.com/automl/auto-sklearn) ![alt text][skl] - An automated machine learning toolkit and a drop-in replacement for a scikit-learn estimator
+* [TPOT](https://github.com/rhiever/tpot) ![alt text][skl] -  Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming.
+* [auto-sklearn](https://github.com/automl/auto-sklearn) ![alt text][skl] - An automated machine learning toolkit and a drop-in replacement for a scikit-learn estimator.
 * [MLBox](https://github.com/AxeldeRomblay/MLBox) - A powerful Automated Machine Learning python library.
 
 <a name="ml-ens"></a>
 ### Ensemble Methods
-* [ML-Ensemble](http://ml-ensemble.com/) ![alt text][skl] -  High performance ensemble learning
+* [ML-Ensemble](http://ml-ensemble.com/) ![alt text][skl] -  High performance ensemble learning.
 * [Stacking](https://github.com/ikki407/stacking) ![alt text][skl] - Simple and useful stacking library, written in Python.
 * [stacked_generalization](https://github.com/fukatani/stacked_generalization) ![alt text][skl] - Library for machine learning stacking generalization.
-* [vecstack](https://github.com/vecxoz/vecstack) ![alt text][skl]  - Python package for stacking (machine learning technique)
+* [vecstack](https://github.com/vecxoz/vecstack) ![alt text][skl]  - Python package for stacking (machine learning technique).
 
 <a name="imb"></a>
 ### Imbalanced Datasets
-* [imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn) ![alt text][skl]  - Module to perform under sampling and over sampling with various techniques
+* [imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn) ![alt text][skl]  - Module to perform under sampling and over sampling with various techniques.
 * [imbalanced-algorithms](https://github.com/dialnd/imbalanced-algorithms) ![alt text][skl] ![alt text][tf]  - Python-based implementations of algorithms for learning on imbalanced data.
 
 <a name="ml-rf"></a>
 ### Random Forests
-* [rpforest](https://github.com/lyst/rpforest) ![alt text][skl]  - A forest of random projection trees
-* [Random Forest Clustering](https://github.com/joshloyal/RandomForestClustering)![alt text][skl] - Unsupervised Clustering using Random Forests
-* [sklearn-random-bits-forest](https://github.com/tmadl/sklearn-random-bits-forest)![alt text][skl] - Wrapper of the Random Bits Forest program written by (Wang et al., 2016)
-* [rgf_python](https://github.com/fukatani/rgf_python) ![alt text][skl] - Python Wrapper of Regularized Greedy Forest
+* [rpforest](https://github.com/lyst/rpforest) ![alt text][skl]  - A forest of random projection trees.
+* [Random Forest Clustering](https://github.com/joshloyal/RandomForestClustering)![alt text][skl] - Unsupervised Clustering using Random Forests.
+* [sklearn-random-bits-forest](https://github.com/tmadl/sklearn-random-bits-forest)![alt text][skl] - Wrapper of the Random Bits Forest program written by (Wang et al., 2016).
+* [rgf_python](https://github.com/fukatani/rgf_python) ![alt text][skl] - Python Wrapper of Regularized Greedy Forest.
 
 <a name="ml-elm"></a>
 ### Extreme Learning Machine
-* [Python-ELM](https://github.com/dclambert/Python-ELM) ![alt text][skl]  - Extreme Learning Machine implementation in Python
-* [Python Extreme Learning Machine (ELM)](https://github.com/acba/elm) - a machine learning technique used for classification/regression tasks
+* [Python-ELM](https://github.com/dclambert/Python-ELM) ![alt text][skl]  - Extreme Learning Machine implementation in Python.
+* [Python Extreme Learning Machine (ELM)](https://github.com/acba/elm) - a machine learning technique used for classification/regression tasks.
 * [hpelm](https://github.com/akusok/hpelm) ![alt text][gpu]  - High performance implementation of Extreme Learning Machines (fast randomized neural networks).
 
 <a name="ml-fm"></a>
 ### Kernel Methods
-* [pyFM](https://github.com/coreylynch/pyFM) ![alt text][skl] - Factorization machines in python
-* [fastFM](https://github.com/ibayer/fastFM) ![alt text][skl] - A library for Factorization Machines
-* [tffm](https://github.com/geffy/tffm) ![alt text][skl] ![alt text][tf] - TensorFlow implementation of an arbitrary order Factorization Machine
-* [liquidSVM](https://github.com/liquidSVM/liquidSVM) - An implementation of SVMs
-* [scikit-rvm](https://github.com/JamesRitchie/scikit-rvm) ![alt text][skl] - Relevance Vector Machine implementation using the scikit-learn API
-* [ThunderSVM](https://github.com/Xtra-Computing/thundersvm) ![alt text][skl] ![alt text][gpu] - A fast SVM Library on GPUs and CPUs
+* [pyFM](https://github.com/coreylynch/pyFM) ![alt text][skl] - Factorization machines in python.
+* [fastFM](https://github.com/ibayer/fastFM) ![alt text][skl] - A library for Factorization Machines.
+* [tffm](https://github.com/geffy/tffm) ![alt text][skl] ![alt text][tf] - TensorFlow implementation of an arbitrary order Factorization Machine.
+* [liquidSVM](https://github.com/liquidSVM/liquidSVM) - An implementation of SVMs.
+* [scikit-rvm](https://github.com/JamesRitchie/scikit-rvm) ![alt text][skl] - Relevance Vector Machine implementation using the scikit-learn API.
+* [ThunderSVM](https://github.com/Xtra-Computing/thundersvm) ![alt text][skl] ![alt text][gpu] - A fast SVM Library on GPUs and CPUs.
 
 <a name="ml-gbt"></a>
 ### Gradient Boosting
-* [XGBoost](https://github.com/dmlc/xgboost) ![alt text][skl] ![alt text][gpu]  - Scalable, Portable and Distributed Gradient Boosting
-* [LightGBM](https://github.com/Microsoft/LightGBM) ![alt text][skl] ![alt text][gpu] - A fast, distributed, high performance gradient boosting by [Microsoft](https://www.microsoft.com)
-* [CatBoost](https://github.com/catboost/catboost) ![alt text][skl] ![alt text][gpu] - An open-source gradient boosting on decision trees library by [Yandex](https://www.yandex.com/)
-* [ThunderGBM](https://github.com/Xtra-Computing/thundergbm) ![alt text][skl] ![alt text][gpu] - Fast GBDTs and Random Forests on GPUs
+* [XGBoost](https://github.com/dmlc/xgboost) ![alt text][skl] ![alt text][gpu]  - Scalable, Portable and Distributed Gradient Boosting.
+* [LightGBM](https://github.com/Microsoft/LightGBM) ![alt text][skl] ![alt text][gpu] - A fast, distributed, high performance gradient boosting by [Microsoft](https://www.microsoft.com).
+* [CatBoost](https://github.com/catboost/catboost) ![alt text][skl] ![alt text][gpu] - An open-source gradient boosting on decision trees library by [Yandex](https://www.yandex.com/).
+* [ThunderGBM](https://github.com/Xtra-Computing/thundergbm) ![alt text][skl] ![alt text][gpu] - Fast GBDTs and Random Forests on GPUs.
 * [Other...](https://github.com/krzjoa/awesome-python-datascience/blob/master/other/gbm.md)
 
 <a name="dl"></a>
@@ -166,19 +166,19 @@
 
 <a name="dl-keras"></a>
 ### Keras
-* [Keras](https://keras.io) - A high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano
-* [keras-contrib](https://github.com/keras-team/keras-contrib) - Keras community contributions
-* [Hyperas](https://github.com/maxpumperla/hyperas) - Keras + Hyperopt: A very simple wrapper for convenient hyperparameter
-* [Elephas](https://github.com/maxpumperla/elephas) - Distributed Deep learning with Keras & Spark
+* [Keras](https://keras.io) - A high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano.
+* [keras-contrib](https://github.com/keras-team/keras-contrib) - Keras community contributions.
+* [Hyperas](https://github.com/maxpumperla/hyperas) - Keras + Hyperopt: A very simple wrapper for convenient hyperparameter.
+* [Elephas](https://github.com/maxpumperla/elephas) - Distributed Deep learning with Keras & Spark.
 * [Hera](https://github.com/keplr-io/hera) - Train/evaluate a Keras model, get metrics streamed to a dashboard in your browser.
-* [dist-keras](https://github.com/cerndb/dist-keras) ![alt text][sp] - Distributed Deep Learning, with a focus on distributed training
-* [Spektral](https://github.com/danielegrattarola/spektral) - Deep learning on graphs
-* [qkeras](https://github.com/google/qkeras) - A quantization deep learning library
+* [dist-keras](https://github.com/cerndb/dist-keras) ![alt text][sp] - Distributed Deep Learning, with a focus on distributed training.
+* [Spektral](https://github.com/danielegrattarola/spektral) - Deep learning on graphs.
+* [qkeras](https://github.com/google/qkeras) - A quantization deep learning library.
 * [Keras add-ons...](https://github.com/krzjoa/awesome-python-datascience/blob/master/addons/keras_addons.md)
 
 <a name="dl-tf"></a>
 ### TensorFlow
-* [TensorFlow](https://github.com/tensorflow/tensorflow) ![alt text][tf] - Computation using data flow graphs for scalable machine learning by Google
+* [TensorFlow](https://github.com/tensorflow/tensorflow) ![alt text][tf] - Computation using data flow graphs for scalable machine learning by Google.
 * [TensorLayer](https://github.com/zsdonghao/tensorlayer) ![alt text][tf] - Deep Learning and Reinforcement Learning Library for Researcher and Engineer.
 * [TFLearn](https://github.com/tflearn/tflearn) ![alt text][tf] - Deep learning library featuring a higher-level API for TensorFlow
 * [Sonnet](https://github.com/deepmind/sonnet) ![alt text][tf] - TensorFlow-based neural network library by [DeepMind](https://deepmind.com/)
