@@ -23,7 +23,7 @@
 [amd]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/img/amd.png "AMD based"
 [pd]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/img/pandas.png "pandas based"
 
-#### Contents:
+## Contents
 * [Machine Learning](#ml)
   * [General Purpouse ML](#ml-gen)
   * [Time Series](#ml-ts)
@@ -503,9 +503,11 @@
 * [MMdnn](https://github.com/Microsoft/MMdnn) -  A set of tools to help users inter-operate among different deep learning frameworks.
 
 # Contributing
-Your contributions are always welcome!
+Contributions are welcome! :sunglasses: Read contribution guideline: (https://github.com/krzjoa/awesome-python-datascience/blob/master/CONTRIBUTING.md)
 
 This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License - [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
 
-<div align="center">[Deprecated libs](https://github.com/krzjoa/awesome-python-datascience/blob/master/other/deprecated.md)
- [Waiting room](https://github.com/krzjoa/awesome-python-datascience/blob/master/other/waiting-room.md)<div>
+<div align="center">
+	<a href="deprecated.md">Deprecated Libs</a>&nbsp;&nbsp;&nbsp;
+	<a href="other/waiting-room.md">Waiting Room/a>&nbsp;&nbsp;&nbsp;
+<div>
