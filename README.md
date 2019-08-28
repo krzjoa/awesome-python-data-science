@@ -504,10 +504,10 @@
 * [ONNX](https://github.com/onnx/onnx) - Open Neural Network Exchange.
 * [MMdnn](https://github.com/Microsoft/MMdnn) -  A set of tools to help users inter-operate among different deep learning frameworks.
 
-# Contributing
+## Contributing
 Contributions are welcome! :sunglasses: Read the <a href=https://github.com/krzjoa/awesome-python-datascience/blob/master/CONTRIBUTING.md>contribution guideline</a>.
 
-# License
+## License
 This work is licensed under the Creative Commons Attribution 4.0 International License - [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 <div align="center">
