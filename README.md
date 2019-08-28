@@ -69,7 +69,7 @@
 * [Quantum Computing](#quant)
 * [Conversion](#conv)
 
-###### Legend:
+###### Legend
 ![alt text][skl] - [scikit-learn](http://scikit-learn.org/stable/) compatible (or inspired) API <br/>
 ![alt text][pd] - [pandas](https://github.com/pandas-dev/pandas) compatible or based on <br/>
 ![alt text][th] - [Theano](http://deeplearning.net/software/theano/) based project <br/>
