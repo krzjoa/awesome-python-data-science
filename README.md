@@ -300,9 +300,9 @@
 <a name="fe-selection"></a>
 ### Feature Selection
 * [scikit-feature](https://github.com/jundongl/scikit-feature) -  Feature selection repository in python.
-* [boruta_py](https://github.com/scikit-learn-contrib/boruta_py) ![alt text][skl] -  Implementations of the Boruta all-relevant feature selection method.
-* [BoostARoota](https://github.com/chasedehan/BoostARoota) ![alt text][skl] - A fast xgboost feature selection algorithm.
-* [scikit-rebate](https://github.com/EpistasisLab/scikit-rebate) ![alt text][skl] - A scikit-learn-compatible Python implementation of ReBATE, a suite of Relief-based feature selection algorithms for Machine Learning.
+* [boruta_py](https://github.com/scikit-learn-contrib/boruta_py) -  Implementations of the Boruta all-relevant feature selection method. ![alt text][skl] 
+* [BoostARoota](https://github.com/chasedehan/BoostARoota) - A fast xgboost feature selection algorithm. ![alt text][skl]
+* [scikit-rebate](https://github.com/EpistasisLab/scikit-rebate)- A scikit-learn-compatible Python  ![alt text][skl] implementation of ReBATE, a suite of Relief-based feature selection algorithms for Machine Learning.
 
 <a name="vis"></a>
 ## Visualization
@@ -327,22 +327,22 @@
 * [tensorboard-pytorch](https://github.com/lanpa/tensorboard-pytorch) - Tensorboard for pytorch (and chainer, mxnet, numpy, ...).
 * [anchor](https://github.com/marcotcr/anchor) - Code for "High-Precision Model-Agnostic Explanations" paper.
 * [aequitas](https://github.com/dssg/aequitas) - Bias and Fairness Audit Toolkit.
-* [Contrastive Explanation](https://github.com/MarcelRobeer/ContrastiveExplanation) ![alt text][skl] - Contrastive Explanation (Foil Trees).
-* [yellowbrick](https://github.com/DistrictDataLabs/yellowbrick) ![alt text][skl]- Visual analysis and diagnostic tools to facilitate machine learning model selection.
-* [scikit-plot](https://github.com/reiinakano/scikit-plot) ![alt text][skl] - An intuitive library to add plotting functionality to scikit-learn objects.
-* [shap](https://github.com/slundberg/shap) ![alt text][skl] - A unified approach to explain the output of any machine learning model.
+* [Contrastive Explanation](https://github.com/MarcelRobeer/ContrastiveExplanation) - Contrastive Explanation (Foil Trees). ![alt text][skl]
+* [yellowbrick](https://github.com/DistrictDataLabs/yellowbrick)- Visual analysis and diagnostic tools to facilitate machine learning model selection. ![alt text][skl]
+* [scikit-plot](https://github.com/reiinakano/scikit-plot) - An intuitive library to add plotting functionality to scikit-learn objects. ![alt text][skl]
+* [shap](https://github.com/slundberg/shap) - A unified approach to explain the output of any machine learning model. ![alt text][skl]
 * [ELI5](https://github.com/TeamHG-Memex/eli5) - A library for debugging/inspecting machine learning classifiers and explaining their predictions.
-* [Lime](https://github.com/marcotcr/lime) ![alt text][skl] - Explaining the predictions of any machine learning classifier.
-* [FairML](https://github.com/adebayoj/fairml) ![alt text][skl] - FairML is a python toolbox auditing the machine learning models for bias.
+* [Lime](https://github.com/marcotcr/lime)- Explaining the predictions of any machine learning classifier. ![alt text][skl] 
+* [FairML](https://github.com/adebayoj/fairml)- FairML is a python toolbox auditing the machine learning models for bias. ![alt text][skl] 
 * [L2X](https://github.com/Jianbo-Lab/L2X) - Code for replicating the experiments in the paper *Learning to Explain: An Information-Theoretic Perspective on Model Interpretation*.
 * [PDPbox](https://github.com/SauceCat/PDPbox) - Partial dependence plot toolbox.
-* [pyBreakDown](https://github.com/MI2DataLab/pyBreakDown) ![alt text][skl] - Python implementation of R package breakDown.
+* [pyBreakDown](https://github.com/MI2DataLab/pyBreakDown) - Python implementation of R package breakDown. ![alt text][skl]
 * [PyCEbox](https://github.com/AustinRochford/PyCEbox) - Python Individual Conditional Expectation Plot Toolbox.
 * [Skater](https://github.com/datascienceinc/Skater) - Python Library for Model Interpretation.
-* [model-analysis](https://github.com/tensorflow/model-analysis) ![alt text][tf] - Model analysis tools for TensorFlow.
-* [themis-ml](https://github.com/cosmicBboy/themis-ml) ![alt text][skl] - A library that implements fairness-aware machine learning algorithms.
-* [treeinterpreter](https://github.com/andosa/treeinterpreter) ![alt text][skl] - Interpreting scikit-learn's decision tree and random forest predictions.
-* [mxboard](https://github.com/awslabs/mxboard) - Logging MXNet data for visualization in TensorBoard.
+* [model-analysis](https://github.com/tensorflow/model-analysis)- Model analysis tools for TensorFlow. ![alt text][tf] 
+* [themis-ml](https://github.com/cosmicBboy/themis-ml) - A library that implements fairness-aware machine learning algorithms. ![alt text][skl]
+* [treeinterpreter](https://github.com/andosa/treeinterpreter) - Interpreting scikit-learn's decision tree and random forest predictions. ![alt text][skl]
+* [mxboard](https://github.com/awslabs/mxboard) - Logging MXNet data for visualization in TensorBoard. ![alt text][mx]
 * [AI Explainability 360](https://github.com/IBM/AIX360) - Interpretability and explainability of data and machine learning models.
 
 <a name="rl"></a>
@@ -351,40 +351,40 @@
 
 <a name="dist"></a>
 ## Distributed Computing
-* [Horovod](https://github.com/uber/horovod) ![alt text][tf] - Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet.
+* [Horovod](https://github.com/uber/horovod)- Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet. ![alt text][tf] 
 * [PySpark](https://spark.apache.org/docs/0.9.0/python-programming-guide.html) ![alt text][sp] - Exposes the Spark programming model to Python.
 * [Veles](https://github.com/Samsung/veles) - Distributed machine learning platform by [Samsung](https://github.com/Samsung).
 * [Jubatus](https://github.com/jubatus/jubatus) - Framework and Library for Distributed Online Machine Learning.
 * [DMTK](https://github.com/Microsoft/DMTK) - Microsoft Distributed Machine Learning Toolkit.
 * [PaddlePaddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning by [Baidu](https://www.baidu.com/).
-* [dask-ml](https://github.com/dask/dask-ml) ![alt text][skl] - Distributed and parallel machine learning.
+* [dask-ml](https://github.com/dask/dask-ml)- Distributed and parallel machine learning. ![alt text][skl] 
 * [Distributed](https://github.com/dask/distributed) - Distributed computation in Python.
 
 <a name="bayes"></a>
 ## Probabilistic Methods
-* [pomegranate](https://github.com/jmschrei/pomegranate) ![alt text][cp] - Probabilistic and graphical models for Python.
-* [pyro](https://github.com/uber/pyro) ![alt text][pt] - A flexible, scalable deep probabilistic programming library built on PyTorch.
-* [ZhuSuan](http://zhusuan.readthedocs.io/en/latest/) ![alt text][tf] - Bayesian Deep Learning.
+* [pomegranate](https://github.com/jmschrei/pomegranate)- Probabilistic and graphical models for Python. ![alt text][cp] 
+* [pyro](https://github.com/uber/pyro) - A flexible, scalable deep probabilistic programming library built on PyTorch. ![alt text][pt]
+* [ZhuSuan](http://zhusuan.readthedocs.io/en/latest/)- Bayesian Deep Learning. ![alt text][tf] 
 * [PyMC](https://github.com/pymc-devs/pymc) - Bayesian Stochastic Modelling in Python.
-* [PyMC3](http://docs.pymc.io/) ![alt text][th] - Python package for Bayesian statistical modeling and Probabilistic Machine Learning.
+* [PyMC3](http://docs.pymc.io/)- Python package for Bayesian statistical modeling and Probabilistic Machine Learning. ![alt text][th] 
 * [sampled](https://github.com/ColCarroll/sampled) - Decorator for reusable models in PyMC3.
-* [Edward](http://edwardlib.org/) ![alt text][tf] - A library for probabilistic modeling, inference, and criticism.
-* [InferPy](https://github.com/PGM-Lab/InferPy)  ![alt text][tf]  - Deep Probabilistic Modelling Made Easy.
-* [GPflow](http://gpflow.readthedocs.io/en/latest/?badge=latest) ![alt text][tf]  - Gaussian processes in TensorFlow.
+* [Edward](http://edwardlib.org/) - A library for probabilistic modeling, inference, and criticism. ![alt text][tf]
+* [InferPy](https://github.com/PGM-Lab/InferPy) - Deep Probabilistic Modelling Made Easy.  ![alt text][tf] 
+* [GPflow](http://gpflow.readthedocs.io/en/latest/?badge=latest) - Gaussian processes in TensorFlow. ![alt text][tf]
 * [PyStan](https://github.com/stan-dev/pystan) - Bayesian inference using the No-U-Turn sampler (Python interface).
-* [gelato](https://github.com/ferrine/gelato) ![alt text][th] - Bayesian dessert for Lasagne.
-* [sklearn-bayes](https://github.com/AmazaspShumik/sklearn-bayes) ![alt text][skl]  - Python package for Bayesian Machine Learning with scikit-learn API.
-* [skggm](https://github.com/skggm/skggm) ![alt text][skl] - Estimation of general graphical models.
+* [gelato](https://github.com/ferrine/gelato) - Bayesian dessert for Lasagne. ![alt text][th]
+* [sklearn-bayes](https://github.com/AmazaspShumik/sklearn-bayes) - Python package for Bayesian Machine Learning with scikit-learn API. ![alt text][skl]
+* [skggm](https://github.com/skggm/skggm) - Estimation of general graphical models. ![alt text][skl]
 * [pgmpy](https://github.com/pgmpy/pgmpy) - A python library for working with Probabilistic Graphical Models.
-* [skpro](https://github.com/alan-turing-institute/skpro) ![alt text][skl] - Supervised domain-agnostic prediction framework for probabilistic modelling by [The Alan Turing Institute](https://www.turing.ac.uk/).
-* [Aboleth](https://github.com/data61/aboleth) ![alt text][tf]  - A bare-bones TensorFlow framework for Bayesian deep learning and Gaussian process approximation.
-* [PtStat](https://github.com/stepelu/ptstat) ![alt text][pt] - Probabilistic Programming and Statistical Inference in PyTorch.
-* [PyVarInf](https://github.com/ctallec/pyvarinf) ![alt text][pt] - Bayesian Deep Learning methods with Variational Inference for PyTorch.
+* [skpro](https://github.com/alan-turing-institute/skpro) - Supervised domain-agnostic prediction framework for probabilistic modelling by [The Alan Turing Institute](https://www.turing.ac.uk/). ![alt text][skl]
+* [Aboleth](https://github.com/data61/aboleth) - A bare-bones TensorFlow framework for Bayesian deep learning and Gaussian process approximation. ![alt text][tf]
+* [PtStat](https://github.com/stepelu/ptstat) - Probabilistic Programming and Statistical Inference in PyTorch. ![alt text][pt]
+* [PyVarInf](https://github.com/ctallec/pyvarinf) - Bayesian Deep Learning methods with Variational Inference for PyTorch. ![alt text][pt]
 * [emcee](https://github.com/dfm/emcee) - The Python ensemble sampling toolkit for affine-invariant MCMC.
 * [hsmmlearn](https://github.com/jvkersch/hsmmlearn) - A library for hidden semi-Markov models with explicit durations.
 * [pyhsmm](https://github.com/mattjj/pyhsmm) - Bayesian inference in HSMMs and HMMs.
-* [GPyTorch](https://github.com/cornellius-gp/gpytorch) ![alt text][pt] - A highly efficient and modular implementation of Gaussian Processes in PyTorch.
-* [MXFusion](https://github.com/amzn/MXFusion) ![alt text][mx] - Modular Probabilistic Programming on MXNet
+* [GPyTorch](https://github.com/cornellius-gp/gpytorch) - A highly efficient and modular implementation of Gaussian Processes in PyTorch. ![alt text][pt]
+* [MXFusion](https://github.com/amzn/MXFusion) - Modular Probabilistic Programming on MXNet ![alt text][mx]
 * [sklearn-crfsuite](https://github.com/TeamHG-Memex/sklearn-crfsuite) - Scikit-learn inspire.d API for CRFsuite. ![alt text][skl]
 
 <a name="gp"></a>
