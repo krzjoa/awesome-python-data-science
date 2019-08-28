@@ -85,22 +85,22 @@
 
 <a name="ml-gen"></a>
 ### General Purpouse Machine Learning
-* [scikit-learn](http://scikit-learn.org/stable/) ![alt text][skl] - Machine learning in Python.
+* [scikit-learn](http://scikit-learn.org/stable/) - Machine learning in Python. ![alt text][skl]
 * [Shogun](http://www.shogun-toolbox.org/) - Machine learning toolbox.
 * [xLearn](https://github.com/aksnzhy/xlearn) - High Performance, Easy-to-use, and Scalable Machine Learning Package.
-* [cuML](https://github.com/rapidsai/cuml) ![alt text][skl] ![alt text][gpu]  - RAPIDS Machine Learning Library.
-* [Reproducible Experiment Platform (REP)](https://github.com/yandex/rep) ![alt text][skl] - Machine Learning toolbox for Humans.
-* [modAL](https://github.com/cosmic-cortex/modAL) ![alt text][skl] -  Modular active learning framework for Python3.
-* [Sparkit-learn](https://github.com/lensacom/sparkit-learn) ![alt text][skl] ![alt text][sp] - PySpark + Scikit-learn = Sparkit-learn.
+* [cuML](https://github.com/rapidsai/cuml) - RAPIDS Machine Learning Library. ![alt text][skl] ![alt text][gpu] 
+* [Reproducible Experiment Platform (REP)](https://github.com/yandex/rep) - Machine Learning toolbox for Humans. ![alt text][skl]
+* [modAL](https://github.com/cosmic-cortex/modAL) -  Modular active learning framework for Python3. ![alt text][skl]
+* [Sparkit-learn](https://github.com/lensacom/sparkit-learn) - PySpark + Scikit-learn = Sparkit-learn. ![alt text][skl] ![alt text][sp]
 * [mlpack](https://github.com/mlpack/mlpack) - A scalable C++ machine learning library (Python bindings).
 * [dlib](https://github.com/davisking/dlib) - Toolkit for making real world machine learning and data analysis applications in C++ (Python bindings).
-* [MLxtend](https://github.com/rasbt/mlxtend) ![alt text][skl] - Extension and helper modules for Python's data analysis and machine learning libraries.
-* [scikit-multilearn](https://github.com/scikit-multilearn/scikit-multilearn) ![alt text][skl] - Multi-label classification for python.
-* [seqlearn](https://github.com/larsmans/seqlearn) ![alt text][skl] - Sequence classification toolkit for Python.
-* [pystruct](https://github.com/pystruct/pystruct) ![alt text][skl] - Simple structured learning framework for Python.
-* [sklearn-expertsys](https://github.com/tmadl/sklearn-expertsys) ![alt text][skl] - Highly interpretable classifiers for scikit learn, producing easily understood decision rules instead of black box models.
-* [RuleFit](https://github.com/christophM/rulefit) ![alt text][skl] - Implementation of the rulefit.
-* [metric-learn](https://github.com/all-umass/metric-learn) ![alt text][skl]  - Metric learning algorithms in Python.
+* [MLxtend](https://github.com/rasbt/mlxtend) - Extension and helper modules for Python's data analysis and machine learning libraries. ![alt text][skl]
+* [scikit-multilearn](https://github.com/scikit-multilearn/scikit-multilearn) - Multi-label classification for python. ![alt text][skl]
+* [seqlearn](https://github.com/larsmans/seqlearn) - Sequence classification toolkit for Python. ![alt text][skl]
+* [pystruct](https://github.com/pystruct/pystruct) - Simple structured learning framework for Python. ![alt text][skl]
+* [sklearn-expertsys](https://github.com/tmadl/sklearn-expertsys) - Highly interpretable classifiers for scikit learn, producing easily understood decision rules instead of black box models. ![alt text][skl]
+* [RuleFit](https://github.com/christophM/rulefit) - Implementation of the rulefit. ![alt text][skl]
+* [metric-learn](https://github.com/all-umass/metric-learn)  - Metric learning algorithms in Python. ![alt text][skl]
 * [pyGAM](https://github.com/dswah/pyGAM) - Generalized Additive Models in Python.
 * [Other...](https://github.com/krzjoa/awesome-python-datascience/blob/master/other/general-ml.md)
 
