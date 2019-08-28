@@ -503,11 +503,12 @@
 * [MMdnn](https://github.com/Microsoft/MMdnn) -  A set of tools to help users inter-operate among different deep learning frameworks.
 
 # Contributing
-Contributions are welcome! :sunglasses: Read contribution guideline: (https://github.com/krzjoa/awesome-python-datascience/blob/master/CONTRIBUTING.md)
+Contributions are welcome! :sunglasses: Read the <a href=https://github.com/krzjoa/awesome-python-datascience/blob/master/CONTRIBUTING.md>contribution guideline</a>.
 
-This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License - [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
+# License
+This work is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) License - [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 <div align="center">
 	<a href="deprecated.md">Deprecated Libs</a>&nbsp;&nbsp;&nbsp;
-	<a href="other/waiting-room.md">Waiting Room/a>&nbsp;&nbsp;&nbsp;
+	<a href="other/waiting-room.md">Waiting Room</a>&nbsp;&nbsp;&nbsp;
 <div>
