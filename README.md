@@ -502,5 +502,10 @@
 * [ONNX](https://github.com/onnx/onnx) - Open Neural Network Exchange.
 * [MMdnn](https://github.com/Microsoft/MMdnn) -  A set of tools to help users inter-operate among different deep learning frameworks.
 
-[Deprecated libs](https://github.com/krzjoa/awesome-python-datascience/blob/master/other/deprecated.md)
-[Waiting room](https://github.com/krzjoa/awesome-python-datascience/blob/master/other/waiting-room.md)
+# Contributing
+Your contributions are always welcome!
+
+This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License - [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
+
+<div align="center">[Deprecated libs](https://github.com/krzjoa/awesome-python-datascience/blob/master/other/deprecated.md)
+ [Waiting room](https://github.com/krzjoa/awesome-python-datascience/blob/master/other/waiting-room.md)<div>
