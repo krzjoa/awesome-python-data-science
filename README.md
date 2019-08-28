@@ -187,7 +187,7 @@
 * [Polyaxon](https://github.com/polyaxon/polyaxon) - A platform that helps you build, manage and monitor deep learning models. ![alt text][tf]
 * [NeuPy](https://github.com/itdxer/neupy) - NeuPy is a Python library for Artificial Neural Networks and Deep Learning (previously: ![alt text][th]). ![alt text][tf]
 * [tfdeploy](https://github.com/riga/tfdeploy) - Deploy tensorflow graphs for fast evaluation and export to tensorflow-less environments running numpy. ![alt text][tf]
-* [hiptensorflow](https://github.com/ROCmSoftwarePlatform/hiptensorflow) - ROCm/HIP enabled Tensorflow. ![alt text][tf] ![alt text][amd]
+* [tensorflow-upstream](https://github.com/ROCmSoftwarePlatform/tensorflow-upstream) - TensorFlow ROCm port. ![alt text][tf] ![alt text][amd]
 * [TensorFlow Fold](https://github.com/tensorflow/fold) - Deep learning with dynamic computation graphs in TensorFlow. ![alt text][tf]
 * [tensorlm](https://github.com/batzner/tensorlm) - Wrapper library for text generation / language models at char and word level with RNN. ![alt text][tf]
 * [TensorLight](https://github.com/bsautermeister/tensorlight)  - A high-level framework for TensorFlow. ![alt text][tf]
