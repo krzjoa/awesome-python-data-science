@@ -13,7 +13,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[skl]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/img/skl.png "scikit-learn compatible"
+[skl]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/img/skl.png "scikit-learn compatible/inspired"
 [th]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/img/th.png "Theano based"
 [tf]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/img/tf2.png "TensorFlow based"
 [pt]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/img/pt2.png "PyTorch based"
@@ -22,7 +22,7 @@
 [R]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/img/R.png "R inspired/ported lib"
 [gpu]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/img/gpu.png "GPU accelerated"
 [sp]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/img/spark.png "Apache Spark based"
-[amd]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/img/amd.png "AMD based"
+[amd]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/img/amd.png "possible to run on AMD"
 [pd]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/img/pandas.png "pandas based"
 
 ## Contents
@@ -68,19 +68,6 @@
 * [Spatial Analysis](#spatial)
 * [Quantum Computing](#quant)
 * [Conversion](#conv)
-
-###### Legend
-![alt text][skl] - [scikit-learn](http://scikit-learn.org/stable/) compatible (or inspired) API <br/>
-![alt text][pd] - [pandas](https://github.com/pandas-dev/pandas) compatible or based on <br/>
-![alt text][th] - [Theano](http://deeplearning.net/software/theano/) based project <br/>
-![alt text][tf] - [TensorFlow](https://www.tensorflow.org/) based project <br/>
-![alt text][pt] - [PyTorch](http://pytorch.org/) based project <br/>
-![alt text][cp] - [CuPy](https://github.com/cupy/cupy/) based project <br/>
-![alt text][R] - [R](https://www.r-project.org/about.html) inspired/ported lib<br/>
-![alt text][mx] - [MXNet](https://mxnet.apache.org/) based project <br/>
-![alt text][sp] - [Apache Spark](https://spark.apache.org/) based project <br/>
-![alt text][gpu] - GPU-accelerated computations (if not based on Theano, Tensorflow, PyTorch, CuPy etc.)  <br/>
-![alt text][amd] - possible to run on [AMD](http://www.amd.com/en/home) GPU
 
 <a name="ml"></a>
 ## Machine Learning
