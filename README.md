@@ -8,7 +8,7 @@
 <h1 align="center">
 	Awesome Python Data Science
 </h1>
-
+> Probably the best curated list of data science software in Python
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [skl]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/img/skl.png "scikit-learn compatible"
@@ -506,7 +506,7 @@
 Contributions are welcome! :sunglasses: Read the <a href=https://github.com/krzjoa/awesome-python-datascience/blob/master/CONTRIBUTING.md>contribution guideline</a>.
 
 # License
-This work is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) License - [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by/4.0/)
+This work is licensed under the Creative Commons Attribution 4.0 International License - [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 <div align="center">
 	<a href="deprecated.md">Deprecated Libs</a>&nbsp;&nbsp;&nbsp;
