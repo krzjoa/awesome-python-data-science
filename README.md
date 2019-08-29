@@ -341,7 +341,7 @@
 <a name="dist"></a>
 ## Distributed Computing
 * [Horovod](https://github.com/uber/horovod)- Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet. ![alt text][tf] 
-* [PySpark](https://spark.apache.org/docs/0.9.0/python-programming-guide.html) ![alt text][sp] - Exposes the Spark programming model to Python.
+* [PySpark](https://spark.apache.org/docs/0.9.0/python-programming-guide.html) - Exposes the Spark programming model to Python. ![alt text][sp]
 * [Veles](https://github.com/Samsung/veles) - Distributed machine learning platform by [Samsung](https://github.com/Samsung).
 * [Jubatus](https://github.com/jubatus/jubatus) - Framework and Library for Distributed Online Machine Learning.
 * [DMTK](https://github.com/Microsoft/DMTK) - Microsoft Distributed Machine Learning Toolkit.
@@ -492,12 +492,13 @@
 * [MMdnn](https://github.com/Microsoft/MMdnn) -  A set of tools to help users inter-operate among different deep learning frameworks.
 
 ## Contributing
-Contributions are welcome! :sunglasses: Read the <a href=https://github.com/krzjoa/awesome-python-datascience/blob/master/CONTRIBUTING.md>contribution guideline</a>.
+Contributions are welcome! :sunglasses: 
+Read the <a href=https://github.com/krzjoa/awesome-python-datascience/blob/master/CONTRIBUTING.md>contribution guideline</a>.
 
 ## License
 This work is licensed under the Creative Commons Attribution 4.0 International License - [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 <div align="center">
-	<a href="deprecated.md">Deprecated Libs</a>&nbsp;&nbsp;&nbsp;
+	<a href="other/deprecated.md">Deprecated Libs</a>&nbsp;&nbsp;&nbsp;
 	<a href="other/waiting-room.md">Waiting Room</a>&nbsp;&nbsp;&nbsp;
 <div>
