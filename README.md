@@ -37,13 +37,12 @@
   * [Kernel Methods](#ml-fm)
   * [Gradient Boosting](#ml-gbt)
 * [Deep Learning](#dl)
+  * [PyTorch](#dl-pytorch)
   * [Keras](#dl-keras)
   * [TensorFlow](#dl-tf)
-  * [Theano](#dl-theano)
-  * [PyTorch](#dl-pytorch)
   * [MXnet](#dl-mxnet)
-  * [Caffe](#dl-caffe)
   * [Chainer](#dl-chainer)
+  * [Theano](#dl-theano)
   * [Others](#dl-others)
 * [Data Manipulation](#data-man)
   * [Data Containers](#dm-cont)
@@ -153,6 +152,19 @@
 <a name="dl"></a>
 ## Deep Learning
 
+<a name="dl-pytorch"></a>
+### PyTorch
+* [PyTorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration. ![alt text][pt] 
+* [torchvision](https://github.com/pytorch/vision) - Datasets, Transforms and Models specific to Computer Vision. ![alt text][pt]
+* [torchtext](https://github.com/pytorch/text) - Data loaders and abstractions for text and NLP. ![alt text][pt]
+* [torchaudio](https://github.com/pytorch/audio) - An audio library for PyTorch. ![alt text][pt]
+* [ignite](https://github.com/pytorch/ignite)  - High-level library to help with training neural networks in PyTorch. ![alt text][pt]
+* [PyToune](https://github.com/GRAAL-Research/pytoune) - A Keras-like framework and utilities for PyTorch.
+* [skorch](https://github.com/dnouri/skorch)  - A scikit-learn compatible neural network library that wraps pytorch. ![alt text][skl] ![alt text][pt]
+* [PyTorchNet](https://github.com/pytorch/tnt)  - An abstraction to train neural networks ![alt text][pt]
+* [Aorun](https://github.com/ramon-oliveira/aorun) - Intend to implement an API similar to Keras with PyTorch as backend. ![alt text][pt]
+* [pytorch_geometric](https://github.com/rusty1s/pytorch_geometric) - Geometric Deep Learning Extension Library for PyTorch. ![alt text][pt]
+
 <a name="dl-keras"></a>
 ### Keras
 * [Keras](https://keras.io) - A high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano.
@@ -183,6 +195,26 @@
 * [Mesh TensorFlow](https://github.com/tensorflow/mesh) - Model Parallelism Made Easier. ![alt text][tf]
 * [Ludwig](https://github.com/uber/ludwig) - A toolbox, that allows to train and test deep learning models without the need to write code. ![alt text][tf]
 
+<a name="dl-mxnet"></a>
+### MXNet
+* [MXNet](https://github.com/apache/incubator-mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler. ![alt text][mx]
+* [Gluon](https://github.com/gluon-api/gluon-api) - A clear, concise, simple yet powerful and efficient API for deep learning (now included in MXNet). ![alt text][mx]
+* [MXbox](https://github.com/Lyken17/mxbox) - Simple, efficient and flexible vision toolbox for mxnet framework. ![alt text][mx]
+* [gluon-cv](https://github.com/dmlc/gluon-cv) - Provides implementations of the state-of-the-art  deep learning models in computer vision. ![alt text][mx]
+* [gluon-nlp](https://github.com/dmlc/gluon-nlp) - NLP made easy. ![alt text][mx]
+* [Xfer](https://github.com/amzn/xfer) - Transfer Learning library for Deep Neural Networks. ![alt text][mx]
+* [MXNet](https://github.com/ROCmSoftwarePlatform/mxnet)  - HIP Port of MXNet. ![alt text][mx] ![alt text][amd]
+
+<!--a name="dl-cntk"></a-->
+<a name="dl-chainer"></a>
+### Chainer
+* [ChainerRL](https://github.com/chainer/chainerrl) - A deep reinforcement learning library built on top of Chainer.
+* [Chainer](https://github.com/chainer/chainer) - A flexible framework for neural networks.
+* [ChainerCV](https://github.com/chainer/chainercv) - A Library for Deep Learning in Computer Vision.
+* [ChainerMN](https://github.com/chainer/chainermn) - Scalable distributed deep learning with Chainer.
+* [scikit-chainer](https://github.com/lucidfrontier45/scikit-chainer) - Scikit-learn like interface to chainer. ![alt text][skl]
+* [chainer_sklearn](https://github.com/corochann/chainer_sklearn) - Sklearn (Scikit-learn) like interface for Chainer. ![alt text][skl]
+
 <a name="dl-theano"></a>
 ### Theano
 **WARNING: Theano development has been stopped**
@@ -194,44 +226,6 @@
 * [scikit-neuralnetwork](https://github.com/aigamedev/scikit-neuralnetwork) - Deep neural networks without the learning cliff. ![alt text][skl]  ![alt text][th]
 * [Theano-MPI](https://github.com/uoguelph-mlrg/Theano-MPI) - MPI Parallel framework for training deep learning models built in Theano. ![alt text][th]
 
-<a name="dl-pytorch"></a>
-### PyTorch
-* [PyTorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration. ![alt text][pt] 
-* [torchvision](https://github.com/pytorch/vision) - Datasets, Transforms and Models specific to Computer Vision. ![alt text][pt]
-* [torchtext](https://github.com/pytorch/text) - Data loaders and abstractions for text and NLP. ![alt text][pt]
-* [torchaudio](https://github.com/pytorch/audio) - An audio library for PyTorch. ![alt text][pt]
-* [ignite](https://github.com/pytorch/ignite)  - High-level library to help with training neural networks in PyTorch. ![alt text][pt]
-* [PyToune](https://github.com/GRAAL-Research/pytoune) - A Keras-like framework and utilities for PyTorch.
-* [skorch](https://github.com/dnouri/skorch)  - A scikit-learn compatible neural network library that wraps pytorch. ![alt text][skl] ![alt text][pt]
-* [PyTorchNet](https://github.com/pytorch/tnt)  - An abstraction to train neural networks ![alt text][pt]
-* [Aorun](https://github.com/ramon-oliveira/aorun) - Intend to implement an API similar to Keras with PyTorch as backend. ![alt text][pt]
-* [pytorch_geometric](https://github.com/rusty1s/pytorch_geometric) - Geometric Deep Learning Extension Library for PyTorch. ![alt text][pt]
-
-<a name="dl-mxnet"></a>
-### MXNet
-* [MXNet](https://github.com/apache/incubator-mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler. ![alt text][mx]
-* [Gluon](https://github.com/gluon-api/gluon-api) - A clear, concise, simple yet powerful and efficient API for deep learning (now included in MXNet). ![alt text][mx]
-* [MXbox](https://github.com/Lyken17/mxbox) - Simple, efficient and flexible vision toolbox for mxnet framework. ![alt text][mx]
-* [gluon-cv](https://github.com/dmlc/gluon-cv) - Provides implementations of the state-of-the-art  deep learning models in computer vision. ![alt text][mx]
-* [gluon-nlp](https://github.com/dmlc/gluon-nlp) - NLP made easy. ![alt text][mx]
-* [Xfer](https://github.com/amzn/xfer) - Transfer Learning library for Deep Neural Networks. ![alt text][mx]
-* [MXNet](https://github.com/ROCmSoftwarePlatform/mxnet)  - HIP Port of MXNet. ![alt text][mx] ![alt text][amd]
-
-<a name="dl-caffe"></a>
-### Caffe
-* [Caffe](https://github.com/BVLC/caffe) - a fast open framework for deep learning.
-* [Caffe2](https://github.com/caffe2/caffe2) -  A lightweight, modular, and scalable deep learning framework.
-* [hipCaffe](https://github.com/ROCmSoftwarePlatform/hipCaffe) - The HIP port of Caffe. ![alt text][amd]
-<!--a name="dl-cntk"></a-->
-<a name="dl-chainer"></a>
-### Chainer
-* [ChainerRL](https://github.com/chainer/chainerrl) - A deep reinforcement learning library built on top of Chainer.
-* [Chainer](https://github.com/chainer/chainer) - A flexible framework for neural networks.
-* [ChainerCV](https://github.com/chainer/chainercv) - A Library for Deep Learning in Computer Vision.
-* [ChainerMN](https://github.com/chainer/chainermn) - Scalable distributed deep learning with Chainer.
-* [scikit-chainer](https://github.com/lucidfrontier45/scikit-chainer) - Scikit-learn like interface to chainer. ![alt text][skl]
-* [chainer_sklearn](https://github.com/corochann/chainer_sklearn) - Sklearn (Scikit-learn) like interface for Chainer. ![alt text][skl]
-
 <a name="dl-others"></a>
 ### Others
 * [CNTK](https://github.com/Microsoft/CNTK) - Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit.
@@ -240,6 +234,9 @@
 * [autograd](https://github.com/HIPS/autograd) - Efficiently computes derivatives of numpy code.
 * [Myia](https://github.com/mila-udem/myia) - Deep Learning framework (pre-alpha).
 * [nnabla](https://github.com/sony/nnabla) - Neural Network Libraries by Sony.
+* [Caffe](https://github.com/BVLC/caffe) - a fast open framework for deep learning.
+* [Caffe2](https://github.com/pytorch/pytorch/tree/master/caffe2) -  A lightweight, modular, and scalable deep learning framework (now a part of PyTorch).
+* [hipCaffe](https://github.com/ROCmSoftwarePlatform/hipCaffe) - The HIP port of Caffe. ![alt text][amd]
 
 <a name="data-man"></a>
 ## Data Manipulation
