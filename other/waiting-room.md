@@ -14,3 +14,9 @@
 * [HungaBunga](https://github.com/ypeleg/HungaBunga) - Brute-Force all sklearn models with all parameters using .fit .predict!
 * [Conx](https://github.com/Calysto/conx) - The On-Ramp to Deep Learning
 * [quinn](https://github.com/MrPowers/quinn)  - pyspark methods to enhance developer productivity. ![alt text][sp]
+* [scikit-chainer](https://github.com/lucidfrontier45/scikit-chainer) - Scikit-learn like interface to chainer. ![alt text][skl]
+* [chainer_sklearn](https://github.com/corochann/chainer_sklearn) - Sklearn (Scikit-learn) like interface for Chainer. ![alt text][skl]
+* [Fuel](https://github.com/mila-udem/fuel) - Data pipeline framework for machine learning.
+* [kaggle-metrics](https://github.com/krzjoa/kaggle-metrics) - Metrics for Kaggle competitions.
+* [simplestatistics](https://github.com/sheriferson/simplestatistics) - Simple statistical functions implemented in readable Python.
+* [pysie](https://github.com/chen0040/pysie) - Provides python implementation of statistical inference engine.
