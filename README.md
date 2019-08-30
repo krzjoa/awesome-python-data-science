@@ -193,7 +193,6 @@
 * [Hera](https://github.com/keplr-io/hera) - Train/evaluate a Keras model, get metrics streamed to a dashboard in your browser.
 * [Spektral](https://github.com/danielegrattarola/spektral) - Deep learning on graphs.
 * [qkeras](https://github.com/google/qkeras) - A quantization deep learning library.
-* [Keras add-ons...](https://github.com/krzjoa/awesome-python-datascience/blob/master/addons/keras_addons.md)
 
 <a name="dl-mxnet"></a>
 ### MXNet
@@ -419,7 +418,6 @@
 * [Marsyas](https://github.com/marsyas/marsyas) - Music Analysis, Retrieval and Synthesis for Audio Signals.
 * [muda](https://github.com/bmcfee/muda) - A library for augmenting annotated audio data.
 * [madmom](https://github.com/CPJKU/madmom) - Python audio and music signal processing library.
-* [more: Python for Scientific Audio](https://github.com/faroit/awesome-python-scientific-audio)
 
 <a name="cv"></a>
 ## Computer Vision
