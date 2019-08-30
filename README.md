@@ -38,8 +38,8 @@
   * [Gradient Boosting](#ml-gbt)
 * [Deep Learning](#dl)
   * [PyTorch](#dl-pytorch)
-  * [Keras](#dl-keras)
   * [TensorFlow](#dl-tf)
+  * [Keras](#dl-keras)
   * [MXnet](#dl-mxnet)
   * [Chainer](#dl-chainer)
   * [Theano](#dl-theano)
@@ -165,18 +165,6 @@
 * [Aorun](https://github.com/ramon-oliveira/aorun) - Intend to implement an API similar to Keras with PyTorch as backend. ![alt text][pt]
 * [pytorch_geometric](https://github.com/rusty1s/pytorch_geometric) - Geometric Deep Learning Extension Library for PyTorch. ![alt text][pt]
 
-<a name="dl-keras"></a>
-### Keras
-* [Keras](https://keras.io) - A high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano.
-* [keras-contrib](https://github.com/keras-team/keras-contrib) - Keras community contributions.
-* [Hyperas](https://github.com/maxpumperla/hyperas) - Keras + Hyperopt: A very simple wrapper for convenient hyperparameter.
-* [Elephas](https://github.com/maxpumperla/elephas) - Distributed Deep learning with Keras & Spark.
-* [Hera](https://github.com/keplr-io/hera) - Train/evaluate a Keras model, get metrics streamed to a dashboard in your browser.
-* [dist-keras](https://github.com/cerndb/dist-keras) ![alt text][sp] - Distributed Deep Learning, with a focus on distributed training.
-* [Spektral](https://github.com/danielegrattarola/spektral) - Deep learning on graphs.
-* [qkeras](https://github.com/google/qkeras) - A quantization deep learning library.
-* [Keras add-ons...](https://github.com/krzjoa/awesome-python-datascience/blob/master/addons/keras_addons.md)
-
 <a name="dl-tf"></a>
 ### TensorFlow
 * [TensorFlow](https://github.com/tensorflow/tensorflow) - Computation using data flow graphs for scalable machine learning by Google. ![alt text][tf]
@@ -194,6 +182,18 @@
 * [TensorLight](https://github.com/bsautermeister/tensorlight)  - A high-level framework for TensorFlow. ![alt text][tf]
 * [Mesh TensorFlow](https://github.com/tensorflow/mesh) - Model Parallelism Made Easier. ![alt text][tf]
 * [Ludwig](https://github.com/uber/ludwig) - A toolbox, that allows to train and test deep learning models without the need to write code. ![alt text][tf]
+
+<a name="dl-keras"></a>
+### Keras
+* [Keras](https://keras.io) - A high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano.
+* [keras-contrib](https://github.com/keras-team/keras-contrib) - Keras community contributions.
+* [Hyperas](https://github.com/maxpumperla/hyperas) - Keras + Hyperopt: A very simple wrapper for convenient hyperparameter.
+* [Elephas](https://github.com/maxpumperla/elephas) - Distributed Deep learning with Keras & Spark.
+* [Hera](https://github.com/keplr-io/hera) - Train/evaluate a Keras model, get metrics streamed to a dashboard in your browser.
+* [dist-keras](https://github.com/cerndb/dist-keras) ![alt text][sp] - Distributed Deep Learning, with a focus on distributed training.
+* [Spektral](https://github.com/danielegrattarola/spektral) - Deep learning on graphs.
+* [qkeras](https://github.com/google/qkeras) - A quantization deep learning library.
+* [Keras add-ons...](https://github.com/krzjoa/awesome-python-datascience/blob/master/addons/keras_addons.md)
 
 <a name="dl-mxnet"></a>
 ### MXNet
@@ -263,7 +263,6 @@
 * [pandas-ply](https://github.com/coursera/pandas-ply) - Functional data manipulation for pandas. ![alt text][pd]
 * [Dplython](https://github.com/dodger487/dplython) - Dplyr for Python. ![alt text][R]
 * [sklearn-pandas](https://github.com/scikit-learn-contrib/sklearn-pandas)  - Pandas integration with sklearn. ![alt text][skl] ![alt text][pd]
-* [quinn](https://github.com/MrPowers/quinn)  - pyspark methods to enhance developer productivity. ![alt text][sp]
 * [Dataset](https://github.com/analysiscenter/dataset) - Helps you conveniently work with random or sequential batches of your data and define data processing.
 * [swifter](https://github.com/jmcarpenter2/swifter) - A package which efficiently applies any function to a pandas dataframe or series in the fastest available manner.
 * [pyjanitor](https://github.com/ericmjl/pyjanitor) - Clean APIs for data cleaning. ![alt text][pd]
