@@ -191,7 +191,6 @@
 * [Hyperas](https://github.com/maxpumperla/hyperas) - Keras + Hyperopt: A very simple wrapper for convenient hyperparameter.
 * [Elephas](https://github.com/maxpumperla/elephas) - Distributed Deep learning with Keras & Spark.
 * [Hera](https://github.com/keplr-io/hera) - Train/evaluate a Keras model, get metrics streamed to a dashboard in your browser.
-* [dist-keras](https://github.com/cerndb/dist-keras) ![alt text][sp] - Distributed Deep Learning, with a focus on distributed training.
 * [Spektral](https://github.com/danielegrattarola/spektral) - Deep learning on graphs.
 * [qkeras](https://github.com/google/qkeras) - A quantization deep learning library.
 * [Keras add-ons...](https://github.com/krzjoa/awesome-python-datascience/blob/master/addons/keras_addons.md)
@@ -345,7 +344,7 @@
 
 <a name="bayes"></a>
 ## Probabilistic Methods
-* [pomegranate](https://github.com/jmschrei/pomegranate)- Probabilistic and graphical models for Python. ![alt text][cp] 
+* [pomegranate](https://github.com/jmschrei/pomegranate) - Probabilistic and graphical models for Python. ![alt text][cp] 
 * [pyro](https://github.com/uber/pyro) - A flexible, scalable deep probabilistic programming library built on PyTorch. ![alt text][pt]
 * [ZhuSuan](http://zhusuan.readthedocs.io/en/latest/)- Bayesian Deep Learning. ![alt text][tf] 
 * [PyMC](https://github.com/pymc-devs/pymc) - Bayesian Stochastic Modelling in Python.
