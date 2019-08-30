@@ -80,12 +80,12 @@
 * [Shogun](http://www.shogun-toolbox.org/) - Machine learning toolbox.
 * [xLearn](https://github.com/aksnzhy/xlearn) - High Performance, Easy-to-use, and Scalable Machine Learning Package.
 * [cuML](https://github.com/rapidsai/cuml) - RAPIDS Machine Learning Library. ![alt text][skl] ![alt text][gpu] 
-* [Reproducible Experiment Platform (REP)](https://github.com/yandex/rep) - Machine Learning toolbox for Humans. ![alt text][skl]
 * [modAL](https://github.com/cosmic-cortex/modAL) -  Modular active learning framework for Python3. ![alt text][skl]
 * [Sparkit-learn](https://github.com/lensacom/sparkit-learn) - PySpark + Scikit-learn = Sparkit-learn. ![alt text][skl] ![alt text][sp]
 * [mlpack](https://github.com/mlpack/mlpack) - A scalable C++ machine learning library (Python bindings).
 * [dlib](https://github.com/davisking/dlib) - Toolkit for making real world machine learning and data analysis applications in C++ (Python bindings).
 * [MLxtend](https://github.com/rasbt/mlxtend) - Extension and helper modules for Python's data analysis and machine learning libraries. ![alt text][skl]
+* [Reproducible Experiment Platform (REP)](https://github.com/yandex/rep) - Machine Learning toolbox for Humans. ![alt text][skl]
 * [scikit-multilearn](https://github.com/scikit-multilearn/scikit-multilearn) - Multi-label classification for python. ![alt text][skl]
 * [seqlearn](https://github.com/larsmans/seqlearn) - Sequence classification toolkit for Python. ![alt text][skl]
 * [pystruct](https://github.com/pystruct/pystruct) - Simple structured learning framework for Python. ![alt text][skl]
@@ -93,7 +93,6 @@
 * [RuleFit](https://github.com/christophM/rulefit) - Implementation of the rulefit. ![alt text][skl]
 * [metric-learn](https://github.com/all-umass/metric-learn)  - Metric learning algorithms in Python. ![alt text][skl]
 * [pyGAM](https://github.com/dswah/pyGAM) - Generalized Additive Models in Python.
-* [Other...](https://github.com/krzjoa/awesome-python-datascience/blob/master/other/general-ml.md)
 
 <a name="ml-ts"></a>
 ### Time Series
@@ -150,7 +149,6 @@
 * [LightGBM](https://github.com/Microsoft/LightGBM)- A fast, distributed, high performance gradient boosting by [Microsoft](https://www.microsoft.com). ![alt text][skl] ![alt text][gpu] 
 * [CatBoost](https://github.com/catboost/catboost) - An open-source gradient boosting on decision trees library by [Yandex](https://www.yandex.com/). ![alt text][skl] ![alt text][gpu]
 * [ThunderGBM](https://github.com/Xtra-Computing/thundergbm) - Fast GBDTs and Random Forests on GPUs. ![alt text][skl] ![alt text][gpu]
-* [Other...](https://github.com/krzjoa/awesome-python-datascience/blob/master/other/gbm.md)
 
 <a name="dl"></a>
 ## Deep Learning
@@ -211,12 +209,10 @@
 <!--a name="dl-cntk"></a-->
 <a name="dl-chainer"></a>
 ### Chainer
-* [ChainerRL](https://github.com/chainer/chainerrl) - A deep reinforcement learning library built on top of Chainer.
 * [Chainer](https://github.com/chainer/chainer) - A flexible framework for neural networks.
+* [ChainerRL](https://github.com/chainer/chainerrl) - A deep reinforcement learning library built on top of Chainer.
 * [ChainerCV](https://github.com/chainer/chainercv) - A Library for Deep Learning in Computer Vision.
 * [ChainerMN](https://github.com/chainer/chainermn) - Scalable distributed deep learning with Chainer.
-* [scikit-chainer](https://github.com/lucidfrontier45/scikit-chainer) - Scikit-learn like interface to chainer. ![alt text][skl]
-* [chainer_sklearn](https://github.com/corochann/chainer_sklearn) - Sklearn (Scikit-learn) like interface for Chainer. ![alt text][skl]
 
 <a name="dl-theano"></a>
 ### Theano
@@ -225,8 +221,8 @@
 * [Lasagne](https://github.com/Lasagne/Lasagne) - Lightweight library to build and train neural networks in Theano [Lasagne add-ons...](https://github.com/krzjoa/awesome-python-datascience/blob/master/addons/lasagne_addons.md) ![alt text][th]
 * [nolearn](https://github.com/dnouri/nolearn) - A scikit-learn compatible neural network library (mainly for Lasagne). ![alt text][th] ![alt text][skl]
 * [Blocks](https://github.com/mila-udem/blocks) - A Theano framework for building and training neural networks. ![alt text][th]
-* [platoon](https://github.com/mila-udem/platoon) - Multi-GPU mini-framework for Theano. ![alt text][th]
 * [scikit-neuralnetwork](https://github.com/aigamedev/scikit-neuralnetwork) - Deep neural networks without the learning cliff. ![alt text][skl]  ![alt text][th]
+* [platoon](https://github.com/mila-udem/platoon) - Multi-GPU mini-framework for Theano. ![alt text][th]
 * [Theano-MPI](https://github.com/uoguelph-mlrg/Theano-MPI) - MPI Parallel framework for training deep learning models built in Theano. ![alt text][th]
 
 <a name="dl-others"></a>
@@ -256,20 +252,19 @@
 * [Arctic](https://github.com/manahl/arctic) - High performance datastore for time series and tick data.
 * [datatable](https://github.com/h2oai/datatable) - Data.table for Python. ![alt text][R]
 * [koalas](https://github.com/databricks/koalas) - Pandas API on Apache Spark. ![alt text][pd]
+* [modin](https://github.com/modin-project/modin) - Speed up your Pandas workflows by changing a single line of code. ![alt text][pd]
+* [swifter](https://github.com/jmcarpenter2/swifter) - A package which efficiently applies any function to a pandas dataframe or series in the fastest available manner.
 
 <a name="dm-pipe"></a>
 ### Pipelines
-* [Fuel](https://github.com/mila-udem/fuel) - Data pipeline framework for machine learning.
 * [pdpipe](https://github.com/shaypal5/pdpipe) - Sasy pipelines for pandas DataFrames.
 * [SSPipe](https://sspipe.github.io/) - Python pipe (|) operator with support for DataFrames and Numpy and Pytorch.
-* [meza](https://github.com/reubano/meza) - A Python toolkit for processing tabular data.
 * [pandas-ply](https://github.com/coursera/pandas-ply) - Functional data manipulation for pandas. ![alt text][pd]
 * [Dplython](https://github.com/dodger487/dplython) - Dplyr for Python. ![alt text][R]
 * [sklearn-pandas](https://github.com/scikit-learn-contrib/sklearn-pandas)  - Pandas integration with sklearn. ![alt text][skl] ![alt text][pd]
 * [Dataset](https://github.com/analysiscenter/dataset) - Helps you conveniently work with random or sequential batches of your data and define data processing.
-* [swifter](https://github.com/jmcarpenter2/swifter) - A package which efficiently applies any function to a pandas dataframe or series in the fastest available manner.
 * [pyjanitor](https://github.com/ericmjl/pyjanitor) - Clean APIs for data cleaning. ![alt text][pd]
-* [modin](https://github.com/modin-project/modin) - Speed up your Pandas workflows by changing a single line of code. ![alt text][pd]
+* [meza](https://github.com/reubano/meza) - A Python toolkit for processing tabular data.
 * [Prodmodel](https://github.com/prodmodel/prodmodel) - Build system for data science pipelines.
 
 
@@ -307,12 +302,6 @@
 <a name="expl"></a>
 ## Model Explanation
 * [Alibi](https://github.com/SeldonIO/alibi) - Algorithms for monitoring and explaining machine learning models.
-* [Auralisation](https://github.com/keunwoochoi/Auralisation) - Auralisation of learned features in CNN (for audio).
-* [CapsNet-Visualization](https://github.com/bourdakos1/CapsNet-Visualization) - A visualization of the CapsNet layers to better understand how it works.
-* [lucid](https://github.com/tensorflow/lucid) - A collection of infrastructure and tools for research in neural network interpretability.
-* [Netron](https://github.com/lutzroeder/Netron) - Visualizer for deep learning and machine learning models (no Python code, but visualizes models from most Python Deep Learning frameworks).
-* [FlashLight](https://github.com/dlguys/flashlight) - Visualization Tool for your NeuralNetwork.
-* [tensorboard-pytorch](https://github.com/lanpa/tensorboard-pytorch) - Tensorboard for pytorch (and chainer, mxnet, numpy, ...).
 * [anchor](https://github.com/marcotcr/anchor) - Code for "High-Precision Model-Agnostic Explanations" paper.
 * [aequitas](https://github.com/dssg/aequitas) - Bias and Fairness Audit Toolkit.
 * [Contrastive Explanation](https://github.com/MarcelRobeer/ContrastiveExplanation) - Contrastive Explanation (Foil Trees). ![alt text][skl]
@@ -324,14 +313,20 @@
 * [FairML](https://github.com/adebayoj/fairml)- FairML is a python toolbox auditing the machine learning models for bias. ![alt text][skl] 
 * [L2X](https://github.com/Jianbo-Lab/L2X) - Code for replicating the experiments in the paper *Learning to Explain: An Information-Theoretic Perspective on Model Interpretation*.
 * [PDPbox](https://github.com/SauceCat/PDPbox) - Partial dependence plot toolbox.
-* [pyBreakDown](https://github.com/MI2DataLab/pyBreakDown) - Python implementation of R package breakDown. ![alt text][skl]
+* [pyBreakDown](https://github.com/MI2DataLab/pyBreakDown) - Python implementation of R package breakDown. ![alt text][skl]![alt text][R]
 * [PyCEbox](https://github.com/AustinRochford/PyCEbox) - Python Individual Conditional Expectation Plot Toolbox.
 * [Skater](https://github.com/datascienceinc/Skater) - Python Library for Model Interpretation.
 * [model-analysis](https://github.com/tensorflow/model-analysis)- Model analysis tools for TensorFlow. ![alt text][tf] 
 * [themis-ml](https://github.com/cosmicBboy/themis-ml) - A library that implements fairness-aware machine learning algorithms. ![alt text][skl]
 * [treeinterpreter](https://github.com/andosa/treeinterpreter) - Interpreting scikit-learn's decision tree and random forest predictions. ![alt text][skl]
-* [mxboard](https://github.com/awslabs/mxboard) - Logging MXNet data for visualization in TensorBoard. ![alt text][mx]
 * [AI Explainability 360](https://github.com/IBM/AIX360) - Interpretability and explainability of data and machine learning models.
+* [Auralisation](https://github.com/keunwoochoi/Auralisation) - Auralisation of learned features in CNN (for audio).
+* [CapsNet-Visualization](https://github.com/bourdakos1/CapsNet-Visualization) - A visualization of the CapsNet layers to better understand how it works.
+* [lucid](https://github.com/tensorflow/lucid) - A collection of infrastructure and tools for research in neural network interpretability.
+* [Netron](https://github.com/lutzroeder/Netron) - Visualizer for deep learning and machine learning models (no Python code, but visualizes models from most Python Deep Learning frameworks).
+* [FlashLight](https://github.com/dlguys/flashlight) - Visualization Tool for your NeuralNetwork.
+* [tensorboard-pytorch](https://github.com/lanpa/tensorboard-pytorch) - Tensorboard for pytorch (and chainer, mxnet, numpy, ...).
+* [mxboard](https://github.com/awslabs/mxboard) - Logging MXNet data for visualization in TensorBoard. ![alt text][mx]
 
 <a name="rl"></a>
 ## Reinforcement Learning
@@ -443,10 +438,8 @@
 * [Pandas Profiling](https://github.com/pandas-profiling/pandas-profiling) - Create HTML profiling reports from pandas DataFrame objects. ![alt text][pd] 
 * [statsmodels](https://github.com/statsmodels/statsmodels) - Statistical modeling and econometrics in Python
 * [stockstats](https://github.com/jealous/stockstats) - Supply a wrapper ``StockDataFrame`` based on the ``pandas.DataFrame`` with inline stock statistics/indicators support.
-* [simplestatistics](https://github.com/sheriferson/simplestatistics) - Simple statistical functions implemented in readable Python.
 * [weightedcalcs](https://github.com/jsvine/weightedcalcs) - pandas-based utility to calculate weighted means, medians, distributions, standard deviations, and more.
 * [scikit-posthocs](https://github.com/maximtrp/scikit-posthocs) - Pairwise Multiple Comparisons Post-hoc Tests.
-* [pysie](https://github.com/chen0040/pysie) - Provides python implementation of statistical inference engine.
 
 <a name="tools"></a>
 ## Experimentation
@@ -458,7 +451,6 @@
 <a name="eval"></a>
 ## Evaluation
 * [recmetrics](https://github.com/statisticianinstilettos/recmetrics) - Library of useful metrics and plots for evaluating recommender systems.
-* [kaggle-metrics](https://github.com/krzjoa/kaggle-metrics) - Metrics for Kaggle competitions.
 * [Metrics](https://github.com/benhamner/Metrics) - Machine learning evaluation metric.
 * [sklearn-evaluation](https://github.com/edublancas/sklearn-evaluation) - Scikit-learn model evaluation made easy: plots, tables and markdown reports.
 * [AI Fairness 360](https://github.com/IBM/AIF360) - Fairness metrics for datasets and ML models, explanations and algorithms to mitigate bias in datasets and models.
@@ -491,7 +483,7 @@
 * [MMdnn](https://github.com/Microsoft/MMdnn) -  A set of tools to help users inter-operate among different deep learning frameworks.
 
 ## Contributing
-Contributions are welcome! :sunglasses: 
+Contributions are welcome! :sunglasses: </br>
 Read the <a href=https://github.com/krzjoa/awesome-python-datascience/blob/master/CONTRIBUTING.md>contribution guideline</a>.
 
 ## License
