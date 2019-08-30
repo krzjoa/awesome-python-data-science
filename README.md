@@ -1,5 +1,5 @@
 <div align="center">
-	<img width="250" height="250" src="img/py-datascience.png" alt="pyds">
+	<a href="https://github.com/krzjoa/awesome-python-datascience"><img width="250" height="250" src="img/py-datascience.png" alt="pyds"></a>
 	<br>
 	<br>
 	<br>
