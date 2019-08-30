@@ -13,3 +13,4 @@
 * [alexander](https://github.com/annoys-parrot/alexander) ![alt text][skl] ![alt text][pd] - wrapper that aims to make scikit-learn fully compatible with pandas
 * [HungaBunga](https://github.com/ypeleg/HungaBunga) - Brute-Force all sklearn models with all parameters using .fit .predict!
 * [Conx](https://github.com/Calysto/conx) - The On-Ramp to Deep Learning
+* [quinn](https://github.com/MrPowers/quinn)  - pyspark methods to enhance developer productivity. ![alt text][sp]
