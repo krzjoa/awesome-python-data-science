@@ -8,10 +8,11 @@
 <h1 align="center">
 	Awesome Python Data Science
 </h1>
-<center><a href="https://github.com/sindresorhus/awesome">
+<div align="center"><a href="https://github.com/sindresorhus/awesome">
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" border="0">
 </a>
-</center>
+</div>
+</br>
 
 > Probably the best curated list of data science software in Python
 
