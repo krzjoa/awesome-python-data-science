@@ -18,7 +18,7 @@
 
 [skl]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/img/skl.png 'scikit-learn compatible/inspired'
 
-<img height="20" src="img/sklearn_big.png" alt="sklearn">
+<--!img height="20" src="img/sklearn_big.png" alt="sklearn"-->
 
 [th]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/img/th.png 'Theano based'
 
