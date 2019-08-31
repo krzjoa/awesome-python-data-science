@@ -18,6 +18,8 @@
 
 [skl]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/img/skl.png 'scikit-learn compatible/inspired'
 
+<img height="20" src="img/sklearn_full.png" alt="sklearn">
+
 [th]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/img/th.png 'Theano based'
 
 [tf]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/img/tf2.png 'TensorFlow based'
@@ -273,7 +275,7 @@
 * [scikit-feature](https://github.com/jundongl/scikit-feature) - Feature selection repository in python.
 * [boruta_py](https://github.com/scikit-learn-contrib/boruta_py) - Implementations of the Boruta all-relevant feature selection method. ![alt text][skl]
 * [BoostARoota](https://github.com/chasedehan/BoostARoota) - A fast xgboost feature selection algorithm. ![alt text][skl]
-* [scikit-rebate](https://github.com/EpistasisLab/scikit-rebate) - A scikit-learn-compatible Python implementation of ReBATE, a suite of Relief-based feature selection algorithms for Machine Learning. ![alt text][skl] 
+* [scikit-rebate](https://github.com/EpistasisLab/scikit-rebate) - A scikit-learn-compatible Python implementation of ReBATE, a suite of Relief-based feature selection algorithms for Machine Learning. ![alt text][skl]
 
 <a name="vis"></a>
 ## Visualization
@@ -392,7 +394,7 @@
 * [gensim](https://radimrehurek.com/gensim/) - Topic Modelling for Humans.
 * [PSI-Toolkit](http://psi-toolkit.amu.edu.pl/) - A natural language processing toolkit.
 * [pyMorfologik](https://github.com/dmirecki/pyMorfologik) - Python binding for <a href="https://github.com/morfologik/morfologik-stemming">Morfologik</a>.
-* [skift](https://github.com/shaypal5/skift)- Scikit-learn wrappers for Python fastText. ![alt text][skl]
+* [skift](https://github.com/shaypal5/skift) - Scikit-learn wrappers for Python fastText. ![alt text][skl]
 * [Phonemizer](https://github.com/bootphon/phonemizer) - Simple text to phonemes converter for multiple languages.
 * [flair](https://github.com/zalandoresearch/flair) - Very simple framework for state-of-the-art NLP.
 
