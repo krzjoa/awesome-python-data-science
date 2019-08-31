@@ -24,7 +24,7 @@
 
 [pt]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/img/pt2.png 'PyTorch based'
 
-[cp]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/img/cupy.png "CuPy based'
+[cp]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/img/cupy.png 'CuPy based'
 
 [mx]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/img/mxnet.png 'MXNet based'
 
