@@ -273,7 +273,7 @@
 * [scikit-feature](https://github.com/jundongl/scikit-feature) - Feature selection repository in python.
 * [boruta_py](https://github.com/scikit-learn-contrib/boruta_py) - Implementations of the Boruta all-relevant feature selection method. ![alt text][skl]
 * [BoostARoota](https://github.com/chasedehan/BoostARoota) - A fast xgboost feature selection algorithm. ![alt text][skl]
-* [scikit-rebate](https://github.com/EpistasisLab/scikit-rebate) - A scikit-learn-compatible Python  ![alt text][skl] implementation of ReBATE, a suite of Relief-based feature selection algorithms for Machine Learning.
+* [scikit-rebate](https://github.com/EpistasisLab/scikit-rebate) - A scikit-learn-compatible Python implementation of ReBATE, a suite of Relief-based feature selection algorithms for Machine Learning. ![alt text][skl] 
 
 <a name="vis"></a>
 ## Visualization
@@ -296,7 +296,7 @@
 * [shap](https://github.com/slundberg/shap) - A unified approach to explain the output of any machine learning model. ![alt text][skl]
 * [ELI5](https://github.com/TeamHG-Memex/eli5) - A library for debugging/inspecting machine learning classifiers and explaining their predictions.
 * [Lime](https://github.com/marcotcr/lime) - Explaining the predictions of any machine learning classifier. ![alt text][skl]
-* [FairML](https://github.com/adebayoj/fairml)- FairML is a python toolbox auditing the machine learning models for bias. ![alt text][skl]
+* [FairML](https://github.com/adebayoj/fairml) - FairML is a python toolbox auditing the machine learning models for bias. ![alt text][skl]
 * [L2X](https://github.com/Jianbo-Lab/L2X) - Code for replicating the experiments in the paper *Learning to Explain: An Information-Theoretic Perspective on Model Interpretation*.
 * [PDPbox](https://github.com/SauceCat/PDPbox) - Partial dependence plot toolbox.
 * [pyBreakDown](https://github.com/MI2DataLab/pyBreakDown) - Python implementation of R package breakDown. ![alt text][skl]![alt text][r]
@@ -326,7 +326,7 @@
 * [Jubatus](https://github.com/jubatus/jubatus) - Framework and Library for Distributed Online Machine Learning.
 * [DMTK](https://github.com/Microsoft/DMTK) - Microsoft Distributed Machine Learning Toolkit.
 * [PaddlePaddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning
-* [dask-ml](https://github.com/dask/dask-ml)- Distributed and parallel machine learning. ![alt text][skl]
+* [dask-ml](https://github.com/dask/dask-ml) - Distributed and parallel machine learning. ![alt text][skl]
 * [Distributed](https://github.com/dask/distributed) - Distributed computation in Python.
 
 <a name="bayes"></a>
@@ -391,7 +391,7 @@
 * [CLTK](https://github.com/cltk/cltk) - The Classical Language Toolkik.
 * [gensim](https://radimrehurek.com/gensim/) - Topic Modelling for Humans.
 * [PSI-Toolkit](http://psi-toolkit.amu.edu.pl/) - A natural language processing toolkit.
-* [pyMorfologik](https://github.com/dmirecki/pyMorfologik) - Python binding for [Morfologik](https://github.com/morfologik/morfologik-stemming) (Polish morphological analyzer).
+* [pyMorfologik](https://github.com/dmirecki/pyMorfologik) - Python binding for <a href="https://github.com/morfologik/morfologik-stemming">Morfologik</a>.
 * [skift](https://github.com/shaypal5/skift)- Scikit-learn wrappers for Python fastText. ![alt text][skl]
 * [Phonemizer](https://github.com/bootphon/phonemizer) - Simple text to phonemes converter for multiple languages.
 * [flair](https://github.com/zalandoresearch/flair) - Very simple framework for state-of-the-art NLP.
