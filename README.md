@@ -17,15 +17,25 @@
 > Probably the best curated list of data science software in Python
 
 [skl]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/img/skl.png 'scikit-learn compatible/inspired'
+
 [th]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/img/th.png 'Theano based'
+
 [tf]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/img/tf2.png 'TensorFlow based'
+
 [pt]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/img/pt2.png 'PyTorch based'
+
 [cp]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/img/cupy.png "CuPy based'
+
 [mx]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/img/mxnet.png 'MXNet based'
+
 [r]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/img/R.png 'R inspired/ported lib'
+
 [gpu]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/img/gpu.png 'GPU accelerated'
+
 [sp]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/img/spark.png 'Apache Spark based'
+
 [amd]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/img/amd.png 'possible to run on AMD'
+
 [pd]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/img/pandas.png 'pandas based'
 
 ## Contents
