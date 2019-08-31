@@ -16,8 +16,6 @@
 
 > Probably the best curated list of data science software in Python
 
-[pt]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/img/pt2.png 'PyTorch based'
-
 [cp]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/img/cupy.png 'CuPy based'
 
 [mx]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/img/mxnet.png 'MXNet based'
@@ -137,16 +135,16 @@
 
 <a name="dl-pytorch"></a>
 ### PyTorch
-* [PyTorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration. ![alt text][pt]
-* [torchvision](https://github.com/pytorch/vision) - Datasets, Transforms and Models specific to Computer Vision. ![alt text][pt]
-* [torchtext](https://github.com/pytorch/text) - Data loaders and abstractions for text and NLP. ![alt text][pt]
-* [torchaudio](https://github.com/pytorch/audio) - An audio library for PyTorch. ![alt text][pt]
-* [ignite](https://github.com/pytorch/ignite) - High-level library to help with training neural networks in PyTorch. ![alt text][pt]
+* [PyTorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration. <img height="20" src="img/pytorch_big.png" alt="PyTorch based/compatible">
+* [torchvision](https://github.com/pytorch/vision) - Datasets, Transforms and Models specific to Computer Vision. <img height="20" src="img/pytorch_big.png" alt="PyTorch based/compatible">
+* [torchtext](https://github.com/pytorch/text) - Data loaders and abstractions for text and NLP. <img height="20" src="img/pytorch_big.png" alt="PyTorch based/compatible">
+* [torchaudio](https://github.com/pytorch/audio) - An audio library for PyTorch. <img height="20" src="img/pytorch_big.png" alt="PyTorch based/compatible">
+* [ignite](https://github.com/pytorch/ignite) - High-level library to help with training neural networks in PyTorch. <img height="20" src="img/pytorch_big.png" alt="PyTorch based/compatible">
 * [PyToune](https://github.com/GRAAL-Research/pytoune) - A Keras-like framework and utilities for PyTorch.
-* [skorch](https://github.com/dnouri/skorch) - A scikit-learn compatible neural network library that wraps pytorch. <img height="20" src="img/sklearn_big.png" alt="sklearn"> ![alt text][pt]
-* [PyTorchNet](https://github.com/pytorch/tnt) - An abstraction to train neural networks ![alt text][pt]
-* [Aorun](https://github.com/ramon-oliveira/aorun) - Intend to implement an API similar to Keras with PyTorch as backend. ![alt text][pt]
-* [pytorch_geometric](https://github.com/rusty1s/pytorch_geometric) - Geometric Deep Learning Extension Library for PyTorch. ![alt text][pt]
+* [skorch](https://github.com/dnouri/skorch) - A scikit-learn compatible neural network library that wraps pytorch. <img height="20" src="img/sklearn_big.png" alt="sklearn"> <img height="20" src="img/pytorch_big.png" alt="PyTorch based/compatible">
+* [PyTorchNet](https://github.com/pytorch/tnt) - An abstraction to train neural networks <img height="20" src="img/pytorch_big.png" alt="PyTorch based/compatible">
+* [Aorun](https://github.com/ramon-oliveira/aorun) - Intend to implement an API similar to Keras with PyTorch as backend. <img height="20" src="img/pytorch_big.png" alt="PyTorch based/compatible">
+* [pytorch_geometric](https://github.com/rusty1s/pytorch_geometric) - Geometric Deep Learning Extension Library for PyTorch. <img height="20" src="img/pytorch_big.png" alt="PyTorch based/compatible">
 
 <a name="dl-tf"></a>
 ### TensorFlow
@@ -324,7 +322,7 @@
 <a name="bayes"></a>
 ## Probabilistic Methods
 * [pomegranate](https://github.com/jmschrei/pomegranate) - Probabilistic and graphical models for Python. ![alt text][cp]
-* [pyro](https://github.com/uber/pyro) - A flexible, scalable deep probabilistic programming library built on PyTorch. ![alt text][pt]
+* [pyro](https://github.com/uber/pyro) - A flexible, scalable deep probabilistic programming library built on PyTorch. <img height="20" src="img/pytorch_big.png" alt="PyTorch based/compatible">
 * [ZhuSuan](http://zhusuan.readthedocs.io/en/latest/) - Bayesian Deep Learning. <img height="20" src="img/tf_big2.png" alt="sklearn">
 * [PyMC](https://github.com/pymc-devs/pymc) - Bayesian Stochastic Modelling in Python.
 * [PyMC3](http://docs.pymc.io/) - Python package for Bayesian statistical modeling and Probabilistic Machine Learning. <img height="20" src="img/theano_big.png" alt="sklearn">
@@ -339,12 +337,12 @@
 * [pgmpy](https://github.com/pgmpy/pgmpy) - A python library for working with Probabilistic Graphical Models.
 * [skpro](https://github.com/alan-turing-institute/skpro) - Supervised domain-agnostic prediction framework for probabilistic modelling by [The Alan Turing Institute](https://www.turing.ac.uk/). <img height="20" src="img/sklearn_big.png" alt="sklearn">
 * [Aboleth](https://github.com/data61/aboleth) - A bare-bones TensorFlow framework for Bayesian deep learning and Gaussian process approximation. <img height="20" src="img/tf_big2.png" alt="sklearn">
-* [PtStat](https://github.com/stepelu/ptstat) - Probabilistic Programming and Statistical Inference in PyTorch. ![alt text][pt]
-* [PyVarInf](https://github.com/ctallec/pyvarinf) - Bayesian Deep Learning methods with Variational Inference for PyTorch. ![alt text][pt]
+* [PtStat](https://github.com/stepelu/ptstat) - Probabilistic Programming and Statistical Inference in PyTorch. <img height="20" src="img/pytorch_big.png" alt="PyTorch based/compatible">
+* [PyVarInf](https://github.com/ctallec/pyvarinf) - Bayesian Deep Learning methods with Variational Inference for PyTorch. <img height="20" src="img/pytorch_big.png" alt="PyTorch based/compatible">
 * [emcee](https://github.com/dfm/emcee) - The Python ensemble sampling toolkit for affine-invariant MCMC.
 * [hsmmlearn](https://github.com/jvkersch/hsmmlearn) - A library for hidden semi-Markov models with explicit durations.
 * [pyhsmm](https://github.com/mattjj/pyhsmm) - Bayesian inference in HSMMs and HMMs.
-* [GPyTorch](https://github.com/cornellius-gp/gpytorch) - A highly efficient and modular implementation of Gaussian Processes in PyTorch. ![alt text][pt]
+* [GPyTorch](https://github.com/cornellius-gp/gpytorch) - A highly efficient and modular implementation of Gaussian Processes in PyTorch. <img height="20" src="img/pytorch_big.png" alt="PyTorch based/compatible">
 * [MXFusion](https://github.com/amzn/MXFusion) - Modular Probabilistic Programming on MXNet ![alt text][mx]
 * [sklearn-crfsuite](https://github.com/TeamHG-Memex/sklearn-crfsuite) - A scikit-learn inspired API for CRFsuite. <img height="20" src="img/sklearn_big.png" alt="sklearn">
 
@@ -359,7 +357,7 @@
 <a name="opt"></a>
 ## Optimization
 * [Spearmint](https://github.com/HIPS/Spearmint) - Bayesian optimization.
-* [BoTorch](https://github.com/pytorch/botorch) - Bayesian optimization in PyTorch. ![alt text][pt]
+* [BoTorch](https://github.com/pytorch/botorch) - Bayesian optimization in PyTorch. <img height="20" src="img/pytorch_big.png" alt="PyTorch based/compatible">
 * [SMAC3](https://github.com/automl/SMAC3) - Sequential Model-based Algorithm Configuration.
 * [Optunity](https://github.com/claesenm/optunity) - Is a library containing various optimizers for hyperparameter tuning.
 * [hyperopt](https://github.com/hyperopt/hyperopt) - Distributed Asynchronous Hyperparameter Optimization in Python.
