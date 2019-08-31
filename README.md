@@ -271,11 +271,9 @@
 * [seaborn](https://github.com/mwaskom/seaborn) - Statistical data visualization using matplotlib.
 * [Bokeh](https://github.com/bokeh/bokeh) - Interactive Web Plotting for Python.
 * [HoloViews](https://github.com/ioam/holoviews) - Stop plotting your data - annotate your data and let it visualize itself.
-* [Alphalens](https://github.com/quantopian/alphalens) - Performance analysis of predictive (alpha) stock factors by [Quantopian](https://www.quantopian.com/).
 * [prettyplotlib](https://github.com/olgabot/prettyplotlib) - Painlessly create beautiful matplotlib plots.
 * [python-ternary](https://github.com/marcharper/python-ternary) - Ternary plotting library for python with matplotlib.
 * [missingno](https://github.com/ResidentMario/missingno) - Missing data visualization module for Python.
-
 
 <a name="expl"></a>
 ## Model Explanation
@@ -417,6 +415,7 @@
 * [stockstats](https://github.com/jealous/stockstats) - Supply a wrapper ``StockDataFrame`` based on the ``pandas.DataFrame`` with inline stock statistics/indicators support.
 * [weightedcalcs](https://github.com/jsvine/weightedcalcs) - pandas-based utility to calculate weighted means, medians, distributions, standard deviations, and more.
 * [scikit-posthocs](https://github.com/maximtrp/scikit-posthocs) - Pairwise Multiple Comparisons Post-hoc Tests.
+* [Alphalens](https://github.com/quantopian/alphalens) - Performance analysis of predictive (alpha) stock factors by [Quantopian](https://www.quantopian.com/).
 
 <a name="tools"></a>
 ## Experimentation
