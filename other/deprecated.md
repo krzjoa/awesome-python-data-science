@@ -18,3 +18,6 @@
 
 ### Ensemble methods
 * [brew](https://github.com/viisar/brew) ![alt text][skl] - Python Ensemble Learning API
+
+## Computations
+* [minpy](https://github.com/dmlc/minpy) - NumPy interface with mixed backend execution.
