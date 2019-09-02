@@ -262,6 +262,9 @@
 * [prettyplotlib](https://github.com/olgabot/prettyplotlib) - Painlessly create beautiful matplotlib plots.
 * [python-ternary](https://github.com/marcharper/python-ternary) - Ternary plotting library for python with matplotlib.
 * [missingno](https://github.com/ResidentMario/missingno) - Missing data visualization module for Python.
+* [chartify](https://github.com/spotify/chartify/) - Python library that makes it easy for data scientists to create charts.
+* [physt](https://github.com/janpipek/physt) - Improved histograms.
+* [animatplot](https://github.com/t-makaro/animatplot) - A python package for animating plots build on matplotlib.
 
 <a name="expl"></a>
 ## Model Explanation
