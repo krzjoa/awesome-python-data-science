@@ -424,7 +424,6 @@
 * [numpy](http://www.numpy.org/) - The fundamental package needed for scientific computing with Python.
 * [Dask](https://github.com/dask/dask) - Parallel computing with task scheduling. <img height="20" src="img/pandas_big.png" alt="pandas compatible">
 * [bottleneck](https://github.com/kwgoodman/bottleneck) - Fast NumPy array functions written in C.
-* [minpy](https://github.com/dmlc/minpy) - NumPy interface with mixed backend execution.
 * [CuPy](https://github.com/cupy/cupy) - NumPy-like API accelerated with CUDA.
 * [scikit-tensor](https://github.com/mnick/scikit-tensor) - Python library for multilinear algebra and tensor factorizations.
 * [numdifftools](https://github.com/pbrod/numdifftools) - Solve automatic numerical differentiation problems in one or more variables.
