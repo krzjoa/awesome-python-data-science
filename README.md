@@ -24,7 +24,6 @@
 * [Visualization](#vis)
 * [Model Explanation](#expl)
 * [Reinforcement Learning](#rl)
-* [Distributed Computing](#dist)
 * [Probabilistic Methods](#bayes)
 * [Genetic Programming](#gp)
 * [Optimization](#opt)
@@ -32,6 +31,7 @@
 * [Computer Audition](#ca)
 * [Computer Vision](#cv)
 * [Statistics](#stat)
+* [Distributed Computing](#dist)
 * [Experimentation](#tools)
 * [Evaluation](#eval)
 * [Computations](#compt)
@@ -299,17 +299,6 @@
 ## Reinforcement Learning
 * [OpenAI Gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
 
-<a name="dist"></a>
-## Distributed Computing
-* [Horovod](https://github.com/uber/horovod) - Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet. <img height="20" src="img/tf_big2.png" alt="sklearn">
-* [PySpark](https://spark.apache.org/docs/0.9.0/python-programming-guide.html) - Exposes the Spark programming model to Python. <img height="20" src="img/spark_big.png" alt="Apache Spark based">
-* [Veles](https://github.com/Samsung/veles) - Distributed machine learning platform.
-* [Jubatus](https://github.com/jubatus/jubatus) - Framework and Library for Distributed Online Machine Learning.
-* [DMTK](https://github.com/Microsoft/DMTK) - Microsoft Distributed Machine Learning Toolkit.
-* [PaddlePaddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning
-* [dask-ml](https://github.com/dask/dask-ml) - Distributed and parallel machine learning. <img height="20" src="img/sklearn_big.png" alt="sklearn">
-* [Distributed](https://github.com/dask/distributed) - Distributed computation in Python.
-
 <a name="bayes"></a>
 ## Probabilistic Methods
 * [pomegranate](https://github.com/jmschrei/pomegranate) - Probabilistic and graphical models for Python. <img height="20" src="img/gpu_big.png" alt="GPU accelerated">
@@ -407,6 +396,17 @@
 * [weightedcalcs](https://github.com/jsvine/weightedcalcs) - pandas-based utility to calculate weighted means, medians, distributions, standard deviations, and more.
 * [scikit-posthocs](https://github.com/maximtrp/scikit-posthocs) - Pairwise Multiple Comparisons Post-hoc Tests.
 * [Alphalens](https://github.com/quantopian/alphalens) - Performance analysis of predictive (alpha) stock factors.
+
+<a name="dist"></a>
+## Distributed Computing
+* [Horovod](https://github.com/uber/horovod) - Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet. <img height="20" src="img/tf_big2.png" alt="sklearn">
+* [PySpark](https://spark.apache.org/docs/0.9.0/python-programming-guide.html) - Exposes the Spark programming model to Python. <img height="20" src="img/spark_big.png" alt="Apache Spark based">
+* [Veles](https://github.com/Samsung/veles) - Distributed machine learning platform.
+* [Jubatus](https://github.com/jubatus/jubatus) - Framework and Library for Distributed Online Machine Learning.
+* [DMTK](https://github.com/Microsoft/DMTK) - Microsoft Distributed Machine Learning Toolkit.
+* [PaddlePaddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning
+* [dask-ml](https://github.com/dask/dask-ml) - Distributed and parallel machine learning. <img height="20" src="img/sklearn_big.png" alt="sklearn">
+* [Distributed](https://github.com/dask/distributed) - Distributed computation in Python.
 
 <a name="tools"></a>
 ## Experimentation
