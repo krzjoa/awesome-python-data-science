@@ -140,7 +140,6 @@
 * [TensorLayer](https://github.com/zsdonghao/tensorlayer) - Deep Learning and Reinforcement Learning Library for Researcher and Engineer. <img height="20" src="img/tf_big2.png" alt="sklearn">
 * [TFLearn](https://github.com/tflearn/tflearn) - Deep learning library featuring a higher-level API for TensorFlow. <img height="20" src="img/tf_big2.png" alt="sklearn">
 * [Sonnet](https://github.com/deepmind/sonnet) - TensorFlow-based neural network library. <img height="20" src="img/tf_big2.png" alt="sklearn">
-* [TensorForce](https://github.com/reinforceio/tensorforce) - A TensorFlow library for applied reinforcement learning. <img height="20" src="img/tf_big2.png" alt="sklearn">
 * [tensorpack](https://github.com/ppwwyyxx/tensorpack) - A Neural Net Training Interface on TensorFlow <img height="20" src="img/tf_big2.png" alt="sklearn">
 * [Polyaxon](https://github.com/polyaxon/polyaxon) - A platform that helps you build, manage and monitor deep learning models. <img height="20" src="img/tf_big2.png" alt="sklearn">
 * [NeuPy](https://github.com/itdxer/neupy) - NeuPy is a Python library for Artificial Neural Networks and Deep Learning (previously: <img height="20" src="img/theano_big.png" alt="Theano compatible">). <img height="20" src="img/tf_big2.png" alt="sklearn">
@@ -154,13 +153,13 @@
 
 <a name="dl-keras"></a>
 ### Keras
-* [Keras](https://keras.io) - A high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano.
-* [keras-contrib](https://github.com/keras-team/keras-contrib) - Keras community contributions.
-* [Hyperas](https://github.com/maxpumperla/hyperas) - Keras + Hyperopt: A very simple wrapper for convenient hyperparameter.
-* [Elephas](https://github.com/maxpumperla/elephas) - Distributed Deep learning with Keras & Spark.
-* [Hera](https://github.com/keplr-io/hera) - Train/evaluate a Keras model, get metrics streamed to a dashboard in your browser.
-* [Spektral](https://github.com/danielegrattarola/spektral) - Deep learning on graphs.
-* [qkeras](https://github.com/google/qkeras) - A quantization deep learning library.
+* [Keras](https://keras.io) - A high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano.  <img height="20" src="img/keras_big.png" alt="Keras compatible">
+* [keras-contrib](https://github.com/keras-team/keras-contrib) - Keras community contributions. <img height="20" src="img/keras_big.png" alt="Keras compatible">
+* [Hyperas](https://github.com/maxpumperla/hyperas) - Keras + Hyperopt: A very simple wrapper for convenient hyperparameter. <img height="20" src="img/keras_big.png" alt="Keras compatible">
+* [Elephas](https://github.com/maxpumperla/elephas) - Distributed Deep learning with Keras & Spark. <img height="20" src="img/keras_big.png" alt="Keras compatible">
+* [Hera](https://github.com/keplr-io/hera) - Train/evaluate a Keras model, get metrics streamed to a dashboard in your browser. <img height="20" src="img/keras_big.png" alt="Keras compatible">
+* [Spektral](https://github.com/danielegrattarola/spektral) - Deep learning on graphs. <img height="20" src="img/keras_big.png" alt="Keras compatible">
+* [qkeras](https://github.com/google/qkeras) - A quantization deep learning library. <img height="20" src="img/keras_big.png" alt="Keras compatible">
 
 <a name="dl-mxnet"></a>
 ### MXNet
@@ -176,7 +175,6 @@
 <a name="dl-chainer"></a>
 ### Chainer
 * [Chainer](https://github.com/chainer/chainer) - A flexible framework for neural networks.
-* [ChainerRL](https://github.com/chainer/chainerrl) - A deep reinforcement learning library built on top of Chainer.
 * [ChainerCV](https://github.com/chainer/chainercv) - A Library for Deep Learning in Computer Vision.
 * [ChainerMN](https://github.com/chainer/chainermn) - Scalable distributed deep learning with Chainer.
 
@@ -298,6 +296,18 @@
 <a name="rl"></a>
 ## Reinforcement Learning
 * [OpenAI Gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
+* [Coach](https://github.com/NervanaSystems/coach) - Easy experimentation with state of the art Reinforcement Learning algorithms.
+* [garage](https://github.com/rlworkgroup/garage) - A toolkit for reproducible reinforcement learning research.
+* [OpenAI Baselines](https://github.com/openai/baselines) - high-quality implementations of reinforcement learning algorithms.
+* [Stable Baselines](https://github.com/hill-a/stable-baselines) - A set of improved implementations of reinforcement learning algorithms based on OpenAI Baselines.
+* [RLlib](https://ray.readthedocs.io/en/latest/rllib.html) - Scalable Reinforcement Learning.
+* [Horizon](https://github.com/facebookresearch/Horizon) - A platform for Applied Reinforcement Learning.
+* [TF-Agents](https://github.com/tensorflow/agents) - A library for Reinforcement Learning in TensorFlow. <img height="20" src="img/tf_big2.png" alt="sklearn">  
+* [TensorForce](https://github.com/reinforceio/tensorforce) - A TensorFlow library for applied reinforcement learning. <img height="20" src="img/tf_big2.png" alt="sklearn">
+* [TRFL](https://github.com/deepmind/trfl) - TensorFlow Reinforcement Learning. <img height="20" src="img/tf_big2.png" alt="sklearn">
+* [Dopamine](https://github.com/google/dopamine)- A research framework for fast prototyping of reinforcement learning algorithms. 
+* [keras-rl](https://github.com/keras-rl/keras-rl) -Deep Reinforcement Learning for Keras. <img height="20" src="img/keras_big2.png" alt="Keras compatible">
+* [ChainerRL](https://github.com/chainer/chainerrl) - A deep reinforcement learning library built on top of Chainer.
 
 <a name="bayes"></a>
 ## Probabilistic Methods
