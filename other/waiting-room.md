@@ -34,6 +34,10 @@
 * [alexander](https://github.com/annoys-parrot/alexander) ![alt text][skl] ![alt text][pd] - wrapper that aims to make scikit-learn fully compatible with pandas
 * [Fuel](https://github.com/mila-udem/fuel) - Data pipeline framework for machine learning.
 
+### Quantum Computing
+* [scikit-quantum](https://github.com/scikit-quantum/scikit-quantum)
+* [quantumflow](https://github.com/rigetti/quantumflow)
+
 ### Evaluation
 * [kaggle-metrics](https://github.com/krzjoa/kaggle-metrics) - Metrics for Kaggle competitions.
 
