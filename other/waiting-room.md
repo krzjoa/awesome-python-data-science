@@ -20,3 +20,4 @@
 * [kaggle-metrics](https://github.com/krzjoa/kaggle-metrics) - Metrics for Kaggle competitions.
 * [simplestatistics](https://github.com/sheriferson/simplestatistics) - Simple statistical functions implemented in readable Python.
 * [pysie](https://github.com/chen0040/pysie) - Provides python implementation of statistical inference engine.
+* [Random Forest Clustering](https://github.com/joshloyal/RandomForestClustering) - Unsupervised Clustering using Random Forests.<img height="20" src="img/sklearn_big.png" alt="sklearn">
