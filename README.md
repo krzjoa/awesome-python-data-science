@@ -230,7 +230,6 @@
 * [meza](https://github.com/reubano/meza) - A Python toolkit for processing tabular data.
 * [Prodmodel](https://github.com/prodmodel/prodmodel) - Build system for data science pipelines.
 
-
 <a name="feat-eng"></a>
 ## Feature Engineering
 
@@ -449,6 +448,7 @@
 
 <a name="quant"></a>
 ## Quantum Computing
+* [PennyLane](https://github.com/XanaduAI/pennylane) - a  library for quantum machine learning, automatic differentiation, and optimization of hybrid quantum-classical computations 
 * [QML](https://github.com/qmlcode/qml) - A Python Toolkit for Quantum Machine Learning.
 
 <a name="conv"></a>
