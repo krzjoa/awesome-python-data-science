@@ -448,7 +448,7 @@
 
 <a name="quant"></a>
 ## Quantum Computing
-* [PennyLane](https://github.com/XanaduAI/pennylane) - a  library for quantum machine learning, automatic differentiation, and optimization of hybrid quantum-classical computations 
+* [PennyLane](https://github.com/XanaduAI/pennylane) - Quantum machine learning, automatic differentiation, and optimization of hybrid quantum-classical computations.
 * [QML](https://github.com/qmlcode/qml) - A Python Toolkit for Quantum Machine Learning.
 
 <a name="conv"></a>
