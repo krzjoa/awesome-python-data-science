@@ -10,8 +10,3 @@
 [amd]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/img/amd.png "AMD based"
 [pd]: https://raw.githubusercontent.com/krzjoa/awesome-python-datascience/master/img/pandas.png "pandas based"
 
-### Other packages
-* [civisml-extensions](https://github.com/civisanalytics/civisml-extensions) ![alt text][skl]  - scikit-learn-compatible estimators from Civis Analytics
-* [fklearn](https://github.com/nubank/fklearn) ![alt text][skl] - Functional Machine Learning
-* [sklearn-extensions](https://github.com/wdm0006/sklearn-extensions) ![alt text][skl] - a consolidated package of small extensions to scikit-learn
-* [bace](https://github.com/krzjoa/bace) ![alt text][skl] - A deck of Naive Bayes algorithms with sklearn-like API
