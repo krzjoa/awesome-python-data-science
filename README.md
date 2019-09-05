@@ -92,7 +92,6 @@
 <a name="ml-rf"></a>
 ### Random Forests
 * [rpforest](https://github.com/lyst/rpforest) - A forest of random projection trees. <img height="20" src="img/sklearn_big.png" alt="sklearn">
-* [Random Forest Clustering](https://github.com/joshloyal/RandomForestClustering) - Unsupervised Clustering using Random Forests.<img height="20" src="img/sklearn_big.png" alt="sklearn">
 * [sklearn-random-bits-forest](https://github.com/tmadl/sklearn-random-bits-forest) - Wrapper of the Random Bits Forest program written by (Wang et al., 2016).<img height="20" src="img/sklearn_big.png" alt="sklearn">
 * [rgf_python](https://github.com/fukatani/rgf_python) - Python Wrapper of Regularized Greedy Forest. <img height="20" src="img/sklearn_big.png" alt="sklearn">
 
