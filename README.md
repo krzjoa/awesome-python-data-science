@@ -296,7 +296,7 @@
 * [OpenAI Gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
 * [Coach](https://github.com/NervanaSystems/coach) - Easy experimentation with state of the art Reinforcement Learning algorithms.
 * [garage](https://github.com/rlworkgroup/garage) - A toolkit for reproducible reinforcement learning research.
-* [OpenAI Baselines](https://github.com/openai/baselines) - high-quality implementations of reinforcement learning algorithms.
+* [OpenAI Baselines](https://github.com/openai/baselines) - High-quality implementations of reinforcement learning algorithms.
 * [Stable Baselines](https://github.com/hill-a/stable-baselines) - A set of improved implementations of reinforcement learning algorithms based on OpenAI Baselines.
 * [RLlib](https://ray.readthedocs.io/en/latest/rllib.html) - Scalable Reinforcement Learning.
 * [Horizon](https://github.com/facebookresearch/Horizon) - A platform for Applied Reinforcement Learning.
