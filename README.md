@@ -1,5 +1,5 @@
 <div align="center">
-	<a href="https://github.com/krzjoa/awesome-python-datascience"><img width="250" height="250" src="img/py-datascience.png" alt="pyds"></a>
+	<a href="https://krzjoa.github.io/awesome-python-data-science/"><img width="250" height="250" src="img/py-datascience.png" alt="pyds"></a>
 	<br>
 	<br>
 	<br>
@@ -16,7 +16,7 @@
 
 > Probably the best curated list of data science software in Python
 
-## Contents {docsify-ignore}
+## Contents
 * [Machine Learning](#ml)
 * [Deep Learning](#dl)
 * [Data Manipulation](#data-man)
@@ -316,7 +316,7 @@
 * [TF-Agents](https://github.com/tensorflow/agents) - A library for Reinforcement Learning in TensorFlow. <img height="20" src="img/tf_big2.png" alt="sklearn">  
 * [TensorForce](https://github.com/reinforceio/tensorforce) - A TensorFlow library for applied reinforcement learning. <img height="20" src="img/tf_big2.png" alt="sklearn">
 * [TRFL](https://github.com/deepmind/trfl) - TensorFlow Reinforcement Learning. <img height="20" src="img/tf_big2.png" alt="sklearn">
-* [Dopamine](https://github.com/google/dopamine) - A research framework for fast prototyping of reinforcement learning algorithms. 
+* [Dopamine](https://github.com/google/dopamine) - A research framework for fast prototyping of reinforcement learning algorithms.
 * [keras-rl](https://github.com/keras-rl/keras-rl) - Deep Reinforcement Learning for Keras. <img height="20" src="img/keras_big.png" alt="Keras compatible">
 * [ChainerRL](https://github.com/chainer/chainerrl) - A deep reinforcement learning library built on top of Chainer.
 >>>>>>> a2d28c6bc10e869f370df253130e94e424371c6f
