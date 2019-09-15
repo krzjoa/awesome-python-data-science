@@ -13,7 +13,14 @@
   <script>
     window.$docsify = {
       name: '',
-      repo: ''
+      repo: '',
+      markdown: {
+        renderer: {
+          	image: function(href, title) {
+            	return `<img src="${href}"/>`
+          	}
+        }
+    }
 
     }
   </script>
