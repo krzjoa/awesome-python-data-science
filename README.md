@@ -17,7 +17,7 @@
 > Probably the best curated list of data science software in Python
 
 ## Contents
-* [Machine Learning](#ml)
+* [Machine Learning](#machine-learning)
 * [Deep Learning](#dl)
 * [Data Manipulation](#data-man)
 * [Feature Engineering](#feat-eng)
@@ -39,7 +39,6 @@
 * [Quantum Computing](#quant)
 * [Conversion](#conv)
 
-<a name="ml"></a>
 ## Machine Learning
 
 <a name="ml-gen"></a>
