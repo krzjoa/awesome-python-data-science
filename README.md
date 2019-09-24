@@ -18,30 +18,29 @@
 
 ## Contents
 * [Machine Learning](#machine-learning)
-* [Deep Learning](#dl)
-* [Data Manipulation](#data-man)
-* [Feature Engineering](#feat-eng)
-* [Visualization](#vis)
-* [Model Explanation](#expl)
-* [Reinforcement Learning](#rl)
-* [Probabilistic Methods](#bayes)
-* [Genetic Programming](#gp)
-* [Optimization](#opt)
-* [Natural Language Processing](#nlp)
-* [Computer Audition](#ca)
-* [Computer Vision](#cv)
-* [Statistics](#stat)
-* [Distributed Computing](#dist)
-* [Experimentation](#tools)
-* [Evaluation](#eval)
-* [Computations](#compt)
-* [Spatial Analysis](#spatial)
-* [Quantum Computing](#quant)
-* [Conversion](#conv)
+* [Deep Learning](#deep-learning)
+* [Data Manipulation](#data-manipulation)
+* [Feature Engineering](#feature-engineering)
+* [Visualization](#visualization)
+* [Model Explanation](#model-explanation)
+* [Reinforcement Learning](#reinforcement-learning)
+* [Probabilistic Methods](#probabilistic-methods)
+* [Genetic Programming](#genetic-programming)
+* [Optimization](#optimization)
+* [Natural Language Processing](#natural-language-processing)
+* [Computer Audition](#computer-audition)
+* [Computer Vision](#computer-vision)
+* [Statistics](#statistics)
+* [Distributed Computing](#distributed-computing)
+* [Experimentation](#experimentation)
+* [Evaluation](#evaluation)
+* [Computations](#computations)
+* [Spatial Analysis](#spatial-analysis)
+* [Quantum Computing](#quantum-computing)
+* [Conversion](#conversion)
 
 ## Machine Learning
 
-<a name="ml-gen"></a>
 ### General Purpouse Machine Learning
 * [scikit-learn](http://scikit-learn.org/stable/) - Machine learning in Python. <img height="20" src="img/sklearn_big.png" alt="sklearn">
 * [Shogun](http://www.shogun-toolbox.org/) - Machine learning toolbox.
@@ -61,7 +60,6 @@
 * [metric-learn](https://github.com/all-umass/metric-learn) - Metric learning algorithms in Python. <img height="20" src="img/sklearn_big.png" alt="sklearn">
 * [pyGAM](https://github.com/dswah/pyGAM) - Generalized Additive Models in Python.
 
-<a name="ml-ts"></a>
 ### Time Series
 * [tslearn](https://github.com/rtavenar/tslearn) - Machine learning toolkit dedicated to time-series data. <img height="20" src="img/sklearn_big.png" alt="sklearn">
 * [tick](https://github.com/X-DataInitiative/tick) - Module for statistical learning, with a particular emphasis on time-dependent modelling.  <img height="20" src="img/sklearn_big.png" alt="sklearn">
@@ -70,37 +68,31 @@
 * [bayesloop](https://github.com/christophmark/bayesloop) - Probabilistic programming framework that facilitates objective model selection for time-varying parameter models.
 * [luminol](https://github.com/linkedin/luminol) - Anomaly Detection and Correlation library.
 
-<a name="ml-automl"></a>
 ### Automated Machine Learning
 * [TPOT](https://github.com/rhiever/tpot) - Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming. <img height="20" src="img/sklearn_big.png" alt="sklearn">
 * [auto-sklearn](https://github.com/automl/auto-sklearn) - An automated machine learning toolkit and a drop-in replacement for a scikit-learn estimator. <img height="20" src="img/sklearn_big.png" alt="sklearn">
 * [MLBox](https://github.com/AxeldeRomblay/MLBox) - A powerful Automated Machine Learning python library.
 
-<a name="ml-ens"></a>
 ### Ensemble Methods
 * [ML-Ensemble](http://ml-ensemble.com/) - High performance ensemble learning. <img height="20" src="img/sklearn_big.png" alt="sklearn">
 * [Stacking](https://github.com/ikki407/stacking) - Simple and useful stacking library, written in Python. <img height="20" src="img/sklearn_big.png" alt="sklearn">
 * [stacked_generalization](https://github.com/fukatani/stacked_generalization) - Library for machine learning stacking generalization. <img height="20" src="img/sklearn_big.png" alt="sklearn">
 * [vecstack](https://github.com/vecxoz/vecstack) - Python package for stacking (machine learning technique). <img height="20" src="img/sklearn_big.png" alt="sklearn">
 
-<a name="imb"></a>
 ### Imbalanced Datasets
 * [imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn) - Module to perform under sampling and over sampling with various techniques. <img height="20" src="img/sklearn_big.png" alt="sklearn">
 * [imbalanced-algorithms](https://github.com/dialnd/imbalanced-algorithms) - Python-based implementations of algorithms for learning on imbalanced data. <img height="20" src="img/sklearn_big.png" alt="sklearn"> <img height="20" src="img/tf_big2.png" alt="sklearn">
 
-<a name="ml-rf"></a>
 ### Random Forests
 * [rpforest](https://github.com/lyst/rpforest) - A forest of random projection trees. <img height="20" src="img/sklearn_big.png" alt="sklearn">
 * [sklearn-random-bits-forest](https://github.com/tmadl/sklearn-random-bits-forest) - Wrapper of the Random Bits Forest program written by (Wang et al., 2016).<img height="20" src="img/sklearn_big.png" alt="sklearn">
 * [rgf_python](https://github.com/fukatani/rgf_python) - Python Wrapper of Regularized Greedy Forest. <img height="20" src="img/sklearn_big.png" alt="sklearn">
 
-<a name="ml-elm"></a>
 ### Extreme Learning Machine
 * [Python-ELM](https://github.com/dclambert/Python-ELM) - Extreme Learning Machine implementation in Python. <img height="20" src="img/sklearn_big.png" alt="sklearn">
 * [Python Extreme Learning Machine (ELM)](https://github.com/acba/elm) - A machine learning technique used for classification/regression tasks.
 * [hpelm](https://github.com/akusok/hpelm) - High performance implementation of Extreme Learning Machines (fast randomized neural networks). <img height="20" src="img/gpu_big.png" alt="GPU accelerated">
 
-<a name="ml-fm"></a>
 ### Kernel Methods
 * [pyFM](https://github.com/coreylynch/pyFM) - Factorization machines in python. <img height="20" src="img/sklearn_big.png" alt="sklearn">
 * [fastFM](https://github.com/ibayer/fastFM) - A library for Factorization Machines. <img height="20" src="img/sklearn_big.png" alt="sklearn">
@@ -109,17 +101,14 @@
 * [scikit-rvm](https://github.com/JamesRitchie/scikit-rvm) - Relevance Vector Machine implementation using the scikit-learn API. <img height="20" src="img/sklearn_big.png" alt="sklearn">
 * [ThunderSVM](https://github.com/Xtra-Computing/thundersvm) - A fast SVM Library on GPUs and CPUs. <img height="20" src="img/sklearn_big.png" alt="sklearn"> <img height="20" src="img/gpu_big.png" alt="GPU accelerated">
 
-<a name="ml-gbt"></a>
 ### Gradient Boosting
 * [XGBoost](https://github.com/dmlc/xgboost) - Scalable, Portable and Distributed Gradient Boosting. <img height="20" src="img/sklearn_big.png" alt="sklearn"> <img height="20" src="img/gpu_big.png" alt="GPU accelerated">
 * [LightGBM](https://github.com/Microsoft/LightGBM) - A fast, distributed, high performance gradient boosting. <img height="20" src="img/sklearn_big.png" alt="sklearn"> <img height="20" src="img/gpu_big.png" alt="GPU accelerated">
 * [CatBoost](https://github.com/catboost/catboost) - An open-source gradient boosting on decision trees library. <img height="20" src="img/sklearn_big.png" alt="sklearn"> <img height="20" src="img/gpu_big.png" alt="GPU accelerated">
 * [ThunderGBM](https://github.com/Xtra-Computing/thundergbm) - Fast GBDTs and Random Forests on GPUs. <img height="20" src="img/sklearn_big.png" alt="sklearn"> <img height="20" src="img/gpu_big.png" alt="GPU accelerated">
 
-<a name="dl"></a>
 ## Deep Learning
 
-<a name="dl-pytorch"></a>
 ### PyTorch
 * [PyTorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration. <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible">
 * [torchvision](https://github.com/pytorch/vision) - Datasets, Transforms and Models specific to Computer Vision. <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible">
@@ -132,7 +121,6 @@
 * [Aorun](https://github.com/ramon-oliveira/aorun) - Intend to implement an API similar to Keras with PyTorch as backend. <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible">
 * [pytorch_geometric](https://github.com/rusty1s/pytorch_geometric) - Geometric Deep Learning Extension Library for PyTorch. <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible">
 
-<a name="dl-tf"></a>
 ### TensorFlow
 * [TensorFlow](https://github.com/tensorflow/tensorflow) - Computation using data flow graphs for scalable machine learning by Google. <img height="20" src="img/tf_big2.png" alt="sklearn">
 * [TensorLayer](https://github.com/zsdonghao/tensorlayer) - Deep Learning and Reinforcement Learning Library for Researcher and Engineer. <img height="20" src="img/tf_big2.png" alt="sklearn">
@@ -149,7 +137,6 @@
 * [Mesh TensorFlow](https://github.com/tensorflow/mesh) - Model Parallelism Made Easier. <img height="20" src="img/tf_big2.png" alt="sklearn">
 * [Ludwig](https://github.com/uber/ludwig) - A toolbox, that allows to train and test deep learning models without the need to write code. <img height="20" src="img/tf_big2.png" alt="sklearn">
 
-<a name="dl-keras"></a>
 ### Keras
 * [Keras](https://keras.io) - A high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano.  <img height="20" src="img/keras_big.png" alt="Keras compatible">
 * [keras-contrib](https://github.com/keras-team/keras-contrib) - Keras community contributions. <img height="20" src="img/keras_big.png" alt="Keras compatible">
@@ -159,7 +146,6 @@
 * [Spektral](https://github.com/danielegrattarola/spektral) - Deep learning on graphs. <img height="20" src="img/keras_big.png" alt="Keras compatible">
 * [qkeras](https://github.com/google/qkeras) - A quantization deep learning library. <img height="20" src="img/keras_big.png" alt="Keras compatible">
 
-<a name="dl-mxnet"></a>
 ### MXNet
 * [MXNet](https://github.com/apache/incubator-mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler. <img height="20" src="img/mxnet_big.png" alt="MXNet based">
 * [Gluon](https://github.com/gluon-api/gluon-api) - A clear, concise, simple yet powerful and efficient API for deep learning (now included in MXNet). <img height="20" src="img/mxnet_big.png" alt="MXNet based">
@@ -169,14 +155,11 @@
 * [Xfer](https://github.com/amzn/xfer) - Transfer Learning library for Deep Neural Networks. <img height="20" src="img/mxnet_big.png" alt="MXNet based">
 * [MXNet](https://github.com/ROCmSoftwarePlatform/mxnet) - HIP Port of MXNet. <img height="20" src="img/mxnet_big.png" alt="MXNet based"> <img height="20" src="img/amd_big.png" alt="Possible to run on AMD GPU">
 
-<!--a name="dl-cntk"></a-->
-<a name="dl-chainer"></a>
 ### Chainer
 * [Chainer](https://github.com/chainer/chainer) - A flexible framework for neural networks.
 * [ChainerCV](https://github.com/chainer/chainercv) - A Library for Deep Learning in Computer Vision.
 * [ChainerMN](https://github.com/chainer/chainermn) - Scalable distributed deep learning with Chainer.
 
-<a name="dl-theano"></a>
 ### Theano
 **WARNING: Theano development has been stopped**
 * [Theano](https://github.com/Theano/Theano) - A Python library that allows you to define, optimize, and evaluate mathematical expressions.<img height="20" src="img/theano_big.png" alt="Theano compatible">
@@ -187,7 +170,6 @@
 * [platoon](https://github.com/mila-udem/platoon) - Multi-GPU mini-framework for Theano. <img height="20" src="img/theano_big.png" alt="Theano compatible">
 * [Theano-MPI](https://github.com/uoguelph-mlrg/Theano-MPI) - MPI Parallel framework for training deep learning models built in Theano. <img height="20" src="img/theano_big.png" alt="Theano compatible">
 
-<a name="dl-others"></a>
 ### Others
 * [CNTK](https://github.com/Microsoft/CNTK) - Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit.
 * [Neon](https://github.com/NervanaSystems/neon) - Intel® Nervana™ reference deep learning framework committed to best performance on all hardware.
@@ -199,10 +181,8 @@
 * [Caffe2](https://github.com/pytorch/pytorch/tree/master/caffe2) -  A lightweight, modular, and scalable deep learning framework (now a part of PyTorch).
 * [hipCaffe](https://github.com/ROCmSoftwarePlatform/hipCaffe) - The HIP port of Caffe. <img height="20" src="img/amd_big.png" alt="Possible to run on AMD GPU">
 
-<a name="data-man"></a>
 ## Data Manipulation
 
-<a name="dm-cont"></a>
 ### Data Containers
 * [pandas](https://pandas.pydata.org/pandas-docs/stable/) - Powerful Python data analysis toolkit.
 * [cuDF](https://github.com/rapidsai/cudf) - GPU DataFrame Library. <img height="20" src="img/pandas_big.png" alt="pandas compatible"> <img height="20" src="img/gpu_big.png" alt="GPU accelerated">
@@ -217,7 +197,6 @@
 * [modin](https://github.com/modin-project/modin) - Speed up your pandas workflows by changing a single line of code. <img height="20" src="img/pandas_big.png" alt="pandas compatible">
 * [swifter](https://github.com/jmcarpenter2/swifter) - A package which efficiently applies any function to a pandas dataframe or series in the fastest available manner.
 
-<a name="dm-pipe"></a>
 ### Pipelines
 * [pdpipe](https://github.com/shaypal5/pdpipe) - Sasy pipelines for pandas DataFrames.
 * [SSPipe](https://sspipe.github.io/) - Python pipe (|) operator with support for DataFrames and Numpy and Pytorch.
@@ -229,10 +208,8 @@
 * [meza](https://github.com/reubano/meza) - A Python toolkit for processing tabular data.
 * [Prodmodel](https://github.com/prodmodel/prodmodel) - Build system for data science pipelines.
 
-<a name="feat-eng"></a>
 ## Feature Engineering
 
-<a name="fe-general"></a>
 ### General
 * [Featuretools](https://github.com/Featuretools/featuretools) - Automated feature engineering.
 * [skl-groups](https://github.com/dougalsutherland/skl-groups) - A scikit-learn addon to operate on set/"group"-based features. <img height="20" src="img/sklearn_big.png" alt="sklearn">
@@ -241,14 +218,12 @@
 * [scikit-mdr](https://github.com/EpistasisLab/scikit-mdr) - A sklearn-compatible Python implementation of Multifactor Dimensionality Reduction (MDR) for feature construction. <img height="20" src="img/sklearn_big.png" alt="sklearn">
 * [tsfresh](https://github.com/blue-yonder/tsfresh) - Automatic extraction of relevant features from time series. <img height="20" src="img/sklearn_big.png" alt="sklearn">
 
-<a name="fe-selection"></a>
 ### Feature Selection
 * [scikit-feature](https://github.com/jundongl/scikit-feature) - Feature selection repository in python.
 * [boruta_py](https://github.com/scikit-learn-contrib/boruta_py) - Implementations of the Boruta all-relevant feature selection method. <img height="20" src="img/sklearn_big.png" alt="sklearn">
 * [BoostARoota](https://github.com/chasedehan/BoostARoota) - A fast xgboost feature selection algorithm. <img height="20" src="img/sklearn_big.png" alt="sklearn">
 * [scikit-rebate](https://github.com/EpistasisLab/scikit-rebate) - A scikit-learn-compatible Python implementation of ReBATE, a suite of Relief-based feature selection algorithms for Machine Learning. <img height="20" src="img/sklearn_big.png" alt="sklearn">
 
-<a name="vis"></a>
 ## Visualization
 * [Matplotlib](https://github.com/matplotlib/matplotlib) - Plotting with Python.
 * [seaborn](https://github.com/mwaskom/seaborn) - Statistical data visualization using matplotlib.
@@ -261,7 +236,6 @@
 * [physt](https://github.com/janpipek/physt) - Improved histograms.
 * [animatplot](https://github.com/t-makaro/animatplot) - A python package for animating plots build on matplotlib.
 
-<a name="expl"></a>
 ## Model Explanation
 * [Alibi](https://github.com/SeldonIO/alibi) - Algorithms for monitoring and explaining machine learning models.
 * [anchor](https://github.com/marcotcr/anchor) - Code for "High-Precision Model-Agnostic Explanations" paper.
@@ -290,7 +264,6 @@
 * [tensorboard-pytorch](https://github.com/lanpa/tensorboard-pytorch) - Tensorboard for pytorch (and chainer, mxnet, numpy, ...).
 * [mxboard](https://github.com/awslabs/mxboard) - Logging MXNet data for visualization in TensorBoard. <img height="20" src="img/mxnet_big.png" alt="MXNet based">
 
-<a name="rl"></a>
 ## Reinforcement Learning
 * [OpenAI Gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
 * [Coach](https://github.com/NervanaSystems/coach) - Easy experimentation with state of the art Reinforcement Learning algorithms.
@@ -306,7 +279,6 @@
 * [keras-rl](https://github.com/keras-rl/keras-rl) - Deep Reinforcement Learning for Keras. <img height="20" src="img/keras_big.png" alt="Keras compatible">
 * [ChainerRL](https://github.com/chainer/chainerrl) - A deep reinforcement learning library built on top of Chainer.
 
-<a name="dist"></a>
 ## Distributed Computing
 * [Horovod](https://github.com/uber/horovod) - Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet. <img height="20" src="img/tf_big2.png" alt="sklearn">
 * [PySpark](https://spark.apache.org/docs/0.9.0/python-programming-guide.html) - Exposes the Spark programming model to Python. <img height="20" src="img/spark_big.png" alt="Apache Spark based">
@@ -317,7 +289,6 @@
 * [dask-ml](https://github.com/dask/dask-ml) - Distributed and parallel machine learning. <img height="20" src="img/sklearn_big.png" alt="sklearn">
 * [Distributed](https://github.com/dask/distributed) - Distributed computation in Python.
 
-<a name="bayes"></a>
 ## Probabilistic Methods
 * [pomegranate](https://github.com/jmschrei/pomegranate) - Probabilistic and graphical models for Python. <img height="20" src="img/gpu_big.png" alt="GPU accelerated">
 * [pyro](https://github.com/uber/pyro) - A flexible, scalable deep probabilistic programming library built on PyTorch. <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible">
@@ -344,7 +315,6 @@
 * [MXFusion](https://github.com/amzn/MXFusion) - Modular Probabilistic Programming on MXNet. <img height="20" src="img/mxnet_big.png" alt="MXNet based">
 * [sklearn-crfsuite](https://github.com/TeamHG-Memex/sklearn-crfsuite) - A scikit-learn inspired API for CRFsuite. <img height="20" src="img/sklearn_big.png" alt="sklearn">
 
-<a name="gp"></a>
 ## Genetic Programming
 * [gplearn](https://github.com/trevorstephens/gplearn) - Genetic Programming in Python. <img height="20" src="img/sklearn_big.png" alt="sklearn">
 * [DEAP](https://github.com/DEAP/deap) - Distributed Evolutionary Algorithms in Python.
@@ -373,7 +343,6 @@
 * [Talos](https://github.com/autonomio/talos) - Hyperparameter Optimization for Keras Models.
 * [nlopt](https://github.com/stevengj/nlopt) - Library for nonlinear optimization (global and local, constrained or unconstrained).
 
-<a name="nlp"></a>
 ## Natural Language Processing
 * [NLTK](https://github.com/nltk/nltk) -  Modules, data sets, and tutorials supporting research and development in Natural Language Processing.
 * [CLTK](https://github.com/cltk/cltk) - The Classical Language Toolkik.
@@ -384,7 +353,6 @@
 * [Phonemizer](https://github.com/bootphon/phonemizer) - Simple text to phonemes converter for multiple languages.
 * [flair](https://github.com/zalandoresearch/flair) - Very simple framework for state-of-the-art NLP.
 
-<a name="ca"></a>
 ## Computer Audition
 * [librosa](https://github.com/librosa/librosa) - Python library for audio and music analysis.
 * [Yaafe](https://github.com/Yaafe/Yaafe) - Audio features extraction.
@@ -395,7 +363,6 @@
 * [muda](https://github.com/bmcfee/muda) - A library for augmenting annotated audio data.
 * [madmom](https://github.com/CPJKU/madmom) - Python audio and music signal processing library.
 
-<a name="cv"></a>
 ## Computer Vision
 * [OpenCV](https://github.com/opencv/opencv) - Open Source Computer Vision Library.
 * [scikit-image](https://github.com/scikit-image/scikit-image) - Image Processing SciKit (Toolbox for SciPy).
@@ -403,8 +370,6 @@
 * [imgaug_extension](https://github.com/cadenai/imgaug_extension) - Additional augmentations for imgaug.
 * [Augmentor](https://github.com/mdbloice/Augmentor) - Image augmentation library in Python for machine learning.
 * [albumentations](https://github.com/albu/albumentations) - Fast image augmentation library and easy to use wrapper around other libraries.
-
-<a name="stat"></a>
 
 ## Statistics
 * [pandas_summary](https://github.com/mouradmourafiq/pandas-summary) - Extension to pandas dataframes describe function. <img height="20" src="img/pandas_big.png" alt="pandas compatible">
@@ -415,7 +380,6 @@
 * [scikit-posthocs](https://github.com/maximtrp/scikit-posthocs) - Pairwise Multiple Comparisons Post-hoc Tests.
 * [Alphalens](https://github.com/quantopian/alphalens) - Performance analysis of predictive (alpha) stock factors.
 
-<a name="dist"></a>
 ## Distributed Computing
 * [Horovod](https://github.com/uber/horovod) - Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet. <img height="20" src="img/tf_big2.png" alt="sklearn">
 * [PySpark](https://spark.apache.org/docs/0.9.0/python-programming-guide.html) - Exposes the Spark programming model to Python. <img height="20" src="img/spark_big.png" alt="Apache Spark based">
@@ -426,21 +390,18 @@
 * [dask-ml](https://github.com/dask/dask-ml) - Distributed and parallel machine learning. <img height="20" src="img/sklearn_big.png" alt="sklearn">
 * [Distributed](https://github.com/dask/distributed) - Distributed computation in Python.
 
-<a name="tools"></a>
 ## Experimentation
 * [Sacred](https://github.com/IDSIA/sacred) - A tool to help you configure, organize, log and reproduce experiments.
 * [Xcessiv](https://github.com/reiinakano/xcessiv) - A web-based application for quick, scalable, and automated hyperparameter tuning and stacked ensembling.
 * [Persimmon](https://github.com/AlvarBer/Persimmon) - A visual dataflow programming language for sklearn.
 * [Ax](https://github.com/facebook/Ax) - Adaptive Experimentation Platform. <img height="20" src="img/sklearn_big.png" alt="sklearn">
 
-<a name="eval"></a>
 ## Evaluation
 * [recmetrics](https://github.com/statisticianinstilettos/recmetrics) - Library of useful metrics and plots for evaluating recommender systems.
 * [Metrics](https://github.com/benhamner/Metrics) - Machine learning evaluation metric.
 * [sklearn-evaluation](https://github.com/edublancas/sklearn-evaluation) - Model evaluation made easy: plots, tables and markdown reports. <img height="20" src="img/sklearn_big.png" alt="sklearn">
 * [AI Fairness 360](https://github.com/IBM/AIF360) - Fairness metrics for datasets and ML models, explanations and algorithms to mitigate bias in datasets and models.
 
-<a name="compt"></a>
 ## Computations
 * [numpy](http://www.numpy.org/) - The fundamental package needed for scientific computing with Python.
 * [Dask](https://github.com/dask/dask) - Parallel computing with task scheduling. <img height="20" src="img/pandas_big.png" alt="pandas compatible">
@@ -451,17 +412,14 @@
 * [quaternion](https://github.com/moble/quaternion) - Add built-in support for quaternions to numpy.
 * [adaptive](https://github.com/python-adaptive/adaptive) - Tools for adaptive and parallel samping of mathematical functions.
 
-<a name="spatial"></a>
 ## Spatial Analysis
 * [GeoPandas](https://github.com/geopandas/geopandas) - Python tools for geographic data. <img height="20" src="img/pandas_big.png" alt="pandas compatible">
 * [PySal](https://github.com/pysal/pysal) - Python Spatial Analysis Library.
 
-<a name="quant"></a>
 ## Quantum Computing
 * [PennyLane](https://github.com/XanaduAI/pennylane) - Quantum machine learning, automatic differentiation, and optimization of hybrid quantum-classical computations.
 * [QML](https://github.com/qmlcode/qml) - A Python Toolkit for Quantum Machine Learning.
 
-<a name="conv"></a>
 ## Conversion
 * [sklearn-porter](https://github.com/nok/sklearn-porter) - Transpile trained scikit-learn estimators to C, Java, JavaScript and others.
 * [ONNX](https://github.com/onnx/onnx) - Open Neural Network Exchange.
