@@ -237,6 +237,7 @@
 * [chartify](https://github.com/spotify/chartify/) - Python library that makes it easy for data scientists to create charts.
 * [physt](https://github.com/janpipek/physt) - Improved histograms.
 * [animatplot](https://github.com/t-makaro/animatplot) - A python package for animating plots build on matplotlib.
+* [plotly](https://plot.ly/python/) - A Python library that makes interactive and publication-quality graphs.
 
 ## Model Explanation
 * [Alibi](https://github.com/SeldonIO/alibi) - Algorithms for monitoring and explaining machine learning models.
