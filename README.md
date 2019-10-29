@@ -330,7 +330,7 @@
 ## Optimization
 * [Spearmint](https://github.com/HIPS/Spearmint) - Bayesian optimization.
 * [BoTorch](https://github.com/pytorch/botorch) - Bayesian optimization in PyTorch. <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible">
-* [scikit-opt](https://github.com/guofei9987/scikit-opt) - Heuristic Algorithms (Genetic Algorithm, Particle Swarm Optimization, Simulated Annealing, Ant Colony Algorithm, Immune Algorithm, Artificial Fish Swarm Algorithm) in Python for optimization.
+* [scikit-opt](https://github.com/guofei9987/scikit-opt) - Heuristic Algorithms for optimization.
 * [SMAC3](https://github.com/automl/SMAC3) - Sequential Model-based Algorithm Configuration.
 * [Optunity](https://github.com/claesenm/optunity) - Is a library containing various optimizers for hyperparameter tuning.
 * [hyperopt](https://github.com/hyperopt/hyperopt) - Distributed Asynchronous Hyperparameter Optimization in Python.
