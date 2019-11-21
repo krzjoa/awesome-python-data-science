@@ -132,6 +132,7 @@
 * [PyTorchNet](https://github.com/pytorch/tnt) - An abstraction to train neural networks <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible">
 * [Aorun](https://github.com/ramon-oliveira/aorun) - Intend to implement an API similar to Keras with PyTorch as backend. <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible">
 * [pytorch_geometric](https://github.com/rusty1s/pytorch_geometric) - Geometric Deep Learning Extension Library for PyTorch. <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible">
+* [Catalyst](https://github.com/catalyst-team/catalyst) - High-level utils for PyTorch DL & RL research. <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible">
 
 <a name="dl-tf"></a>
 ### TensorFlow
