@@ -29,6 +29,7 @@
 * [quinn](https://github.com/MrPowers/quinn)  - pyspark methods to enhance developer productivity. ![alt text][sp]
 * [scikit-chainer](https://github.com/lucidfrontier45/scikit-chainer) - Scikit-learn like interface to chainer. ![alt text][skl]
 * [chainer_sklearn](https://github.com/corochann/chainer_sklearn) - Sklearn (Scikit-learn) like interface for Chainer. ![alt text][skl]
+* [Aorun](https://github.com/ramon-oliveira/aorun) - Intend to implement an API similar to Keras with PyTorch as backend. <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible">
 
 ### Data Manipulation
 * [alexander](https://github.com/annoys-parrot/alexander) ![alt text][skl] ![alt text][pd] - wrapper that aims to make scikit-learn fully compatible with pandas
