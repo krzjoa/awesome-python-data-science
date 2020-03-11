@@ -46,3 +46,6 @@
 * [simplestatistics](https://github.com/sheriferson/simplestatistics) - Simple statistical functions implemented in readable Python.
 * [pysie](https://github.com/chen0040/pysie) - Provides python implementation of statistical inference engine.
 
+### Computations
+* [nancorrmp](https://github.com/bukson/nancorrmp) - Parallel correlation calculation for huge matrices with NaNs and infs.
+
