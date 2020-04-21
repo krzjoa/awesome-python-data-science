@@ -46,6 +46,8 @@
 * [Shogun](http://www.shogun-toolbox.org/) - Machine learning toolbox.
 * [xLearn](https://github.com/aksnzhy/xlearn) - High Performance, Easy-to-use, and Scalable Machine Learning Package.
 * [cuML](https://github.com/rapidsai/cuml) - RAPIDS Machine Learning Library. <img height="20" src="img/sklearn_big.png" alt="sklearn"> <img height="20" src="img/gpu_big.png" alt="GPU accelerated">
+* [cuGraph](https://github.com/rapidsai/cugraph) - RAPIDS Graph Analytics Library. <img height="20" src="img/gpu_big.png" alt="GPU accelerated">
+* [cuSignal](https://github.com/rapidsai/cuml) - RAPIDS Signal Processing Library. <img height="20" src="img/gpu_big.png" alt="GPU accelerated">
 * [modAL](https://github.com/cosmic-cortex/modAL) - Modular active learning framework for Python3. <img height="20" src="img/sklearn_big.png" alt="sklearn">
 * [Sparkit-learn](https://github.com/lensacom/sparkit-learn) - PySpark + scikit-learn = Sparkit-learn. <img height="20" src="img/sklearn_big.png" alt="sklearn"> <img height="20" src="img/spark_big.png" alt="Apache Spark based">
 * [mlpack](https://github.com/mlpack/mlpack) - A scalable C++ machine learning library (Python bindings).
@@ -234,6 +236,8 @@
 * [seaborn](https://github.com/mwaskom/seaborn) - Statistical data visualization using matplotlib.
 * [Bokeh](https://github.com/bokeh/bokeh) - Interactive Web Plotting for Python.
 * [HoloViews](https://github.com/ioam/holoviews) - Stop plotting your data - annotate your data and let it visualize itself.
+* [cuXFilter](https://github.com/rapidsai/cuxfilter) - RAPIDS GPU-accelerated cross filtering with [cuDF](https://github.com/rapidsai/cudf) for Python. <img height="20" src="img/gpu_big.png" alt="GPU accelerated">
+* [datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 * [prettyplotlib](https://github.com/olgabot/prettyplotlib) - Painlessly create beautiful matplotlib plots.
 * [python-ternary](https://github.com/marcharper/python-ternary) - Ternary plotting library for python with matplotlib.
 * [missingno](https://github.com/ResidentMario/missingno) - Missing data visualization module for Python.
@@ -415,13 +419,14 @@
 * [numpy](http://www.numpy.org/) - The fundamental package needed for scientific computing with Python.
 * [Dask](https://github.com/dask/dask) - Parallel computing with task scheduling. <img height="20" src="img/pandas_big.png" alt="pandas compatible">
 * [bottleneck](https://github.com/kwgoodman/bottleneck) - Fast NumPy array functions written in C.
-* [CuPy](https://github.com/cupy/cupy) - NumPy-like API accelerated with CUDA.
+* [CuPy](https://github.com/cupy/cupy) - NumPy-like API accelerated with CUDA. <img height="20" src="img/gpu_big.png" alt="GPU accelerated">
 * [scikit-tensor](https://github.com/mnick/scikit-tensor) - Python library for multilinear algebra and tensor factorizations.
 * [numdifftools](https://github.com/pbrod/numdifftools) - Solve automatic numerical differentiation problems in one or more variables.
 * [quaternion](https://github.com/moble/quaternion) - Add built-in support for quaternions to numpy.
 * [adaptive](https://github.com/python-adaptive/adaptive) - Tools for adaptive and parallel samping of mathematical functions.
 
 ## Spatial Analysis
+* [cuSpatial](https://github.com/rapidsai/cuspatial) - RAPIDS CUDA-accelerated GIS and spatiotemporal algorithms. <img height="20" src="img/gpu_big.png" alt="GPU accelerated">
 * [GeoPandas](https://github.com/geopandas/geopandas) - Python tools for geographic data. <img height="20" src="img/pandas_big.png" alt="pandas compatible">
 * [PySal](https://github.com/pysal/pysal) - Python Spatial Analysis Library.
 
