@@ -22,6 +22,7 @@
 * [Data Manipulation](#data-manipulation)
 * [Feature Engineering](#feature-engineering)
 * [Visualization](#visualization)
+* [Data Presentation](#data-presentation)
 * [Model Explanation](#model-explanation)
 * [Reinforcement Learning](#reinforcement-learning)
 * [Probabilistic Methods](#probabilistic-methods)
@@ -247,6 +248,7 @@
 
 ## Data Presentation
 * [datapane](https://datapane.com/) - A Python framework to turn scripts and notebooks into interactive reports.
+* [streamlit](https://www.streamlit.io/) - Make it easy to deploy machine learning model
 
 ## Model Explanation
 * [Alibi](https://github.com/SeldonIO/alibi) - Algorithms for monitoring and explaining machine learning models.
