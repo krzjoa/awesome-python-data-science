@@ -22,7 +22,7 @@
 * [Data Manipulation](#data-manipulation)
 * [Feature Engineering](#feature-engineering)
 * [Visualization](#visualization)
-* [Data Presentation](#data-presentation)
+* [Deployment](#deployment)
 * [Model Explanation](#model-explanation)
 * [Reinforcement Learning](#reinforcement-learning)
 * [Probabilistic Methods](#probabilistic-methods)
