@@ -22,6 +22,7 @@
 * [Data Manipulation](#data-manipulation)
 * [Feature Engineering](#feature-engineering)
 * [Visualization](#visualization)
+* [Deployment](#deployment)
 * [Model Explanation](#model-explanation)
 * [Reinforcement Learning](#reinforcement-learning)
 * [Probabilistic Methods](#probabilistic-methods)
@@ -244,6 +245,12 @@
 * [physt](https://github.com/janpipek/physt) - Improved histograms.
 * [animatplot](https://github.com/t-makaro/animatplot) - A python package for animating plots build on matplotlib.
 * [plotly](https://plot.ly/python/) - A Python library that makes interactive and publication-quality graphs.
+
+
+## Deployment
+* [datapane](https://datapane.com/) - A collection of APIs to turn scripts and notebooks into interactive reports.
+* [fastapi](https://fastapi.tiangolo.com/) - Modern, fast (high-performance), web framework for building APIs with Python 
+* [streamlit](https://www.streamlit.io/) - Make it easy to deploy machine learning model
 
 ## Model Explanation
 * [Alibi](https://github.com/SeldonIO/alibi) - Algorithms for monitoring and explaining machine learning models.
