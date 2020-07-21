@@ -246,8 +246,10 @@
 * [animatplot](https://github.com/t-makaro/animatplot) - A python package for animating plots build on matplotlib.
 * [plotly](https://plot.ly/python/) - A Python library that makes interactive and publication-quality graphs.
 
-## Data Presentation
-* [datapane](https://datapane.com/) - A Python framework to turn scripts and notebooks into interactive reports.
+
+## Deployment
+* [datapane](https://datapane.com/) - A collection of APIs to turn scripts and notebooks into interactive reports.
+* [fastapi](https://fastapi.tiangolo.com/) - Modern, fast (high-performance), web framework for building APIs with Python 
 * [streamlit](https://www.streamlit.io/) - Make it easy to deploy machine learning model
 
 ## Model Explanation
