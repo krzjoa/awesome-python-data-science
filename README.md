@@ -245,6 +245,9 @@
 * [animatplot](https://github.com/t-makaro/animatplot) - A python package for animating plots build on matplotlib.
 * [plotly](https://plot.ly/python/) - A Python library that makes interactive and publication-quality graphs.
 
+## Data Presentation
+* [datapane](https://datapane.com/) - A Python framework to turn scripts and notebooks into interactive reports.
+
 ## Model Explanation
 * [Alibi](https://github.com/SeldonIO/alibi) - Algorithms for monitoring and explaining machine learning models.
 * [anchor](https://github.com/marcotcr/anchor) - Code for "High-Precision Model-Agnostic Explanations" paper.
