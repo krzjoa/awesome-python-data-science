@@ -262,7 +262,7 @@
 * [geemap](https://github.com/giswqs/geemap) - Python package for interactive mapping with Google Earth Engine (GEE)
 ### Automatic Plotting
 * [HoloViews](https://github.com/ioam/holoviews) - Stop plotting your data - annotate your data and let it visualize itself.
-* [AutoViz](https://github.com/AutoViML/AutoViz): Visualize data automatically with 1 line of code
+* [AutoViz](https://github.com/AutoViML/AutoViz): Visualize data automatically with 1 line of code (ideal for machine learning)
 * [SweetViz](https://github.com/fbdesignpro/sweetviz): Visualize and compare datasets, target values and associations, with one line of code.
 
 ### NLP
