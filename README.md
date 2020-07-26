@@ -192,6 +192,7 @@
 * [Scrapy](https://scrapy.org/): Fast and extensible scraping library. Can write rules and create customized scraper without touching the coure
 * [Selenium](https://selenium-python.readthedocs.io/installation.html#introduction): Use Selenium Python API to access all functionalities of Selenium WebDriver in an intuitive way like a real user.
 * [Pattern](https://github.com/clips/pattern): High level scraping for well-establish websites such as Google, Twitter, and Wikipedia. Also has NLP, machine learning algorithms, and visualization 
+* [twitterscraper](https://github.com/taspinar/twitterscraper): Efficient library to scrape twitter
 
 ## Data Manipulation
 
