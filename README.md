@@ -262,6 +262,8 @@
 ### Automatic Plotting
 * [HoloViews](https://github.com/ioam/holoviews) - Stop plotting your data - annotate your data and let it visualize itself.
 * [AutoViz](https://github.com/AutoViML/AutoViz): Visualize data automatically with 1 line of code
+### NLP
+* [pyLDAvis](https://github.com/bmabey/pyLDAvis): Visualize interactive topic model
 
 
 
@@ -388,6 +390,7 @@
 * [Phonemizer](https://github.com/bootphon/phonemizer) - Simple text to phonemes converter for multiple languages.
 * [flair](https://github.com/zalandoresearch/flair) - Very simple framework for state-of-the-art NLP.
 * [spaCy](https://spacy.io/) - Industrial-Strength Natural Language Processing.
+
 
 ## Computer Audition
 * [librosa](https://github.com/librosa/librosa) - Python library for audio and music analysis.
