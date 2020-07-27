@@ -257,7 +257,8 @@
 * [animatplot](https://github.com/t-makaro/animatplot) - A python package for animating plots build on matplotlib.
 * [plotly](https://plot.ly/python/) - A Python library that makes interactive and publication-quality graphs.
 * [Bokeh](https://github.com/bokeh/bokeh) - Interactive Web Plotting for Python.
-* [Altair](https://altair-viz.github.io/): Declarative statistical visualization library for Python. Can easily do many data transformation within the code to create graph
+* [Altair](https://altair-viz.github.io/) - Declarative statistical visualization library for Python. Can easily do many data transformation within the code to create graph
+* [bqplot](https://github.com/bqplot/bqplot) - Plotting library for IPython/Jupyter notebooks
 ### Map
 * [folium](https://python-visualization.github.io/folium/quickstart.html#Getting-Started) - Makes it easy to visualize data on an interactive open street map
 * [geemap](https://github.com/giswqs/geemap) - Python package for interactive mapping with Google Earth Engine (GEE)
@@ -272,8 +273,10 @@
 
 ## Deployment
 * [datapane](https://datapane.com/) - A collection of APIs to turn scripts and notebooks into interactive reports.
+* [binder](https://mybinder.org/) - Enable sharing and execute Jupyter Notebooks 
 * [fastapi](https://fastapi.tiangolo.com/) - Modern, fast (high-performance), web framework for building APIs with Python 
 * [streamlit](https://www.streamlit.io/) - Make it easy to deploy machine learning model
+
 
 ## Model Explanation
 * [Alibi](https://github.com/SeldonIO/alibi) - Algorithms for monitoring and explaining machine learning models.
