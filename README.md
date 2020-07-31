@@ -19,6 +19,7 @@
 ## Contents
 * [Machine Learning](#machine-learning)
 * [Deep Learning](#deep-learning)
+* [Web Scraping](#web-scraping)
 * [Data Manipulation](#data-manipulation)
 * [Feature Engineering](#feature-engineering)
 * [Visualization](#visualization)
@@ -187,10 +188,18 @@
 * [Caffe2](https://github.com/pytorch/pytorch/tree/master/caffe2) -  A lightweight, modular, and scalable deep learning framework (now a part of PyTorch).
 * [hipCaffe](https://github.com/ROCmSoftwarePlatform/hipCaffe) - The HIP port of Caffe. <img height="20" src="img/amd_big.png" alt="Possible to run on AMD GPU">
 
+## Web Scraping
+* [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/): The easiest library to scrape static websites for beginners
+* [Scrapy](https://scrapy.org/): Fast and extensible scraping library. Can write rules and create customized scraper without touching the coure
+* [Selenium](https://selenium-python.readthedocs.io/installation.html#introduction): Use Selenium Python API to access all functionalities of Selenium WebDriver in an intuitive way like a real user.
+* [Pattern](https://github.com/clips/pattern): High level scraping for well-establish websites such as Google, Twitter, and Wikipedia. Also has NLP, machine learning algorithms, and visualization 
+* [twitterscraper](https://github.com/taspinar/twitterscraper): Efficient library to scrape twitter
+
 ## Data Manipulation
 
 ### Data Containers
 * [pandas](https://pandas.pydata.org/pandas-docs/stable/) - Powerful Python data analysis toolkit.
+* [pandas_profiling](https://github.com/pandas-profiling/pandas-profiling) - Create HTML profiling reports from pandas DataFrame objects
 * [cuDF](https://github.com/rapidsai/cudf) - GPU DataFrame Library. <img height="20" src="img/pandas_big.png" alt="pandas compatible"> <img height="20" src="img/gpu_big.png" alt="GPU accelerated">
 * [blaze](https://github.com/blaze/blaze) - NumPy and pandas interface to Big Data. <img height="20" src="img/pandas_big.png" alt="pandas compatible">
 * [pandasql](https://github.com/yhat/pandasql) -  Allows you to query pandas DataFrames using SQL syntax. <img height="20" src="img/pandas_big.png" alt="pandas compatible">
@@ -217,6 +226,7 @@
 * [meza](https://github.com/reubano/meza) - A Python toolkit for processing tabular data.
 * [Prodmodel](https://github.com/prodmodel/prodmodel) - Build system for data science pipelines.
 * [dopanda](https://github.com/dovpanda-dev/dovpanda) -  Hints and tips for using pandas in an analysis environment. <img height="20" src="img/pandas_big.png" alt="pandas compatible">
+* [CircleCi](https://circleci.com/): Automates your software builds, tests, and deployments.
 
 ## Feature Engineering
 
@@ -235,31 +245,38 @@
 * [scikit-rebate](https://github.com/EpistasisLab/scikit-rebate) - A scikit-learn-compatible Python implementation of ReBATE, a suite of Relief-based feature selection algorithms for Machine Learning. <img height="20" src="img/sklearn_big.png" alt="sklearn">
 
 ## Visualization
+### General Purposes
 * [Matplotlib](https://github.com/matplotlib/matplotlib) - Plotting with Python.
 * [seaborn](https://github.com/mwaskom/seaborn) - Statistical data visualization using matplotlib.
-* [Bokeh](https://github.com/bokeh/bokeh) - Interactive Web Plotting for Python.
-* [HoloViews](https://github.com/ioam/holoviews) - Stop plotting your data - annotate your data and let it visualize itself.
 * [prettyplotlib](https://github.com/olgabot/prettyplotlib) - Painlessly create beautiful matplotlib plots.
 * [python-ternary](https://github.com/marcharper/python-ternary) - Ternary plotting library for python with matplotlib.
 * [missingno](https://github.com/ResidentMario/missingno) - Missing data visualization module for Python.
 * [chartify](https://github.com/spotify/chartify/) - Python library that makes it easy for data scientists to create charts.
 * [physt](https://github.com/janpipek/physt) - Improved histograms.
+### Interactive plots
 * [animatplot](https://github.com/t-makaro/animatplot) - A python package for animating plots build on matplotlib.
 * [plotly](https://plot.ly/python/) - A Python library that makes interactive and publication-quality graphs.
+* [Bokeh](https://github.com/bokeh/bokeh) - Interactive Web Plotting for Python.
+* [Altair](https://altair-viz.github.io/) - Declarative statistical visualization library for Python. Can easily do many data transformation within the code to create graph
+* [bqplot](https://github.com/bqplot/bqplot) - Plotting library for IPython/Jupyter notebooks
+### Map
 * [folium](https://python-visualization.github.io/folium/quickstart.html#Getting-Started) - Makes it easy to visualize data on an interactive open street map
 * [geemap](https://github.com/giswqs/geemap) - Python package for interactive mapping with Google Earth Engine (GEE)
+### Automatic Plotting
+* [HoloViews](https://github.com/ioam/holoviews) - Stop plotting your data - annotate your data and let it visualize itself.
+* [AutoViz](https://github.com/AutoViML/AutoViz): Visualize data automatically with 1 line of code (ideal for machine learning)
+* [SweetViz](https://github.com/fbdesignpro/sweetviz): Visualize and compare datasets, target values and associations, with one line of code.
+
+### NLP
+* [pyLDAvis](https://github.com/bmabey/pyLDAvis): Visualize interactive topic model
 
 
 ## Deployment
 * [datapane](https://datapane.com/) - A collection of APIs to turn scripts and notebooks into interactive reports.
+* [binder](https://mybinder.org/) - Enable sharing and execute Jupyter Notebooks 
 * [fastapi](https://fastapi.tiangolo.com/) - Modern, fast (high-performance), web framework for building APIs with Python 
 * [streamlit](https://www.streamlit.io/) - Make it easy to deploy machine learning model
 
-
-## Deployment
-* [datapane](https://datapane.com/) - A collection of APIs to turn scripts and notebooks into interactive reports.
-* [fastapi](https://fastapi.tiangolo.com/) - Modern, fast (high-performance), web framework for building APIs with Python 
-* [streamlit](https://www.streamlit.io/) - Make it easy to deploy machine learning model
 
 ## Model Explanation
 * [Alibi](https://github.com/SeldonIO/alibi) - Algorithms for monitoring and explaining machine learning models.
@@ -379,6 +396,7 @@
 * [Phonemizer](https://github.com/bootphon/phonemizer) - Simple text to phonemes converter for multiple languages.
 * [flair](https://github.com/zalandoresearch/flair) - Very simple framework for state-of-the-art NLP.
 * [spaCy](https://spacy.io/) - Industrial-Strength Natural Language Processing.
+
 
 ## Computer Audition
 * [librosa](https://github.com/librosa/librosa) - Python library for audio and music analysis.
