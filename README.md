@@ -73,6 +73,8 @@
 * [PyFlux](https://github.com/RJT1990/pyflux) - Open source time series library for Python.
 * [bayesloop](https://github.com/christophmark/bayesloop) - Probabilistic programming framework that facilitates objective model selection for time-varying parameter models.
 * [luminol](https://github.com/linkedin/luminol) - Anomaly Detection and Correlation library.
+* [dateutil](https://dateutil.readthedocs.io/en/stable/) - Powerful extensions to the standard datetime module
+* [maya](https://github.com/timofurrer/maya) - makes it very easy to parse a string and for changing timezones
 
 ### Automated Machine Learning
 * [TPOT](https://github.com/rhiever/tpot) - Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming. <img height="20" src="img/sklearn_big.png" alt="sklearn">
