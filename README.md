@@ -94,7 +94,7 @@
 ### Random Forests
 * [rpforest](https://github.com/lyst/rpforest) - A forest of random projection trees. <img height="20" src="img/sklearn_big.png" alt="sklearn">
 * [sklearn-random-bits-forest](https://github.com/tmadl/sklearn-random-bits-forest) - Wrapper of the Random Bits Forest program written by (Wang et al., 2016).<img height="20" src="img/sklearn_big.png" alt="sklearn">
-* [rgf_python](https://github.com/fukatani/rgf_python) - Python Wrapper of Regularized Greedy Forest. <img height="20" src="img/sklearn_big.png" alt="sklearn">
+* [rgf_python](https://github.com/fukatani/rgf_pyt hummingbird-mlhon) - Python Wrapper of Regularized Greedy Forest. <img height="20" src="img/sklearn_big.png" alt="sklearn">
 
 ### Extreme Learning Machine
 * [Python-ELM](https://github.com/dclambert/Python-ELM) - Extreme Learning Machine implementation in Python. <img height="20" src="img/sklearn_big.png" alt="sklearn">
@@ -459,7 +459,7 @@
 * [numdifftools](https://github.com/pbrod/numdifftools) - Solve automatic numerical differentiation problems in one or more variables.
 * [quaternion](https://github.com/moble/quaternion) - Add built-in support for quaternions to numpy.
 * [adaptive](https://github.com/python-adaptive/adaptive) - Tools for adaptive and parallel samping of mathematical functions.
-
+* [hummingbird-ml](https://github.com/microsoft/hummingbird) - Seamlessly leverage neural network frameworks (such as PyTorch) to accelerate traditional ML models
 ## Spatial Analysis
 * [GeoPandas](https://github.com/geopandas/geopandas) - Python tools for geographic data. <img height="20" src="img/pandas_big.png" alt="pandas compatible">
 * [PySal](https://github.com/pysal/pysal) - Python Spatial Analysis Library.
