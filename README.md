@@ -2,7 +2,7 @@
 	<a href="https://krzjoa.github.io/awesome-python-data-science/"><img width="250" height="250" src="img/py-datascience.png" alt="pyds"></a>
 	<br>
 	<br>
-	<br>
+	
 </div>
 
 <h1 align="center">
@@ -14,7 +14,7 @@
 </div>
 </br>
 
-> Probably the best curated list of data science software in Python
+<div>Probably the best curated list of data science software in Python</div>
 
 ## Contents
 * [Machine Learning](#machine-learning)
