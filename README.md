@@ -271,6 +271,7 @@
 
 ### NLP
 * [pyLDAvis](https://github.com/bmabey/pyLDAvis): Visualize interactive topic model
+* [Gensim](https://pypi.org/project/gensim/): Gensim is an open-source library for unsupervised topic modeling and natural language processing, using modern statistical machine learning.
 
 
 ## Deployment
@@ -457,6 +458,7 @@
 ## Quantum Computing
 * [PennyLane](https://github.com/XanaduAI/pennylane) - Quantum machine learning, automatic differentiation, and optimization of hybrid quantum-classical computations.
 * [QML](https://github.com/qmlcode/qml) - A Python Toolkit for Quantum Machine Learning.
+* [QuTiP](http://qutip.org/) - QuTiP is an open-source computational physics software library for simulating quantum systems, particularly open quantum systems.
 
 ## Conversion
 * [sklearn-porter](https://github.com/nok/sklearn-porter) - Transpile trained scikit-learn estimators to C, Java, JavaScript and others.
