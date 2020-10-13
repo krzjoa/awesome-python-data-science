@@ -170,7 +170,7 @@
 * [Caffe](https://github.com/BVLC/caffe) - A fast open framework for deep learning.
 * [hipCaffe](https://github.com/ROCmSoftwarePlatform/hipCaffe) - The HIP port of Caffe. <img height="20" src="img/amd_big.png" alt="Possible to run on AMD GPU">
 
-**[DISCONTINUED PROJECTS](https://github.com/krzjoa/awesome-python-data-science/edit/master/other/deprecated.md)**
+**[DISCONTINUED PROJECTS](https://github.com/krzjoa/awesome-python-data-science/blob/master/other/deprecated.md#deep-learning)**
 
 ## Web Scraping
 * [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/): The easiest library to scrape static websites for beginners
