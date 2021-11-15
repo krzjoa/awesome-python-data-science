@@ -67,6 +67,7 @@
 * [causalml](https://github.com/uber/causalml) - Uplift modeling and causal inference with machine learning algorithms. <img height="20" src="img/sklearn_big.png" alt="sklearn">
 
 ### Time Series
+* [sktime](https://github.com/alan-turing-institute/sktime) - A unified framework for machine learning with time series. <img height="20" src="img/sklearn_big.png" alt="sklearn">
 * [tslearn](https://github.com/rtavenar/tslearn) - Machine learning toolkit dedicated to time-series data. <img height="20" src="img/sklearn_big.png" alt="sklearn">
 * [tick](https://github.com/X-DataInitiative/tick) - Module for statistical learning, with a particular emphasis on time-dependent modelling.  <img height="20" src="img/sklearn_big.png" alt="sklearn">
 * [Prophet](https://github.com/facebook/prophet) - Automatic Forecasting Procedure.
