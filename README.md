@@ -29,6 +29,7 @@
 * [Probabilistic Methods](#probabilistic-methods)
 * [Genetic Programming](#genetic-programming)
 * [Optimization](#optimization)
+* [Time Series](#time-series)
 * [Natural Language Processing](#natural-language-processing)
 * [Computer Audition](#computer-audition)
 * [Computer Vision](#computer-vision)
@@ -351,7 +352,7 @@
 * [Talos](https://github.com/autonomio/talos) - Hyperparameter Optimization for Keras Models.
 * [nlopt](https://github.com/stevengj/nlopt) - Library for nonlinear optimization (global and local, constrained or unconstrained).
 
-### Time Series
+## Time Series
 * [sktime](https://github.com/alan-turing-institute/sktime) - A unified framework for machine learning with time series. <img height="20" src="img/sklearn_big.png" alt="sklearn">
 * [tslearn](https://github.com/rtavenar/tslearn) - Machine learning toolkit dedicated to time-series data. <img height="20" src="img/sklearn_big.png" alt="sklearn">
 * [tick](https://github.com/X-DataInitiative/tick) - Module for statistical learning, with a particular emphasis on time-dependent modelling.  <img height="20" src="img/sklearn_big.png" alt="sklearn">
