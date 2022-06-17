@@ -413,6 +413,7 @@
 * [Distributed](https://github.com/dask/distributed) - Distributed computation in Python.
 
 ## Experimentation
+* [envd](https://github.com/tensorchord/envd) - 🏕️ machine learning development environment for data science and AI/ML engineering teams.
 * [Sacred](https://github.com/IDSIA/sacred) - A tool to help you configure, organize, log and reproduce experiments.
 * [Xcessiv](https://github.com/reiinakano/xcessiv) - A web-based application for quick, scalable, and automated hyperparameter tuning and stacked ensembling.
 * [Persimmon](https://github.com/AlvarBer/Persimmon) - A visual dataflow programming language for sklearn.
