@@ -356,8 +356,13 @@
 
 ## Time Series
 * [sktime](https://github.com/alan-turing-institute/sktime) - A unified framework for machine learning with time series. <img height="20" src="img/sklearn_big.png" alt="sklearn">
+* [darts](https://github.com/unit8co/darts) - A python library for easy manipulation and forecasting of time series.
+* [statsforecast](https://github.com/Nixtla/statsforecast) - Lightning fast forecasting with statistical and econometric models. 
+* [mlforecast](https://github.com/Nixtla/mlforecast) - Scalable machine learning based time series forecasting.
+* [neuralforecast](https://github.com/Nixtla/neuralforecast) - Scalable machine learning based time series forecasting.
 * [tslearn](https://github.com/rtavenar/tslearn) - Machine learning toolkit dedicated to time-series data. <img height="20" src="img/sklearn_big.png" alt="sklearn">
 * [tick](https://github.com/X-DataInitiative/tick) - Module for statistical learning, with a particular emphasis on time-dependent modelling.  <img height="20" src="img/sklearn_big.png" alt="sklearn">
+* [greykite](https://github.com/linkedin/greykite) - A flexible, intuitive and fast forecasting librarynext.
 * [Prophet](https://github.com/facebook/prophet) - Automatic Forecasting Procedure.
 * [PyFlux](https://github.com/RJT1990/pyflux) - Open source time series library for Python.
 * [bayesloop](https://github.com/christophmark/bayesloop) - Probabilistic programming framework that facilitates objective model selection for time-varying parameter models.
