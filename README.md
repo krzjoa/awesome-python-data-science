@@ -209,6 +209,7 @@
 
 ### General
 * [Featuretools](https://github.com/Featuretools/featuretools) - Automated feature engineering.
+* [Feature Engine](https://github.com/feature-engine/feature_engine) - Feature engineering package with sklearn like functionality. <img height="20" src="img/sklearn_big.png" alt="sklearn">
 * [skl-groups](https://github.com/dougalsutherland/skl-groups) - A scikit-learn addon to operate on set/"group"-based features. <img height="20" src="img/sklearn_big.png" alt="sklearn">
 * [Feature Forge](https://github.com/machinalis/featureforge) - A set of tools for creating and testing machine learning feature. <img height="20" src="img/sklearn_big.png" alt="sklearn">
 * [few](https://github.com/lacava/few) - A feature engineering wrapper for sklearn. <img height="20" src="img/sklearn_big.png" alt="sklearn">
