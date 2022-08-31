@@ -203,7 +203,6 @@
 * [meza](https://github.com/reubano/meza) - A Python toolkit for processing tabular data.
 * [Prodmodel](https://github.com/prodmodel/prodmodel) - Build system for data science pipelines.
 * [dopanda](https://github.com/dovpanda-dev/dovpanda) -  Hints and tips for using pandas in an analysis environment. <img height="20" src="img/pandas_big.png" alt="pandas compatible">
-* [CircleCi](https://circleci.com/): Automates your software builds, tests, and deployments.
 
 ## Feature Engineering
 
@@ -333,6 +332,7 @@
 * [Spearmint](https://github.com/HIPS/Spearmint) - Bayesian optimization.
 * [BoTorch](https://github.com/pytorch/botorch) - Bayesian optimization in PyTorch. <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible">
 * [scikit-opt](https://github.com/guofei9987/scikit-opt) - Heuristic Algorithms for optimization.
+* [sklearn-genetic-opt](https://github.com/rodrigo-arenas/Sklearn-genetic-opt) - Hyperparameters tuning and feature selection, using evolutionary algorithms. <img height="20" src="img/sklearn_big.png" alt="sklearn">
 * [SMAC3](https://github.com/automl/SMAC3) - Sequential Model-based Algorithm Configuration.
 * [Optunity](https://github.com/claesenm/optunity) - Is a library containing various optimizers for hyperparameter tuning.
 * [hyperopt](https://github.com/hyperopt/hyperopt) - Distributed Asynchronous Hyperparameter Optimization in Python.
