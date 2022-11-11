@@ -72,6 +72,7 @@
 * [TPOT](https://github.com/rhiever/tpot) - Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming. <img height="20" src="img/sklearn_big.png" alt="sklearn">
 * [auto-sklearn](https://github.com/automl/auto-sklearn) - An automated machine learning toolkit and a drop-in replacement for a scikit-learn estimator. <img height="20" src="img/sklearn_big.png" alt="sklearn">
 * [MLBox](https://github.com/AxeldeRomblay/MLBox) - A powerful Automated Machine Learning python library.
+* [AutoGluon](https://github.com/awslabs/autogluon) - AutoML for Image, Text, Tabular, Time-Series, and MultiModal Data.
 
 ### Ensemble Methods
 * [ML-Ensemble](http://ml-ensemble.com/) - High performance ensemble learning. <img height="20" src="img/sklearn_big.png" alt="sklearn">
@@ -203,6 +204,11 @@
 * [meza](https://github.com/reubano/meza) - A Python toolkit for processing tabular data.
 * [Prodmodel](https://github.com/prodmodel/prodmodel) - Build system for data science pipelines.
 * [dopanda](https://github.com/dovpanda-dev/dovpanda) -  Hints and tips for using pandas in an analysis environment. <img height="20" src="img/pandas_big.png" alt="pandas compatible">
+
+### Data-centric AI
+* [cleanlab](https://github.com/cleanlab/cleanlab) - The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels. 
+* [snorkel](https://github.com/snorkel-team/snorkel) - A system for quickly generating training data with weak supervision.
+* [dataprep](https://github.com/sfu-db/dataprep) - Collect, clean and visualization your data in python with a few lines of code.
 
 ## Feature Engineering
 
