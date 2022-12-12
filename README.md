@@ -192,6 +192,7 @@
 * [pandas_flavor](https://github.com/Zsailer/pandas_flavor) - A package which allow to write your own flavor of Pandas easily.
 * [pandas-log](https://github.com/eyaltrabelsi/pandas-log) - A package which allow to provide feedback about basic pandas operations and find both buisness logic and performance issues.
 * [vaex](https://github.com/vaexio/vaex) - Out-of-Core DataFrames for Python, ML, visualize and explore big tabular data at a billion rows per second.
+* [xarray](https://github.com/pydata/xarray) - Xarray combines the best features of NumPy and pandas for multidimensional data selection, by supplementing numerical axis labels with named dimensions for more intuitive, concise, and less error-prone indexing routines.
 
 ### Pipelines
 * [pdpipe](https://github.com/shaypal5/pdpipe) - Sasy pipelines for pandas DataFrames.
