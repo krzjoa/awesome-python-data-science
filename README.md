@@ -192,7 +192,7 @@
 * [pandas_flavor](https://github.com/Zsailer/pandas_flavor) - A package which allow to write your own flavor of Pandas easily.
 * [pandas-log](https://github.com/eyaltrabelsi/pandas-log) - A package which allow to provide feedback about basic pandas operations and find both buisness logic and performance issues.
 * [vaex](https://github.com/vaexio/vaex) - Out-of-Core DataFrames for Python, ML, visualize and explore big tabular data at a billion rows per second.
-* [xarray](https://github.com/pydata/xarray) - Xarray combines the best features of NumPy and pandas for multidimensional data selection, by supplementing numerical axis labels with named dimensions for more intuitive, concise, and less error-prone indexing routines.
+* [xarray](https://github.com/pydata/xarray) - Xarray combines the best features of NumPy and pandas for multidimensional data selection by supplementing numerical axis labels with named dimensions for more intuitive, concise, and less error-prone indexing routines.
 
 ### Pipelines
 * [pdpipe](https://github.com/shaypal5/pdpipe) - Sasy pipelines for pandas DataFrames.
@@ -446,6 +446,7 @@
 * [numdifftools](https://github.com/pbrod/numdifftools) - Solve automatic numerical differentiation problems in one or more variables.
 * [quaternion](https://github.com/moble/quaternion) - Add built-in support for quaternions to numpy.
 * [adaptive](https://github.com/python-adaptive/adaptive) - Tools for adaptive and parallel samping of mathematical functions.
+* [NumExpr](https://github.com/pydata/numexpr) - A fast numerical expression evaluator for NumPy that comes with an integrated computing virtual machine to speed calculations up by avoiding memory allocation for intermediate results.
 
 ## Spatial Analysis
 * [GeoPandas](https://github.com/geopandas/geopandas) - Python tools for geographic data. <img height="20" src="img/pandas_big.png" alt="pandas compatible">
