@@ -210,6 +210,10 @@
 * [snorkel](https://github.com/snorkel-team/snorkel) - A system for quickly generating training data with weak supervision.
 * [dataprep](https://github.com/sfu-db/dataprep) - Collect, clean and visualization your data in python with a few lines of code.
 
+### Synthetic Data
+
+* [ydata-synthetic](https://github.com/ydataai/ydata-synthetic) - A package to generate synthetic tabular and time-series data leveraging the state of the art generative models. <img height="20" src="img/pandas_big.png" alt="pandas compatible">
+
 ## Feature Engineering
 
 ### General
