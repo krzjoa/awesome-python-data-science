@@ -36,6 +36,7 @@
 * [Statistics](#statistics)
 * [Distributed Computing](#distributed-computing)
 * [Experimentation](#experimentation)
+* [Data Validation](#data-validation)
 * [Evaluation](#evaluation)
 * [Computations](#computations)
 * [Spatial Analysis](#spatial-analysis)
@@ -174,7 +175,7 @@
 
 ## Data Manipulation
 
-### Data Containers
+### Data Frames
 * [pandas](https://pandas.pydata.org/pandas-docs/stable/) - Powerful Python data analysis toolkit.
 * [pandas_profiling](https://github.com/pandas-profiling/pandas-profiling) - Create HTML profiling reports from pandas DataFrame objects
 * [cuDF](https://github.com/rapidsai/cudf) - GPU DataFrame Library. <img height="20" src="img/pandas_big.png" alt="pandas compatible"> <img height="20" src="img/gpu_big.png" alt="GPU accelerated">
@@ -437,7 +438,7 @@
 * [Sacred](https://github.com/IDSIA/sacred) - A tool to help you configure, organize, log and reproduce experiments.
 * [Ax](https://github.com/facebook/Ax) - Adaptive Experimentation Platform. <img height="20" src="img/sklearn_big.png" alt="sklearn">
 
-## Data validation
+## Data Validation
 * [great_expectations](https://github.com/great-expectations/great_expectations) - Always know what to expect from your data.
 * [pandera](https://github.com/unionai-oss/pandera) - A light-weight, flexible, and expressive statistical data testing library.
 * [deepchecks](https://github.com/deepchecks/deepchecks) - Validation & testing of ML models and data during model development, deployment, and production. <img height="20" src="img/sklearn_big.png" alt="sklearn">
