@@ -37,6 +37,10 @@
 * [Aboleth](https://github.com/data61/aboleth) - A bare-bones TensorFlow framework for Bayesian deep learning and Gaussian process approximation. <img height="20" src="img/tf_big2.png" alt="sklearn">
 * [skggm](https://github.com/skggm/skggm) - Estimation of general graphical models. <img height="20" src="img/sklearn_big.png" alt="sklearn">
 
+## Experimentation
+* [Xcessiv](https://github.com/reiinakano/xcessiv) - A web-based application for quick, scalable, and automated hyperparameter tuning and stacked ensembling.
+* [Persimmon](https://github.com/AlvarBer/Persimmon) - A visual dataflow programming language for sklearn.
+
 ### Data Manipulation
 * [alexander](https://github.com/annoys-parrot/alexander) ![alt text][skl] ![alt text][pd] - wrapper that aims to make scikit-learn fully compatible with pandas
 * [Fuel](https://github.com/mila-udem/fuel) - Data pipeline framework for machine learning.
