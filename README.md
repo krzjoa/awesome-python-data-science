@@ -264,11 +264,11 @@
 
 
 ## Deployment
-* [datapane](https://datapane.com/) - A collection of APIs to turn scripts and notebooks into interactive reports.
-* [binder](https://mybinder.org/) - Enable sharing and execute Jupyter Notebooks
 * [fastapi](https://fastapi.tiangolo.com/) - Modern, fast (high-performance), web framework for building APIs with Python
 * [streamlit](https://www.streamlit.io/) - Make it easy to deploy machine learning model
-
+* [gradio](https://github.com/gradio-app/gradio) - Create UIs for your machine learning model in Python in 3 minutes.
+* [datapane](https://datapane.com/) - A collection of APIs to turn scripts and notebooks into interactive reports.
+* [binder](https://mybinder.org/) - Enable sharing and execute Jupyter Notebooks
 
 ## Model Explanation
 
