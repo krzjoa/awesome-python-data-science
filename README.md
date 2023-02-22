@@ -256,12 +256,15 @@
 * [few](https://github.com/lacava/few) - A feature engineering wrapper for sklearn. <img height="20" src="img/sklearn_big.png" alt="sklearn">
 * [scikit-mdr](https://github.com/EpistasisLab/scikit-mdr) - A sklearn-compatible Python implementation of Multifactor Dimensionality Reduction (MDR) for feature construction. <img height="20" src="img/sklearn_big.png" alt="sklearn">
 * [tsfresh](https://github.com/blue-yonder/tsfresh) - Automatic extraction of relevant features from time series. <img height="20" src="img/sklearn_big.png" alt="sklearn">
+* [dirty_cat](https://github.com/dirty-cat/dirty_cat) - Machine learning on dirty tabular data (especially: string-based variables for classifcation and regression). <img height="20" src="img/sklearn_big.png" alt="sklearn">
+* [NitroFE](https://github.com/NITRO-AI/NitroFE) - Moving window features. <img height="20" src="img/sklearn_big.png" alt="sklearn">
 
 ### Feature Selection
 * [scikit-feature](https://github.com/jundongl/scikit-feature) - Feature selection repository in Python.
 * [boruta_py](https://github.com/scikit-learn-contrib/boruta_py) - Implementations of the Boruta all-relevant feature selection method. <img height="20" src="img/sklearn_big.png" alt="sklearn">
 * [BoostARoota](https://github.com/chasedehan/BoostARoota) - A fast xgboost feature selection algorithm. <img height="20" src="img/sklearn_big.png" alt="sklearn">
 * [scikit-rebate](https://github.com/EpistasisLab/scikit-rebate) - A scikit-learn-compatible Python implementation of ReBATE, a suite of Relief-based feature selection algorithms for Machine Learning. <img height="20" src="img/sklearn_big.png" alt="sklearn">
+* [zoofs](https://github.com/jaswinder9051998/zoofs) - A feature selection library based on evolutionary algorithms.
 
 ## Visualization
 ### General Purposes
@@ -372,6 +375,7 @@
 
 <a name="opt"></a>
 ## Optimization
+* [Optuna](https://github.com/optuna/optuna) - A hyperparameter optimization framework.
 * [Spearmint](https://github.com/HIPS/Spearmint) - Bayesian optimization.
 * [BoTorch](https://github.com/pytorch/botorch) - Bayesian optimization in PyTorch. <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible">
 * [scikit-opt](https://github.com/guofei9987/scikit-opt) - Heuristic Algorithms for optimization.
@@ -412,6 +416,7 @@
 * [Chaos Genius](https://github.com/chaos-genius/chaos_genius) - ML powered analytics engine for outlier/anomaly detection and root cause analysis
 
 ## Natural Language Processing
+* [spaCy](https://spacy.io/) - Industrial-Strength Natural Language Processing.
 * [NLTK](https://github.com/nltk/nltk) -  Modules, data sets, and tutorials supporting research and development in Natural Language Processing.
 * [CLTK](https://github.com/cltk/cltk) - The Classical Language Toolkik.
 * [gensim](https://radimrehurek.com/gensim/) - Topic Modelling for Humans.
@@ -419,7 +424,7 @@
 * [skift](https://github.com/shaypal5/skift) - Scikit-learn wrappers for Python fastText. <img height="20" src="img/sklearn_big.png" alt="sklearn">
 * [Phonemizer](https://github.com/bootphon/phonemizer) - Simple text-to-phonemes converter for multiple languages.
 * [flair](https://github.com/zalandoresearch/flair) - Very simple framework for state-of-the-art NLP.
-* [spaCy](https://spacy.io/) - Industrial-Strength Natural Language Processing.
+
 
 ## Computer Audition
 * [librosa](https://github.com/librosa/librosa) - Python library for audio and music analysis.
