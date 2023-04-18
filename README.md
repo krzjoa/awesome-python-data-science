@@ -199,6 +199,7 @@
 * [Selenium](https://selenium-python.readthedocs.io/installation.html#introduction): Use Selenium Python API to access all functionalities of Selenium WebDriver in an intuitive way like a real user.
 * [Pattern](https://github.com/clips/pattern): High level scraping for well-establish websites such as Google, Twitter, and Wikipedia. Also has NLP, machine learning algorithms, and visualization
 * [twitterscraper](https://github.com/taspinar/twitterscraper): Efficient library to scrape Twitter
+* [py-gutenberg](https://github.com/peterrauscher/py-gutenberg): A library to scrape full texts and metadata from books on Project Gutenberg.
 
 ## Data Manipulation
 
