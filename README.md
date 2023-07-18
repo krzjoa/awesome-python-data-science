@@ -452,6 +452,7 @@
 * [weightedcalcs](https://github.com/jsvine/weightedcalcs) - A pandas-based utility to calculate weighted means, medians, distributions, standard deviations, and more.
 * [scikit-posthocs](https://github.com/maximtrp/scikit-posthocs) - Pairwise Multiple Comparisons Post-hoc Tests.
 * [Alphalens](https://github.com/quantopian/alphalens) - Performance analysis of predictive (alpha) stock factors.
+* [Lmo](https://github.com/jorenham/lmo) - Trimmed L-moments and L-comoments for efficient robust statistics.
 
 ## Distributed Computing
 * [Horovod](https://github.com/uber/horovod) - Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet. <img height="20" src="img/tf_big2.png" alt="sklearn">
