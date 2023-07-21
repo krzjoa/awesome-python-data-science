@@ -14,7 +14,7 @@
 </div>
 </br>
 
-> Probably the best-curated list of data science software in Python
+> Probably the best curated list of data science software in Python
 
 ## Contents
 - [Contents](#contents)
