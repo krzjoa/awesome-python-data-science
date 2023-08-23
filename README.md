@@ -235,7 +235,7 @@
 * [meza](https://github.com/reubano/meza) - A Python toolkit for processing tabular data.
 * [Prodmodel](https://github.com/prodmodel/prodmodel) - Build system for data science pipelines.
 * [dopanda](https://github.com/dovpanda-dev/dovpanda) -  Hints and tips for using pandas in an analysis environment. <img height="20" src="img/pandas_big.png" alt="pandas compatible">
-* [Hamilton](https://github.com/stitchfix/hamilton) - A microframework for dataframe generation that applies Directed Acyclic Graphs specified by a flow of lazily evaluated Python functions.
+* [Hamilton](https://github.com/DAGWorks-Inc/hamilton) - A microframework for dataframe generation that applies Directed Acyclic Graphs specified by a flow of lazily evaluated Python functions.
 
 ### Data-centric AI
 * [cleanlab](https://github.com/cleanlab/cleanlab) - The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.
