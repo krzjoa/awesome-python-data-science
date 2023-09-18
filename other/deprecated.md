@@ -41,3 +41,6 @@
 ## Probabilistic methods
 * [gelato](https://github.com/ferrine/gelato) - Bayesian dessert for Lasagne. <img height="20" src="img/theano_big.png" alt="Theano compatible">
 
+## RL
+* [Coach](https://github.com/NervanaSystems/coach) - Easy experimentation with state-of-the-art Reinforcement Learning algorithms.
+
