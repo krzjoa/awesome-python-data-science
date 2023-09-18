@@ -338,6 +338,7 @@
 * [Acme](https://github.com/google-deepmind/acme) - A library of reinforcement learning components and agents.
 * [Catalyst-RL](https://github.com/catalyst-team/catalyst-rl) - PyTorch framework for RL research.
 * [d3rlpy](https://github.com/takuseno/d3rlpy) - An offline deep reinforcement learning library.
+* [Tianshou](https://github.com/thu-ml/tianshou/#comprehensive-functionality) - An elegant PyTorch deep reinforcement learning library.
 * [TF-Agents](https://github.com/tensorflow/agents) - A library for Reinforcement Learning in TensorFlow. <img height="20" src="img/tf_big2.png" alt="sklearn">
 * [TensorForce](https://github.com/reinforceio/tensorforce) - A TensorFlow library for applied reinforcement learning. <img height="20" src="img/tf_big2.png" alt="sklearn">
 * [TRFL](https://github.com/deepmind/trfl) - TensorFlow Reinforcement Learning. <img height="20" src="img/tf_big2.png" alt="sklearn">
