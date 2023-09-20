@@ -33,7 +33,7 @@
 	- [MXNet](#mxnet)
 	- [Others](#others)
 - [Reinforcement Learning](#reinforcement-learning)
-- [Graph Machine Learning](#graph-machine-learninh)
+- [Graph Machine Learning](#graph-machine-learning)
 - [Probabilistic Graphical Models](#probabilistic-graphical-models)
 - [Probabilistic Methods](#probabilistic-methods)
 - [Data Manipulation](#data-manipulation)
@@ -158,7 +158,6 @@
 * [tfdeploy](https://github.com/riga/tfdeploy) - Deploy TensorFlow graphs for fast evaluation and export to TensorFlow-less environments running numpy. <img height="20" src="img/tf_big2.png" alt="sklearn">
 * [tensorflow-upstream](https://github.com/ROCmSoftwarePlatform/tensorflow-upstream) - TensorFlow ROCm port. <img height="20" src="img/tf_big2.png" alt="sklearn"> <img height="20" src="img/amd_big.png" alt="Possible to run on AMD GPU">
 * [TensorFlow Fold](https://github.com/tensorflow/fold) - Deep learning with dynamic computation graphs in TensorFlow. <img height="20" src="img/tf_big2.png" alt="sklearn">
-* [tensorlm](https://github.com/batzner/tensorlm) - Wrapper library for text generation/language models at char and word level with RNN. <img height="20" src="img/tf_big2.png" alt="sklearn">
 * [TensorLight](https://github.com/bsautermeister/tensorlight) - A high-level framework for TensorFlow. <img height="20" src="img/tf_big2.png" alt="sklearn">
 * [Mesh TensorFlow](https://github.com/tensorflow/mesh) - Model Parallelism Made Easier. <img height="20" src="img/tf_big2.png" alt="sklearn">
 * [Ludwig](https://github.com/uber/ludwig) - A toolbox that allows one to train and test deep learning models without the need to write code. <img height="20" src="img/tf_big2.png" alt="sklearn">
