@@ -69,7 +69,6 @@
 - [Spatial Analysis](#spatial-analysis)
 - [Quantum Computing](#quantum-computing)
 - [Conversion](#conversion)
-- [Related Resources](#related-resources)
 - [Contributing](#contributing)
 - [License](#license)
 
