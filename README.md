@@ -32,6 +32,10 @@
 	- [TensorFlow](#tensorflow)
 	- [MXNet](#mxnet)
 	- [Others](#others)
+- [Time Series](#time-series)
+- [Natural Language Processing](#natural-language-processing)
+- [Computer Audition](#computer-audition)
+- [Computer Vision](#computer-vision)
 - [Reinforcement Learning](#reinforcement-learning)
 - [Graph Machine Learning](#graph-machine-learning)
 - [Probabilistic Graphical Models](#probabilistic-graphical-models)
@@ -54,10 +58,6 @@
 - [Model Explanation](#model-explanation)
 - [Genetic Programming](#genetic-programming)
 - [Optimization](#optimization)
-- [Time Series](#time-series)
-- [Natural Language Processing](#natural-language-processing)
-- [Computer Audition](#computer-audition)
-- [Computer Vision](#computer-vision)
 - [Statistics](#statistics)
 - [Distributed Computing](#distributed-computing)
 - [Experimentation](#experimentation)
@@ -182,6 +182,58 @@
 * [Myia](https://github.com/mila-udem/myia) - Deep Learning framework (pre-alpha).
 * [nnabla](https://github.com/sony/nnabla) - Neural Network Libraries by Sony.
 * [Caffe](https://github.com/BVLC/caffe) - A fast open framework for deep learning.
+
+## Time Series
+* [sktime](https://github.com/alan-turing-institute/sktime) - A unified framework for machine learning with time series. <img height="20" src="img/sklearn_big.png" alt="sklearn">
+* [darts](https://github.com/unit8co/darts) - A python library for easy manipulation and forecasting of time series.
+* [statsforecast](https://github.com/Nixtla/statsforecast) - Lightning fast forecasting with statistical and econometric models.
+* [mlforecast](https://github.com/Nixtla/mlforecast) - Scalable machine learning-based time series forecasting.
+* [neuralforecast](https://github.com/Nixtla/neuralforecast) - Scalable machine learning-based time series forecasting.
+* [tslearn](https://github.com/rtavenar/tslearn) - Machine learning toolkit dedicated to time-series data. <img height="20" src="img/sklearn_big.png" alt="sklearn">
+* [tick](https://github.com/X-DataInitiative/tick) - Module for statistical learning, with a particular emphasis on time-dependent modeling.  <img height="20" src="img/sklearn_big.png" alt="sklearn">
+* [greykite](https://github.com/linkedin/greykite) - A flexible, intuitive, and fast forecasting library next.
+* [Prophet](https://github.com/facebook/prophet) - Automatic Forecasting Procedure.
+* [PyFlux](https://github.com/RJT1990/pyflux) - Open source time series library for Python.
+* [bayesloop](https://github.com/christophmark/bayesloop) - Probabilistic programming framework that facilitates objective model selection for time-varying parameter models.
+* [luminol](https://github.com/linkedin/luminol) - Anomaly Detection and Correlation library.
+* [dateutil](https://dateutil.readthedocs.io/en/stable/) - Powerful extensions to the standard datetime module
+* [maya](https://github.com/timofurrer/maya) - makes it very easy to parse a string and for changing timezones
+* [Chaos Genius](https://github.com/chaos-genius/chaos_genius) - ML powered analytics engine for outlier/anomaly detection and root cause analysis
+
+## Natural Language Processing
+* [torchtext](https://github.com/pytorch/text) - Data loaders and abstractions for text and NLP. <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible">
+* [gluon-nlp](https://github.com/dmlc/gluon-nlp) - NLP made easy. <img height="20" src="img/mxnet_big.png" alt="MXNet based">
+* [KerasNLP](https://github.com/keras-team/keras-nlp) - Modular Natural Language Processing workflows with Keras. <img height="20" src="img/keras_big.png" alt="Keras based/compatible">
+* [spaCy](https://spacy.io/) - Industrial-Strength Natural Language Processing.
+* [NLTK](https://github.com/nltk/nltk) -  Modules, data sets, and tutorials supporting research and development in Natural Language Processing.
+* [CLTK](https://github.com/cltk/cltk) - The Classical Language Toolkik.
+* [gensim](https://radimrehurek.com/gensim/) - Topic Modelling for Humans.
+* [pyMorfologik](https://github.com/dmirecki/pyMorfologik) - Python binding for <a href="https://github.com/morfologik/morfologik-stemming">Morfologik</a>.
+* [skift](https://github.com/shaypal5/skift) - Scikit-learn wrappers for Python fastText. <img height="20" src="img/sklearn_big.png" alt="sklearn">
+* [Phonemizer](https://github.com/bootphon/phonemizer) - Simple text-to-phonemes converter for multiple languages.
+* [flair](https://github.com/zalandoresearch/flair) - Very simple framework for state-of-the-art NLP.
+
+## Computer Audition
+* [torchaudio](https://github.com/pytorch/audio) - An audio library for PyTorch. <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible">
+* [librosa](https://github.com/librosa/librosa) - Python library for audio and music analysis.
+* [Yaafe](https://github.com/Yaafe/Yaafe) - Audio features extraction.
+* [aubio](https://github.com/aubio/aubio) - A library for audio and music analysis.
+* [Essentia](https://github.com/MTG/essentia) - Library for audio and music analysis, description, and synthesis.
+* [LibXtract](https://github.com/jamiebullock/LibXtract) - A simple, portable, lightweight library of audio feature extraction functions.
+* [Marsyas](https://github.com/marsyas/marsyas) - Music Analysis, Retrieval, and Synthesis for Audio Signals.
+* [muda](https://github.com/bmcfee/muda) - A library for augmenting annotated audio data.
+* [madmom](https://github.com/CPJKU/madmom) - Python audio and music signal processing library.
+
+## Computer Vision
+* [torchvision](https://github.com/pytorch/vision) - Datasets, Transforms, and Models specific to Computer Vision. <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible">
+* [gluon-cv](https://github.com/dmlc/gluon-cv) - Provides implementations of the state-of-the-art  deep learning models in computer vision. <img height="20" src="img/mxnet_big.png" alt="MXNet based">
+* [KerasCV](https://github.com/keras-team/keras-cv) - Industry-strength Computer Vision workflows with Keras. <img height="20" src="img/keras_big.png" alt="MXNet based">
+* [OpenCV](https://github.com/opencv/opencv) - Open Source Computer Vision Library.
+* [scikit-image](https://github.com/scikit-image/scikit-image) - Image Processing SciKit (Toolbox for SciPy).
+* [imgaug](https://github.com/aleju/imgaug) - Image augmentation for machine learning experiments.
+* [imgaug_extension](https://github.com/cadenai/imgaug_extension) - Additional augmentations for imgaug.
+* [Augmentor](https://github.com/mdbloice/Augmentor) - Image augmentation library in Python for machine learning.
+* [albumentations](https://github.com/albu/albumentations) - Fast image augmentation library and easy-to-use wrapper around other libraries.
 
 ## Reinforcement Learning
 * [Gymnasium](https://github.com/Farama-Foundation/Gymnasium) - An API standard for single-agent reinforcement learning environments, with popular reference environments and related utilities (formerly [Gym](https://github.com/openai/gym)).
@@ -349,59 +401,6 @@
 * [Talos](https://github.com/autonomio/talos) - Hyperparameter Optimization for Keras Models.
 * [nlopt](https://github.com/stevengj/nlopt) - Library for nonlinear optimization (global and local, constrained or unconstrained).
 * [OR-Tools](https://developers.google.com/optimization) - An open-source software suite for optimization by Google; provides a unified programming interface to a half dozen solvers: SCIP, GLPK, GLOP, CP-SAT, CPLEX, and Gurobi.
-
-## Time Series
-* [sktime](https://github.com/alan-turing-institute/sktime) - A unified framework for machine learning with time series. <img height="20" src="img/sklearn_big.png" alt="sklearn">
-* [darts](https://github.com/unit8co/darts) - A python library for easy manipulation and forecasting of time series.
-* [statsforecast](https://github.com/Nixtla/statsforecast) - Lightning fast forecasting with statistical and econometric models.
-* [mlforecast](https://github.com/Nixtla/mlforecast) - Scalable machine learning-based time series forecasting.
-* [neuralforecast](https://github.com/Nixtla/neuralforecast) - Scalable machine learning-based time series forecasting.
-* [tslearn](https://github.com/rtavenar/tslearn) - Machine learning toolkit dedicated to time-series data. <img height="20" src="img/sklearn_big.png" alt="sklearn">
-* [tick](https://github.com/X-DataInitiative/tick) - Module for statistical learning, with a particular emphasis on time-dependent modeling.  <img height="20" src="img/sklearn_big.png" alt="sklearn">
-* [greykite](https://github.com/linkedin/greykite) - A flexible, intuitive, and fast forecasting library next.
-* [Prophet](https://github.com/facebook/prophet) - Automatic Forecasting Procedure.
-* [PyFlux](https://github.com/RJT1990/pyflux) - Open source time series library for Python.
-* [bayesloop](https://github.com/christophmark/bayesloop) - Probabilistic programming framework that facilitates objective model selection for time-varying parameter models.
-* [luminol](https://github.com/linkedin/luminol) - Anomaly Detection and Correlation library.
-* [dateutil](https://dateutil.readthedocs.io/en/stable/) - Powerful extensions to the standard datetime module
-* [maya](https://github.com/timofurrer/maya) - makes it very easy to parse a string and for changing timezones
-* [Chaos Genius](https://github.com/chaos-genius/chaos_genius) - ML powered analytics engine for outlier/anomaly detection and root cause analysis
-
-## Natural Language Processing
-* [torchtext](https://github.com/pytorch/text) - Data loaders and abstractions for text and NLP. <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible">
-* [gluon-nlp](https://github.com/dmlc/gluon-nlp) - NLP made easy. <img height="20" src="img/mxnet_big.png" alt="MXNet based">
-* [KerasNLP](https://github.com/keras-team/keras-nlp) - Modular Natural Language Processing workflows with Keras. <img height="20" src="img/keras_big.png" alt="Keras based/compatible">
-* [spaCy](https://spacy.io/) - Industrial-Strength Natural Language Processing.
-* [NLTK](https://github.com/nltk/nltk) -  Modules, data sets, and tutorials supporting research and development in Natural Language Processing.
-* [CLTK](https://github.com/cltk/cltk) - The Classical Language Toolkik.
-* [gensim](https://radimrehurek.com/gensim/) - Topic Modelling for Humans.
-* [pyMorfologik](https://github.com/dmirecki/pyMorfologik) - Python binding for <a href="https://github.com/morfologik/morfologik-stemming">Morfologik</a>.
-* [skift](https://github.com/shaypal5/skift) - Scikit-learn wrappers for Python fastText. <img height="20" src="img/sklearn_big.png" alt="sklearn">
-* [Phonemizer](https://github.com/bootphon/phonemizer) - Simple text-to-phonemes converter for multiple languages.
-* [flair](https://github.com/zalandoresearch/flair) - Very simple framework for state-of-the-art NLP.
-
-
-## Computer Audition
-* [torchaudio](https://github.com/pytorch/audio) - An audio library for PyTorch. <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible">
-* [librosa](https://github.com/librosa/librosa) - Python library for audio and music analysis.
-* [Yaafe](https://github.com/Yaafe/Yaafe) - Audio features extraction.
-* [aubio](https://github.com/aubio/aubio) - A library for audio and music analysis.
-* [Essentia](https://github.com/MTG/essentia) - Library for audio and music analysis, description, and synthesis.
-* [LibXtract](https://github.com/jamiebullock/LibXtract) - A simple, portable, lightweight library of audio feature extraction functions.
-* [Marsyas](https://github.com/marsyas/marsyas) - Music Analysis, Retrieval, and Synthesis for Audio Signals.
-* [muda](https://github.com/bmcfee/muda) - A library for augmenting annotated audio data.
-* [madmom](https://github.com/CPJKU/madmom) - Python audio and music signal processing library.
-
-## Computer Vision
-* [torchvision](https://github.com/pytorch/vision) - Datasets, Transforms, and Models specific to Computer Vision. <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible">
-* [gluon-cv](https://github.com/dmlc/gluon-cv) - Provides implementations of the state-of-the-art  deep learning models in computer vision. <img height="20" src="img/mxnet_big.png" alt="MXNet based">
-* [KerasCV](https://github.com/keras-team/keras-cv) - Industry-strength Computer Vision workflows with Keras. <img height="20" src="img/keras_big.png" alt="MXNet based">
-* [OpenCV](https://github.com/opencv/opencv) - Open Source Computer Vision Library.
-* [scikit-image](https://github.com/scikit-image/scikit-image) - Image Processing SciKit (Toolbox for SciPy).
-* [imgaug](https://github.com/aleju/imgaug) - Image augmentation for machine learning experiments.
-* [imgaug_extension](https://github.com/cadenai/imgaug_extension) - Additional augmentations for imgaug.
-* [Augmentor](https://github.com/mdbloice/Augmentor) - Image augmentation library in Python for machine learning.
-* [albumentations](https://github.com/albu/albumentations) - Fast image augmentation library and easy-to-use wrapper around other libraries.
 
 ## Statistics
 * [pandas_summary](https://github.com/mouradmourafiq/pandas-summary) - Extension to pandas dataframes describe function. <img height="20" src="img/pandas_big.png" alt="pandas compatible">
