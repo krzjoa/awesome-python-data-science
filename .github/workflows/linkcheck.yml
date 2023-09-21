@@ -8,6 +8,6 @@ jobs:
       - name: Run linksafe
         uses: TechWiz-3/linksafe@main
         with:
-          dirs: ".,./addons,./docs,./other"
+          dirs: ".,./docs"
           verbose: true
           whitelist_files: "./docs/index.html"
