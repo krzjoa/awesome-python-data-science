@@ -31,6 +31,7 @@
 	- [PyTorch](#pytorch)
 	- [TensorFlow](#tensorflow)
 	- [MXNet](#mxnet)
+ 	- [JAX](#jax)
 	- [Others](#others)
 - [Time Series](#time-series)
 - [Natural Language Processing](#natural-language-processing)
