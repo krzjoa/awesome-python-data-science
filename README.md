@@ -176,12 +176,11 @@
 * [jax](https://github.com/google/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more.
 
 ### Others
-* [transformers](https://github.com/huggingface/transformers) - State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
+* [transformers](https://github.com/huggingface/transformers) - State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX. <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible"> <img height="20" src="img/tf_big2.png" alt="sklearn">
 * [Tangent](https://github.com/google/tangent) - Source-to-Source Debuggable Derivatives in Pure Python.
 * [autograd](https://github.com/HIPS/autograd) - Efficiently computes derivatives of numpy code.
-* [Myia](https://github.com/mila-udem/myia) - Deep Learning framework (pre-alpha).
-* [nnabla](https://github.com/sony/nnabla) - Neural Network Libraries by Sony.
 * [Caffe](https://github.com/BVLC/caffe) - A fast open framework for deep learning.
+* [nnabla](https://github.com/sony/nnabla) - Neural Network Libraries by Sony.
 
 ## Time Series
 * [sktime](https://github.com/alan-turing-institute/sktime) - A unified framework for machine learning with time series. <img height="20" src="img/sklearn_big.png" alt="sklearn">
