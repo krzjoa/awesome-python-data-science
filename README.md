@@ -39,6 +39,7 @@
 - [Computer Vision](#computer-vision)
 - [Reinforcement Learning](#reinforcement-learning)
 - [Graph Machine Learning](#graph-machine-learning)
+- [Learning-to-Rank & Recommender Systems](#learning-to-rank-&-recommender-systems)
 - [Probabilistic Graphical Models](#probabilistic-graphical-models)
 - [Probabilistic Methods](#probabilistic-methods)
 - [Model Explanation](#model-explanation)
@@ -277,8 +278,17 @@
 * [GreatX](https://github.com/EdisonLeeeee/GreatX) - A graph reliability toolbox based on PyTorch and PyTorch Geometric (PyG). <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible">
 * [Jraph](https://github.com/google-deepmind/jraph) - A Graph Neural Network Library in Jax.
 
+## Learning-to-Rank & Recommender Systems
+* [LightFM](https://github.com/lyst/lightfm) - A Python implementation of LightFM, a hybrid recommendation algorithm.
+* [Spotlight](https://maciejkula.github.io/spotlight/) - Deep recommender models using PyTorch.
+* [Surprise](https://github.com/NicolasHug/Surprise) - A Python scikit for building and analyzing recommender systems.
+* [RecBole](https://github.com/RUCAIBox/RecBole) - A unified, comprehensive and efficient recommendation library. <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible">
+* [allRank](https://github.com/allegro/allRank) - allRank is a framework for training learning-to-rank neural models based on PyTorch. <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible">
+* [TensorFlow Recommenders](https://github.com/tensorflow/recommenders) - A library for building recommender system models using TensorFlow. <img height="20" src="img/tf_big2.png" alt="TensorFlow"> <img height="20" src="img/keras_big.png" alt="Keras compatible">
+* [TensorFlow Ranking](https://github.com/tensorflow/ranking) - Learning to Rank in TensorFlow. <img height="20" src="img/tf_big2.png" alt="TensorFlow"> 
+
 ## Probabilistic Graphical Models
-* [pomegranate](https://github.com/jmschrei/pomegranate) - Probabilistic and graphical models for Python. <img height="20" src="img/gpu_big.png" alt="GPU accelerated">
+* [pomegranate](https://github.com/jmschrei/pomegranate) - Probabilistic and graphical models for Python. <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible">
 * [pgmpy](https://github.com/pgmpy/pgmpy) - A python library for working with Probabilistic Graphical Models.
 * [pyAgrum](https://agrum.gitlab.io/) - A GRaphical Universal Modeler.
 
