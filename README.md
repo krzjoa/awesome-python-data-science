@@ -553,8 +553,3 @@ Read the <a href=https://github.com/krzjoa/awesome-python-datascience/blob/maste
 
 ## License
 This work is licensed under the Creative Commons Attribution 4.0 International License - [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-
-<div align="center">
-    <a href="other/deprecated.md">Deprecated Libs</a>&nbsp;&nbsp;&nbsp;
-    <a href="other/waiting-room.md">Waiting Room</a>&nbsp;&nbsp;&nbsp;
-<div>
