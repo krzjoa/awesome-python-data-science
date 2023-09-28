@@ -232,6 +232,8 @@
 * [gluon-cv](https://github.com/dmlc/gluon-cv) - Provides implementations of the state-of-the-art  deep learning models in computer vision. <img height="20" src="img/mxnet_big.png" alt="MXNet based">
 * [KerasCV](https://github.com/keras-team/keras-cv) - Industry-strength Computer Vision workflows with Keras. <img height="20" src="img/keras_big.png" alt="MXNet based">
 * [OpenCV](https://github.com/opencv/opencv) - Open Source Computer Vision Library.
+* [Decord](https://github.com/dmlc/decord) - An efficient video loader for deep learning with smart shuffling that's super easy to digest.
+* [MMEngine](https://github.com/open-mmlab/mmengine) - OpenMMLab Foundational Library for Training Deep Learning Models. <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible">
 * [scikit-image](https://github.com/scikit-image/scikit-image) - Image Processing SciKit (Toolbox for SciPy).
 * [imgaug](https://github.com/aleju/imgaug) - Image augmentation for machine learning experiments.
 * [imgaug_extension](https://github.com/cadenai/imgaug_extension) - Additional augmentations for imgaug.
@@ -420,14 +422,14 @@
 ### NLP
 * [pyLDAvis](https://github.com/bmabey/pyLDAvis): Visualize interactive topic model
 
-
 ## Deployment
 * [fastapi](https://fastapi.tiangolo.com/) - Modern, fast (high-performance), a web framework for building APIs with Python
 * [streamlit](https://www.streamlit.io/) - Make it easy to deploy the machine learning model
+* [streamsync](https://github.com/streamsync-cloud/streamsync) - No-code in the front, Python in the back. An open-source framework for creating data apps.
 * [gradio](https://github.com/gradio-app/gradio) - Create UIs for your machine learning model in Python in 3 minutes.
+* [Vizro](https://github.com/mckinsey/vizro) - A toolkit for creating modular data visualization applications.
 * [datapane](https://datapane.com/) - A collection of APIs to turn scripts and notebooks into interactive reports.
 * [binder](https://mybinder.org/) - Enable sharing and execute Jupyter Notebooks
-
 
 
 ## Statistics
@@ -546,6 +548,7 @@
 * [sklearn-porter](https://github.com/nok/sklearn-porter) - Transpile trained scikit-learn estimators to C, Java, JavaScript, and others.
 * [ONNX](https://github.com/onnx/onnx) - Open Neural Network Exchange.
 * [MMdnn](https://github.com/Microsoft/MMdnn) -  A set of tools to help users inter-operate among different deep learning frameworks.
+* [treelite](https://github.com/dmlc/treelite) - Universal model exchange and serialization format for decision tree forests.
 
 ## Contributing
 Contributions are welcome! :sunglasses: </br>
