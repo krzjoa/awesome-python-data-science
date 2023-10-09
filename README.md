@@ -229,6 +229,7 @@
 
 ## Computer Vision
 * [torchvision](https://github.com/pytorch/vision) - Datasets, Transforms, and Models specific to Computer Vision. <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible">
+* [PyTorch3D](https://github.com/facebookresearch/pytorch3d) - PyTorch3D is FAIR's library of reusable components for deep learning with 3D data.
 * [gluon-cv](https://github.com/dmlc/gluon-cv) - Provides implementations of the state-of-the-art  deep learning models in computer vision. <img height="20" src="img/mxnet_big.png" alt="MXNet based">
 * [KerasCV](https://github.com/keras-team/keras-cv) - Industry-strength Computer Vision workflows with Keras. <img height="20" src="img/keras_big.png" alt="MXNet based">
 * [OpenCV](https://github.com/opencv/opencv) - Open Source Computer Vision Library.
