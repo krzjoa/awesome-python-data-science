@@ -251,10 +251,11 @@
 * [Shimmy](https://github.com/Farama-Foundation/Shimmy) - An API conversion tool for popular external reinforcement learning environments.
 * [EnvPool](https://github.com/sail-sg/envpool) - C++-based high-performance parallel environment execution engine (vectorized env) for general RL environments.
 * [RLlib](https://ray.readthedocs.io/en/latest/rllib.html) - Scalable Reinforcement Learning.
+* [Tianshou](https://github.com/thu-ml/tianshou/#comprehensive-functionality) - An elegant PyTorch deep reinforcement learning library. <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible">
 * [Acme](https://github.com/google-deepmind/acme) - A library of reinforcement learning components and agents.
 * [Catalyst-RL](https://github.com/catalyst-team/catalyst-rl) - PyTorch framework for RL research. <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible">
 * [d3rlpy](https://github.com/takuseno/d3rlpy) - An offline deep reinforcement learning library.
-* [Tianshou](https://github.com/thu-ml/tianshou/#comprehensive-functionality) - An elegant PyTorch deep reinforcement learning library. <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible">
+* [DI-engine](https://github.com/opendilab/DI-engine) - OpenDILab Decision AI Engine. <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible">
 * [TF-Agents](https://github.com/tensorflow/agents) - A library for Reinforcement Learning in TensorFlow. <img height="20" src="img/tf_big2.png" alt="TensorFlow">
 * [TensorForce](https://github.com/reinforceio/tensorforce) - A TensorFlow library for applied reinforcement learning. <img height="20" src="img/tf_big2.png" alt="TensorFlow">
 * [TRFL](https://github.com/deepmind/trfl) - TensorFlow Reinforcement Learning. <img height="20" src="img/tf_big2.png" alt="sklearn">
@@ -266,6 +267,7 @@
 * [cleanrl](https://github.com/vwxyzjn/cleanrl) - High-quality single file implementation of Deep Reinforcement Learning algorithms with research-friendly features (PPO, DQN, C51, DDPG, TD3, SAC, PPG).
 * [Machin](https://github.com/iffiX/machin) -  A reinforcement library designed for pytorch. <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible">
 * [SKRL](https://github.com/Toni-SM/skrl) - Modular reinforcement learning library (on PyTorch and JAX) with support for NVIDIA Isaac Gym, Isaac Orbit and Omniverse Isaac Gym. <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible">
+* [Imitation](https://github.com/HumanCompatibleAI/imitation) - Clean PyTorch implementations of imitation and reward learning algorithms. <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible">
 
 ## Graph Machine Learning
 * [pytorch_geometric](https://github.com/rusty1s/pytorch_geometric) - Geometric Deep Learning Extension Library for PyTorch. <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible">
