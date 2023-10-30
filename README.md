@@ -25,7 +25,6 @@
 	- [Imbalanced Datasets](#imbalanced-datasets)
 	- [Random Forests](#random-forests)
 	- [Kernel Methods](#kernel-methods)
-  	- [Extreme Learning Machine](#extreme-learning-machine)
 - [Deep Learning](#deep-learning)
 	- [PyTorch](#pytorch)
 	- [TensorFlow](#tensorflow)
@@ -127,10 +126,6 @@
 * [liquidSVM](https://github.com/liquidSVM/liquidSVM) - An implementation of SVMs.
 * [scikit-rvm](https://github.com/JamesRitchie/scikit-rvm) - Relevance Vector Machine implementation using the scikit-learn API. <img height="20" src="img/sklearn_big.png" alt="sklearn">
 * [ThunderSVM](https://github.com/Xtra-Computing/thundersvm) - A fast SVM Library on GPUs and CPUs. <img height="20" src="img/sklearn_big.png" alt="sklearn"> <img height="20" src="img/gpu_big.png" alt="GPU accelerated">
-
-### Extreme Learning Machine
-* [Python Extreme Learning Machine (ELM)](https://github.com/acba/elm) - A machine learning technique used for classification/regression tasks.
-* [hpelm](https://github.com/akusok/hpelm) - High-performance implementation of Extreme Learning Machines (fast randomized neural networks). <img height="20" src="img/gpu_big.png" alt="GPU accelerated">
 
 ## Deep Learning
 
