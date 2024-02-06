@@ -291,7 +291,8 @@
 * [FlashLight](https://github.com/dlguys/flashlight) - Visualization Tool for your NeuralNetwork.
 * [tensorboard-pytorch](https://github.com/lanpa/tensorboard-pytorch) - Tensorboard for pytorch (and chainer, mxnet, numpy, ...).
 * [mxboard](https://github.com/awslabs/mxboard) - Logging MXNet data for visualization in TensorBoard. <img height="20" src="img/mxnet_big.png" alt="MXNet based">
-
+* [pycaret](https://github.com/pycaret/pycaret) - 
+low-code machine learning that automates the end-to-end workflow of machine learning taskss  
 <a name="rl"></a>
 ## Reinforcement Learning
 * [OpenAI Gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
