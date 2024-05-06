@@ -351,6 +351,8 @@
 <a name="opt"></a>
 ## Optimization
 * [Optuna](https://github.com/optuna/optuna) - A hyperparameter optimization framework.
+* [pymoo](https://github.com/anyoptimization/pymoo) - Multi-objective Optimization in Python.
+* [pycma](https://github.com/CMA-ES/pycma?tab=readme-ov-file) - Python implementation of CMA-ES.
 * [Spearmint](https://github.com/HIPS/Spearmint) - Bayesian optimization.
 * [BoTorch](https://github.com/pytorch/botorch) - Bayesian optimization in PyTorch. <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible">
 * [scikit-opt](https://github.com/guofei9987/scikit-opt) - Heuristic Algorithms for optimization.
