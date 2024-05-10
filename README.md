@@ -343,6 +343,7 @@
 
 ## Genetic Programming
 * [gplearn](https://github.com/trevorstephens/gplearn) - Genetic Programming in Python. <img height="20" src="img/sklearn_big.png" alt="sklearn">
+* [PyGAD](https://github.com/ahmedfgad/GeneticAlgorithmPython) - Genetic Algorithm in Python. <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible"> <img height="20" src="img/keras_big.png" alt="keras">
 * [DEAP](https://github.com/DEAP/deap) - Distributed Evolutionary Algorithms in Python.
 * [karoo_gp](https://github.com/kstaats/karoo_gp) - A Genetic Programming platform for Python with GPU support. <img height="20" src="img/tf_big2.png" alt="sklearn">
 * [monkeys](https://github.com/hchasestevens/monkeys) - A strongly-typed genetic programming framework for Python.
