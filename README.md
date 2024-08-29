@@ -223,6 +223,7 @@
 
 ## Time Series
 * [sktime](https://github.com/alan-turing-institute/sktime) - A unified framework for machine learning with time series. <img height="20" src="img/sklearn_big.png" alt="sklearn">
+* [skforecast](https://github.com/JoaquinAmatRodrigo/skforecast) - Time series forecasting with machine learning models
 * [darts](https://github.com/unit8co/darts) - A python library for easy manipulation and forecasting of time series.
 * [statsforecast](https://github.com/Nixtla/statsforecast) - Lightning fast forecasting with statistical and econometric models.
 * [mlforecast](https://github.com/Nixtla/mlforecast) - Scalable machine learning-based time series forecasting.
