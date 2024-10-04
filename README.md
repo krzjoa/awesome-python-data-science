@@ -512,6 +512,7 @@
 * [deepchecks](https://github.com/deepchecks/deepchecks) - Validation & testing of ML models and data during model development, deployment, and production. <img height="20" src="img/sklearn_big.png" alt="sklearn">
 * [evidently](https://github.com/evidentlyai/evidently) - Evaluate and monitor ML models from validation to production.
 * [TensorFlow Data Validation](https://github.com/tensorflow/data-validation) - Library for exploring and validating machine learning data.
+* [DataComPy](https://github.com/capitalone/datacompy)- A library to compare Pandas, Polars, and Spark data frames. It provides stats and lets users adjust for match accuracy.
 
 ## Evaluation
 * [recmetrics](https://github.com/statisticianinstilettos/recmetrics) - Library of useful metrics and plots for evaluating recommender systems.
