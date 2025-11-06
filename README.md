@@ -425,7 +425,7 @@
 * [Vizro](https://github.com/mckinsey/vizro) - A toolkit for creating modular data visualization applications.
 * [datapane](https://datapane.com/) - A collection of APIs to turn scripts and notebooks into interactive reports.
 * [binder](https://mybinder.org/) - Enable sharing and execute Jupyter Notebooks
-
+* [Deepnote](https://deepnote.com/) - AI native data science notebook platform compatible with Jupyter, featuring real-time collaboration, environment management, and integrations.
 
 ## Statistics
 * [pandas_summary](https://github.com/mouradmourafiq/pandas-summary) - Extension to pandas dataframes describe function. <img height="20" src="img/pandas_big.png" alt="pandas compatible">
