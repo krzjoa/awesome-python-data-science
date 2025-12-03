@@ -512,7 +512,7 @@
 * [AI Fairness 360](https://github.com/IBM/AIF360) - Fairness metrics for datasets and ML models, explanations, and algorithms to mitigate bias in datasets and models.
 
 ## Computations
-* [numpy](http://www.numpy.org/) - The fundamental package needed for scientific computing with Python.
+* [NumPy](https://numpy.org/) - The fundamental package for scientific computing with Python
 * [Dask](https://github.com/dask/dask) - Parallel computing with task scheduling. <img height="20" src="img/pandas_big.png" alt="pandas compatible">
 * [bottleneck](https://github.com/kwgoodman/bottleneck) - Fast NumPy array functions written in C.
 * [CuPy](https://github.com/cupy/cupy) - NumPy-like API accelerated with CUDA.
