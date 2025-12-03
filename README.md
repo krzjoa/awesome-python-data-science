@@ -74,6 +74,7 @@
 ## Machine Learning
 
 ### General Purpose Machine Learning
+* [SciPy](https://scipy.org/) - Fundamental algorithms for scientific computing in Python
 * [scikit-learn](https://scikit-learn.org/stable/) - Machine learning in Python. <img height="20" src="img/sklearn_big.png" alt="sklearn">
 * [PyCaret](https://github.com/pycaret/pycaret) - An open-source, low-code machine learning library in Python.  <img height="20" src="img/R_big.png" alt="R inspired lib">
 * [Shogun](https://github.com/shogun-toolbox/shogun) - Machine learning toolbox.
@@ -512,7 +513,7 @@
 * [AI Fairness 360](https://github.com/IBM/AIF360) - Fairness metrics for datasets and ML models, explanations, and algorithms to mitigate bias in datasets and models.
 
 ## Computations
-* [numpy](https://www.numpy.org/) - The fundamental package needed for scientific computing with Python.
+* [NumPy](https://numpy.org/) - The fundamental package for scientific computing with Python
 * [Dask](https://github.com/dask/dask) - Parallel computing with task scheduling. <img height="20" src="img/pandas_big.png" alt="pandas compatible">
 * [bottleneck](https://github.com/kwgoodman/bottleneck) - Fast NumPy array functions written in C.
 * [CuPy](https://github.com/cupy/cupy) - NumPy-like API accelerated with CUDA.
