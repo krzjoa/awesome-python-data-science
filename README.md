@@ -531,6 +531,7 @@
 * [twitterscraper](https://github.com/taspinar/twitterscraper): Efficient library to scrape Twitter
 
 ## Spatial Analysis
+* [ChatSpatial](https://github.com/cafferychen777/ChatSpatial) - MCP server enabling spatial transcriptomics analysis via natural language. Integrates 60+ methods for spatial domains, deconvolution, cell communication, and trajectory analysis.
 * [GeoPandas](https://github.com/geopandas/geopandas) - Python tools for geographic data. <img height="20" src="img/pandas_big.png" alt="pandas compatible">
 * [PySal](https://github.com/pysal/pysal) - Python Spatial Analysis Library.
 
