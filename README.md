@@ -37,6 +37,7 @@
 - [Time Series](#time-series)
 - [Reinforcement Learning](#reinforcement-learning)
 - [Graph Machine Learning](#graph-machine-learning)
+- [Graph Manipulation](#graph-manipulation)
 - [Learning-to-Rank & Recommender Systems](#learning-to-rank-&-recommender-systems)
 - [Probabilistic Graphical Models](#probabilistic-graphical-models)
 - [Probabilistic Methods](#probabilistic-methods)
@@ -262,6 +263,7 @@
 * [pytorch_geometric_temporal](https://github.com/benedekrozemberczki/pytorch_geometric_temporal) - Temporal Extension Library for PyTorch Geometric. <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible">
 * [PyTorch Geometric Signed Directed](https://github.com/SherylHYX/pytorch_geometric_signed_directed) -  A signed/directed graph neural network extension library for PyTorch Geometric. <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible">
 * [dgl](https://github.com/dmlc/dgl) - Python package built to ease deep learning on graph, on top of existing DL frameworks. <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible"> <img height="20" src="img/tf_big2.png" alt="TensorFlow"> <img height="20" src="img/mxnet_big.png" alt="MXNet based">
+* [GRAPE](https://github.com/AnacletoLAB/grape/tree/main) - GRAPE is a Rust/Python Graph Representation Learning library for Predictions and Evaluations
 * [Spektral](https://github.com/danielegrattarola/spektral) - Deep learning on graphs. <img height="20" src="img/keras_big.png" alt="Keras compatible">
 * [StellarGraph](https://github.com/stellargraph/stellargraph) - Machine Learning on Graphs. <img height="20" src="img/tf_big2.png" alt="TensorFlow">  <img height="20" src="img/keras_big.png" alt="Keras compatible">
 * [Graph Nets](https://github.com/google-deepmind/graph_nets) - Build Graph Nets in Tensorflow. <img height="20" src="img/tf_big2.png" alt="TensorFlow">
@@ -273,6 +275,13 @@
 * [Little Ball of Fur](https://github.com/benedekrozemberczki/littleballoffur) - A library for sampling graph structured data.
 * [GreatX](https://github.com/EdisonLeeeee/GreatX) - A graph reliability toolbox based on PyTorch and PyTorch Geometric (PyG). <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible">
 * [Jraph](https://github.com/google-deepmind/jraph) - A Graph Neural Network Library in Jax.
+  
+
+## Graph Manipulation
+* [Networkx](https://github.com/networkx/networkx) - Network Analysis in Python.
+* [Rustworkx](https://github.com/Qiskit/rustworkx) - A high performance Python graph library implemented in Rust.
+* [graph-tool](https://graph-tool.skewed.de/) - an efficient Python module for manipulation and statistical analysis of graphs (a.k.a. networks).
+* [igraph](https://github.com/igraph/python-igraph) - Python interface for igraph.
 
 ## Learning-to-Rank & Recommender Systems
 * [LightFM](https://github.com/lyst/lightfm) - A Python implementation of LightFM, a hybrid recommendation algorithm.
