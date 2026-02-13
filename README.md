@@ -520,6 +520,7 @@
 * [Metrics](https://github.com/benhamner/Metrics) - Machine learning evaluation metric.
 * [sklearn-evaluation](https://github.com/edublancas/sklearn-evaluation) - Model evaluation made easy: plots, tables, and markdown reports. <img height="20" src="img/sklearn_big.png" alt="sklearn">
 * [AI Fairness 360](https://github.com/IBM/AIF360) - Fairness metrics for datasets and ML models, explanations, and algorithms to mitigate bias in datasets and models.
+* [alibi-detect](https://github.com/SeldonIO/alibi-detect) - Algorithms for outlier, adversarial and drift detection.<img height="20" src="img/alibi-detect.png" alt="sklearn">
 
 ## Computations
 * [NumPy](https://numpy.org/) - The fundamental package for scientific computing with Python
