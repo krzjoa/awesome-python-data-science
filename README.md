@@ -392,6 +392,7 @@
 * [dirty_cat](https://github.com/dirty-cat/dirty_cat) - Machine learning on dirty tabular data (especially: string-based variables for classifcation and regression). <img height="20" src="img/sklearn_big.png" alt="sklearn">
 * [NitroFE](https://github.com/NITRO-AI/NitroFE) - Moving window features. <img height="20" src="img/sklearn_big.png" alt="sklearn">
 * [sk-transformer](https://github.com/chrislemke/sk-transformers) - A collection of various pandas & scikit-learn compatible transformers for all kinds of preprocessing and feature engineering steps <img height="20" src="img/pandas_big.png" alt="pandas compatible">
+* [tubular](https://github.com/azukds/tubular) - Collection of scikit-learn compatible transformers written in [narwhals]( https://github.com/narwhals-dev/narwhals), which can accept either polars/pandas inputs and utilise the chosen library under the hood. <img height="20" src="img/sklearn_big.png" alt="sklearn"><img height="20" src="img/pandas_big.png" alt="pandas compatible">
 
 
 ### Feature Selection
