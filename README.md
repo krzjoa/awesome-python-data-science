@@ -68,6 +68,7 @@
 - [Web Scraping](#web-scraping)
 - [Spatial Analysis](#spatial-analysis)
 - [Quantum Computing](#quantum-computing)
+- [Bioinformatics](#bioinformatics)
 - [Conversion](#conversion)
 - [Contributing](#contributing)
 - [License](#license)
@@ -551,6 +552,9 @@
 * [cirq](https://github.com/quantumlib/Cirq) - A python framework for creating, editing, and invoking Noisy Intermediate Scale Quantum (NISQ) circuits.
 * [PennyLane](https://github.com/XanaduAI/pennylane) - Quantum machine learning, automatic differentiation, and optimization of hybrid quantum-classical computations.
 * [QML](https://github.com/qmlcode/qml) - A Python Toolkit for Quantum Machine Learning.
+
+## Bioinformatics
+* [dna-claude-analysis](https://github.com/shmlkv/dna-claude-analysis) - Personal genome analysis toolkit with Python scripts analyzing raw DNA data across 17 categories (health risks, ancestry, pharmacogenomics, nutrition, psychology, etc.) and generating a terminal-style single-page HTML visualization.
 
 ## Conversion
 * [sklearn-porter](https://github.com/nok/sklearn-porter) - Transpile trained scikit-learn estimators to C, Java, JavaScript, and others.
