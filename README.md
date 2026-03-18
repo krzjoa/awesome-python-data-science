@@ -275,7 +275,7 @@
 * [Little Ball of Fur](https://github.com/benedekrozemberczki/littleballoffur) - A library for sampling graph structured data.
 * [GreatX](https://github.com/EdisonLeeeee/GreatX) - A graph reliability toolbox based on PyTorch and PyTorch Geometric (PyG). <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible">
 * [Jraph](https://github.com/google-deepmind/jraph) - A Graph Neural Network Library in Jax.
-* [trl](https://github.com/huggingface/trl) - Train transformer language models with reinforcement learning.
+* [TRL](https://github.com/huggingface/trl) - Train transformer language models with reinforcement learning.
   
 
 ## Graph Manipulation
