@@ -487,6 +487,7 @@
 * [cleanlab](https://github.com/cleanlab/cleanlab) - The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.
 * [snorkel](https://github.com/snorkel-team/snorkel) - A system for quickly generating training data with weak supervision.
 * [dataprep](https://github.com/sfu-db/dataprep) - Collect, clean, and visualize your data in Python with a few lines of code.
+* [latamdata-py](https://github.com/juanmoisesd/latamdata-py) - One-line access to 38 open research datasets from Latin America (health, neuroscience, mental health, economics). Real-world data for research and ML.
 
 ### Synthetic Data
 
