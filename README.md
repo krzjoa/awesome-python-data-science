@@ -566,3 +566,12 @@ Read the <a href=https://github.com/krzjoa/awesome-python-datascience/blob/maste
 
 ## License
 This work is licensed under the Creative Commons Attribution 4.0 International License - [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
+## How to Cite
+
+If you use this repository in your research, please cite:
+
+> de la Serna, J. M. (2026). *Awesome Python Data Science*. Universidad Internacional de La Rioja (UNIR).
+> https://github.com/juanmoisesd/awesome-python-data-science 
+
+See `CITATION.cff` for formatted references.
