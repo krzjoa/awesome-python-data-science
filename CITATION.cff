@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software or dataset, please cite it as below."
+type: software
+authors:
+  - family-names: "de la Serna"
+    given-names: "Juan Moisés"
+    orcid: "https://orcid.org/0000-0002-8401-8018"
+    affiliation: "Universidad Internacional de La Rioja (UNIR)"
+title: "awesome-python-data-science"
+version: "1.0.0"
+date-released: "2026-04-06"
+url: "https://github.com/juanmoisesd/awesome-python-data-science"

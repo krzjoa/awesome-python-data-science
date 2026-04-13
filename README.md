@@ -484,6 +484,7 @@
 * [cleanlab](https://github.com/cleanlab/cleanlab) - The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.
 * [snorkel](https://github.com/snorkel-team/snorkel) - A system for quickly generating training data with weak supervision.
 * [dataprep](https://github.com/sfu-db/dataprep) - Collect, clean, and visualize your data in Python with a few lines of code.
+* [latamdata-py](https://github.com/juanmoisesd/latamdata-py) - One-line access to 38 open research datasets from Latin America (health, neuroscience, mental health, economics). Real-world data for research and ML.
 
 ### Synthetic Data
 
@@ -562,3 +563,12 @@ Read the <a href=https://github.com/krzjoa/awesome-python-datascience/blob/maste
 
 ## License
 This work is licensed under the Creative Commons Attribution 4.0 International License - [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
+## How to Cite
+
+If you use this repository in your research, please cite:
+
+> de la Serna, J. M. (2026). *Awesome Python Data Science*. Universidad Internacional de La Rioja (UNIR).
+> https://github.com/juanmoisesd/awesome-python-data-science 
+
+See `CITATION.cff` for formatted references.
