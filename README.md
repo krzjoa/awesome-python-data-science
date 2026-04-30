@@ -224,6 +224,7 @@
 * [greykite](https://github.com/linkedin/greykite) - A flexible, intuitive, and fast forecasting library next.
 * [Prophet](https://github.com/facebook/prophet) - Automatic Forecasting Procedure.
 * [PyFlux](https://github.com/RJT1990/pyflux) - Open source time series library for Python.
+* [DeepAlpha](https://github.com/stefanoviana/deepalpha) - AI crypto trading framework using LightGBM + XGBoost ensemble for time series prediction. <img height="20" src="img/sklearn_big.png" alt="sklearn">
 * [bayesloop](https://github.com/christophmark/bayesloop) - Probabilistic programming framework that facilitates objective model selection for time-varying parameter models.
 * [luminol](https://github.com/linkedin/luminol) - Anomaly Detection and Correlation library.
 * [dateutil](https://dateutil.readthedocs.io/en/stable/) - Powerful extensions to the standard datetime module
