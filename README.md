@@ -186,6 +186,7 @@
 * [skift](https://github.com/shaypal5/skift) - Scikit-learn wrappers for Python fastText. <img height="20" src="img/sklearn_big.png" alt="sklearn">
 * [Phonemizer](https://github.com/bootphon/phonemizer) - Simple text-to-phonemes converter for multiple languages.
 * [flair](https://github.com/zalandoresearch/flair) - Very simple framework for state-of-the-art NLP.
+* [chunktuner](https://github.com/shantanu-deshmukh/chunktuner) - Library and CLI to benchmark document chunking strategies for retrieval-augmented generation and recommend configurations using retrieval metrics.
 
 ## Computer Audition
 * [torchaudio](https://github.com/pytorch/audio) - An audio library for PyTorch. <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible">
