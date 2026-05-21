@@ -187,6 +187,7 @@
 * [Phonemizer](https://github.com/bootphon/phonemizer) - Simple text-to-phonemes converter for multiple languages.
 * [flair](https://github.com/zalandoresearch/flair) - Very simple framework for state-of-the-art NLP.
 
+* [AI Models Catalog](https://github.com/i-need-token/ai-models) - Structured database of 4,587+ AI models across 95 providers with pricing, context windows, and capabilities. Machine-readable YAML with TypeScript types and Zod validation. [Interactive catalog](https://i-need-token.github.io/ai-models/)
 ## Computer Audition
 * [torchaudio](https://github.com/pytorch/audio) - An audio library for PyTorch. <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible">
 * [librosa](https://github.com/librosa/librosa) - Python library for audio and music analysis.
