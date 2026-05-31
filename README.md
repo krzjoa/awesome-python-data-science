@@ -189,6 +189,7 @@
 
 ## Computer Audition
 * [torchaudio](https://github.com/pytorch/audio) - An audio library for PyTorch. <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible">
+* [FunASR](https://github.com/modelscope/FunASR) - Industrial-grade speech recognition toolkit. Supports 50+ languages, streaming ASR, VAD, punctuation, speaker diarization, and emotion detection. <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible">
 * [librosa](https://github.com/librosa/librosa) - Python library for audio and music analysis.
 * [Yaafe](https://github.com/Yaafe/Yaafe) - Audio features extraction.
 * [aubio](https://github.com/aubio/aubio) - A library for audio and music analysis.
