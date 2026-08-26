@@ -416,6 +416,7 @@
 * [Altair](https://altair-viz.github.io/) - Declarative statistical visualization library for Python. Can easily do many data transformation within the code to create graph
 * [bqplot](https://github.com/bqplot/bqplot) - Plotting library for IPython/Jupyter notebooks
 * [pyecharts](https://github.com/pyecharts/pyecharts) - Migrated from [Echarts](https://github.com/apache/echarts), a charting and visualization library, to Python's interactive visual drawing library.<img height="20" src="img/pyecharts.png" alt="pyecharts"> <img height="20" src="img/echarts.png" alt="echarts">
+* [FlexViz](https://github.com/flex-analytics/flexviz) - Interactive, cross-filtered dashboards on datasets too large to send to the browser; every zoom and selection is answered by a lazy Polars aggregation.
 ### Map
 * [folium](https://python-visualization.github.io/folium/quickstart.html#Getting-Started) - Makes it easy to visualize data on an interactive open street map
 * [geemap](https://github.com/giswqs/geemap) - Python package for interactive mapping with Google Earth Engine (GEE)
