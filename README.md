@@ -452,6 +452,7 @@
 
 ### Data Frames
 * [pandas](https://pandas.pydata.org/pandas-docs/stable/) - Powerful Python data analysis toolkit.
+* [DuckDB](https://duckdb.org/) - An in-process SQL OLAP database management system. Provides a Python API with zero-copy integration with pandas and Apache Arrow for fast analytical queries on DataFrames.
 * [polars](https://github.com/pola-rs/polars) - A fast multi-threaded, hybrid-out-of-core DataFrame library.
 * [Arctic](https://github.com/manahl/arctic) - High-performance datastore for time series and tick data.
 * [datatable](https://github.com/h2oai/datatable) - Data.table for Python. <img height="20" src="img/R_big.png" alt="R inspired/ported lib">
@@ -563,3 +564,4 @@ Read the <a href=https://github.com/krzjoa/awesome-python-datascience/blob/maste
 
 ## License
 This work is licensed under the Creative Commons Attribution 4.0 International License - [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
