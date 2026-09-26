@@ -229,6 +229,7 @@
 * [dateutil](https://dateutil.readthedocs.io/en/stable/) - Powerful extensions to the standard datetime module
 * [maya](https://github.com/timofurrer/maya) - makes it very easy to parse a string and for changing timezones
 * [Chaos Genius](https://github.com/chaos-genius/chaos_genius) - ML powered analytics engine for outlier/anomaly detection and root cause analysis
+* [PySAD](https://github.com/selimfirat/pysad) - Anomaly detection on streaming data with online detectors, evaluators, and calibrators.
 
 ## Reinforcement Learning
 * [Gymnasium](https://github.com/Farama-Foundation/Gymnasium) - An API standard for single-agent reinforcement learning environments, with popular reference environments and related utilities (formerly [Gym](https://github.com/openai/gym)).
