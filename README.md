@@ -174,6 +174,7 @@
 * [AutoGluon](https://github.com/awslabs/autogluon) - AutoML for Image, Text, Tabular, Time-Series, and MultiModal Data.
 * [TPOT](https://github.com/rhiever/tpot) - AutoML tool that optimizes machine learning pipelines using genetic programming. <img height="20" src="img/sklearn_big.png" alt="sklearn">
 * [MLBox](https://github.com/AxeldeRomblay/MLBox) - A powerful Automated Machine Learning python library.
+* [ds-agent-playbook](https://github.com/udbhav-shrinet/ds-agent-playbook) - Autonomous, zero-bloat recipes for Data Science pipelines: automated EDA, data cleansing, and feature hypothesis synthesis powered by Polars & DuckDB.
 
 ## Natural Language Processing
 * [torchtext](https://github.com/pytorch/text) - Data loaders and abstractions for text and NLP. <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible">
