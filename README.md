@@ -533,6 +533,7 @@
 * [quaternion](https://github.com/moble/quaternion) - Add built-in support for quaternions to numpy.
 * [adaptive](https://github.com/python-adaptive/adaptive) - Tools for adaptive and parallel samping of mathematical functions.
 * [NumExpr](https://github.com/pydata/numexpr) - A fast numerical expression evaluator for NumPy that comes with an integrated computing virtual machine to speed calculations up by avoiding memory allocation for intermediate results.
+* [xad](https://github.com/auto-differentiation/xad-py) - Fast automatic differentiation in forward and adjoint mode, backed by a C++ library.
 
 ## Web Scraping
 * [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/): The easiest library to scrape static websites for beginners
