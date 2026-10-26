@@ -409,6 +409,7 @@
 * [missingno](https://github.com/ResidentMario/missingno) - Missing data visualization module for Python.
 * [chartify](https://github.com/spotify/chartify/) - Python library that makes it easy for data scientists to create charts.
 * [physt](https://github.com/janpipek/physt) - Improved histograms.
+* [FantasticFractals](https://github.com/QuantumTechCoder/FantasticFractals) - Vectorized fractal generation and box-counting dimension analysis library. 
 ### Interactive plots
 * [animatplot](https://github.com/t-makaro/animatplot) - A python package for animating plots built on matplotlib.
 * [plotly](https://plot.ly/python/) - A Python library that makes interactive and publication-quality graphs.
