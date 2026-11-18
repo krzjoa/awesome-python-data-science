@@ -515,6 +515,7 @@
 * [evidently](https://github.com/evidentlyai/evidently) - Evaluate and monitor ML models from validation to production.
 * [TensorFlow Data Validation](https://github.com/tensorflow/data-validation) - Library for exploring and validating machine learning data.
 * [DataComPy](https://github.com/capitalone/datacompy)- A library to compare Pandas, Polars, and Spark data frames. It provides stats and lets users adjust for match accuracy.
+* [tracemodel](https://github.com/datayoga-io/tracemodel) - Declared checks and traced formulas for financial models, with a source on each number.
 
 ## Evaluation
 * [recmetrics](https://github.com/statisticianinstilettos/recmetrics) - Library of useful metrics and plots for evaluating recommender systems.
